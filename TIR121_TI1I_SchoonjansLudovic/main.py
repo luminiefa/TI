@@ -1,12 +1,14 @@
 import model
 from model import *
 
-path = "C:\\Users\ludov\OneDrive\Code\python\projectEcole\log\logs.txt"
+
+path = "C:\\Users\ludov\OneDrive\Code\github\TI\TIR121_TI1I_SchoonjansLudovic\log\logs.txt"
 
 logs = model.lines_from_file(path)
 
-
-
+print("hello")
+test = suspects(logs, 3)
+print(test)
 #a = logs_by_day(logs, "Oct 28")
 
 #b = formated_date("Oct 28 12:40:20")
@@ -16,8 +18,9 @@ logs = model.lines_from_file(path)
 c = logs_between(logs, "10:28 00:00:00", "10:29 00:00:00")
 print(c)
     """
-d = logs_with_tag(logs, "org")
-print(d)
+#d = logs_with_tag(logs, "org")
+#print(d)
+
 #(good)
 """
 for log in logs:
