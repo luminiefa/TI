@@ -1,3 +1,4 @@
+"""Accueil les fonctions"""
 def lines_from_file(path):
     """ Pre : path (str) est le chemin menant au fichier à lire
     (à partir du dossier courant)
@@ -10,7 +11,7 @@ def lines_from_file(path):
             return log
     except Exception as e :
         print(e)
-        return 
+        return
 
 def get_host(line):
     """ Pre : line est une ligne de log bien formée (str)
@@ -149,8 +150,6 @@ def formated_date(date):
         numero_mois = "11"
     elif mois == "Dec":
         numero_mois = "12"
-    else:
-        print("erreur")
     # Retourne le numéro du mois, le jour et l'heure
     return numero_mois + ":" + split[1] + " " + split[2]
 
