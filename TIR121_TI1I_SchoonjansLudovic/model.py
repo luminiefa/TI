@@ -1,5 +1,7 @@
+
 """Accueil les fonctions"""
 def lines_from_file(path):
+    #test modif
     """ Pre : path (str) est le chemin menant au fichier à lire
     (à partir du dossier courant)
     Post : Retourne une liste où chaque élément est une ligne du fichier.
