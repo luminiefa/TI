@@ -1,4 +1,4 @@
-from ex import *
+from Animal import *
 from Voiture import *
 chien = Animal("médor", "labrador", 50, "02/03/2023")
 chat = Animal("catou", "siamois", 5, "01/03/2023")
