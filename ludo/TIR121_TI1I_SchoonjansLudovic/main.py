@@ -2,7 +2,7 @@ import model
 from model import *
 
 
-path = "C:\\Users\ludov\OneDrive\Code\github\TI\TIR121_TI1I_SchoonjansLudovic\log\logs.txt"
+path = "ludo/TIR121_TI1I_SchoonjansLudovic/log/logs.txt"
 
 logs = model.lines_from_file(path)
 
