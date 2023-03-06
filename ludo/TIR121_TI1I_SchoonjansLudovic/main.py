@@ -1,6 +1,6 @@
 import model
 from model import *
-
+#test
 
 path = "ludo/TIR121_TI1I_SchoonjansLudovic/log/logs.txt"
 
