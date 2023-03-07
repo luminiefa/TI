@@ -9,4 +9,4 @@ chat.afficher_résumé()
 merco = Voiture("john", 55555555, 3434343434343)
 audi = Voiture("Marie", 22222222, 11111111)
 
-print(merco)
+print(merco.immatriculation)
