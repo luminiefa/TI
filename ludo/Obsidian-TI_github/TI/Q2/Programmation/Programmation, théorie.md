@@ -40,4 +40,5 @@ Université
 
 
 C. Traduire des classes en python
-test
+test image
+![[1000000995.jpg]]
