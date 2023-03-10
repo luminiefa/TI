@@ -1,3 +1,4 @@
+test from tablette
 1:
 dans la programmation procédurale l'ordre d'exécution suite un ordre normal tandis
 que dans la programmation OO il n'y a pas vraiment un ordre d'exécution
