@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "02d9b49dd3e67a2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "78db0330b1ad643f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25238069b3763941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q2/Programmation/Programmation, labo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb89bcc7d7b69dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64104716d1874304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7743a9e939249942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17ea70183b251716",
+    "type": "split",
+    "children": [
+      {
+        "id": "39a868d6c6b7e0fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb47fe3823a9114e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07cd3f3671f35c0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "816b55970023908a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e52ddec01b5f7540",
+    "type": "split",
+    "children": [
+      {
+        "id": "136a685e9b054cbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c2ed4cbc70e0a77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Q2/Programmation/Programmation, labo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ace9a2a118cadf5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Q2/Programmation/Programmation, labo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31a4e300bed67836",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f2e17a0356f4525",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Q2/Programmation/Programmation, labo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Créer une nouvelle toile": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "25238069b3763941",
+  "lastOpenFiles": [
+    "Q2/Programmation/Programmation, théorie.md",
+    "Q2/Programmation/Programmation, labo.md",
+    "Sans titre.canvas",
+    "Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
+    "Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
+    "telecommunication_230213_104944.pdf",
+    "Systèmes informatiques.md",
+    "Q2/Télécommunication.md",
+    "transmission 2_230217_144525.pdf",
+    "2023-02-18.md",
+    "Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
+    "Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+    "Q2/Langues étrangères/Langues étrangères 1-Q2.md"
+  ]
+}

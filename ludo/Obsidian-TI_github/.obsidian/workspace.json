@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "b0dbf93f150b8eee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9556f0b7f221f15d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d83e25417913de47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TI/Q2/Programmation/Programmation, théorie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66eb1e88f08cc949",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef15ff952434b339",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "691668d49734bd05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eede717315a7600d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d96113fc53d14c9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ccab9b8f083b2ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cddcbe0521f5045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af0f6692d4534777",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TI/Q2/Programmation/Programmation, théorie.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "542c807a77e09172",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TI/Q2/Programmation/Programmation, théorie.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67619a8674703ed1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b821030b0abaa281",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TI/Q2/Programmation/Programmation, théorie.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "d83e25417913de47",
+  "lastOpenFiles": []
+}
