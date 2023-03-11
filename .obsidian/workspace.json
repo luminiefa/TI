@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md"
+                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md"
               }
             }
           }
@@ -147,19 +147,24 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "4cb8cde8cfd0acbf",
+  "active": "ccf966f9e5578e35",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Electro applique_230213_122636 (1).pdf",
-    "ludo/Obsidian-TI_github/TI/telecommunication_230213_104944.pdf",
+    "ludo/Obsidian-TI_github/TI/Q1",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/transmission 2_230217_144525.pdf",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Electro applique_230213_122636 (1).pdf",
+    "ludo/Obsidian-TI_github/TI/Pasted image/telecommunication_230213_104944.pdf",
+    "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, théorie.md",
     "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, labo.md",
     "ludo/Obsidian-TI_github/1000000995.jpg",
-    "ludo/Obsidian-TI_github/TI/transmission 2_230217_144525.pdf",
     "ludo/Obsidian-TI_github/transmission 2_230217_144525.pdf",
     "ludo/Obsidian-TI_github/telecommunication_230213_104944.pdf",
-    "ludo/Obsidian-TI_github/TI/Systèmes informatiques.md",
     "ludo/Obsidian-TI_github/Systèmes informatiques.md",
     "ludo/Obsidian-TI_github/Electro applique_230213_122636 (1).pdf",
     "Sans titre 1.canvas",
