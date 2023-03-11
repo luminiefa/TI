@@ -11,11 +11,9 @@
             "id": "4cb8cde8cfd0acbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
-                "mode": "source",
-                "source": false
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/BD LABO_230303_101419 (1).pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/BD LABO_230303_101419 (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/BD LABO_230303_101419 (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/BD LABO_230303_101419 (1).pdf"
               }
             }
           }
@@ -149,21 +147,29 @@
   },
   "active": "ccf966f9e5578e35",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Q1",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
-    "ludo/Obsidian-TI_github/TI/Pasted image/transmission 2_230217_144525.pdf",
+    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/electro_230308_093000 (1).pdf",
+    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/reseaux_230306_164028.pdf",
+    "ludo/Obsidian-TI_github/TI/Pasted image/reseaux_230303_112714 (1).pdf",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
+    "ludo/Obsidian-TI_github/TI/Q1",
+    "ludo/Obsidian-TI_github/TI/Pasted image/transmission 2_230217_144525.pdf",
     "ludo/Obsidian-TI_github/TI/Pasted image/Electro applique_230213_122636 (1).pdf",
     "ludo/Obsidian-TI_github/TI/Pasted image/telecommunication_230213_104944.pdf",
-    "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, théorie.md",
     "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, labo.md",
     "ludo/Obsidian-TI_github/1000000995.jpg",
-    "ludo/Obsidian-TI_github/transmission 2_230217_144525.pdf",
+    "ludo/Obsidian-TI_github/TI/Pasted image/transmission 2_230217_144525 1.pdf",
     "ludo/Obsidian-TI_github/telecommunication_230213_104944.pdf",
     "ludo/Obsidian-TI_github/Systèmes informatiques.md",
     "ludo/Obsidian-TI_github/Electro applique_230213_122636 (1).pdf",
