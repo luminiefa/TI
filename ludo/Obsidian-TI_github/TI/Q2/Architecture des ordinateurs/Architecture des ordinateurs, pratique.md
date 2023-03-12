@@ -1,3 +1,8 @@
+Manip TrueNAS:
+
+Création des datasets (plus d'infos sur  gestion des permissions --> [[Systèmes d'exploitation, labo]] )
+
+
 TFTP :  
 TFTP (pour Trivial File Transfer Protocol ou protocole simplifié de transfert de fichiers)
 - Il fonctionne en UDP sur le port 69
@@ -5,6 +10,9 @@ TFTP (pour Trivial File Transfer Protocol ou protocole simplifié de transfert d
 - Les principales simplifications visibles du TFTP par rapport au FTP sont qu'il ne gère pas le listage de fichiers, et ne dispose pas de mécanismes d'authentification, ni de chiffrement. Il faut connaître à l'avance le nom du fichier que l'on veut récupérer. De même, aucune notion de droits de lecture/écriture n'est disponible en standard.
 - TFTP est un protocole lent, car il nécessite un paquet ACK (accusé de réception) pour chaque bloc de données qui sont envoyées. Le serveur n'envoie pas le bloc suivant dans la séquence jusqu'à ce que le paquet ACK pour le bloc précédent soit reçu. En conséquence, le cycle complet, sur un réseau lent, peut être extrêmement long.
 PXE : (sigle de Pre-boot eXecution Environment)
+
+
+
 
 Manipulation 3 - Récupération des mots de passe et planification de tâches
 Pour réaliser cette opération, on va devoir entrer une suite de  
