@@ -11,11 +11,9 @@
             "id": "1b3ba0cb8db4eb80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
-                "mode": "source",
-                "source": false
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png"
               }
             }
           }
@@ -85,14 +83,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,9 +100,29 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
-                "linksCollapsed": false,
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3423f970242abe5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png"
+              }
+            }
+          },
+          {
+            "id": "88dbafabd607d656",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png"
               }
             }
           },
@@ -120,21 +138,21 @@
             }
           },
           {
-            "id": "2999d39da2d2bb54",
+            "id": "91c56836cd6e40bd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,35 +164,37 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1b3ba0cb8db4eb80",
+  "active": "ccf966f9e5578e35",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315113737.png",
-    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114611.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114557.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114541.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114531.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114516.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114449.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114348.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114308.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114251.png",
-    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Laboratoire des sciences appliquées à l'informatique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124418.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124138.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124115.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124047.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124027.png",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, théorie.md",
     "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
+    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315121908.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315121851.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315121836.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315121808.png",
+    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Laboratoire des sciences appliquées à l'informatique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/BD LABO_230303_101419 (1).pdf",
     "ludo/Obsidian-TI_github/TI/Pasted image/electro_230308_093000 (1).pdf",
     "ludo/Obsidian-TI_github/TI/Pasted image/reseaux_230306_164028.pdf",
@@ -189,8 +209,6 @@
     "ludo/Obsidian-TI_github/Systèmes informatiques.md",
     "Sans titre 1.canvas",
     "Sans titre.canvas",
-    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
-    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
     "ludo/Obsidian-TI_github/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
     "ludo/Obsidian-TI_github/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
     "ludo/Obsidian-TI_github/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",

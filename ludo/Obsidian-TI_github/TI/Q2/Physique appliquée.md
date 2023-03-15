@@ -1,2 +1,439 @@
+- [[#CHAPITRE 1 : LES UNITÉS DE BASE|CHAPITRE 1 : LES UNITÉS DE BASE]]
+	- [[#CHAPITRE 1 : LES UNITÉS DE BASE#2. Le système international (SI)|2. Le système international (SI)]]
+		- [[#2. Le système international (SI)#Le mètre|Le mètre]]
+		- [[#2. Le système international (SI)#La seconde|La seconde]]
+		- [[#2. Le système international (SI)#Le kilogramme|Le kilogramme]]
+		- [[#2. Le système international (SI)#L’ampère|L’ampère]]
+		- [[#2. Le système international (SI)#Le kelvin|Le kelvin]]
+		- [[#2. Le système international (SI)#La mole|La mole]]
+		- [[#2. Le système international (SI)#La candela|La candela]]
+	- [[#CHAPITRE 1 : LES UNITÉS DE BASE#2. Ordre de grandeur|2. Ordre de grandeur]]
+		- [[#2. Ordre de grandeur#Quizz|Quizz]]
+- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE|CHAPITRE 2: NOTIONS DE MÉCANIQUE]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#1. Introduction|1. Introduction]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Exemple : le vecteur déplacement|Exemple : le vecteur déplacement]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Addition géométrique des vecteurs|Addition géométrique des vecteurs]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Composantes des vecteurs|Composantes des vecteurs]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#La multiplication des vecteurs|La multiplication des vecteurs]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#2. Forces et lois du mouvement|2. Forces et lois du mouvement]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Les trois lois de Newton|Les trois lois de Newton]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Quelques types de forces|Quelques types de forces]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#3. L’énergie|3. L’énergie]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Pas une mais des énergies|Pas une mais des énergies]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Le travail|Le travail]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#1er cas : Energie cinétique|1er cas : Energie cinétique]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#2ème cas : l’énergie potentielle|2ème cas : l’énergie potentielle]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Conservation de l’énergie|Conservation de l’énergie]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Pertes d’énergie|Pertes d’énergie]]
+	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#4. La puissance|4. La puissance]]
+- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE|CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#1. Introduction|1. Introduction]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Limitations des lois de l’optique géométrique :|Limitations des lois de l’optique géométrique :]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Indice de réfraction|Indice de réfraction]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#2. Les lois de Snell-Descartes|2. Les lois de Snell-Descartes]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Première loi de Snell-Descartes (loi sur le plan|Première loi de Snell-Descartes (loi sur le plan]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Deuxième loi de Snell-Descartes (loi sur la réflexion)|Deuxième loi de Snell-Descartes (loi sur la réflexion)]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Troisième loi de Snell-Descartes (loi sur la réfraction)|Troisième loi de Snell-Descartes (loi sur la réfraction)]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Loi du retour inverse de la lumière|Loi du retour inverse de la lumière]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Interprétation qualitative de la 3ème loi de Snell-  Descartes|Interprétation qualitative de la 3ème loi de Snell-  Descartes]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#3. Réflexion totale|3. Réflexion totale]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#4. La fibre optique|4. La fibre optique]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Profil à saut d’indice|Profil à saut d’indice]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Profil à gradient d’indice|Profil à gradient d’indice]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Types de fibres optiques|Types de fibres optiques]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Multimode à saut d'indice|Multimode à saut d'indice]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Multimode à gradient d'indice|Multimode à gradient d'indice]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Fibre monomode|Fibre monomode]]
+	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Exercices|Exercices]]
 
 ![[Physique_230302_101742.pdf]]
+
+# CHAPITRE 1 : LES UNITÉS DE BASE
+## 2. Le système international (SI)
+![[Pasted image 20230315115356.png]]
+### Le mètre
+![[Pasted image 20230315115428.png]]
+### La seconde
+![[Pasted image 20230315115447.png]]
+### Le kilogramme
+![[Pasted image 20230315115510.png]]
+### L’ampère
+![[Pasted image 20230315115533.png]]
+### Le kelvin
+![[Pasted image 20230315115555.png]]
+### La mole
+![[Pasted image 20230315115613.png]]
+### La candela
+![[Pasted image 20230315115630.png]]
+## 2. Ordre de grandeur
+![[Pasted image 20230315115653.png]]
+### Quizz
+• Sachant que la vitesse de la lumière est d’environ 300 000 km/s  
+et qu’un rayon du soleil atteint la terre environ 8 min, calculez, la  
+distance terre-soleil ?  
+• Quels sont les 7 unités du système international ? Quelles  
+grandeurs mesurent ils ?  
+• Supposons que nous sommes en présence d’un laser de 3  
+petawatts, exprimez cette puissance en gigawatt et en watt
+• La formule d’équivalence masse – énergie a été légèrement modifié. Celle-ci  
+est donné par :  
+𝐸2 = 𝑚2𝑐4 + 𝑝2𝑋  
+avec 𝐸 représente l’énergie et s’exprime en joules  
+𝑚 représente la masse et s’exprime en kilogrammes  
+𝑐 représente la vitesse de la lumière dans le vide  
+𝑝 représente la quantité de mouvement et s’exprime en Newton seconde  
+• Retrouvez sous quelles unités du Système Internationale s’exprime X
+
+# CHAPITRE 2: NOTIONS DE MÉCANIQUE
+## 1. Introduction
+• Vecteurs et scalaires :  
+– Un vecteur est caractérisé par une intensité, un sens et une  
+direction, et est soumis aux règles de l’algèbre vectorielle (ex :  
+déplacement, vitesse, accélération,...)  
+– Un scalaire ne possède pas de direction et est soumis aux  
+règles de l’algèbre ordinaire (ex: température, pression,...)
+## Exemple : le vecteur déplacement
+![[Pasted image 20230315120106.png]]
+## Addition géométrique des vecteurs
+![[Pasted image 20230315120131.png]]
+## Composantes des vecteurs
+![[Pasted image 20230315120157.png]]
+## La multiplication des vecteurs
+![[Pasted image 20230315120216.png]]
+## 2. Forces et lois du mouvement
+• Toute variation sur le vecteur de la vitesse (direction ou  
+intensité) est la conséquence d’une action d’un corps sur  
+un autre.  
+• Une force est donc définie comme une interaction  
+permettant de modéliser l’action d’un corps sur un autre  
+Comme par exemple le mouvement d’un corps (effet  
+dynamique) ou de le déformer (effet statique)
+![[Pasted image 20230315120245.png]]
+## Les trois lois de Newton
+![[Pasted image 20230315120307.png]]
+## Quelques types de forces
+• La force gravitationnelle 𝐹𝑔 peut se définir comme l’attraction d’un corps en  
+direction d’un autre corps  
+• Le poids P d’un corps peut se définir comme le module de la force requise  
+afin que son accélération mesurée par rapport au sol soit nulle.  
+	– Point d'application: centre de gravité du corps  
+	– Direction: verticale  
+	– Sens : vers le centre de la Terre  
+	– Intensité: F = m.g (N) (g = 9,81 m/s² est une constante liée à l’attraction terrestre)  
+• Le frottement se produit lorsqu’on fait glisser un corps sur une surface, il y’a  
+une résistance au mouvement à cause des liaisons entre le corps et la  
+surface. Cette force est toujours orienté le long de la surface et son sens est  
+toujours opposé au mouvement relatif des deux objets.
+## 3. L’énergie
+• Les lois de Newton permettent d’analyser de nombreux types de mouvements.  
+Cependant, l’analyse est parfois trop complexe et requiert beaucoup de  
+renseignements.  
+• Il existe une autre méthode, parfois plus efficace, pour analyser le mouvement.  
+Et cette méthode peut être appliquée à des situations liées à d’autres  
+domaines. Cette méthode tient compte de l’énergie qui se présente sous un  
+grand nombre de formes et de types.  
+• L’énergie est une quantité scalaire associée à l’état (ou à la situation d’un ou de  
+plusieurs objets)
+![[Pasted image 20230315120415.png]]
+## Pas une mais des énergies
+• Existence de nombreuses formes d'énergie : L'énergie cinétique est une forme  
+d'énergie liée au mouvement d'un corps. La combustion, quant à elle, permet de  
+récupérer l'énergie potentielle chimique contenue dans un combustible. Les  
+panneaux solaires captent l'énergie lumineuse pour la transformer en énergie  
+électrique.  
+• Classement en fonction de la source : On peut parler des énergies fossiles –  
+(charbon ou du pétrole),de l'énergie nucléaire - qui provient de réactions  
+nucléaires -, ou encore des énergies renouvelables, qui sont naturellement  
+régénérées comme l'énergie solaire ou l'énergie éolienne.
+## Le travail
+• Si une personne accélère un objet en lui appliquant une force qui lui permet  
+d’accroitre le module de sa vitesse initiale, elle augmente l’énergie cinétique de  
+cet objet. De même, si la personne ralentit un objet par l’application d’une  
+force, elle diminue son énergie cinétique  
+• On explique ces variations de l’énergie cinétique par le fait qu’une force  
+extérieure a transféré de l’énergie de la personne à l’objet ou de l’objet à la  
+personne  
+• Lorsqu’un tel transfert d’énergie accompli au moyen d’une force se produit, on  
+dit qu’un travail, W, a été effectué sur l’objet par la force. Le travail étant alors  
+comparable à de l’énergie, son unité est également le joule.
+![[Pasted image 20230315120519.png]]
+## 1er cas : Energie cinétique
+![[Pasted image 20230315120543.png]]
+## 2ème cas : l’énergie potentielle
+• Imaginons un corps en hauteur, la masse possède alors une  
+énergie potentielle de pesanteur plus élevée qu'à l'état initial,  
+c’est-à-dire sur le sol.  
+• On parle d'énergie potentielle car cette énergie peut  
+potentiellement être libérée en étant par exemple transformée en  
+énergie cinétique si la masse chute sur le sol  
+𝐸𝑃 = 𝑚𝑔ℎ  
+Où g représente l’accélération gravifique (9,81 𝑚/𝑠2)
+## Conservation de l’énergie
+![[Pasted image 20230315120652.png]]
+## Pertes d’énergie
+![[Pasted image 20230315120711.png]]
+## 4. La puissance
+• En physique, la puissance est la quantité d'énergie par unité de temps fournie par un  
+système à un autre.  
+La puissance correspond donc à un débit d'énergie.  
+P = E / t [W = J / s]  
+• La puissance est toujours égale au produit d'une grandeur d'effort (force, couple, pression,  
+tension, etc.) par une grandeur de flux (vitesse, vitesse angulaire, débit, intensité du courant,  
+etc.)  
+• L'unité de puissance du SI est le Watt, abrégée W, qui correspond à un joule fourni par  
+seconde
+# CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE
+## 1. Introduction
+• La question de la nature de la lumière fut probablement l’une des  
+interrogations les plus fécondes en physique : elle est, en quelque sorte, à  
+l’origine des théories  
+	➢géométrique  
+	➢ondulatoire  
+	➢électromagnétique  
+	➢relativiste  
+	➢quantique  
+• Fin 16ème siècle deux théories s’opposent : la description corpusculaire  
+(Newton) >< description ondulatoire (Huygens)
+## Limitations des lois de l’optique géométrique :
+![[Pasted image 20230315121155.png]]
+![[Pasted image 20230315121212.png]]
+## Indice de réfraction
+![[Pasted image 20230315121239.png]]
+## 2. Les lois de Snell-Descartes
+![[Pasted image 20230315121302.png]]
+## Première loi de Snell-Descartes (loi sur le plan  
+d’incidence)
+![[Pasted image 20230315121330.png]]
+## Deuxième loi de Snell-Descartes (loi sur la réflexion)
+![[Pasted image 20230315121350.png]]
+## Troisième loi de Snell-Descartes (loi sur la réfraction)
+![[Pasted image 20230315121406.png]]
+## Loi du retour inverse de la lumière
+![[Pasted image 20230315121429.png]]
+## Interprétation qualitative de la 3ème loi de Snell-  Descartes
+![[Pasted image 20230315121502.png]]
+![[Pasted image 20230315121518.png]]
+![[Pasted image 20230315121533.png]]
+## 3. Réflexion totale
+![[Pasted image 20230315121554.png]]
+![[Pasted image 20230315121606.png]]
+## 4. La fibre optique
+![[Pasted image 20230315121630.png]]
+## Profil à saut d’indice
+![[Pasted image 20230315121655.png]]
+![[Pasted image 20230315121705.png]]
+## Profil à gradient d’indice
+![[Pasted image 20230315121725.png]]
+![[Pasted image 20230315121735.png]]
+## Types de fibres optiques
+• Il existe deux sortes de fibres optiques :  
+– Les fibres optiques MULTIMODES  
+– Les fibres optiques MONOMODES  
+• Un mode est un rayon lumineux se propageant au sein du cœur.  
+• A certaines longueurs d’onde (850 et 1300 nm) et avec certaines  
+dimensions du cœur (50 et 62,5 μm) plusieurs rayons lumineux traversent  
+la fibre qui porte alors le nom de multimode.  
+• À l’inverse, une fibre monomode n’autorise la propagation que d’un seul  
+rayon lumineux. Il porte le nom de mode fondamental.
+## Multimode à saut d'indice
+![[Pasted image 20230315121808.png]]
+## Multimode à gradient d'indice
+![[Pasted image 20230315121836.png]]
+## Fibre monomode
+![[Pasted image 20230315121851.png]]
+## Exercices
+![[Pasted image 20230315121908.png]]
+# CHAPITRE 4 : NOTIONS DE  TEMPÉRATURE ET DE CHALEUR
+## 1. Introduction
+• La notion de température est subjective. Par le sens du toucher, nous  
+constatons que certains corps sont plus ou moins chauds, c'est-à-dire que  
+leur température est plus ou moins élevée.  
+• Différence entre température et chaleur :  
+La température mesure le niveau d’agitation : plus l’agitation moléculaire croît, plus la  
+température est élevée tandis que la chaleur d’un corps matériel s’interprète comme  
+étant la somme des énergies d’agitation désordonnée des molécules (ou atomes) qui le  
+composent.  
+• La température est donc une grandeur non directement mesurable, mais  
+repérable par la variation d’une grandeur associée (résistance, dilatation)
+• La propagation de la chaleur peut s’interpréter comme  
+l’agitation de constituants élémentaires (molécules,  
+atomes, électrons) qui est communiquée de proche en  
+proche d’une partie à l’autre d’un corps matériel  
+• Etude du comportement de la matière en fonction de la  
+température, deux approches :  
+	➢ Approche macroscopique  
+	➢ Approche microscopique
+## 2. Principe zéro et thermomètre
+• Si deux systèmes A et B sont en équilibre  
+thermique avec un troisième, C, alors ils sont  
+en équilibre entre eux (principe zéro).  
+• Cela conduit tout naturellement à l’emploi de  
+thermomètres. Il suffit de choisir comme  
+système C un système dont l’une des  
+observables varie de manière simple et  
+univoque avec la température (ex :  
+thermomètre à mercure).
+## 3. Les échelles de température
+3. Les échelles de température  
+• Échelle Celsius (centigrade)  
+Par définition le 0°𝐶 correspond à la température de la glace fondante à la pression atmosphérique  
+normale et 100°𝐶 à la température de l’évaporation de l’eau. Les températures sont mesurées par  
+interpolation au moyen des graduations du thermomètre.  
+[𝜃] = °𝐶  
+• Échelle absolue (Kelvin, thermodynamique)  
+Cette échelle est basée sur la dilatation des gaz parfaits. Elle part du zéro absolu. Un intervalle de  
+température de 1°𝐾, ou simplement 1 𝐾 est égal à 1°𝐶. 𝑇 = 𝐾.  
+Relation avec les degrés Celsius : 𝜃 = 𝑇 − 273,15 [°𝐶]  
+• Échelle Fahrenheit  
+Cette échelle est utilisée dans les pays anglo-saxons. La température de la glace fondante correspond  
+à 32°𝐹 et celle de l’eau bouillante à 212°𝐹.  
+Relation avec les degrés Celsius : 𝜃 = (𝜃𝐹 − 32) /1,8
+## 4. Formes d’échanges thermiques :
+• La conduction thermique est spécifique aux solides (bois, métaux, etc), elle est un transfert  
+direct au sein d’un milieu matériel, qui se fait par propagation de proche en proche de la  
+chaleur. Le mouvement d’agitation thermique (flux de chaleur) va toujours des zones  
+chaudes vers les zones froides.  
+• La convection est spécifique aux liquides et aux gaz : sous l’effet des différences de  
+température, des masses de matières liquides ou gazeuses se mettent en mouvement et  
+propagent ainsi la chaleur.  
+• Le rayonnement : tout corps chauffé émet spontanément de l’énergie sous forme de  
+radiations électromagnétiques. Inversement, ces radiations peuvent être absorbées et  
+contribuer à chauffer un corps récepteur.
+![[Pasted image 20230315124027.png]]
+## 5. La dilatation des solides
+![[Pasted image 20230315124047.png]]
+### Le coefficient de dilatation linéique
+![[Pasted image 20230315124115.png]]
+## 6. Un exemple de cycle thermodynamique : le cycle de  
+réfrigération
+![[Pasted image 20230315124138.png]]
+## 7. Les principales techniques de refroidissement  
+utilisées en informatique
+• Réduire la température de certains composants d'ordinateur afin d'éviter leur  
+surchauffe  
+• Un échauffement normal est sans conséquence, mais une surchauffe peut  
+entraîner des dysfonctionnements  
+• Les principaux éléments d'un ordinateur produisant de la chaleur sont les  
+suivants :  
+– • le microprocesseur (CPU) ;  
+– • le processeur graphique (GPU) ;  
+– • le northbridge, et dans une moindre mesure le southbridge, lorsqu'ils ne sont pas intégrés ;  
+– • la mémoire vive (RAM) ;  
+– • le disque dur ;  
+– • le bloc d'alimentation.
+### Refroidissement à air
+Refroidissement à air  
+• Le principe de refroidissement qui équipe la majorité des ordinateurs à  
+l'heure actuelle  
+• Deux types de refroidissement : le refroidissement passif et le  
+refroidissement actif  
+• La majorité des ordinateurs possèdent un dispositif de refroidissement à air  
+sur les éléments suivants :  
+– l'alimentation ;  
+– le microprocesseur (CPU) avec un ventirad ;  
+– le processeur graphique (GPU) de la carte graphique avec un ventirad ou un dissipateur  
+thermique ;  
+– le northbridge avec un dissipateur thermique
+### Refroidissement à air passif
+• Dans le cas d'un refroidissement passif, un  
+simple dissipateur thermique est fixé sur  
+l'élément à refroidir. Composé d'un métal à  
+forte conductivité thermique, il offre une  
+surface de contact entre le composant et  
+l'air ambiant bien plus importante. La  
+chaleur émise par le composant passe par  
+le dissipateur thermique et est ensuite  
+dissipée dans l'air ambiant.  
+• Afin d'assurer un contact, un transfert  
+thermique efficace entre le composant et le  
+dissipateur thermique, de la pâte thermique  
+est souvent appliquée. Elle permet  
+d'éliminer l'air (qui est un isolant thermique)  
+présent entre les deux surfaces.
+### Refroidissement à air actif
+Refroidissement à air actif  
+• Le refroidissement actif reprend le principe du  
+dissipateur thermique (refroidissement à air  
+passif) en ajoutant des caloducs et un  
+ventilateur  
+• Le bloc formé par le dissipateur, les caloducs  
+et le ventilateur est souvent appelé ventirad  
+(de ventilateur-radiateur)  
+• Les caloducs et le ventilateur permettent  
+d'accélérer le flux d'air sur le dissipateur, et  
+donc d'améliorer le transfert thermique. Les  
+caloducs permettent d’améliorer la  
+dissipation thermique et le refroidissement
+### Chambre à vapeur
+Chambre à vapeur  
+• Au lieu d’utiliser les propriétés de  
+conduction de chaleur de certains  
+métaux comme le cuivre ou  
+l’aluminium, un liquide joue le rôle  
+de colporteur. La chambre à vapeur  
+est placée sur un point chaud, le  
+processeur.  
+• Le liquide en son cœur (eau  
+déminéralisée, méthanol et acétone)  
+s’évapore grâce à la chaleur.  
+Devenu gaz, il dissipe « sa charge  
+thermique » aux ailettes afin d’être  
+refroidit. L’abaissement de la  
+température le retransforme alors en  
+liquide.
+### Refroidissement à eau (Watercooling)
+Refroidissement à eau (Watercooling)  
+• Utilisation de l’eau comme liquide  
+caloporteur. C’est un système de  
+refroidissement largement répandu dans  
+l’industrie automobile et la production  
+d’énergie.  
+• Plus récemment, le refroidissement à eau  
+a fait son apparition dans le secteur de la  
+micro-informatique pour pallier les  
+inconvénients du refroidissement à air
+### Avantages et inconvénients
++ L’utilisation de l’eau présente l’avantage d’avoir une bien meilleure  
+conductivité thermique que l’air et est un bien meilleur caloporteur.  
++ Cela permet donc de refroidir un même système plus efficacement avec une  
+surface d'échange équivalente tout en ayant un débit et un déplacement de  
+fluide moindre  
++ L’eau présente l’avantage d'être relativement peu chère.  
+- Plus complexe à mettre en œuvre qu’un système de refroidissement à air  
+- Entretien plus complexe
+### Composants
+• A) Les waterblocks :  
+– Le waterblocks est une pièce essentiel du circuit.  
+– C’est dans cette pièce que l’eau passe pour récupérer la chaleur générée par le  
+processeur ou la carte graphique.  
+– Il est constitué d’une « Base » qui est en contact direct avec l’IHS du CPU et d’un « Top  
+» qui coiffe le dessus et sert à accueillir les tuyaux qui amènent et récupèrent l’eau.  
+– Le métal généralement employé pour les waterblocks est le cuivre.  
+– Les waterblocks doivent pouvoir offrir un débit élevé mais aussi produire un minimum de  
+turbulence car si l’eau stagnait et qu’il n’y avait mouvement du fluide, le transfert  
+thermique ne serait pas homogène et il n’y aurait qu’une partie de l’eau qui chaufferait  
+beaucoup et l’autre pas du tout.
+• B) Le radiateur :  
+Le radiateur est une des pièces maîtresses d’un circuit de watercooling chargé de refroidir l’eau en provenance des  
+waterblocks.  
+• C) La pompe :  
+La pompe permet de faire circuler le liquide dans le circuit.  
+• D) Le réservoir :  
+Le réservoir n’est un élément essentiel mais permet de maintenir un niveau de liquide constant. Il doit  
+impérativement être placé avant la pompe pour que celle-ci n'avale pas d'air.  
+• E) Les tuyaux :  
+Deux critères : la taille et la souplesse  
+• F) Les embouts :  
+Les embouts assurent l'étanchéité entre les waterblocks et les radiateurs et les tuyaux
+![[Pasted image 20230315124418.png]]
+### Refroidissements exotiques
+![[Pasted image 20230315124441.png]]
+### Exercices
+• Exprimez en degré Kelvin  
+a) La température normale du corps humain, 37°𝐶 ;  
+b) La température du zéro absolu, −273,15°𝐶  
+• Une tige d’aluminium a une longueur de 3,55 m à la  
+température de 18 °𝐶. Calculez la variation de longueur  
+de la tige, si sa température est portée à 200 °𝐶. Le  
+coefficient de dilatation de l’aluminium peut être  
+déterminé à partir du graphique.
