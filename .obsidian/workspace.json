@@ -11,9 +11,12 @@
             "id": "1b3ba0cb8db4eb80",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md"
               }
             }
           },
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md"
               }
             }
           },
@@ -143,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md"
               }
             }
           }
@@ -164,10 +167,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "ccf966f9e5578e35",
+  "active": "1b3ba0cb8db4eb80",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124441.png",
+    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124418.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124138.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315124115.png",
