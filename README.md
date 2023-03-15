@@ -82,3 +82,24 @@ https://github.com/luminiefa/TI
 -   Évitez les modifications trop volumineuses : Si votre commit contient trop de modifications, il peut être difficile de le documenter correctement. Essayez de vous concentrer sur des changements plus petits et plus spécifiques.
     
 -   Mentionnez les références : Si vous avez résolu un bogue, référencez le numéro du bogue dans le message de commit. Vous pouvez également référencer d'autres commits ou problèmes connexes.
+
+### Utilisation des issues pour gérer une liste de tâches
+
+Les issues sont des fonctionnalités clés de GitHub qui permettent aux utilisateurs de signaler des problèmes, de suggérer des améliorations ou de suivre les progrès d'un projet. Elles peuvent également être utilisées pour gérer une liste de tâches. Voici comment procéder :
+
+1.  Créez une nouvelle issue en cliquant sur le bouton "New issue" dans le menu de votre répertoire.
+    
+2.  Donnez un titre à l'issue qui décrit clairement la tâche à accomplir.
+    
+3.  Utilisez la zone de description pour fournir des détails sur la tâche, y compris les étapes nécessaires pour la terminer.
+    
+4.  Utilisez les labels pour identifier le type de tâche, comme "bug", "fonctionnalité" ou "amélioration".
+    
+5.  Utilisez les affectations pour attribuer la tâche à un membre de l'équipe ou à vous-même.
+    
+6.  Utilisez les commentaires pour discuter des détails de la tâche et pour mettre à jour son statut.
+    
+7.  Utilisez la fonction de fermeture de l'issue pour signaler que la tâche est terminée.
+    
+
+En utilisant les issues de cette manière, vous pouvez gérer efficacement une liste de tâches et suivre les progrès de votre projet. Vous pouvez également utiliser les fonctionnalités de filtrage et de tri pour organiser vos issues en fonction de leur priorité, de leur statut ou de leur type.
