@@ -103,3 +103,19 @@ Les issues sont des fonctionnalités clés de GitHub qui permettent aux utilisat
     
 
 En utilisant les issues de cette manière, vous pouvez gérer efficacement une liste de tâches et suivre les progrès de votre projet. Vous pouvez également utiliser les fonctionnalités de filtrage et de tri pour organiser vos issues en fonction de leur priorité, de leur statut ou de leur type.
+
+### Visualisation des images dans Obsidian
+
+Si vous utilisez Obsidian pour prendre des notes, vous pouvez également visualiser les images du dossier "Obsidian-ti_github" dans Obsidian.
+
+1.  Ouvrez Obsidian.
+    
+2.  Cliquez sur "File" dans la barre de menus en haut.
+    
+3.  Sélectionnez "Open folder as vault".
+    
+4.  Sélectionnez le dossier "ludo" que vous avez cloné sur votre ordinateur.
+    
+5.  Dans la barre latérale gauche, sélectionnez le dossier "Obsidian-ti_github".
+    
+6.  Vous pouvez maintenant voir toutes les images du dossier "Obsidian-ti_github" dans la zone de prévisualisation à droite.
