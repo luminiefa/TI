@@ -24,7 +24,7 @@ Ce répertoire contient du code Python pour différents exercices et projets.
 
 4. Sélectionnez ce répertoire en utilisant l'URL suivante : 
 
-[https://github.com/luminiefa/TI.git](https://github.com/luminiefa/TI)
+[https://github.com/luminiefa/TI](https://github.com/luminiefa/TI)
 
 
 5. Sélectionnez le dossier "TI" et cliquez sur "Clone".
