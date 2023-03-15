@@ -11,12 +11,9 @@
             "id": "1b3ba0cb8db4eb80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315201520.png"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315201520.png",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315201520.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315201520.png"
               }
             }
           },
@@ -125,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315201520.png"
               }
             }
           },
@@ -146,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315201520.png"
               }
             }
           }
@@ -167,15 +164,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1b3ba0cb8db4eb80",
+  "active": "ccf966f9e5578e35",
   "lastOpenFiles": [
-    "Pasted image 20230315201520.png",
-    "Pasted image 20230315201510.png",
-    "Pasted image 20230315201456.png",
+    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315201520.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315201510.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315201456.png",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, théorie.md",
     "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
@@ -189,7 +186,6 @@
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315192514.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315192500.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315192425.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315192347.png",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, labo.md",
