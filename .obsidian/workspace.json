@@ -4,25 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8e376110affb22ab",
+        "id": "1e19bc99dda05100",
         "type": "tabs",
         "children": [
           {
-            "id": "4cb8cde8cfd0acbf",
+            "id": "1b3ba0cb8db4eb80",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315113737.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
+                "mode": "source",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "dd1df0dedefb32d0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -91,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315113737.png",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315113737.png",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315113737.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md"
               }
             }
           }
@@ -152,8 +146,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "ccf966f9e5578e35",
+  "active": "1b3ba0cb8db4eb80",
   "lastOpenFiles": [
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315113737.png",
     "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114611.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114557.png",
@@ -164,7 +159,6 @@
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114348.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114308.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315114251.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230315113737.png",
     "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
