@@ -71,3 +71,14 @@ https://github.com/luminiefa/TI
 3.  Cliquez sur la coche en haut à gauche de l'interface de Visual Studio Code pour confirmer le commit.
     
 4.  Pour pousser les modifications sur GitHub, cliquez sur l'icône de synchronisation en haut à droite de l'interface de Visual Studio Code.
+
+### Comment bien écrire ses commit ?
+-   Utilisez des messages de commit clairs et concis : Le message de commit doit décrire brièvement le changement que vous avez apporté. Évitez les messages trop longs ou vagues.
+    
+-   Commencez par une lettre majuscule et ne terminez pas par une période : Commencez votre message de commit par une lettre majuscule et ne terminez pas par une période. Par exemple, "Ajout de la fonctionnalité XYZ" plutôt que "ajout de la fonctionnalité XYZ."
+    
+-   Utilisez l'impératif pour la première phrase : La première phrase de votre message de commit doit être rédigée à l'impératif. Par exemple, "Ajouter la fonctionnalité XYZ" plutôt que "Ajouté la fonctionnalité XYZ."
+    
+-   Évitez les modifications trop volumineuses : Si votre commit contient trop de modifications, il peut être difficile de le documenter correctement. Essayez de vous concentrer sur des changements plus petits et plus spécifiques.
+    
+-   Mentionnez les références : Si vous avez résolu un bogue, référencez le numéro du bogue dans le message de commit. Vous pouvez également référencer d'autres commits ou problèmes connexes.
