@@ -1,9 +1,36 @@
+!!! placer ces pdf aux bon endroits
 ![[telecommunication_230213_104944.pdf]]
 
 
 ![[transmission 2_230217_144525 1.pdf]]
 
 ![[Telecom_230302_121631 (1).pdf]]
+- [[#chapitre 1 ondes électromagnétiques|chapitre 1 ondes électromagnétiques]]
+	- [[#chapitre 1 ondes électromagnétiques#Préambule|Préambule]]
+	- [[#chapitre 1 ondes électromagnétiques#Les ondes électromagnétiques|Les ondes électromagnétiques]]
+		- [[#Les ondes électromagnétiques#Différences avec les ondes mécaniques|Différences avec les ondes mécaniques]]
+		- [[#Les ondes électromagnétiques#Nature des ondes électromagnétiques|Nature des ondes électromagnétiques]]
+		- [[#Les ondes électromagnétiques#Nature des ondes électromagnétiques|Nature des ondes électromagnétiques]]
+		- [[#Les ondes électromagnétiques#Caractéristiques|Caractéristiques]]
+		- [[#Les ondes électromagnétiques#Le spectre électromagnétique|Le spectre électromagnétique]]
+		- [[#Les ondes électromagnétiques#Exercices|Exercices]]
+- [[#chapitre 2 liaisons hertziennes en espace libre|chapitre 2 liaisons hertziennes en espace libre]]
+	- [[#chapitre 2 liaisons hertziennes en espace libre#Introduction|Introduction]]
+		- [[#Introduction#Rappel :|Rappel :]]
+	- [[#chapitre 2 liaisons hertziennes en espace libre#Propagation dans l'environnement terrestre|Propagation dans l'environnement terrestre]]
+	- [[#chapitre 2 liaisons hertziennes en espace libre#Atténuation et absorption|Atténuation et absorption]]
+	- [[#chapitre 2 liaisons hertziennes en espace libre#Ellipsoïde de Fresnel|Ellipsoïde de Fresnel]]
+		- [[#Ellipsoïde de Fresnel#Exercices|Exercices]]
+	- [[#chapitre 2 liaisons hertziennes en espace libre#Type de liaison|Type de liaison]]
+- [[#chapitre 3 les antennes|chapitre 3 les antennes]]
+	- [[#chapitre 3 les antennes#Le décibel|Le décibel]]
+	- [[#chapitre 3 les antennes#Caractéristiques des antennes|Caractéristiques des antennes]]
+	- [[#chapitre 3 les antennes#Diagramme de rayonnement|Diagramme de rayonnement]]
+	- [[#chapitre 3 les antennes#Gain d'une antenne|Gain d'une antenne]]
+	- [[#chapitre 3 les antennes#Polarisation|Polarisation]]
+	- [[#chapitre 3 les antennes#Bande passante|Bande passante]]
+	- [[#chapitre 3 les antennes#Exemple|Exemple]]
+- [[#chapitre 4 traitement des signaux|chapitre 4 traitement des signaux]]
 # chapitre 1 ondes électromagnétiques
 ## Préambule
 ![[Pasted image 20230315162457.png]]
