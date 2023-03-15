@@ -119,3 +119,10 @@ Si vous utilisez Obsidian pour prendre des notes, vous pouvez également visuali
 5.  Dans la barre latérale gauche, sélectionnez le dossier "Obsidian-ti_github".
     
 6.  Vous pouvez maintenant voir toutes les images du dossier "Obsidian-ti_github" dans la zone de prévisualisation à droite.
+
+### Avantages
+L'un des avantages les plus importants d'utiliser GitHub pour un étudiant est la possibilité de stocker et de partager du code en ligne. Cela permet à l'étudiant de travailler sur un projet à partir de n'importe quel ordinateur, ce qui est particulièrement utile si l'étudiant utilise des ordinateurs différents à l'école ou à la maison.
+
+En utilisant GitHub, l'étudiant peut facilement synchroniser ses modifications avec le serveur GitHub et accéder à ses fichiers depuis n'importe quel ordinateur avec une connexion Internet. En outre, cela permet également à l'étudiant de collaborer facilement avec d'autres étudiants sur des projets de groupe, en utilisant les fonctionnalités de collaboration telles que les pull requests et les commentaires sur le code.
+
+Enfin, GitHub offre également des fonctionnalités de contrôle de version, ce qui signifie que l'étudiant peut revenir à des versions antérieures de son code en cas de besoin. Cela peut être particulièrement utile si l'étudiant doit déboguer son code et a besoin de revenir à une version précédente pour voir où le problème est survenu.
