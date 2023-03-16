@@ -308,3 +308,70 @@ véhicule à la fois
 # chapitre 4 traitement des signaux
 
 ![[telecom_230316_122401 (1).pdf]]
+
+## Signal et bruit  
+### Définitions
+![[Pasted image 20230316175622.png]]
+![[Pasted image 20230316175636.png]]
+![[Pasted image 20230316175708.png]]
+## Signal sinusoïdal  
+![[Pasted image 20230316175725.png]]
+![[Pasted image 20230316175821.png]]
+![[Pasted image 20230316175834.png]]
+## Série de Fourier  
+![[Pasted image 20230316175850.png]]
+### Définitions
+![[Pasted image 20230316175936.png]]
+### Exemples
+![[Pasted image 20230316180003.png]]
+### Transformée de Fourier
+![[Pasted image 20230316180039.png]]
+## Spectre du signal
+### Définition
+![[Pasted image 20230316180121.png]]
+![[Pasted image 20230316180143.png]]
+![[Pasted image 20230316180211.png]]
+![[Pasted image 20230316180227.png]]
+![[Pasted image 20230316180318.png]]
+![[Pasted image 20230316180333.png]]
+![[Pasted image 20230316180343.png]]
+![[Pasted image 20230316180355.png]]
+#àFaire faire des ex sur autres signaux que celui carré car trop facile pour l'examen !
+## Pourquoi traiter le signal  
+### Utilités
+– Nécessité d'un spectre assez étroit pour limiter les différences  
+de vitesses des composantes de l'onde (dans un milieu  
+dispersif).  
+– Les hautes fréquences se propagent mieux dans l'air que les  
+basses fréquences (voix, musique). Il est nécessaire de  
+transposer les fréquences.  
+– Le bruit peut être important en fonction de la fréquence de travail  
+et gêner le signal informatif.  
+– Sans traitement du signal, il serait impossible à un auditeur de  
+s’y retrouver puisque toutes les ondes auraient la même gamme  
+de fréquences.
+### Largeur de bande
+![[Pasted image 20230316180604.png]]
+### Exemple de transposition de fréquence
+![[Pasted image 20230316180627.png]]
+### Transposition de fréquence
+![[Pasted image 20230316180647.png]]
+### Transposition de fréquence
+– Elle permet d’augmenter ou de diminuer la fréquence centrale  
+d'un signal.  
+– Elle peut être réalisée en utilisant un multiplicateur analogique.  
+– Le multiplicateur génère en sortie un signal proportionnel au  
+produit des signaux présents sur ses deux entrées.  
+– La tension de sortie Vs=k.V1.V2
+![[Pasted image 20230316180726.png]]
+![[Pasted image 20230316180746.png]]
+![[Pasted image 20230316180806.png]]
+### Exemple de multiplexage fréquentiel
+![[Pasted image 20230316180835.png]]
+## Signal analogique et numérique  
+![[Pasted image 20230316180856.png]]
+## Chaîne de communication en propagation libre
+### Modulation
+– La modulation doit permettre à une puissante porteuse d’émettre  
+par voie aérienne les informations utiles.
+![[Pasted image 20230316180930.png]]
