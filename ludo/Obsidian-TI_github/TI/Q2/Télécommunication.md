@@ -306,3 +306,5 @@ véhicule à la fois
 ![[Pasted image 20230315165454.png]]
 ![[Pasted image 20230315165509.png]]
 # chapitre 4 traitement des signaux
+
+![[telecom_230316_122401 (1).pdf]]
