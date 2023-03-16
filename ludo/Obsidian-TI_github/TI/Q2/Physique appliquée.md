@@ -455,3 +455,87 @@ température de 18 °𝐶. Calculez la variation de longueur
 de la tige, si sa température est portée à 200 °𝐶. Le  
 coefficient de dilatation de l’aluminium peut être  
 déterminé à partir du graphique.
+# CHAPITRE 5 : Electricité
+## Electronique en informatique
+### Composants:  
+	– CPU  
+	– RAM  
+	– GPU  
+	– HDD/SSD  
+	– Carte mère  
+	– Alimentation  
+	– I/O
+### Trois problématiques de ce chapitre
+➢ Vitesse du processeur:  
+	➢ Condensateurs  
+	➢ Transistors  
+	➢ Fréquence  
+	➢ Puissance  
+➢ Alimentation:  
+	➢ Rappel transformateur, redresseur, lissage  
+	➢ Alimentations à découpage  
+➢ Interférences et Compatibilité électromagnétique (EMC)  
+	➢ Maxwell  
+	➢ Courants  
+	➢ Eléments problématique
+## Processeurs (CPU,GPU,APU,DSP)
+![[Pasted image 20230316182931.png]]
+## Plan d’un transistor
+![[Pasted image 20230316182945.png]]
+## Condensateur
+![[Pasted image 20230316183006.png]]
+## Equations de l’électronique
+![[Pasted image 20230316183022.png]]
+## Condensateur: analogie avec l’eau
+![[Pasted image 20230316183038.png]]
+## Condensateur: AC et DC
+![[Pasted image 20230316183057.png]]
+## Transistor MOSFET
+![[Pasted image 20230316183113.png]]
+## Fonctionnement d’un transistor MOS
+![[Pasted image 20230316183137.png]]
+## Exemple d’application: XOR
+![[Pasted image 20230316183153.png]]
+## Puissance Electronique Digitale
+![[Pasted image 20230316183206.png]]
+![[Pasted image 20230316183226.png]]
+![[Pasted image 20230316183245.png]]
+## Vitesse d’un processeur
+![[Pasted image 20230316183301.png]]
+## Exemple d’overclocking
+![[Pasted image 20230316183317.png]]
+## Vitesse des processeurs (fabrication)
+![[Pasted image 20230316183340.png]]
+## Taille et loi de Moore
+![[Pasted image 20230316183353.png]]
+## Les alimentations
+![[Pasted image 20230316183406.png]]
+## Alimentation classique
+![[Pasted image 20230316183424.png]]
+## Les alimentations
+![[Pasted image 20230316183441.png]]
+![[Pasted image 20230316183503.png]]
+![[Pasted image 20230316183516.png]]
+## Les alimentations à découpage
+![[Pasted image 20230316183528.png]]
+![[Pasted image 20230316183544.png]]
+## Les alimentations à découpage
+![[Pasted image 20230316183607.png]]
+## Inductance
+![[Pasted image 20230316183631.png]]
+## Equations de l’électronique
+![[Pasted image 20230316183645.png]]
+## Inductance: AC et DC
+![[Pasted image 20230316183700.png]]
+## Les alimentations à découpage
+![[Pasted image 20230316183723.png]]
+## Bilan
+![[Pasted image 20230316183734.png]]
+## Interférences et Compatibilité électromagnétique (EMC)
+![[Pasted image 20230316183754.png]]
+## EMC
+![[Pasted image 20230316183810.png]]
+## Solutions
+![[Pasted image 20230316183823.png]]
+
+
