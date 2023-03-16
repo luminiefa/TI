@@ -109,4 +109,39 @@ technologie existait ?
 Dans ce cas, comment connecter des  
 technologies différentes ?
 # Couche physique
+![[Pasted image 20230316201727.png]]
+• Qui établi et met à jour les standards pour la couche Physique ?
+![[Pasted image 20230316202202.png]]
+• Les signaux sur la couche Physique
+![[Pasted image 20230316202221.png]]
+## Signalisation
+![[Pasted image 20230316202244.png]]
+## Début de trame – Fin de trame
+![[Pasted image 20230316202311.png]]
+## NRZ
+![[Pasted image 20230316202332.png]]
+## Manchester
+![[Pasted image 20230316202351.png]]
+## Encodage
+![[Pasted image 20230316202407.png]]
+## 4B/5B
+![[Pasted image 20230316202424.png]]
+## Signalisation et encodage
+• Définition en terme de bande passante, débit et données utilisables
+![[Pasted image 20230316202452.png]]
+## Caractéristiques et utilisation d’un média réseau
+• Média Ethernet
+![[Pasted image 20230316202523.png]]
+• Sans fil
+![[Pasted image 20230316202543.png]]
+• Caractéristiques d’un câble UTP
+![[Pasted image 20230316202616.png]]
+• Sources d’interférences
+![[Pasted image 20230316202634.png]]
+• Câble STP et coaxial
+![[Pasted image 20230316202651.png]]
+• Caractéristiques de cablâge fibre optique
+![[Pasted image 20230316202708.png]]
+• Sans fil
+![[Pasted image 20230316202726.png]]
 # IpV6
