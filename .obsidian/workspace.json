@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b3ba0cb8db4eb80",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316180930.png"
-              }
-            }
-          },
-          {
             "id": "ed0b722855dd58e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Q2/intro OO/référencement des exercices.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316180930.png",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316180930.png",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316180930.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md"
               }
             }
           },
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316180930.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md"
               }
             }
           },
@@ -156,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316180930.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md"
               }
             }
           }
@@ -165,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +167,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "ccf966f9e5578e35",
+  "active": "ed0b722855dd58e6",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316180930.png",
+    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316180856.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316180835.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316180806.png",

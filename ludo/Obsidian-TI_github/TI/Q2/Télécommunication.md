@@ -1,10 +1,3 @@
-!!! placer ces pdf aux bon endroits
-![[telecommunication_230213_104944.pdf]]
-
-
-![[transmission 2_230217_144525 1.pdf]]
-
-![[Telecom_230302_121631 (1).pdf]]
 - [[#chapitre 1 ondes électromagnétiques|chapitre 1 ondes électromagnétiques]]
 	- [[#chapitre 1 ondes électromagnétiques#Préambule|Préambule]]
 	- [[#chapitre 1 ondes électromagnétiques#Les ondes électromagnétiques|Les ondes électromagnétiques]]
@@ -31,6 +24,26 @@
 	- [[#chapitre 3 les antennes#Bande passante|Bande passante]]
 	- [[#chapitre 3 les antennes#Exemple|Exemple]]
 - [[#chapitre 4 traitement des signaux|chapitre 4 traitement des signaux]]
+	- [[#chapitre 4 traitement des signaux#Signal et bruit|Signal et bruit]]
+		- [[#Signal et bruit#Définitions|Définitions]]
+	- [[#chapitre 4 traitement des signaux#Signal sinusoïdal|Signal sinusoïdal]]
+	- [[#chapitre 4 traitement des signaux#Série de Fourier|Série de Fourier]]
+		- [[#Série de Fourier#Définitions|Définitions]]
+		- [[#Série de Fourier#Exemples|Exemples]]
+		- [[#Série de Fourier#Transformée de Fourier|Transformée de Fourier]]
+	- [[#chapitre 4 traitement des signaux#Spectre du signal|Spectre du signal]]
+		- [[#Spectre du signal#Définition|Définition]]
+	- [[#chapitre 4 traitement des signaux#Pourquoi traiter le signal|Pourquoi traiter le signal]]
+		- [[#Pourquoi traiter le signal#Utilités|Utilités]]
+		- [[#Pourquoi traiter le signal#Largeur de bande|Largeur de bande]]
+		- [[#Pourquoi traiter le signal#Exemple de transposition de fréquence|Exemple de transposition de fréquence]]
+		- [[#Pourquoi traiter le signal#Transposition de fréquence|Transposition de fréquence]]
+		- [[#Pourquoi traiter le signal#Transposition de fréquence|Transposition de fréquence]]
+		- [[#Pourquoi traiter le signal#Exemple de multiplexage fréquentiel|Exemple de multiplexage fréquentiel]]
+	- [[#chapitre 4 traitement des signaux#Signal analogique et numérique|Signal analogique et numérique]]
+	- [[#chapitre 4 traitement des signaux#Chaîne de communication en propagation libre|Chaîne de communication en propagation libre]]
+		- [[#Chaîne de communication en propagation libre#Modulation|Modulation]]
+
 # chapitre 1 ondes électromagnétiques
 ## Préambule
 ![[Pasted image 20230315162457.png]]
@@ -152,6 +165,7 @@ dont la longueur d’onde est donnée, calculez la fréquence.
 – 1 m  
 • Dans quelle partie du spectre électromagnétique se situent ces  
 ondes ?
+![[telecommunication_230213_104944.pdf]]
 # chapitre 2 liaisons hertziennes en espace libre
 ## Introduction
 ### Rappel :  
@@ -223,6 +237,7 @@ La hauteur de végétation moyenne est de 15m (il n'y a aucun relief)
 assurer une liaison en 11 Ghz pour que la première ellipsoïde de Fresnel soit visible à  
 100 % ?  
 La hauteur de végétation moyenne est de 19 m (il n'y a aucun relief)
+![[transmission 2_230217_144525 1.pdf]]
 ## Type de liaison
 ![[Pasted image 20230315164201.png]]
 # chapitre 3 les antennes
@@ -285,6 +300,8 @@ véhicule à la fois
 ![[Pasted image 20230315165248.png]]
 ![[Pasted image 20230315165304.png]]
 ![[Pasted image 20230315165314.png]]
+
+![[Telecom_230302_121631 (1).pdf]]
 ## Polarisation  
 • Principe  
 	– Le signal émis par une antenne est polarisé. Le champ  
