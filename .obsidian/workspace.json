@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183823.png"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195843.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183823.png",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195843.png",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183823.png",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195843.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183823.png"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195843.png"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183823.png"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195843.png"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183823.png"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195843.png"
               }
             }
           }
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,17 +167,18 @@
   },
   "active": "ccf966f9e5578e35",
   "lastOpenFiles": [
+    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195843.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195753.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195742.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195728.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195717.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195701.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195648.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195636.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195622.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316195602.png",
     "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183823.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183810.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183754.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183734.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183723.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183700.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183645.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183631.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183607.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316183544.png",
     "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/telecom_230316_122401 (1).pdf",
@@ -194,7 +196,6 @@
     "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, labo.md",
     "ludo/Q2/intro OO/référencement des exercices.md",
     "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Laboratoire des sciences appliquées à l'informatique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
     "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
