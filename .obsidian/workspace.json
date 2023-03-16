@@ -11,9 +11,12 @@
             "id": "ed0b722855dd58e6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316202726.png"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316202726.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316202726.png",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316202726.png"
+                "file": "README.md"
               }
             }
           },
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316202726.png"
+                "file": "README.md"
               }
             }
           },
@@ -143,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316202726.png"
+                "file": "README.md"
               }
             }
           }
@@ -152,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,9 +167,21 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "ccf966f9e5578e35",
+  "active": "a3423f970242abe5",
   "lastOpenFiles": [
+    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, théorie.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
+    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316202726.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316202708.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316202651.png",
@@ -178,27 +192,15 @@
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316202452.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316202424.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230316202407.png",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
     "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/telecom_230316_122401 (1).pdf",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
     "README.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, théorie.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, labo.md",
     "ludo/Q2/intro OO/référencement des exercices.md",
     "ludo/Obsidian-TI_github/TI/Q2/Laboratoire des sciences appliquées à l'informatique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
-    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/BD LABO_230303_101419 (1).pdf",
     "ludo/Obsidian-TI_github/TI/Pasted image/electro_230308_093000 (1).pdf",
     "ludo/Obsidian-TI_github/TI/Pasted image/reseaux_230306_164028.pdf",
