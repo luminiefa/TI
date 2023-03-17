@@ -1,0 +1,18 @@
+{
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ]
+}
