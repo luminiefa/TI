@@ -129,3 +129,6 @@ Enfin, GitHub offre également des fonctionnalités de contrôle de version, ce 
 
 ### Liens ThinkerCad
 ludo : https://www.tinkercad.com/things/coHZz5taufg-wiring-components/editel?lessonid=EB4XNWQJ1WEOONK&projectid=OLORCO6L20FZRZ7&collectionid=O0K87SQL1W5N4P2&sharecode=l_C66yuxn67lWXaq2jffSq3KqcJusHGCtDrjySvCDLE
+
+### Liens Cisco packet tracer backup onedrive
+https://1drv.ms/f/s!AoANnnRJuCS4iJB6skat-6tyx9eL4A?e=gfZvOL
