@@ -126,3 +126,6 @@ L'un des avantages les plus importants d'utiliser GitHub pour un étudiant est l
 En utilisant GitHub, l'étudiant peut facilement synchroniser ses modifications avec le serveur GitHub et accéder à ses fichiers depuis n'importe quel ordinateur avec une connexion Internet. En outre, cela permet également à l'étudiant de collaborer facilement avec d'autres étudiants sur des projets de groupe, en utilisant les fonctionnalités de collaboration telles que les pull requests et les commentaires sur le code.
 
 Enfin, GitHub offre également des fonctionnalités de contrôle de version, ce qui signifie que l'étudiant peut revenir à des versions antérieures de son code en cas de besoin. Cela peut être particulièrement utile si l'étudiant doit déboguer son code et a besoin de revenir à une version précédente pour voir où le problème est survenu.
+
+### Liens ThinkerCad
+ludo : https://www.tinkercad.com/things/coHZz5taufg-wiring-components/editel?lessonid=EB4XNWQJ1WEOONK&projectid=OLORCO6L20FZRZ7&collectionid=O0K87SQL1W5N4P2&sharecode=l_C66yuxn67lWXaq2jffSq3KqcJusHGCtDrjySvCDLE
