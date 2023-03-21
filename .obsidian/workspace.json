@@ -11,9 +11,9 @@
             "id": "707235e732b22d19",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/systm exploit, concepts_230320_175532.pdf"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321193434.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/systm exploit, concepts_230320_175532.pdf",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321193434.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/systm exploit, concepts_230320_175532.pdf",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321193434.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/systm exploit, concepts_230320_175532.pdf"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321193434.png"
               }
             }
           }
@@ -147,11 +147,22 @@
   "active": "5896e84e247d14b3",
   "lastOpenFiles": [
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Pasted image/systm exploit, concepts_230320_175532.pdf",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321193434.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321193409.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321193341.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321193319.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321192950.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321192917.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321192845.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321192737.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321192723.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321192703.png",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Laboratoire des sciences appliquées à l'informatique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/systm exploit, concepts_230320_175532.pdf",
     "ludo/Obsidian-TI_github/TI/Pasted image/intitation système embarqué, théorie_230321_175206.pdf",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
@@ -166,18 +177,7 @@
     "Aaron/README.md",
     "Damien/README.md",
     "mathias/README.md",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131424.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131323.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131303.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131148.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131130.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131102.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131002.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321130948.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321130924.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321130843.png",
     "README.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Laboratoire des sciences appliquées à l'informatique.md"
+    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md"
   ]
 }
