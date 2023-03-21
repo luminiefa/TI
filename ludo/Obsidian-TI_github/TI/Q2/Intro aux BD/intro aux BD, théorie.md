@@ -46,7 +46,6 @@
 			- [[#Jointures#3.3.2. Jointures réflexives|3.3.2. Jointures réflexives]]
 		- [[#3.3. Data query language#Requêtes inbriquées|Requêtes inbriquées]]
 			- [[#Requêtes inbriquées#3.3.3. Requêtes imbriquées : EXISTS|3.3.3. Requêtes imbriquées : EXISTS]]
-
 # CHAPITRE 1 :  SCHÉMA CONCEPTUEL
 ## 1.2. Formalisme
 Il existe plusieurs formalismes possibles  
