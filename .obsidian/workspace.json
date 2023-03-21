@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md"
               }
             }
           }
@@ -149,8 +149,21 @@
   },
   "active": "707235e732b22d19",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200804.png",
+    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Laboratoire des sciences appliquées à l'informatique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200804.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200728.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200718.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200704.png",
@@ -160,23 +173,10 @@
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200601.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200536.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200513.png",
-    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
     "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Laboratoire des sciences appliquées à l'informatique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/systm exploit, concepts_230320_175532.pdf",
     "ludo/Obsidian-TI_github/TI/Pasted image/intitation système embarqué, théorie_230321_175206.pdf",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/infra réseaux_230313_204333.pdf",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
     "nathan/README.md",
     "Aaron/README.md",
     "Damien/README.md",
