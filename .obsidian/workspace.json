@@ -11,12 +11,9 @@
             "id": "707235e732b22d19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131424.png"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131424.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131424.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131424.png"
               }
             }
           }
@@ -147,19 +144,19 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "707235e732b22d19",
+  "active": "5896e84e247d14b3",
   "lastOpenFiles": [
-    "Pasted image 20230321131424.png",
-    "Pasted image 20230321131323.png",
-    "Pasted image 20230321131303.png",
-    "Pasted image 20230321131148.png",
-    "Pasted image 20230321131130.png",
-    "Pasted image 20230321131102.png",
-    "Pasted image 20230321131002.png",
-    "Pasted image 20230321130948.png",
-    "Pasted image 20230321130924.png",
-    "Pasted image 20230321130843.png",
-    "Pasted image 20230321130833.png",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131424.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131323.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131303.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131148.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131130.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131102.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321131002.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321130948.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321130924.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321130843.png",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
     "README.md",
@@ -171,7 +168,6 @@
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md"
+    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md"
   ]
 }
