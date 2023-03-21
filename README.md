@@ -132,3 +132,6 @@ ludo : https://www.tinkercad.com/things/coHZz5taufg-wiring-components/editel?les
 
 ### Liens Cisco packet tracer backup onedrive
 https://1drv.ms/f/s!AoANnnRJuCS4iJB6skat-6tyx9eL4A?e=gfZvOL
+
+### Liens d'aide supp packetTracer
+https://computernetworking747640215.wordpress.com/2018/07/05/secure-shell-ssh-configuration-on-a-switch-and-router-in-packet-tracer/
