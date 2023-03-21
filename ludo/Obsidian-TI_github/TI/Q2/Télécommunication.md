@@ -288,15 +288,15 @@ véhicule à la fois
 ![[Pasted image 20230315165143.png]]
 ![[Pasted image 20230315165155.png]]
 ![[Pasted image 20230315165209.png]]
-• Exemples  
-	– Une antenne isotrope n'a pas de gain => 0 dBi  
-	– Une antenne dipôle possède un gain de 2,15 dB par  
-	rapport à l'antenne isotrope.  
-	On dit aussi qu'elle a un gain de 2,15 dBi.  
-	– Antenne de réception de télévision: 10 dBi  
-	– Antenne autodirectrice de missile: 20 dBi  
-	– Antenne de radar de surveillance: 40 dBi  
-	– Antenne de radioastronomie: 50 dBi
+### Examples exercices  
+– Une antenne isotrope n'a pas de gain => 0 dBi  
+– Une antenne dipôle possède un gain de 2,15 dB par  
+rapport à l'antenne isotrope.  
+On dit aussi qu'elle a un gain de 2,15 dBi.  
+– Antenne de réception de télévision: 10 dBi  
+– Antenne autodirectrice de missile: 20 dBi  
+– Antenne de radar de surveillance: 40 dBi  
+– Antenne de radioastronomie: 50 dBi
 ![[Pasted image 20230315165248.png]]
 ![[Pasted image 20230315165304.png]]
 ![[Pasted image 20230315165314.png]]
