@@ -82,3 +82,129 @@ il y a des règles simples à suivre :
 ![[Pasted image 20230315112140.png]]
 ![[Pasted image 20230315112203.png]]
 # CHAPITRE 3 : SQL
+## SQL
+• Insensible à la case  
+• Les requêtes finissent par ; et peuvent s'écrire en plusieurs ligne  
+Sous langages :  
+- DDL (Data Definition Language) : définit les structures de base de données.  
+- DML (Data Manipulation Language) : manipule les données (INSERT, UPDATE,  
+DELETE).  
+- DQL (Data Query Language) : permet de sélectionner (SELECT) les données,  
+souvent incluse dans le DML.  
+- DCL (Data Control Language) : gère l'accès utilisateur.  
+- TCL (Transactional Control Language) : gère les transactions de base de  
+données.
+## Outil
+SQL Server Management Studio (SSMS) :  
+La fonctionnalité centrale de SSMS est  
+l’Explorateur d’objets:  
+1. qui permet à l’utilisateur de naviguer ;  
+2. de sélectionner ;  
+3. de gérer chacun des objets du serveur ;  
+4. aussi bien en mode graphique qu’en mode  
+commandes (QBE ou Query by Example).
+## Convention de nommage
+Les noms de colonne et tables doivent :  
+– Commencer avec une lettre  
+– Faire entre 1 et 30 caractères  
+– Contenir seulement A–Z, a–z, 0–9, _, $, et #  
+– Être différents (pour un même utilisateur)  
+– Être différents des mots-réservés
+## 3.1. Data definition language
+### Création  
+CREATE DATABASE <base de données> ;
+![[Pasted image 20230321195355.png]]
+### Contraintes  
+Contraintes d'intégrités à ajouter à la création :  
+• PRIMARY KEY : clé primaire  
+• UNIQUE : valeur unique  
+(appelé aussi clé secondaire, ou clé candidate)  
+• NOT NULL : obligatoire  
+• FOREIGN KEY : clé étrangère  
+• CHECK : contraintes additionnelles
+![[Pasted image 20230321195431.png]]
+#### 3.1.2. Contraintes sur une colonne
+	Se note juste après la définition de la colonne :  
+	• PRIMARY KEY : définit la colonne comme clé primaire  
+	• UNIQUE : interdit à 2 valeurs de la colonne d'être les  
+	mêmes  
+	• NOT NULL : rend la colonne obligatoire  
+	• FOREIGN KEY : défini la colonne comme clé étrangère  
+	→ [FOREIGN KEY] REFERENCES <table>(<colonne ref>)  
+	• CHECK : pour définir des contraintes additionnelles  
+	→ CHECK <condition>
+#### 3.1.2. Contraintes sur une table
+	Se note à la fin de la création de la table:  
+	• PRIMARY KEY : définit un ensemble de colonnes comme  
+	identifiant  
+	→ PRIMARY KEY (<colonnes>)  
+	• UNIQUE : interdit que 2 lignes aient les mêmes valeurs pour  
+	un ensemble de colonnes  
+	→ UNIQUE (<colonnes>)  
+	• FOREIGN KEY : définit un ensemble de colonnes comme clés  
+	étrangères référençant des colonnes d'une autre table  
+	→ FOREIGN KEY (<colonnes>) REFERENCES <table>(<colonnes>)  
+	• CHECK : pour définir des contraintes additionnelles  
+	→ CHECK (<condition>)
+#### 3.1.2. Contraintes : FK simple
+![[Pasted image 20230321195645.png]]
+#### 3.1.2. Contraintes : FK multiple
+![[Pasted image 20230321195706.png]]
+#### 3.1.2. Contraintes : exemple
+![[Pasted image 20230321195727.png]]
+### Modification  
+	Modifier la structure d'une table :  
+	ALTER TABLE <table>  
+	– ADD ( <colonnes>)  
+	– ALTER COLUMN ( <colonnes>)  
+	– DROP ( <colonnes>)  
+	ou DROP COLUMN <colonne>  
+	Renommer une table :  
+	EXEC sp_rename '<ancien nom>', '<nouveau nom>';  
+	Renommer une colonne :  
+	EXEC sp_rename '<table>.<ancien nom> ', '<nouveau nom> ', 'COLUMN';
+#### 3.1.3. Modification : exemple
+![[Pasted image 20230321195802.png]]
+### Suppression
+![[Pasted image 20230321195818.png]]
+## 3.2. Data manipulation language
+### Insertion de données
+![[Pasted image 20230321200028.png]]
+### Modification de données
+![[Pasted image 20230321200043.png]]
+### Suppression de données
+![[Pasted image 20230321200054.png]]
+## 3.3. Data query language
+### Sélections
+![[Pasted image 20230321200143.png]]
+![[Pasted image 20230321200156.png]]
+#### 3.3.1. Sélection : Opérateurs
+![[Pasted image 20230321200220.png]]
+#### 3.3.1. Sélection : Fonctions
+![[Pasted image 20230321200247.png]]
+![[Pasted image 20230321200305.png]]
+#### 3.3.1. Sélection : Fonctions de groupe
+![[Pasted image 20230321200326.png]]
+![[Pasted image 20230321200340.png]]
+#### 3.3.1. Sélection : GROUP BY
+![[Pasted image 20230321200358.png]]
+#### 3.3.1. Sélection : HAVING
+![[Pasted image 20230321200415.png]]
+#### 3.3.1. Sélection : ORDER
+![[Pasted image 20230321200445.png]]
+### Jointures
+![[Pasted image 20230321200458.png]]
+![[Pasted image 20230321200513.png]]
+![[Pasted image 20230321200536.png]]
+#### 3.3.2. Jointures : Exemple
+![[Pasted image 20230321200601.png]]
+![[Pasted image 20230321200619.png]]
+#### 3.3.2. Jointures réflexives
+![[Pasted image 20230321200641.png]]
+![[Pasted image 20230321200652.png]]
+![[Pasted image 20230321200704.png]]
+### Requêtes inbriquées
+![[Pasted image 20230321200718.png]]
+![[Pasted image 20230321200728.png]]
+#### 3.3.3. Requêtes imbriquées : EXISTS
+![[Pasted image 20230321200804.png]]
