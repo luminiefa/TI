@@ -1,4 +1,3 @@
-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
 # Ludo - Répertoire de code Python
 
 Ce répertoire contient du code Python pour différents exercices et projets.
