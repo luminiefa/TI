@@ -11,9 +11,12 @@
             "id": "707235e732b22d19",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200804.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200804.png",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200804.png",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200804.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md"
               }
             }
           }
@@ -144,10 +147,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "5896e84e247d14b3",
+  "active": "707235e732b22d19",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200804.png",
+    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200728.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200718.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230321200704.png",
