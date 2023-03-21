@@ -1,4 +1,4 @@
-
+Les manips packet Tracer sont sur oneDrive. Le lien se trouve sur mon readme.
 ![[reseaux_230303_112714 (1).pdf]]
 
 

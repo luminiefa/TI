@@ -1,6 +1,9 @@
 
 ![[reseaux_230306_164028.pdf]]
 
+![[infra réseaux_230313_204333.pdf]]
+
+
 # Couche network partie 2
 ## Adresses particulières
 • 2 adresses non affectables à une machine  
