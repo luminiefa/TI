@@ -12,6 +12,7 @@ Ce répertoire contient du code Python pour différents exercices et projets.
    - Fichiers et module OS
    - Séquences
    - intro oo
+   - sql
 ## Comment utiliser ce répertoire
 
 ### Utilisation de GitHub Desktop
