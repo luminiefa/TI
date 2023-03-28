@@ -1,0 +1,164 @@
+\documentclass[12pt, letterpaper]{report}
+\usepackage[utf8]{inputenc} % Required for inserting images
+\usepackage[T1]{fontenc}
+\usepackage[a4paper,left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{booktabs}
+\usepackage[french]{babel}
+\usepackage{libertine}
+\usepackage[pdftex]{graphicx}
+
+
+
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0em}
+\newcommand{\hsp}{\hspace{20pt}}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+\begin{document}
+\begin{titlepage}
+  \begin{sffamily}
+  \begin{center}
+
+
+    \textsc{\LARGE Henallux - Institut d'enseignement supérieur de Namur}\\[2cm]
+
+    \textsc{\Large Sciences Appliquées}\\[1.5cm]
+
+    % Title
+    \HRule \\[0.4cm]
+    \huge \bfseries {Laboratoire 05 : Introduction aux imprimantes 3D : Modélisation et Impression \\[0.4cm]}
+    \HRule \\[2cm]
+
+    \begin{minipage}{0.4\textwidth}
+      \begin{flushleft} \large
+        Schoonjans \textsc{Ludovic}\\
+        Vanderbeken  \textsc{Mathias}\\
+        Dubois  \textsc{Aaron}\\
+        Combette  \textsc{Nathan}\\
+      \end{flushleft}
+    \end{minipage}
+    \begin{minipage}{0.4\textwidth}
+      \begin{flushright} \large
+        \emph{Professeur :} \textsc{Guillerme Duvillié}\\
+         \emph{Groupe :} \textsc{Les coléoptères \\du frigos}\\
+      \end{flushright}
+    \end{minipage}
+
+    \vfill
+
+    % Bottom of the page
+ \large {31 Mars 2023}
+  \end{center}
+  \end{sffamily}
+\end{titlepage}
+
+\renewcommand*\contentsname{Contents}
+\addcontentsline{toc}{chapter}{Introduction}
+\tableofcontents
+
+
+\chapter*{Introduction}
+
+Dans le cadre du cours de Laboratoire de Sciences Appliquées, nous avons été amenés à modéliser via le programme Fusion360, un porte-clé USB-BIC et un dé pipé. Ensuite, nous les avons imprimés à l'aide des imprimantes 3D et du logiciel Prusa Slicer.
+
+
+""""""""""""""""""""""""""""""""""""
+\chapter{Matériel}
+\section{Fusion360}
+
+Fusion 360 est une application logicielle commerciale de conception assistée par ordinateur (CAO), de fabrication assistée par ordinateur (FAO), d'ingénierie assistée par ordinateur (IAO) et de conception de cartes de circuits imprimés (PCB), développée par Autodesk . Il est disponible pour Windows, macOS et navigateur Web, avec des applications simplifiées disponibles pour Android et iOS . Fusion 360 est concédé sous licence sous forme d'abonnement payant, avec une édition personnelle gratuite limitée à domicile et non commerciale disponible.
+
+\section{Prusa Slicer}
+
+PrusaSlicer est un outil open-source, riche en fonctionnalités et fréquemment mis à jour qui contient tout ce dont vous avez besoin pour exporter des fichiers d'impression parfaits pour votre imprimante 3D Original Prusa.
+
+\section{Carte SD}
+
+
+
+\section{Imprimante 3D}
+""""""""""""""""""""""""""""""""""""
+
+\chapter{Un résumé historique}
+
+Le 16 juillet 1984, Jean-Claude Angré, Olivier de Witte et Alain le Méhauté ont déposé le premier brevet pour ce qui est onnu sous le nom d'impression 3D ou de fabrication additive. Le 1er août de la même année, Chuck Hull a également déposé un brevet pour sa technique de stéréolithographie qui consiste à créer des pièces en ajoutant de la matière à partir de fichiers numériques.
+
+Ces développements ont conduit à la création de la société 3D Systems (ainsi qu'au nom de fichier d'impression ".stl") qui a lancé la première imprimante 3D en 1988. La société Stratasys a également lancé une nouvelle technologie de fabrication additive en 1988, appelée Fused Deposition Modeling (FDM), ouvrant la voie aux imprimantes domestiques que nous connaissons aujourd'hui.
+
+Dès lors, de nombreuses autres technologies ont été développées, notamment l'impression 3D métallique, alimentaire ou de maisons. En 2014, une entreprise chinoise a même annoncé la fabrication d'immeubles à bas prix en utilisant l'impression 3D.
+
+En 2015, Carbon3D a annoncé une nouvelle technologie révolutionnaire appelée CLIP qui utilise de la résine, de la lumière et de l'oxygène pour polymériser les objets à une vitesse sept fois plus rapide que les méthodes d'impression 3D traditionnelles. Hewlett Packard a également annoncé son entrée sur le marché des imprimantes 3D professionnelles avec sa technologie Multi Jet Fusion.
+
+De nous jours, l'impression 3D continue d'évoluer rapidement et de transformer de nombreux secteurs industriels, avec de nouvelles avancées passionnantes à venir.
+
+\chapter{Description et des explications des différentes étapes de la modélisation et de l’impression}
+
+
+
+\chapter{Réponses aux questions}
+
+Question : Qu’est-ce que la fabrication addictive ? Donnez ses différences avec la fabrication
+soustractive. Les imprimantes 3D utilisent quel type de fabrication ?
+
+La fabrication additive, ou impression 3D, est un procédé de fabrication qui crée un objet physique en superposant des matériaux un à un à partir d'un modèle numérique. Contrairement à la fabrication soustractive, qui enlève de la matière pour créer l'objet, la fabrication additive construit des pièces en 3D en ajoutant des couches successives de matériau, sous contrôle informatique [3]. Il est à noter que le terme « fabrication additive » peut désigner d'autres procédés, tels que le prototypage rapide, alors que le terme « impression 3D » est plus restrictif. Les imprimantes 3D utilisent le procédé de fabrication additive pour construire des objets en 3D en superposant des couches de matériau, en suivant les spécifications du modèle numérique.
+
+Question : Que fait la fonction extrusion dans Fusion360 ?
+
+La fonction d'extrusion dans Fusion360 permet de créer des formes en 3D en étirant un profil 2D sur une direction donnée. Elle peut être utilisée pour créer des solides simples tels que des blocs, des cylindres ou des pièces plus complexes en extrudant un profil à plusieurs étages ou en appliquant des opérations booléennes sur des formes extrudées.
+
+Question : Expliquer la fonction « Réseau circulaire ».
+
+La fonction "Réseau circulaire" de Fusion360,  est une fonctionnalité permettant de créer des motifs circulaires de caractéristiques ou d'objets. Elle est souvent utilisée pour créer des pièces qui nécessitent des motifs répétitifs autour d'un axe central. Pour utiliser cette fonction, il faut sélectionner l'objet ou la caractéristique souhaitée ou à répéter, puis définir les paramètres de répétition.
+
+Question : Expliquer la fonctionnalité « Combiner ».
+
+La fonctionnalité "Combiner" de Fusion 360 permet de fusionner plusieurs solides pour n'en former qu'un seul. Cette fonction est utile pour créer des pièces plus complexes en combinant plusieurs éléments simples.
+
+Question : Expliquer l’outil « Congé ».
+
+L'outil "Congé" dans Fusion360 est une fonctionnalité permettant de créer des arrondis sur les bords d'une pièce 3D. Cette fonctionnalité permet d'ajouter des détails esthétiques ou d'améliorer la sécurité en éliminant les arêtes vives.
+
+Question : Qu’est-ce que les format STL et 3MF ? Quelles sont les différences et les similitudes ?
+
+Les formats STL et 3MF sont des formats de fichiers utilisés pour l'impression 3D. Le format STL (STereoLithography) est le plus courant dans le domaine de l'impression 3D. Il s'agit d'un format à base de maillage, qui représente la géométrie d'un modèle en 3D sous forme de triangles. Les imprimantes 3D lisent les fichiers STL pour découper un modèle en couches et l'imprimer.
+
+Le format 3MF (3D Manufacturing Format) est un format de fichier plus récent et plus avancé que le STL. Il est également à base de maillage, mais il offre plus de fonctionnalités tel que le fait d'embarquer les couleurs des pièces, les textures, les propriétés des matériaux, les instructions d'impression et d'autres données supplémentaires avec le fichier. Le format 3MF est également autonome, ce qui signifie qu'il peut contenir toutes les informations nécessaires pour imprimer un modèle, sans avoir besoin de fichiers supplémentaires.
+
+En ce qui concerne les similitudes, les deux formats sont à base de maillage et sont largement utilisés dans le domaine de l'impression 3D. Cependant, la principale différence entre les deux formats réside dans leurs fonctionnalités et leurs capacités. Le format 3MF offre plus de fonctionnalités que le format STL, mais il n'est pas aussi largement utilisé que le format STL. Les deux formats ont leurs avantages et leurs inconvénients, et le choix entre les deux dépendra des besoins spécifiques de l'utilisateur.
+
+En résumé, le format STL est le format de fichier standard pour l'impression 3D et est utilisé depuis longtemps. Le format 3MF est plus avancé et offre plus de fonctionnalités, mais il n'est pas encore aussi largement utilisé que le format STL. Le choix entre les deux formats dépend des besoins spécifiques de l'utilisateur.
+
+Question : Quel est le filament utilisé pour cette manipulation ? Y a-t-il d’autres types de filaments ?
+
+Le Prusament PLA. Il existe plusieurs autres types de filaments pour l'impression 3D, chacun ayant ses propres caractéristiques. Les filaments couramment utilisés incluent l'ABS, le PETG, le TPU, le nylon, le PC, le PVA, etc. Chaque filament a ses propres avantages et inconvénients et peut être utilisé pour différentes applications en fonction des besoins de l'utilisateur.
+
+Décrivez la différents les différents types ?
+
+Le PLA (Acide Polyactique) est l'un des filaments les plus couramment utilisés en raison de sa facilité d'utilisation et de ses caractéristiques d'impression, notamment sa capacité à être imprimé à des températures relativement basses, sa faible odeur et son absence de retrait et de gauchissement (warping).
+
+L'ABS (Acrylonitrile Butadiène Styrène) est un autre filament commun utilisé pour son excellente résistance aux chocs, sa durabilité et sa capacité à être facilement collé. Cependant, il est plus difficile à imprimer que le PLA en raison de sa température de fusion plus élevée et de sa tendance à se rétracter.
+
+Le Nylon est utilisé pour sa résistance à la traction, sa durabilité et sa capacité à être résistant à l'eau. Cependant, il est plus difficile à imprimer que le PLA et l'ABS en raison de sa tendance à absorber l'humidité et de sa température de fusion relativement élevée.
+
+Le TPU (Polyuréthane Thermoplastique) est un filament flexible utilisé pour créer des objets souples et élastiques. Il est également résistant aux produits chimiques et à l'abrasion, mais est plus difficile à imprimer que le PLA en raison de sa tendance à se rétracter et de sa température de fusion relativement basse.
+
+Enfin, le PETG (Polyéthylène Téréphtalate Glycol) est un filament transparent utilisé pour créer des objets résistants aux chocs et aux rayures. Il est également résistant à l'eau et facile à imprimer à des températures relativement basses, bien qu'il soit plus difficile à imprimer que le PLA en raison de sa tendance à se rétracter.
+
+Question : De quoi est composée l’imprimante 3D ? Identifiez les axes X,Y et Z sur le plateau.
+
+L'imprimante 3D est composée de plusieurs éléments, tels que l'extrudeur, la plaque d'impression, le cadre, les axes de déplacement, l'électrotechnique, et les aliments et boissons. Les axes de déplacement sont les éléments qui transmettent les mouvements, généralement désignés par rapport aux axes cartésiens X, Y et Z. Les parties mobiles sont guidées par des tiges et des roulements à billes qui sont en acier inoxydable ou en acier chromé, selon les cas.
+
+Ps : demandez à votre enseignant et aidez-vous du slicer. ATTENTION PAS R2PONDU
+
+Question : qu’est-ce qu’un gcode ?
+
+Le G-code est un langage de programmation utilisé pour contrôler une machine à commande numérique, tel qu'une imprimante 3D ou une fraiseuse CNC. Ce langage permet de programmer les mouvements que la machine doit effectuer. Un fichier GCODE est un fichier contenant une série d'instructions en langage G-code qui est utilisé pour contrôler les machines à commande numérique. Différents programmes peuvent utiliser le type de fichier GCODE pour différents types de données. Le G-code est universellement utilisé dans l'industrie pour la production automatisée. Il permet de dire à la machine où aller, à quelle vitesse et ce qu'elle doit faire en chemin. Il a donc été accepté comme le langage universel pour le fraisage numérique.
+
+Question : Lors du temps de chauffe, quelle température doit avoir l’imprimante pour être
+opérationnelle ?
+
+La température nécessaire pour que l'imprimante 3D soit opérationnelle dépend du matériau utilisé et de la configuration de l'imprimante. Pour l'impression en ABS, il est recommandé d'imprimer dans une atmosphère contrôlée avec une température stable de préférence tiède (30-40°C). Pour le filament PLA, la température peut varier entre 180 et 220°C, en fonction de la vitesse d'impression, de l'épaisseur de couches et du diamètre de la buse. Sur la machine Ender 3, le plateau doit être chauffé à une température comprise entre 50 et 60°C, tandis que la température de la buse doit être entre 200 et 220°C pour l'impression de PLA.
+
+\chapter{Conclusion}
+
+\end{document}
