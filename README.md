@@ -12,6 +12,7 @@ Ce répertoire contient du code Python pour différents exercices et projets.
    - Fichiers et module OS
    - Séquences
    - intro oo
+   - sql
 ## Comment utiliser ce répertoire
 
 ### Utilisation de GitHub Desktop
@@ -103,6 +104,8 @@ Les issues sont des fonctionnalités clés de GitHub qui permettent aux utilisat
     
 
 En utilisant les issues de cette manière, vous pouvez gérer efficacement une liste de tâches et suivre les progrès de votre projet. Vous pouvez également utiliser les fonctionnalités de filtrage et de tri pour organiser vos issues en fonction de leur priorité, de leur statut ou de leur type.
+
+https://www.youtube.com/watch?v=6HWw7rhwvtY
 
 ### Visualisation des images dans Obsidian
 
