@@ -1,0 +1,4 @@
+Bob Smith, 35 ans, grand et mince avec 2 enfants.
+Alice Dupond, 26 ans, possède un chat.
+David Dujardin, 32 ans, aime le cinéma.
+Chris Oliver, 17 ans, seul.
