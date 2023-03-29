@@ -8,19 +8,220 @@
         "type": "tabs",
         "children": [
           {
-            "id": "707235e732b22d19",
+            "id": "381e1e854215d250",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Q2/initiationSystEmbarque/Table de référence, test.md",
+                "file": "Lien des cours.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96adf893440f71c3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a195ea5085c6fc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lien des personnes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "487452faf8e6807e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nathan/Nathan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a7019b746b9e4f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mathias/Mathias.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3ccaf4befe6130f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Damien/Damien.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88f0809ea866d031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lien des cours.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f49833776bfe5eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/Progra/Programmation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e6caf96dc01558d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mathias/Mathias.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df0cdb41f6acf3b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/Progra/Séquences/1- Séquences.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e26233f073e047b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/Progra/Fichiers et module OS/5- Fichiers et module OS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb87004a7e0e5a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/Progra/Exceptions/4- Héritage et Exceptions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1c11010fbfb01a1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1c32ad5977d40e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/initiationSystEmbarque/liens des exercices.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b13bfb6701e11f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/Progra/Séquences/1- Séquences.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b93bef75a38500b4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "presentation graphique du github.canvas",
+                "viewState": {
+                  "x": 20,
+                  "y": 20,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "9d7fdb16c9f61f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Damien/Liste des exercices damien.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -86,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Q2/initiationSystEmbarque/Table de référence, test.md",
+                "file": "Damien/Liste des exercices damien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Q2/initiationSystEmbarque/Table de référence, test.md",
+                "file": "Damien/Liste des exercices damien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Q2/initiationSystEmbarque/Table de référence, test.md"
+                "file": "Damien/Liste des exercices damien.md"
               }
             }
           }
@@ -135,8 +336,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,49 +348,50 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "707235e732b22d19",
+  "active": "9d7fdb16c9f61f40",
   "lastOpenFiles": [
+    "Damien/Damien.md",
+    "Lien des personnes.md",
+    "Lien des cours.md",
+    "presentation graphique du github.canvas",
+    "mathias/Q2/Programmation/Liens des exercices mathias.md",
+    "ludo/Q2/Progra/introOO/3- Orienté Objet.md",
+    "ludo/Q2/Progra/Programmation.md",
+    "ludo/Q2/Progra/Séquences/1- Séquences.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
+    "ludo/Ludo.md",
+    "ludo/Q2/SQL/SQL.md",
+    "ludo/Q2/laboScience/LaboScience.md",
+    "ludo/Q2/PacketTracer/packet tracer.md",
+    "ludo/Q2/initiationSystEmbarque/liens des exercices.md",
+    "Damien/Liste des exercices damien.md",
+    "ludo/Q1/éléctronique appliquée labo q1.md",
+    "Damien/github éléctronique labo/IMG_20230322_145532.jpg",
+    "Damien/github éléctronique labo/IMG_20230322_145540.jpg",
+    "Damien/github éléctronique labo/IMG_20230322_160403.jpg",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
+    "ludo/Q2/Progra/Dictionnaires&Set/2- Dictionnaires et Set.md",
+    "ludo/Q2/Progra/Exceptions/4- Héritage et Exceptions.md",
+    "ludo/Q2/Progra/Fichiers et module OS/5- Fichiers et module OS.md",
+    "mathias/Mathias.md",
+    "ludo/Q2/Progra/introOO/Module 3 – introduction à l’OO/référencement des exercices.md",
+    "Module 3 – introduction à l’OO.md",
+    "Aaron/Aaron.md",
+    "nathan/Nathan.md",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328115925.jpg",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328115909.jpg",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328115658.jpg",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328113902.jpg",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328113858.jpg",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328113826.jpg",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328113825.jpg",
+    "ludo/Q2/initiationSystEmbarque/cheat-sheets.pdf",
+    "ludo/Q2/initiationSystEmbarque/Table de référence, test.md",
     "Aaron/TIR121_TI1I_DuboisAaron/__pycache__/fonctions.cpython-311.pyc",
     "Aaron/TIR121_TI1I_DuboisAaron/__pycache__",
-    "ludo/Q2/laboScience/3D/image (11) - Copie.png",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
-    "ludo/Q2/initiationSystEmbarque/cheat-sheets.pdf",
-    "ludo/Q2/Progra/introOO/Module 3 – introduction à l’OO/référencement des exercices.md",
-    "ludo/Q2/laboScience/3D/image (6) - Copie.png",
-    "ludo/Q2/initiationSystEmbarque/Table de référence, test.md",
-    "cheat-sheets.pdf.md",
-    "cheat-sheets.pdr.md",
-    "cheat-sheets.md",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328093527.jpg",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
-    "Damien/github éléctronique labo/IMG_20230322_160403.jpg",
-    "Damien/github éléctronique labo/IMG_20230322_160356.jpg",
-    "Damien/github éléctronique labo/IMG_20230322_145751.jpg",
-    "Damien/github éléctronique labo/IMG_20230322_145732.jpg",
-    "Damien/github éléctronique labo/IMG_20230322_145720.jpg",
-    "Damien/github éléctronique labo/IMG_20230322_145715.jpg",
-    "Damien/github éléctronique labo/IMG_20230322_145650.jpg",
     "Damien/github éléctronique labo",
-    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
-    "README.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Laboratoire des sciences appliquées à l'informatique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/systm exploit, concepts_230320_175532.pdf",
     "ludo/Obsidian-TI_github/TI/Pasted image/intitation système embarqué, théorie_230321_175206.pdf",
-    "ludo/Obsidian-TI_github/TI/Pasted image/infra réseaux_230313_204333.pdf",
-    "nathan/README.md",
-    "Aaron/README.md",
-    "Damien/README.md"
+    "ludo/Obsidian-TI_github/TI/Pasted image/infra réseaux_230313_204333.pdf"
   ]
 }
