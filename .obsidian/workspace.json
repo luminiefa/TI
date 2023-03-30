@@ -211,12 +211,9 @@
             "id": "9d7fdb16c9f61f40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Damien/Liste des exercices damien.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330134230.png"
               }
             }
           }
@@ -287,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Damien/Liste des exercices damien.md",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330134230.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Damien/Liste des exercices damien.md",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330134230.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Damien/Liste des exercices damien.md"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330134230.png"
               }
             }
           }
@@ -336,7 +333,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -348,27 +346,39 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "9d7fdb16c9f61f40",
+  "active": "5896e84e247d14b3",
   "lastOpenFiles": [
-    "Damien/Damien.md",
-    "Lien des personnes.md",
-    "Lien des cours.md",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328115925.jpg",
+    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330134230.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330133835.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330132726.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330132355.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330130734.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330130525.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330125104.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330124545.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330115900.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230330115510.png",
+    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
     "presentation graphique du github.canvas",
+    "Lien des personnes.md",
+    "Damien/Liste des exercices damien.md",
+    "mathias/Q2/Programmation/5- Fichiers et module OS/test.txt",
+    "mathias/Q2/Programmation/5- Fichiers et module OS/lorem-ipsum.txt",
+    "mathias/Q2/Programmation/5- Fichiers et module OS/ExSupp.py",
+    "Damien/Damien.md",
+    "Lien des cours.md",
     "mathias/Q2/Programmation/Liens des exercices mathias.md",
     "ludo/Q2/Progra/introOO/3- Orienté Objet.md",
     "ludo/Q2/Progra/Programmation.md",
     "ludo/Q2/Progra/Séquences/1- Séquences.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
     "ludo/Ludo.md",
     "ludo/Q2/SQL/SQL.md",
     "ludo/Q2/laboScience/LaboScience.md",
     "ludo/Q2/PacketTracer/packet tracer.md",
     "ludo/Q2/initiationSystEmbarque/liens des exercices.md",
-    "Damien/Liste des exercices damien.md",
     "ludo/Q1/éléctronique appliquée labo q1.md",
-    "Damien/github éléctronique labo/IMG_20230322_145532.jpg",
-    "Damien/github éléctronique labo/IMG_20230322_145540.jpg",
-    "Damien/github éléctronique labo/IMG_20230322_160403.jpg",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
     "ludo/Q2/Progra/Dictionnaires&Set/2- Dictionnaires et Set.md",
     "ludo/Q2/Progra/Exceptions/4- Héritage et Exceptions.md",
@@ -378,15 +388,7 @@
     "Module 3 – introduction à l’OO.md",
     "Aaron/Aaron.md",
     "nathan/Nathan.md",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328115925.jpg",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328115909.jpg",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328115658.jpg",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328113902.jpg",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328113858.jpg",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328113826.jpg",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328113825.jpg",
     "ludo/Q2/initiationSystEmbarque/cheat-sheets.pdf",
-    "ludo/Q2/initiationSystEmbarque/Table de référence, test.md",
     "Aaron/TIR121_TI1I_DuboisAaron/__pycache__/fonctions.cpython-311.pyc",
     "Aaron/TIR121_TI1I_DuboisAaron/__pycache__",
     "Damien/github éléctronique labo",
