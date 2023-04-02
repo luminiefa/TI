@@ -6,3 +6,4 @@ Les manips packet Tracer sont sur oneDrive. Le lien se trouve sur mon readme.
 ![[Pasted image 20230315201456.png]]
 ![[Pasted image 20230315201510.png]]
 ![[Pasted image 20230315201520.png]]
+Reste potentiellement 5 séances

@@ -236,3 +236,5 @@ Question III: L'outil rsync est utilisé pour synchroniser des fichiers entre de
 Question IV: La commande chroot permet de changer la racine du système de fichiers en utilisant un autre répertoire comme racine. Dans ce contexte, elle est utilisée pour changer la racine du système de fichiers de la machine virtuelle vers le répertoire /extract-cd, qui contient les fichiers extraits de l'image ISO.
 
 Question V: L'option --bind de la commande mount permet de monter un répertoire à un emplacement spécifique sans remplacer le répertoire existant à cet emplacement. Cette option est utilisée pour monter les répertoires /dev, /sys et /proc du système hôte dans le système de fichiers de la machine virtuelle. L'option -t indique le type de système de fichiers utilisé pour le montage. Dans ce cas, il s'agit de systèmes de fichiers spéciaux utilisés par Linux pour fournir des informations sur les périphériques, les processus et le système.
+
+# Manip heartbeat
