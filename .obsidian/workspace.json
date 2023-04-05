@@ -11,14 +11,12 @@
             "id": "aa8b924af47877a2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "presentation graphique du github.canvas",
-                "viewState": {
-                  "x": 25,
-                  "y": 451.6291390728477,
-                  "zoom": -0.8839918920346478
-                }
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "presentation graphique du github.canvas",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "presentation graphique du github.canvas",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "presentation graphique du github.canvas"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md"
               }
             }
           }
@@ -152,18 +150,22 @@
   },
   "active": "aa8b924af47877a2",
   "lastOpenFiles": [
-    "Laurent",
-    "Nouveau dossier",
-    "ludo/Q2/tinkercad/ex7/lienEx.txt",
-    "ludo/Q2/tinkercad/ex7/Nouveau document texte.txt",
-    "ludo/Q2/tinkercad/ex7",
-    "ludo/Q2/tinkercad/Nouveau dossier",
-    "ludo/Q2/tinkercad/ex1/lien.txt",
-    "ludo/Q2/tinkercad/ex1/Nouveau document texte.txt",
-    "ludo/Q2/tinkercad/ex1/Sizzling Migelo-Bombul.brd",
-    "ludo/Q2/tinkercad/ex1",
-    "ludo/Q2/tinkercad",
+    "ludo/Q2/SQL/labo6/ex2/ex.sql",
+    "ludo/Q2/SQL/labo6/ex2",
+    "ludo/Q2/SQL/labo6/ex1/ex2/ex.sql",
+    "ludo/Q2/SQL/labo6/ex1/ex2",
+    "ludo/Q2/SQL/labo6/ex1",
+    "ludo/Q2/SQL/labo6/script.sql",
+    "ludo/Q2/SQL/labo6",
+    "ludo/Q2/SQL/labo5/ex3/modif.md",
+    "ludo/Q2/SQL/labo5/ex2/ex1-3.sql",
+    "ludo/Q2/SQL/labo5/ex2/ex1-2.sql",
+    "ludo/Q2/SQL/labo5/ex2/ex1-1.sql",
+    "ludo/Q2/SQL/labo5/ex1/ex.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
     "presentation graphique du github.canvas",
+    "Laurent",
     "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
@@ -194,10 +196,6 @@
     "ludo/Q2/SQL/SQL.md",
     "ludo/Q2/laboScience/LaboScience.md",
     "ludo/Q2/PacketTracer/packet tracer.md",
-    "ludo/Q1/éléctronique appliquée labo q1.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
-    "ludo/Q2/Progra/Dictionnaires&Set/2- Dictionnaires et Set.md",
-    "ludo/Q2/Progra/introOO/Module 3 – introduction à l’OO/référencement des exercices.md",
-    "Module 3 – introduction à l’OO.md"
+    "ludo/Q1/éléctronique appliquée labo q1.md"
   ]
 }
