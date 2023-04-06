@@ -6,8 +6,118 @@
 ## • Corrigez votre schéma pour y introduire l’héritage.
 #Exercices
 ##A
+"""
++-------------------+
+|     Bâtiment      |
++-------------------+
+| adresse           |
+| propriétaire      |
+| superficie        |
+|-------------------|
+| + afficherInfos() |
++-------------------+
+
+       ^
+       |
+       |
++-------------------+                 +------------------+
+|     Immeuble      |-----------------|      Bureau      |
++-------------------+                 +------------------+
+| nbEtages          |                 | nomSociete       |
+| nbAppartements    |                 +------------------+
+|-------------------|
+| + afficherInfos() |
++-------------------+
+"""
 ##B
+"""
++-------------------+
+|     Animal        |
++-------------------+
+| nom               |
+| dateNaissance     |
+| numéroPuce        |
+| taille            |
+| animalConcours    |
+|-------------------|
+| + dormir()        |
+| + manger()        |
++-------------------+
+
+       ^
+       |
+       |
++-------------------+                  +---------------+
+|       Chien       |------------------|      Chat     |
++-------------------+                  +---------------+
+|                   |                  | tailleOreilles|
++-------------------+                  +---------------+
+
+       ^
+       |
+       |
++-------------------+
+|      Lapin        |
++-------------------+
+"""
 ##C
+"""
++------------------+
+|   Personnage     |
++------------------+
+| nom              |
+| force            |
+| vie              |
+| armure           |
+|------------------|
+| + attaquer()     |
+| + prendreDegats()|
+| + seSoigner()    |
++------------------+
+
+       ^
+       |
+       |
++------------------+
+|      Mage        |
++------------------+
+| mana             |
+|------------------|
+| + attaqueMagique()|
++------------------+
+
+       ^
+       |
+       |
++------------------+
+|     Guerrier     |
++------------------+
+| rage             |
+|------------------|
+| + attaqueEnragee()|
++------------------+
+
+       ^
+       |
+       |
++------------------+
+|     Chasseur     |
++------------------+
+| animalCompagnie  |
+|------------------|
+| + attaqueChasse()|
++------------------+
+
+       ^
+       |
+       |
++------------------+
+|      Animal      |
++------------------+
+|------------------|
+| + sauter()       |
++------------------+
+"""
 #Rappel
 ## Rabbit (Lapin)
 class Animal :
@@ -112,3 +222,12 @@ try:
 except Mon_exception as e:
     print(e)
 ##Lancer une exception
+try:
+    x = int(input("Entrez un nombre entre 1 et 10 : "))
+    if x < 1 or x > 10:
+        raise Exception("Le nombre doit être entre 1 et 10")
+except Exception as e:
+    print("Erreur :", e)
+"""
+Si l'utilisateur entre un nombre en dehors de l'intervalle demandé (par exemple, 20), l'exception sera lancée et le message d'erreur "Le nombre doit être entre 1 et 10" sera affiché. Si l'utilisateur entre un nombre correct, aucune exception ne sera lancée et le programme continuera normalement.
+"""

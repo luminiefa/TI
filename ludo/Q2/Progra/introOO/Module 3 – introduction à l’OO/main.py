@@ -1,16 +1,139 @@
 #A. Réflexion
 #1
+"""
+    La programmation orientée objet utilise des objets qui regroupent des données et des méthodes, alors que la programmation procédurale se concentre sur des fonctions qui manipulent des données.
+    La programmation orientée objet utilise l'héritage et le polymorphisme pour créer des relations entre les objets, alors que la programmation procédurale ne le fait pas.
+"""
 #2
+"""
+Le "couplage fort" se réfère au degré d'interdépendance entre deux éléments de code. Si deux éléments sont fortement couplés, un changement dans l'un d'eux peut entraîner des changements dans l'autre. Cela peut rendre le code plus difficile à maintenir et à modifier.
+"""
 #3
+"""
+La réponse 4 est fausse : l'encapsulation n'affecte pas directement l'efficacité du code. Elle peut cependant avoir un impact indirect en facilitant la maintenance et la modification du code.
+"""
 #4
+"""
+Les objets peuvent être distingués par leur état et leur comportement. Les objets différents peuvent avoir des valeurs différentes pour leurs attributs et peuvent répondre différemment aux mêmes messages.
+"""
 #5
+"""
+Les sélecteurs et les modificateurs sont des méthodes d'accès aux attributs d'un objet. Les sélecteurs permettent de récupérer la valeur d'un attribut, tandis que les modificateurs permettent de changer la valeur d'un attribut.
+"""
 #6
+"""
+Une association en UML est une relation entre deux classes qui indique qu'elles sont liées d'une certaine manière. Par exemple, une classe peut avoir une association avec une autre classe si elle possède une référence vers des instances de cette classe.
+"""
 #7
+"""
+Dans une description de classe en python, "self" représente l'instance de la classe elle-même. Les méthodes définies dans la classe prennent toujours "self" comme premier paramètre pour référencer l'objet sur lequel la méthode est appelée.
+"""
 #B. Un peu de modélisation
 ## Quelles critiques/remarques pouvez-vous faire sur ces classes ?
+
 ## Comment doit-on lire les associations suivantes :
+
 ## Modélisez sous la forme de diagrammes UML chacun des points
+"""1
+            0..*   vote   0..1
+    +------------------+              +--------------+
+    |     Electeur     |              |    Candidat  |
+    +------------------+              +--------------+
+    |                  |<>----------->|              |
+    |     nom          |              |     nom      |
+    |   dateNaissance  |              |    parti     |
+    |     email        |              |   programme  |
+    |       …          |              |       …      |
+    +------------------+              +--------------+
+
+"""
+"""2
+
+"""
+"""3
+          2                1       <|-- point1
+    +---------------+    +---------------+
+    |      Droite   |    |     Point     |
+    +---------------+    +---------------+
+    |  nom: string  |    | x: float      |
+    |               |    | y: float      |
+    +---------------+    +---------------+
+       ^              ^
+       |              |
+      p1             p2
+
+"""
+"""4
+              1      aborde     1..*             1..*  contient      1
+        +--------------+           +--------------+           +--------------+
+        |     Cours    |           |    Sujet     |           |  Interrogation|
+        +--------------+           +--------------+           +--------------+
+        |     titre    |           |     nom      |           |     date     |
+        |   nbHeures   |           | importance   |           |      …       |
+        +--------------+           +--------------+           +--------------+
+        |              |<>--------->|              |<>--------->|  question    |
+        |              |           |              |           |      …       |
+        |              |           |              |           |              |
+        +--------------+           +--------------+           +--------------+
+
+"""
+"""5
+         1    est associé à     1
+    +---------------+    +---------------+
+    |      Plat     |    |   Categorie   |
+    +---------------+    +---------------+
+    |     titre     |    |    libellé    |
+    |   concepteur  |    +---------------+
+    |    vegetarien |       ^
+    +---------------+       |
+                             |
+                             |
+                           contient
+                             |
+                             v
+                           1..*
+                          +------+
+                         
+
+"""
 ## Université
+"""
++------------+     1       *     +----------+
+|   Section  |-------------------|   Bloc   |
++------------+                   +----------+
+|   nom      |                   |  numéro  |
++------------+                   |  section |
+                                 +----------+
+                                       *
+                                       |
+                                       |
+                                       1
++------------+       +-------------+       +------------+
+|  Étudiant  |       |  Professeur |       |   Voiture  |
++------------+       +-------------+       +------------+
+|   nom      |       |    nom      |       |   plaque   |
+|  prénom    |       |  prénom     |       |   marque   |
+| dateNaiss. |       | spécialité |       +------------+
+|  blocEtude |       |   section   |
+| finançable |       +-------------+
++------------+
+       *      1           *       1        *
+       |------------------------------|
+       |           donne              |
+       |------------------------------|
+       1                              1
++------------+       +-------------+
+|   Cours    |       |  ProfCours  |
++------------+       +-------------+
+|    nom     |       |             |
+| nbreHeures |       |             |
+|  blocEtude |       |             |
++------------+       |             |
+                     |             |
+                     |             |
+                     +-------------+
+
+"""
 #C. Traduire des classes en python
 ##1. Animal
 class Animal :
@@ -355,4 +478,29 @@ if __name__ == "__main__" :
 ##7. Jouer (enfin presque)
 ##8. Jouez (vraiment ce coup-ci)
 ##Quelques questions
+"""1
+Pour compter les points d'un joueur, on peut ajouter une variable dans la classe du joueur qui stocke le nombre de points. Ensuite, chaque fois que le joueur se déplace, on décrémente cette variable de 1, et si le joueur meurt, on remet cette variable à 0.
+"""
+"""2
+Pour garder en mémoire le meilleur joueur, on peut ajouter une variable dans la classe de la partie qui stocke le score maximum atteint jusqu'à présent. Chaque fois qu'un joueur termine une partie, on compare son score à ce score maximum et on le met à jour si nécessaire. On peut également stocker le nom du joueur ayant atteint ce score maximum.
+"""
+"""3
+Pour permettre à l'utilisateur de choisir ses touches, on peut créer une méthode qui affiche un message demandant à l'utilisateur de choisir une touche pour chaque action du jeu (par exemple, "Appuyez sur la touche 'haut' pour sauter"). Cette méthode peut utiliser la fonction input() pour récupérer la touche choisie par l'utilisateur. On peut stocker ces choix dans des variables et les utiliser dans le reste du programme pour gérer les actions du joueur.
+"""
 ##Pour aller plus loin..
+"""
+Pour empêcher qu'un mur n'apparaisse sur le joueur ou sur un autre mur, on peut mettre en place une vérification avant de créer un mur aléatoire. On peut vérifier si les coordonnées où le mur est censé être créé ne sont pas déjà occupées par un joueur ou un mur existant. Si les coordonnées sont déjà occupées, on peut simplement choisir d'autres coordonnées aléatoires jusqu'à ce qu'on en trouve des valides.
+
+Voici un exemple de code en Python pour effectuer cette vérification :
+"""
+def create_wall():
+    x = random.randint(0, WIDTH - BLOCK_SIZE) // BLOCK_SIZE * BLOCK_SIZE
+    y = random.randint(0, HEIGHT - BLOCK_SIZE) // BLOCK_SIZE * BLOCK_SIZE
+    # Vérifier si les coordonnées sont valides
+    while (x, y) in walls or (x, y) == player.position:
+        x = random.randint(0, WIDTH - BLOCK_SIZE) // BLOCK_SIZE * BLOCK_SIZE
+        y = random.randint(0, HEIGHT - BLOCK_SIZE) // BLOCK_SIZE * BLOCK_SIZE
+    walls.append((x, y))
+"""
+Dans cet exemple, walls est une liste contenant les coordonnées de tous les murs existants, et player.position est un tuple contenant les coordonnées actuelles du joueur. La fonction create_wall() crée un nouveau mur en choisissant des coordonnées aléatoires (x et y) et vérifie si elles sont valides en les comparant avec les coordonnées existantes. Si les coordonnées ne sont pas valides, la fonction choisit d'autres coordonnées aléatoires jusqu'à en trouver des valides.
+"""
