@@ -538,4 +538,100 @@ déterminé à partir du graphique.
 ## Solutions
 ![[Pasted image 20230316183823.png]]
 
+# Chapitre 5 : Compléments sur le magnétisme
+## Introduction
+• Magnétisme : ensemble de phénomènes physiques dans  
+lesquels les objets exercent des forces attractives ou  
+répulsives sur d'autres matériaux
+## Les aimants
+• Un aimant est un corps qui a la propriété d’attirer les métaux  
+ferreux. Cette propriété porte le nom de ferromagnétisme.  
+• Cinq éléments à l’état naturel possédant cette propriété : le  
+cobalt (Co), le dysprosium (Dy), le fer (Fe), le gadolinium (Gd) et  
+le manganèse (Mn).
+## Expérience historique d’Oersted
+![[Pasted image 20230410182006.png]]
+## Champ magnétique créé par un courant électrique  continu (fil)
+![[Pasted image 20230410182020.png]]
+## Champ magnétique créé par un courant électrique  continu (solénoïde)
+![[Pasted image 20230410182034.png]]
+## Les lignes de champs
+• On peut également utiliser des lignes de champ pour représenter le champ magnétique :  
+1. Le champ est toujours tangent à la ligne de champ, dans la direction de la ligne  
+2. Plus les lignes de champ s’approchent des unes des autres, plus le champ est fort  
+3. Le nombre de ligne de champ qui arrivent ou qui partent d’un pôle est proportionnel à l’intensité de ce pôle  
+4. Les lignes de champs ne se croisent pas
+## Conséquences : Câbles à paires torsadées blindées
+![[Pasted image 20230410182054.png]]
+![[Pasted image 20230410182103.png]]
+## Conséquences : Câble à paires torsadées non blindées
+![[Pasted image 20230410182111.png]]
+## Applications : Disques durs
+![[Pasted image 20230410182121.png]]
+## Les plateaux
+• Empilement de plusieurs  
+disques appelés plateaux  
+• Substrat métallique ou en  
+verre recouvert d’une couche  
+de matériau ferromagnétique  
+et protégé par une couche de  
+carbone  
+• Poli afin d’éviter les  
+frottements de l’air
+## La tête de lecture-écriture
+• Possède les dispositifs d’écriture  
+et de lecture, constitués  
+respectivement d’une bobine et  
+d’un circuit électronique  
+• Bobine produit un champ  
+magnétique capable d’orienter  
+les zones de la couche  
+magnétique  
+• A environ 10 nm au dessus des  
+plateaux
+![[Pasted image 20230410182143.png]]
+## Principe d’écriture
+• Courant dans une bobine => champ  
+magnétique  
+• Inversion du courant = changement de  
+sens du champ  
+• En imposant l’un des deux sens à  
+différentes zones de la couche de matériau  
+magnétique, on y enregistre les données,  
+le 0 correspondant à un sens et le 1 à  
+l’autre.
+## Principe de lecture
+• De base, exploitation de l’effet  
+inverse de celui pour l’écriture  
+• Ensuite, mesure de résistance  
+pour la lecture  
+• 1988, GMR  
+(magnétorésistance géante)
+## Le bras de contrôle
+• Permet de positionner la tête  
+sur à la surface du disque  
+avec une précision de l’ordre  
+du micromètre
+
+# CHAPITRE 6 : NOTIONS DE  
+MAINTENANCE
+## 1. Introduction
+## 2. Types de maintenance
+### 2.1 Maintenance corrective
+### 2.2 Maintenance préventive
+#### 2.2.1 Intérêt d’une maintenance préventive
+#### 2.2.2 Gestion du stock des pièces de rechange
+#### 2.2.3 Standardisation
+#### 2.2.4 Planification
+## 3. Les différents niveaux de la maintenance
+### 1er Niveau
+### 2ème Niveau
+### 3ème Niveau
+### 4ème Niveau
+### 5ème Niveau
+## 4. Méthodes de dépannage
+### 4.1 Diagnostic en maintenance corrective
+### 4.2 Dépannage au voltmètre
+#### 4.2.1 Exemple de recherche de panne au  
+voltmètre
 
