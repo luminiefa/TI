@@ -616,22 +616,181 @@ du micromètre
 # CHAPITRE 6 : NOTIONS DE  
 MAINTENANCE
 ## 1. Introduction
+• La maintenance est définie comme étant « l’ensemble des  
+activités permettant de maintenir ou de rétablir un bien dans un  
+état spécifié, ou dans des conditions données de sûreté de  
+fonctionnement, pour accomplir une fonction requise ou assurer  
+un service déterminé  
+• Maintenir = effectuer des opérations permettant de conserver le  
+potentiel du matériel  
+• Ces activités sont une combinaison d’activités techniques,  
+administratives et de management.
 ## 2. Types de maintenance
+![[Pasted image 20230410182329.png]]
 ### 2.1 Maintenance corrective
+• Il s’agit d’une « maintenance effectuée après défaillance ». C’est une  
+politique de maintenance qui correspond à une attitude de réaction à  
+des évènements plus ou moins aléatoires et qui s’applique après la  
+panne. On parle dans ce cas de dépannage.  
+• Selon le CEN 319-003  
+« maintenance exécutée après détection d’une panne et destinée à remettre un  
+bien dans un état dans lequel il peut accomplir une fonction requise ». « ... elle  
+n’est pas exécutée immédiatement après la détection d’une panne, mais est  
+retardée en accord avec des règles de maintenance données. » « ... elle est  
+exécutée sans délai après détection d’une panne afin d’éviter des conséquences  
+inacceptables »
 ### 2.2 Maintenance préventive
+• Maintenance ayant pour objet de réduire la probabilité de défaillance ou de dégradation d’un  
+bien ou d’un service rendu. Cela désigne le remplacement, la révision, ou la réfection d'un  
+élément matériel avant que celui-ci n'entraîne une avarie  
+• 2 types :  
+– Maintenance systématique : CEN WI 319-003 : « maintenance préventive  
+exécutée sans contrôle préalable de l’état du bien et à des intervalles définis. »  
+.« maintenance préventive exécutée en suivant les prévisions extrapolées de  
+l’analyse et de l’évaluation de paramètres significatifs de la dégradation du bien.  
+» « maintenance préventive exécutée selon un calendrier préétabli ou selon un  
+nombre défini d’unités d’usage ».  
+– Maintenance conditionnelle : CEN : « maintenance préventive consistant en une  
+surveillance du fonctionnement du bien et des paramètres significatifs de ce  
+fonctionnement intégrant les actions qui en découlent. La surveillance ... peut  
+être exécutée selon un calendrier, ou à la demande, ou de façon continue. »  
+• Attention: trop de maintenance préventive n’est pas économiquement viable.  
+Chaque industrie doit trouver le niveau à atteindre.
 #### 2.2.1 Intérêt d’une maintenance préventive
+• Anticipation d’une intervention de maintenance grâce à  
+observation visuelle, contact mécanique (vibration, qualité de  
+l’huile, analyse non destructive...) ou par retour d’information  
+électronique (alarmes, électronique, retour défauts sur régime de  
+neutre...)  
+• Objectif : Eviter la panne  
+• Complémentarité entre la maintenance préventive et la  
+maintenance corrective
 #### 2.2.2 Gestion du stock des pièces de rechange
+• Le stock doit être aussi réduit que possible tout en offrant  
+une réponse adaptée aux besoins de la maintenance  
+– Pour les matériels critiques (leur panne entraîne l’arrêt complet  
+de la production), des pièces devront être disponibles en stock  
+afin que le dépannage soit rapide.  
+– Pour des matériels moins critiques, les pièces de rechanges ne  
+seront pas stockées, dans la mesure où leur délai  
+d’approvisionnement chez leur fournisseur sera suffisamment  
+court.
 #### 2.2.3 Standardisation
+• La standardisation est un procédé en entreprise qui permet de gagner du  
+temps et de réduire les coûts. Pour une meilleure efficacité des interventions,  
+tant préventives que correctives, la standardisation sera recherchée à  
+plusieurs niveaux :  
+– Standardisation de la documentation : une documentation classée et  
+rangée de la même manière pour tous les matériels permettra la rapidité  
+et la sécurité des actions de maintenance  
+– Standardisation des interventions : des séquences et/ou des principes  
+communs permettront de mieux appliquer les procédures d’intervention  
+– Standardisation des composants : dans la mesure du possible,  
+l’utilisation de composants standardisés (pompes, vannes, moteurs  
+électriques...) permettra de mieux les connaître, donc de mieux les  
+utiliser, et de diminuer le stock de pièces de rechange.
 #### 2.2.4 Planification
+• L’augmentation de la part de la maintenance préventive permet de  
+planifier les activités de maintenance  
+• Les opérations journalières, hebdomadaires, mensuelles et annuelles  
+sont définies dans des plans de maintenance ;  
+– la maintenance journalière (graissage, contrôle...) est plutôt confiée au  
+personnel de production  
+– la maintenance annuelle, généralement constituée d’opérations lourdes et  
+fortement techniques, est plutôt effectuée par le personnel de maintenance.  
+• Une maintenance planifiée permet à la production d’organiser la  
+fabrication en tenant compte d’arrêts de maintenance prévus à  
+l’avance  
+• Une maintenance planifiée permet également une meilleure gestion du  
+stock de pièces de rechange : celles-ci ne sont approvisionnées qu’au  
+moment voulu pour effectuer l’intervention.
 ## 3. Les différents niveaux de la maintenance
+• Caractérisation de la complexité des actions de  
+maintenance liée à la complexité des procédures et/ ou la  
+complexité d’utilisation ou de mise en œuvre des  
+équipements de soutien nécessaires.  
+• Ils sont au nombre de 5 et leur utilisation pratique n’est  
+concevable qu’entre des parties qui sont convenues de  
+leur définition précise, selon le type de bien à maintenir.
 ### 1er Niveau
+• Les opérations de maintenance classées dans le premier  
+niveau sont celles dont la complexité est réduite et qui ne  
+nécessitent que peu de pièces ou de consommables, voire pas  
+du tout.  
+• Exemples :  
+➢ Échanges d’éléments consommables accessibles en toute sécurité,  
+tels que voyants, huiles, filtres,...  
+➢Type d’intervention effectuée par l’exploitant sans outillage et à l’aide  
+des instructions d’utilisation.
 ### 2ème Niveau
+• Il s’agit toujours d’opérations de maintenance peu complexes,  
+mais qui le sont davantage par rapport à celles du Niveau 1. Ce  
+sont des actions de maintenance préventive ou des  
+dépannages assurés en appliquant des procédures simples.  
+Ces travaux sont confiés à des techniciens ou à des opérateurs  
+ayant reçu une formation spécifique  
+• Exemples :  
+➢Type d’intervention effectuée par un technicien habilité de  
+qualification moyenne  
+➢Transport de pièces de rechange sans délai et à proximité  
+du lieu d’exploitation.  
+➢ Vérification de capteurs
 ### 3ème Niveau
+• Pour les actions de maintenance de Niveau 3, on fait appel à  
+des techniciens spécialisés. Ces derniers peuvent intervenir sur  
+le lieu où se trouve la machine ou dans l’espace dédié au  
+service de maintenance. Les procédures appliquées ici sont  
+plus complexes et un diagnostic est généralement nécessaire  
+avant toute intervention.  
+• Exemples :  
+➢ Tout réglage amenant à faire usage d’instruments de mesure  
+➢Réparations mécaniques mineures.  
+➢Recalibrage d’instruments de mesure
 ### 4ème Niveau
+• Le 4e niveau de maintenance établi par norme AFNOR 60-010  
+englobe les opérations de maintenance de grande importance,  
+nécessitant une expertise technique particulière. Les  
+techniciens chargés d’effectuer ces interventions doivent  
+posséder une qualification spécifique. Ils agissent  
+généralement en équipe et sous la supervision d’un  
+responsable spécialisé.  
+• Exemples :  
+➢Analyse de niveaux de chaleur par infrarouge  
+➢Révision générale d’un équipement
 ### 5ème Niveau
+• Les opérations de maintenance les plus complexes sont celles classées  
+parmi le Niveau 5. En règle générale, elles sont confiées au constructeur  
+ou au reconstructeur, et les moyens mis en œuvre s’apparentent à ceux  
+utilisés dans la fabrication. La maintenance de Niveau 5 est effectuée  
+essentiellement sur les équipements lourds, qui sont ainsi remis en  
+conformité. Elle peut être réalisée en externe, par un prestataire de  
+service spécialisé.  
+• Exemples :  
+➢Travaux de rénovation, de reconstruction ou de réparation importante.  
+➢Rénovation d’une ligne de production en vue d’une amélioration.  
+➢Réparation d’un équipement suite à accident grave
 ## 4. Méthodes de dépannage
+![[Pasted image 20230410182510.png]]
 ### 4.1 Diagnostic en maintenance corrective
+![[Pasted image 20230410182526.png]]
+![[Pasted image 20230410182536.png]]
 ### 4.2 Dépannage au voltmètre
-#### 4.2.1 Exemple de recherche de panne au  
-voltmètre
-
+• Il existe principalement deux types de pannes électriques qui  
+engendrent deux situations de dépannage différentes :  
+- Le circuit électrique est resté sous tension (coupure d’une  
+sécurité par exemple). Dans ce cas le dépannage s’effectue au  
+voltmètre.  
+- Le circuit électrique n’est plus alimenté (court-circuit par  
+exemple). Dans ce cas le dépannage doit se faire à l’ohmmètre.
+![[Pasted image 20230410182554.png]]
+![[Pasted image 20230410182606.png]]
+#### 4.2.1 Exemple de recherche de panne au voltmètre
+• Sur cette même installation, nous allons supposer que le  
+contacteur ne veut pas s’enclencher.  
+Nous allons effectuer une série de mesure et interpréter  
+les résultats possibles.
+![[Pasted image 20230410182622.png]]
+![[Pasted image 20230410182634.png]]
+![[Pasted image 20230410182641.png]]
+![[Pasted image 20230410182648.png]]
+![[Pasted image 20230410182656.png]]
