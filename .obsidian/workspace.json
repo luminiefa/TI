@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182656.png"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182656.png",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182656.png",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182656.png"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png"
               }
             }
           }
@@ -132,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,17 +146,18 @@
   },
   "active": "5896e84e247d14b3",
   "lastOpenFiles": [
+    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112510.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110429.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110352.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110332.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110226.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110140.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110126.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110101.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110022.png",
     "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182656.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182648.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182641.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182634.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182622.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182606.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182554.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182536.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182526.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230410182510.png",
     "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
@@ -183,7 +183,6 @@
     "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
     "presentation graphique du github.canvas",
     "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
     "ludo/Q2/Progra/Séquences/1- Séquences.md",
     "ludo/Q2/initiationSystEmbarque/liens des exercices.md",
     "ludo/Q2/Progra/Exceptions/4- Héritage et Exceptions.md",

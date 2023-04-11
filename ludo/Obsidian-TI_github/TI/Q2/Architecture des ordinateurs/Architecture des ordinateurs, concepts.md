@@ -392,4 +392,475 @@ Containers
 	 Isolation moins forte que avec une VM
 
 
-Chapitre 5 - 64 bits
+# Chapitre 5 - 64 bits
+## Introduction
+● ISA x86 était peu pratique d'utilisation :  
+– Mode d'adressage complexe  
+– Instructions obscures  
+– Instructions de longueur variable  
+– ...  
+● Et pourtant, l'ISA x86 continue à avoir du succès  
+grâce à l'inertie du marché.  
+● Le coût pour passer à l'ISA RISC serait trop élevé.
+## Pourquoi passer au 64 bits ?
+En fait, cette question en englobe deux :  
+– Comment les serveurs 64-bit et le marché du  
+PC utilise l'informatique 64-bit ?  
+– Quelle est l'utilité de l'informatique 64-bit pour  
+le marché du consommateur ?
+## Qu'est-ce que l'informatique 64-bit ?
+● De manière simple, lorsque l'on parle de  
+microprocesseur, les étiquettes 16, 32 et 64  
+bits correspondent au flux de données du  
+processeur.  
+● Plus spécifiquement, cela correspond au  
+nombre de bits que peuvent contenir  
+chacun des GPRs du processeur.
+● Processeur 64-bit : processeur avec des  
+GPRs pouvant stocker des nombres 64-bit.  
+● Instruction 64-bit : instruction travaillant sur  
+des nombres 64-bit stockés dans des  
+GPRs 64-bit.
+## Ordinateur 32-bit vs 64-bit
+![[Pasted image 20230411105004.png]]
+● D'autre part, la largeur du flux données et  
+résultats a lui doublé.  
+● Pour pouvoir gérer ce flux plus large, la  
+taille des registres et la taille des bus  
+alimentant ces registres ont aussi du  
+doublé.
+![[Pasted image 20230411105035.png]]
+## Pourquoi l'informatique 64-bit
+● On commence à répondre à la question de  
+manière simple:  
+– Les données et les registres sont plus grands  
+● La réponse peut en fait être un peu plus  
+complexe si on prend en compte les autres  
+types de données.
+## Types de données en 32-bit et 64-bit
+![[Pasted image 20230411105104.png]]
+## Avantages du 64-bit
+● Dynamic Range (DR)  
+– Des entiers plus larges permettent de  
+représenter plus de nombres...  
+– Le passage du 32 bit au 64 bit permet de  
+multiplier la DR par 4.3 milliards  
+– Un entier 64 bits permet de représenter  
+beaucoup plus de nombres qu'un entier 32  
+bits.
+● Certaines applications (monde scientifique  
+– simulations) ont besoin des entiers 64-  
+bits car ils travaillent avec des nombres  
+sortant de la DR des entiers 32 bits.  
+● Quand le résultat d'un calcul dépasse la  
+fourchette de valeurs d'entiers  
+représentables, on entre en situation  
+d'Overflow ou d'Underflow.
+● Quand ces situations arrivent, le nombre  
+se trouvant dans le registre de résultat  
+n'est pas la réponse correcte.  
+● Un bit dans le PSW signale si le résultat a  
+dépassé le DR, prévenant ainsi de l'erreur.
+● Des GPRs plus grands permettent de  
+représenter des entiers plus grands, mais  
+surtout, de travailler sur des adresses plus  
+grandes !  
+● Les adresses plus grandes sont le principal  
+avantage de l'architecture 64-bit sur la 32-bit.
+● Tous les composants d'un PC avec lequel  
+on communique dispose d'une adresse.  
+● Sans adresse, on ne pourrait pas  
+communiquer directement avec lui.  
+● Toutes les adresses sont représentées par  
+un nombre (un entier)...
+● Or, le nombre de bits composant une  
+adresse va affecter la fourchette  
+d'adresses pouvant être représentées.  
+● Une fourchette d'adresse se nomme  
+espace d'adressage.
+● Le processeur et l'OS travaillent ensemble  
+pour fournir à chaque programme l'illusion  
+qu'il a accès à un espace d'adressage de 4 Go  
+● Rappelez-vous : 232 nombres. Ces 4,3  
+milliard d'octets, soit 4 Go, sont le nombre  
+d'octets qu'un PC 32 bit peut représenter.
+● En 64 bits, l'espace d'adressage est bien  
+plus important.  
+● En théorie : 264 nombres possibles soit 18  
+millions de To d'espace d'adressage.  
+● Dans les faits : 248 nombres soit 282 To de  
+mémoire virtuelle (pouvant supporter 1 To  
+de RAM).
+# Chapitre 6 - Superscalar Execution
+## Introduction
+•Durant les décennies ayant suivi la sortie de  
+l’Intel 8080, le nombre de transistors pouvant  
+être embarqués sur une seule puce ont  
+augmenté considérablement.  
+•Les concepteurs ont cherché de nouvelles  
+manières d’exploiter ces transistors.
+•Ils se sont rendus compte qu’ils pouvaient  
+placer plus d’une ALU sur une puce, les faisant  
+alors travailler en parallèle pour traiter le code  
+plus rapidement.  
+•Les ordinateurs exploitant ce concept furent  
+appelés les ordinateurs superscalaires.
+## L’architecture AR2
+•Version améliorée du AR1 disposant de 2 ALUs.  
+•Capable d’exécuter 2 instructions arithmétiques  
+en parallèle.  
+•Les 2 ALUs partagent les mêmes registres.
+![[Pasted image 20230411105859.png]]
+## Pipeline du AR2
+![[Pasted image 20230411105913.png]]
+## Decode/Dispatch
+•Un petit circuit de « dispatch » vient se placer à  
+la fin de l’étage.  
+•Son rôle est de déterminer si oui ou non, deux  
+instructions peuvent être réalisées en parallèle,  
+c.à.d. sur la même pulsation d’horloge.
+•Si elles peuvent être exécutées en parallèle,  
+l’unité de dispatch en envoie une à la première  
+ALU et l’autre à la deuxième ALU.  
+•Si elles ne peuvent pas être exécutées en  
+parallèle, l’unité de dispatch les envoie dans  
+l’ordre du programme vers la première des deux  
+ALUs.
+## Programming Model
+Le « programming model » ne change pas.  
+Bien que le CPU exécute des instructions en  
+parallèle, l’illusion d’une exécution séquentielle  
+doit être maintenue pour le bien du  
+programmeur.  
+La mémoire centrale continue de voir un flux  
+d’instructions, un flux de données et un flux de  
+résultats.
+## Cycle d’exécution
+•AR2 est capable de « fetch » deux instructions à  
+la fois depuis la mémoire en une pulsation  
+d’horloge.  
+•Il peut également « decode » et « dispatch »  
+deux instructions à chaque pulsation d’horloge.
+![[Pasted image 20230411110022.png]]
+## Architecture superscalaire
+•Permet à un microprocesseur de dépasser le  
+seuil théorique d’une instruction par pulsation  
+d’horloge fixée par l’architecture pipeline  
+simple.  
+•Dans l’exemple précédent, deux instructions  
+sont terminées à chaque pulsation d’horloge,  
+une fois le pipeline chargé.
+Plus un microprocesseur disposera d’ALUs en  
+parallèle, plus le nombre d’instructions  
+terminées par pulsation d’horloge pourra être  
+élevé.  
+Il y a cependant des limites pratiques à ce  
+concept qui seront abordées plus tard.
+Nous nous sommes limités à l’exécution en  
+parallèle d’instructions en ajoutant de nouveaux  
+ALUs.  
+Dans les processeurs modernes, cette mise en  
+parallèle se fait également entre les différentes  
+unités d’exécution et pas seulement à celles  
+propres aux instructions arithmétiques et  
+logiques.
+## Différents types de nombres
+![[Pasted image 20230411110101.png]]
+## Opérations arithmétiques et logiques
+•Opérations arithmétiques: Addition,  
+soustraction, division et multiplication.  
+Compatibles avec tous les types de nombres  
+•Opérations logiques: Opérations booléennes  
+telles que le AND, OR, NOT, XOR, les shifts et les  
+rotations de bits.  
+•Compatibles avec les entiers scalaires et  
+vectoriels.
+![[Pasted image 20230411110126.png]]
+## Processeur Intel Pentium
+![[Pasted image 20230411110140.png]]
+## Distinction entre les ALUs
+Jusqu’ici, nous avons considéré les ALUs comme  
+étant des unités d’exécutions dédiées aux  
+entiers.  
+Dorénavant, ALU sera un terme générique pour  
+les unités d’exécution faisant des opérations  
+arithmétiques ou logiques.
+•IU: integer execution unit. ALU dédié aux  
+entiers.  
+•FPU: floating-point unit. ALU dédié aux  
+nombres à virgules flottantes.
+## Memory-Access Units
+•LSU: Load-Store Unit. Unité responsable des  
+instructions load et store ainsi que du calcul des  
+adresses.  
+•BEU: Branch Execution Unit. Unité responsable  
+de l’exécution des instructions de sauts  
+conditionnels et non conditionnels.
+## Problèmes posés par l’architecture superscalaire
+Certaines conditions peuvent empêcher la mise  
+en parallèle de deux instructions arithmétiques.  
+En plus de perturber l’aspect superscalaire, elles  
+peuvent également créer des bulles dans le  
+pipeline, comme vu lors de la séance  
+précédente.
+## Problèmes liés aux données
+![[Pasted image 20230411110226.png]]
+## Conséquences
+Il faudra attendre que l’instruction 1 soit  
+terminée et fournisse son résultat pour que  
+l’instruction 2 puisse se réaliser.  
+C’est un problème tant pour l’exécution  
+superscalaire que pour l’exécution en pipeline.
+## Conséquences en superscalaire
+Si le programme tourne sur un processeur  
+superscalaire embarquant 2 integer ALUs, les  
+deux instructions ne pourront être exécutées  
+simultanément par les deux ALUs.  
+De fait, l’ALU exécutant la première instruction  
+devra terminer son addition et seulement, l’ALU  
+exécutant la deuxième instruction pourra  
+réaliser son addition.
+## Conséquences en pipeline
+La deuxième instruction add devra attendre que  
+la première instruction ait terminé son étape  
+d’écriture (write) avant de pouvoir entrer dans  
+son étape d’exécution (execute).
+•Le circuit de dispatch devra donc être capable  
+de reconnaître la dépendance entre les deux  
+instructions et devra empêcher l’instruction 2  
+d’entrer dans sa phase d’exécution avant que le  
+résultat de la première ne soit disponible dans le  
+registre C.
+## Techniques employées par les processeurs
+Pour contourner le problème, la plupart des  
+processeurs en pipeline disposent d’une  
+technique appelée forwarding.  
+Le processeur prend le résultat du premier add  
+depuis le port de sortie du premier ALU et le  
+renvoie directement vers le port d’entrée du  
+deuxième ALU, contournant ainsi l’étape  
+d’écriture dans le registre.
+Etant donné qu’un microprocesseur dispose  
+généralement de plus de registres que ceux  
+énoncés dans le programming model, une  
+technique consiste à réattribuer les registres du  
+programming model vers des registres physiques  
+pour éviter les conflits.
+![[Pasted image 20230411110332.png]]
+![[Pasted image 20230411110352.png]]
+Il est cependant impératif que le premier add  
+soit réalisé avant l’écriture du résultat du second  
+add.  
+Le problème est réglé à l’aide de ces registres  
+temporaires: le deuxième add écrit son résultat  
+dans son registre temporaire personnel; une fois  
+que les deux add ont terminé leur exécution en  
+parallèle, le résultat du deuxième add sera placé  
+dans le registre A du programming model après  
+que la première instruction ait elle aussi écrit ses résultats.
+## Problèmes liés à la structure du CPU
+![[Pasted image 20230411110429.png]]
+Cependant, il a été nécessaire de faire quelques  
+modifications dans la structure du processeur.  
+En effet, pour pouvoir permettre l’accès  
+simultané aux registres depuis les 2 ALUs, il a  
+fallu modifier légèrement la méthode de  
+fonctionnement de ces registres pour que 2  
+opérations d’écriture simultanées puissent se  
+faire.
+## Le fichier de registres
+Dans un design superscalaire avec de nombreux  
+ALUs, il aurait fallu une quantité importante de  
+fils connectant chaque registre à chaque ALU.  
+La solution a été de regrouper tous ces registres  
+en une unité spéciale, le fichier de registres.  
+L’unité est un tableau mémoire accessible par le  
+biais d’un bus de données et de 2 ports: un port  
+de lecture et un port d’écriture.
+Au final, chaque ALU est connecté à cette unité à  
+l’aide de 2 ports de lecture, permettant la  
+lecture simultanée de 2 registres, et d’un port  
+d’écriture, lui permettant d’écrire dans les  
+registres indépendamment des autres ALUs.  
+Une interface spéciale permet à l’ALU de lire ou  
+d’écrire dans une registre spécifique de cette  
+zone mémoire.
+•Par exemple si 2 ALU se partagent une fichier  
+de registre, ce dernier aura besoin de 4 ports de  
+lecture et de 2 ports d’écriture.  
+•Evidement, le nombre de ports sur un fichier de  
+registre n’est pas indéfiniment extensible.  
+•Une solution est d’utiliser des fichiers de  
+registres différents pour des types d’opérations  
+différents.  
+•De plus, des registres plus petits (qu’un seul  
+gros) permettent des accès plus rapides.
+## Problèmes liés aux instructions de saut
+Lorsque le processeur arrive à un saut  
+conditionnel, il doit décider de la prochaine  
+instruction à fetch.  
+Dans les anciens processeurs, on devait attendre  
+pendant que l’instruction de saut était évaluée  
+et que l’adresse cible était calculée.  
+ création de bulles dans le pipeline.
+## Techniques employées par les processeurs
+Dans les processeurs modernes, on utilise une  
+technique appelée la prédiction de branchement  
+pour contourner le blocage dû aux instructions  
+de sauts.
+Une fois l’adresse de la prochaine instruction  
+connue, charger l’instruction depuis la mémoire  
+prend également beaucoup de temps (cfr.  
+séance 3), ce qui là aussi, génère un effet de  
+« bulles » important dans le pipeline.  
+Une technique appelée instruction caching  
+permet de réduire cet effet négatif.
+
+# Chapitre 7 - RISC-CISC
+## ISA
+• Soit AR1 et son programming model ainsi que  
+son instruction set déjà rencontrés.  
+• Cet ensemble programing model et instruction  
+set forme l’ISA  
+• L’ISA est l’Instruction Set Architecture
+• Nous avons ensuite introduit un deuxième  
+ordinateur fictif: AR2, rencontré dans le  
+chapitre superscalar.  
+• AR2 avait une architecture matérielle bien  
+distincte de AR1: plusieurs ALU.  
+• Pourtant, pour le programmeur, la logique de  
+fonctionnement restait inchangée: un  
+déroulement séquentiel de son programme
+•  malgré des architectures matérielles  
+différentes, l’ISA de ces deux machines restait  
+inchangé !  
+• En effet, le programming model et l’instruction  
+set de AR1 et AR2 sont identiques malgré des  
+implémentations hardware différentes (des  
+microarchitectures différentes)!
+## Application: les améliorations du Pentium
+• Le pentium est un processeur Intel qui a  
+connu plusieurs versions au cours de son  
+existence.  
+• Ces différentes versions ont été  
+accompagnées de nombreuses améliorations  
+et nouvelles fonctionnalités: MMX  
+(multimedia extensions), SSE (streaming SIMD  
+extensions),SSE2.
+• Ces « nouveautés » nécessitaient:  
+– Des extensions du programming model,  
+– Des extensions de l’instruction set.  
+• Des extensions de l’ISA mais pas de profondes  
+modifications  on conserve ainsi une  
+compatibilité avec l’existant.  
+• Mais au fait, d’où viennent ces idées ?  
+• De chez IBM...
+## Petit historique de l’ISA
+• A l’origine des premiers ordinateurs , les  
+programmes étaient écrits directement pour  
+le hardware unique d’une machine.  
+• Les programmes étaient intimement liés au  
+hardware
+![[Pasted image 20230411112510.png]]
+• Conséquence: un programme écrit pour une  
+machine A n’avait aucune chance de  
+s’exécuter sur une machine B.  
+• Et ce même au sein d’une même marque telle  
+que IBM...  
+• Pour chaque nouvelle génération de  
+machines, il fallait réécrire tous les  
+programmes...  nécessitait beaucoup de  
+temps et d’argent !
+• La solution proposée par IBM pour assurer la  
+portabilité des programmes entre des  
+machines distinctes fut le concept d’ISA (IBM  
+system/360)  
+• L’ISA permet une abstraction par rapport au  
+matériel. Les programmes sont écrits pour  
+une ISA donnée et non plus pour une  
+architecture matérielle précise.
+• Si la microarchitecture du processeur évolue,  
+la compatibilité restera assurée si l’ISA reste  
+inchangée (du moins la partie orientée  
+utilisateur).
+![[Pasted image 20230411112547.png]]
+## Le microcode
+• La première solution pour assurer cette  
+abstraction (IBM system/360) reposait sur un  
+microcode engine.  
+• Composition: une mémoire ROM stockant des  
+microcodes programs et une unité d’exécution  
+qui exécute ces programmes.
+• Fonctionnement:  
+– L’unité microcode lit l’instruction à exécuter.  
+– Elle exécute alors la portion de mémoire ROM qui  
+contient le code correspondant à l’instruction lue.  
+– Cette exécution produit alors une séquence  
+d’instructions machine au format interne du  
+processeur.  
+• Ce mode de fonctionnent est appelé  
+émulation (comparable à un CPU dans un CPU.
+• Lors de l’apparition d’une nouvelle génération de  
+processeurs, les fabricants n’ont qu’à réécrire un  
+microcode adapté de telle sorte que l’ISA proposé à  
+l’utilisateur ne change pas.  
+• Au début, le mode émulé fonctionnait moins vite  
+qu’une exécution directe par le hardware.  
+• Néanmoins, l’avantage lié à la compatibilité entre les  
+versions de CPU a vite fait oublier ce désagrément.  
+• De plus, cette différence de vitesse a été fortement  
+réduite avec le temps.  
+• A la fin des années 60, c’était devenu le mode normal  
+de fonctionnement d’une machine
+## RISC vs CISC
+• A la fin des années 60, les instructions  
+supportées par l’émulation étaient devenues  
+de plus en plus nombreuses et de plus en plus  
+complexes.  
+• Les designers avaient conçu des instructions  
+spécialisées basées sur des microcodes de  
+plus en plus complexes.
+• Ces instructions complexes devaient  
+normalement faciliter la vie des développeurs  
+mais dans la pratique, elles n’étaient pas  
+toujours utilisées.  
+• De plus, plus d’instructions signifie plus de  
+ROM pour le microcode, des CPU de plus en  
+plus volumineux et de plus en plus d’énergie  
+consommée...
+• Certaines personnes ont remis cette tendance  
+en doute, créant ainsi un nouveau  
+mouvement autour du concept de RISC  
+(Reduced instruction set computing).  
+• L’idée était de se débarrasser de tout ce qui  
+était superflu.  
+• Le principe est  
+– de diminuer le nombre d’instructions,  
+– De diminuer la complexité des instructions.
+• Le but recherché:  
+– Obtenir un instruction set plus léger et plus rapide  
+qui peut plus facilement être implémenté dans le  
+hardware sans microcode engine.  
+• Malgré ce retour vers une exécution directe  
+par le hardware, les concepteurs du RISC n’ont  
+pas oublié l’énorme avantage lié à l’ISA (la  
+compatibilité avec les versions précédentes).  
+• Cet avantage et donc l’abstraction vis-à-vis du  
+matériel doit absolument être conservé.
+## Migrer la complexité du hardware vers le software
+• Pour se libérer du microcode tout en gardant les  
+bénéfices liés à l’ISA, les machines RISC ont pu  
+s’appuyer sur les progrès des compilateurs des  
+langages de haut niveau (peu performants  
+auparavant).  
+• Exemple: le langage C  
+• La complexité des instructions a ainsi pu migrer  
+du hardware vers des fonctions software plus  
+complexes proposées par ces langages.
+## CISC
+• CISC (Complex Instruction Set Computing) est  
+un terme créé à postériori pour distinguer les  
+anciennes méthodes des « nouvelles »  
+pensées RISC.
+
+
