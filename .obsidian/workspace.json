@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230414132219.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230414132219.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230414132219.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230414132219.png"
               }
             }
           }
@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,25 +147,26 @@
   },
   "active": "5896e84e247d14b3",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230414132219.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230414132159.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230414132136.png",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Laboratoire des sciences appliquées à l'informatique.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png",
+    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112510.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110429.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110352.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110332.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110226.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110140.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110126.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110101.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110022.png",
-    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
     "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
     "Pasted image 20230410145625.png.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
     "ludo/Q2/PacketTracer/ludo/séance5/manip5.pkt~",
     "ludo/Q2/PacketTracer/ludo/séance6/partie2.pkt~",
@@ -190,7 +192,6 @@
     "mathias/Mathias.md",
     "ludo/Q2/Progra/Programmation.md",
     "Lien des personnes.md",
-    "Damien/Liste des exercices damien.md",
-    "Damien/Damien.md"
+    "Damien/Liste des exercices damien.md"
   ]
 }
