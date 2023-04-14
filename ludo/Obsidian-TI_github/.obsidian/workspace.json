@@ -11,11 +11,9 @@
             "id": "cf799a76c5b87ded",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
-                "mode": "source",
-                "source": false
+                "file": "TI/Pasted image/Pasted image 20230414131028.png"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0ccab9b8f083b2ca",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+                "file": "TI/Pasted image/Pasted image 20230414131028.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+                "file": "TI/Pasted image/Pasted image 20230414131028.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md"
+                "file": "TI/Pasted image/Pasted image 20230414131028.png"
               }
             }
           }
@@ -147,8 +144,19 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "cf799a76c5b87ded",
+  "active": "691668d49734bd05",
   "lastOpenFiles": [
+    "TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+    "TI/Pasted image/Pasted image 20230414131028.png",
+    "TI/Pasted image/Pasted image 20230414131009.png",
+    "TI/Pasted image/Pasted image 20230414130951.png",
+    "TI/Pasted image/Pasted image 20230414130934.png",
+    "TI/Pasted image/Pasted image 20230414130914.png",
+    "TI/Pasted image/Pasted image 20230414130823.png",
+    "TI/Pasted image/Pasted image 20230414130811.png",
+    "TI/Pasted image/Pasted image 20230414130738.png",
+    "TI/Pasted image/Pasted image 20230414130548.png",
+    "TI/Pasted image/Pasted image 20230414130522.png",
     "TI/Q2/Physique appliquée.md",
     "TI/Q2/Télécommunication.md",
     "Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
@@ -162,16 +170,6 @@
     "Systèmes informatiques.md",
     "Electro applique_230213_122636 (1).pdf",
     "TI/Q2/Programmation/Programmation, théorie.md",
-    "Pasted image/Pasted image 20230121144707.png",
-    "Pasted image/Pasted image 20230121144405.png",
-    "Pasted image/Pasted image 20230121144317.png",
-    "Pasted image/Pasted image 20230121144245.png",
-    "Pasted image/Pasted image 20230212113803.png",
-    "Pasted image/Pasted image 20230212113751.png",
-    "Pasted image/Pasted image 20230212113619.png",
-    "Pasted image/Pasted image 20230212112655.png",
-    "Pasted image/Pasted image 20230212112452.png",
-    "Pasted image/Pasted image 20230212111221.png",
     "Q2/Systèmes d'exploitation",
     "Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
     "Q2/Réseaux d'infrastructure",
