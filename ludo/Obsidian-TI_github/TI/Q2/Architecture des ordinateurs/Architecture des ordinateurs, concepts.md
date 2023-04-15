@@ -862,5 +862,86 @@ complexes proposées par ces langages.
 un terme créé à postériori pour distinguer les  
 anciennes méthodes des « nouvelles »  
 pensées RISC.
+# Les composants de ma carte mère
+## Les composants sur la carte mère
+- Au début de l’informatique : pas de standard
+- Succès de l’informatique = besoin de rationalisation de :
+	– Fabrication des ordinateurs
+	– Des logiciels (cf ISA, et autres architectures)
+	– De l’ergonomie (Ctrl-C, Ctrl-V, etc ...)
+- Définition d’une architecture (hwd)
+- Apparition des premiers PC (« personal computers ») construits par IBM.
+- Apparition d’une game de PC compatibles
+
+- Aujourd’hui, c’est pareil
+- Il y a des fabricants de CPU
+- Il y a des fabricants de cartes diverses
+- Et tout doit fonctionner « pareil »
+
+- Aujourd’hui, c’est pareil
+- Il y a des fabricants de CPU
+- Il y a des fabricants de cartes diverses
+- Et tout doit fonctionner « pareil »
+
+- Évolution des performances => évolution de la consommation
+- Technologie actuelle : CMOS
+- Dissipation = puissance dynamique
+- Dépend de la charge capacitive
+- P = Ccharge x U2 x f
+
+- Exemple :
+- Un CPU plus simple de 15 % (ex : RISC)
+- Qui travaille à une tension 15 % + faible
+- À une fréquence 15 % + faible (mode eco)
+- Alors :
+	– Ratio = (0,85) x (0,85)2 x 0,85 = 0,52 = 52%
+
+![[Pasted image 20230414134230.png]]
+- NB, un VAX, c’est ça !
+![[Pasted image 20230414134253.png]]
+●Exemple d’architecture de serveur :
+●Sun Fire x4150 1U
+●(le livre de référence date un peu)
+![[Pasted image 20230414134329.png]]
+![[Pasted image 20230414134349.png]]
+
+●Explication des éléments :
+●Intel Xeon, ce sont les CPU (2)
+●MCH : contrôleur de mémoire
+●DIMMs banques de mémoire
+	– 2 canaux / CPU
+●Slots PCi + controleur RAID
+●IOH ESB-2 : chipset sud
+●AST2000 : chipset nord
+
+- Sur les cartes mères récentes : plus de chipset, mais un PCH (Platform Controler Hub)
+- Le « north chipset » connectait la RAM, le CPU et le port de la carte graphique.
+- Le « south bridge » connectait les périphériques « lents » (HDD, USB, PCi slots, …)
+- Il y a une connexion rapide entre les 2
+
+- Avec le PCH, une grande part des fonctions du north bridge => dans le CPU
+- North bridge éliminé
+- Les fonctions du south bridge => PCH
+
+- Pour les cartes mères, il existe plusieurs formes.
+Il y a des formes pour les boitiers de PC
+- ATX (advance technology extended)
+	- Standard
+	- 1995
+	- 12’’ x 9,6’’
+- AT (advance technology)
+	- 1990 par IBM
+	- 12’’ x 13,8’’
+	- abandonné
+
+- Il y a des formes pour les boitiers de PC
+	– Micro ATX
+		- 9,6’’ x 9,6’’
+		- Pour les petits boitiers
 
 
+- Quid du CMOS et du BIOS
+	– BIOS
+		- Contient le programme de démarrage du PC
+	– CMOS
+		- Est une mémoire qui comprend les réglages de la carte mères
