@@ -392,3 +392,438 @@ produit des signaux présents sur ses deux entrées.
 – La modulation doit permettre à une puissante porteuse d’émettre  
 par voie aérienne les informations utiles.
 ![[Pasted image 20230316180930.png]]
+# chapitre 5 modulation analogique
+## La modulation analogique
+La modulation analogique  
+• Types de modulations analogiques  
+• Modulation d'amplitude  
+• DSB – SSB  
+• Démodulation d'amplitude  
+• Modulation de fréquence  
+• Démodulation de fréquence  
+• Modulation de phase
+![[Pasted image 20230415100713.png]]
+## Types de modulations analogiques
+• Explication  
+	– La transmission d'un signal par liaison hertzienne nécessite « d'accrocher » ce signal à une porteuse (carrier) de haute fréquence, c'est l'opération de modulation.  
+	– L'onde porteuse est un signal sinusoïdal sc(t) de fréquence fc.  
+		![[Pasted image 20230415100737.png]]
+		• Ac : Amplitude de la porteuse  
+		• ωc : Pulsation de la porteuse  
+		• φc : Phase à l'origine de la porteuse  
+		• φc : Phase instantanée de la porteuse
+– Si x(t) est le signal à transmettre, il y a trois méthodes pour « accrocher » le message x(t) à la porteuse.  
+	• La modulation d'amplitude : l'amplitude de la porteuse Ac varie  
+	proportionnellement au message.  
+	• La modulation de fréquence : la fréquence instantanée de la porteuse  
+	varie proportionnellement au message.  
+	• La modulation de phase : la phase  
+	instantanée de la porteuse varie  
+	linéairement avec le message.
+	![[Pasted image 20230415100917.png]]
+## Modulation d'amplitude
+• Définition  
+	– Dans une modulation d'amplitude à porteuse complète,  
+	l'amplitude varie linéairement avec le message à transmettre.  
+	– x(t) étant le signal à transmettre, il va être additionné à  
+	l'amplitude de la porteuse.
+	![[Pasted image 20230415101031.png]]
+• Enveloppe du signal modulé en amplitude
+![[Pasted image 20230415101106.png]]
+• Taux de modulation  
+![[Pasted image 20230415101210.png]]
+![[Pasted image 20230415101219.png]]
+![[Pasted image 20230415101232.png]]
+![[Pasted image 20230415101246.png]]
+• Puissance en modulation d'amplitude  
+	– Une portion très importante de la puissance transmise par la  
+	canal est affectée à la porteuse : 50 % dans le cas d'un taux de  
+	modulation de 1 et d'un signal sinusoïdal modulant.  
+	Seulement 25% de la puissance transmise est affecté à une des  
+	deux bandes latérales pour ce signal.  
+	– La porteuse ne transporte aucune information.  
+	– Les deux bandes latérales correspondant au signal modulant  
+	transportent la même information. La puissance nécessaire à  
+	cette transmission est superflue.
+![[Pasted image 20230415101317.png]]
+![[Pasted image 20230415101335.png]]
+## Démodulation d'amplitude
+![[Pasted image 20230415101348.png]]
+![[Pasted image 20230415101423.png]]
+![[Pasted image 20230415101434.png]]
+## Modulation de fréquence
+• Principe  
+	– Lorsque la tension du signal modulant augmente, la fréquence  
+	du signal modulé augmente et lorsque la tension du signal  
+	modulant diminue, la fréquence du signal modulé diminue.  
+	– Une bande dédiée à la radiodiffusion FM allant de 88 à 108 MHz  
+	a été définie de façon international en 1945  
+	– Quelques avantages :  
+	• puissance constante (volume des stations)  
+	• moindre sensibilité au bruit  
+	• pas de surmodulation  
+	– Inconvénient :  
+	• largeur de bande du signal plus grande qu'en modulation angulaire
+![[Pasted image 20230415101509.png]]
+![[Pasted image 20230415101524.png]]
+![[Pasted image 20230415101535.png]]
+![[Pasted image 20230415101547.png]]
+• Indice de modulation (exercice)  
+	– En radiodiffusion FM, la fréquence des porteuses varie  
+	généralement entre 88 MHz et 108 MHz.  
+	– Dans notre cas :  
+	• la fréquence de la porteuse sera fc = 100 MHz  
+	• l’excursion de fréquence est Δf = 75 kHz  
+	• la fréquence du signal modulant est comprise entre 10 Hz et 15 kHz  
+	– Quelles sont les fréquences instantanées minimale et  
+	maximale ?  
+	– Quelles sont les indices de modulations minimum et maximum ?
+![[Pasted image 20230415101610.png]]
+![[Pasted image 20230415101621.png]]
+## Démodulation de fréquence
+• Démodulation par discriminateur  
+Le but du discriminateur est de dériver le signal modulé en fréquence.  
+L’amplitude est alors proportionnelle au signal modulant. Un détecteur  
+d’enveloppe permet d’extraire uniquement l’amplitude du signal modulant  
+Pour dériver le signal, on utilise un circuit de type filtre qui fait varier l’amplitude  
+en fonction de la fréquence
+![[Pasted image 20230415101641.png]]
+## Modulation de phase
+![[Pasted image 20230415101655.png]]
+• Principe  
+	– On constate que la forme du signal modulé en modulation de phase a la même forme que celui modulé en fréquence.  
+	– Il est en avance d'un quart de période ( 90°), ce qui correspond à une dérivation du signal modulant.
+![[Pasted image 20230415101709.png]]
+# Chapitre 6 modulation numérique
+## La modulation numérique
+![[Pasted image 20230415102100.png]]
+## Transmissions numériques en bande de base
+• Principe  
+– La transmission numérique consiste à transmettre les informations sous  
+forme de signaux numériques.  
+– Des données analogiques devront préalablement être numérisées.  
+– La transformation d'information binaire sous forme d'un signal à deux  
+états est réalisée par un codeur bande de base (Les bits sont  
+représentés par des tensions).  
+– Le signal en bande de base ne subit pas de transposition de fréquence  
+et se réduit à un signal simple codé.  
+– On transmet le signal directement sur le support des signaux
+![[Pasted image 20230415102132.png]]
+• Débit binaire  
+– La source d'information émet des bits de manière régulière au  
+rythme d'un signal d'horloge.  
+– Une caractéristique d'un système de transmission numérique est  
+le nombre de bits transmis par seconde. C'est le débit binaire.  
+– Il dépend de l'application. Il faudra plus de bits/s pour  
+transmettre une image de télévision que pour transmettre de la  
+parole.
+![[Pasted image 20230415102159.png]]
+• Codage NRZ bipolaire (non return to zero)  
+	– Un 0 logique est codé -a pendant la durée du bit  
+	– Un 1 logique est codé +a pendant la durée du bit
+![[Pasted image 20230415102225.png]]
+	– Une suite de 0 ou de 1 est difficile à compter  
+	– Mauvaise adaptation au support (spectre centré sur la fr. nulle)  
+	– Peu de transitions, donc difficulté de synchronisation d'horloge  
+• Codage NRZ unipolaire :  
+	– 0 codé en 0 volt et 1 codé en +a
+• Codage NRZ-I (non return to zero inverted)  
+	– Un 0 logique est codé en restant à l'état précédent  
+	– Un 1 logique est codé en créant une transition  
+	– Une suite de 0 est difficile à compter
+![[Pasted image 20230415102301.png]]
+• Codage RZ (return to zero)  
+	– L'impulsion codant le 1 revient à 0 pendant la deuxième moitié  
+	du bit  
+	– Cette particularité a donné son nom à ce code → RZ
+![[Pasted image 20230415102323.png]]
+• Codage Manchester  
+	– Permet de décaler le spectre du signal vers les fréquences plus  
+	élevées  
+	– Code les états de base par des transitions, non par des niveaux  
+	– Bit de donnée à 0 → front montant  
+	– Bit de donnée à 1 → front descendant
+	![[Pasted image 20230415102345.png]]
+	![[Pasted image 20230415102353.png]]
+	– Beaucoup de transitions, donc facilité de synchronisation d'horloge
+• Exercice  
+	– Codez en NRZ, Manchester et NRZ-I la suite de bits suivants :  
+	1001 1111 0001 0001
+• Quelques applications
+![[Pasted image 20230415102432.png]]
+## Codes détecteurs et correcteurs d’erreurs
+Codes détecteurs et correcteurs d’erreurs  
+• Lorsque des données numériques sont stockées ou transmises, des  
+perturbations (par exemple électromagnétiques) peuvent les endommager.  
+• Les codes détecteurs et correcteurs d’erreurs permettent, de détecter si les  
+données ont été altérées et si c’est le cas, de reconstituer les données  
+d’origine par un mécanisme de correction
+![[Pasted image 20230415102454.png]]
+• Utilisation dans les supports de stockage numériques que sont les CD, DVD  
+et disques Blu-ray.
+• Remarques préliminaires  
+	– Les ordinateurs ne connaissent que les chiffres 0 et 1. Cela suffit pour toutes les tâches  
+	qu’ils effectuent et les chiffres 0 et 1 s’appellent des bits  
+	– L’information est découpée en blocs de 0 et de 1 de longueur fixe, appelés des mots  
+	binaires.  
+	– La raison pour laquelle les ordinateurs travaillent en binaire est liée à leurs composants  
+	physiques : un transistor ou un condensateur possèdent deux états stables  
+	(activé/désactivé ou chargé/déchargé)  
+	– Lors du transfert et/ou du stockage d’information, des erreurs peuvent survenir : de  
+	temps en temps : un 1 devient un 0 ou inversement
+– Les codes détecteurs et correcteurs d’erreurs devront détecter les erreurs de  
+transmission et/ou de stockage et les corriger. Ils utilisent pour cela une stratégie de  
+consolidation, qui consiste à ajouter de l’information redondante.  
+• Avant émission : le codage consiste à consolider l’information par ajout de bits de contrôle.  
+Ces bits de contrôle ne contiennent pas une information nouvelle. C’est pourquoi on parle de  
+bits « redondants ».
+![[Pasted image 20230415102531.png]]
+• Après réception : le décodage consiste, à partir du message reçu et en utilisant les  
+bits de contrôle, à détecter les erreurs puis corriger le message reçu pour retrouver  
+l’information initiale  
+– Deux paramètres pour évaluer l’efficacité : la redondance du code
+![[Pasted image 20230415102554.png]]
+• Exemple : code de parité  
+	– On utilise le code ASCII, chaque caractère occupe 8 bits. Par exemple, le  
+	mot  
+	« HELLO » est représenté par 10010000 10001011 10011001 10011001 10011111  
+	– Chaque caractère est codé sur 7 bits plus 1 bit de parité (bit de contrôle)  
+	en général placé avant les bits d’information  
+	– Le bit de parité est calculé de telle sorte que le nombre total de 1 soit  
+	toujours pair (si on travaille avec un bit de parité pair) :  
+	• Ainsi pour la lettre H (1001000) => Mot de code : 1001000 0  
+	• Ainsi pour la lettre E (1000101) => Mot de code : 1000101 1  
+	– Le code de parité permet de détecter une anomalie lorsqu’il y a un  
+	nombre impair de bits erronés
+	![[Pasted image 20230415102620.png]]
+• Correcteurs d'erreurs  
+	– Permet non seulement de détecter des erreurs, mais aussi de  
+	les corriger.  
+	– Quelques exemples :  
+		• Code de Hamming  
+		• Code de Reed-Solomon  
+		• Codes convolutifs  
+• Entrelacement  
+	– Si les erreurs arrivent en paquet, les codes détecteurs et  
+	correcteurs d'erreurs sont beaucoup moins efficaces.  
+	– L'entrelacement consiste à modifier l'ordre des données pour  
+	qu'une suite d'erreurs consécutives soient transformées en  
+	erreurs isolées après le désentrelacèrent.
+• Exemple didactique d'entrelacement  
+	– On veut transmettre la phrase :  
+	« La télécommunication, c'est génial ! ».
+	![[Pasted image 20230415102714.png]]
+	– Sans entrelacement on reçoit :  
+		« La télécoFFFFFcation, c'est génial ! ».
+• Exemple didactique d'entrelacement  
+	– On veut transmettre la phrase :  
+		« La télécommunication, c'est génial ! ».
+	![[Pasted image 20230415102750.png]]
+	– Avec entrelacement on reçoit :  
+		« LF télécoFmunication,Fc'esF géFial ! ».
+## La modulation ASK
+• Dénominations  
+	– ASK → Amplitude Shift Keying  
+	– Modulation Numérique d'Amplitude  
+• Principe  
+	– Consiste à transmettre  
+	un signal sinusoïdal de  
+	fréquence de la  
+	porteuse fc et  
+	d'amplitude :  
+	• A0 si le bit est 0  
+	• A1 si le bit est 1
+![[Pasted image 20230415102827.png]]
+	– La modulation ASK équivaut une modulation d'amplitude  
+	analogique.  
+	– Le signal à transmettre n'est plus  
+	analogique mais par exemple un  
+	signal NRZ.  
+	– Un cas particulier est la  
+	modulation OOK → On Off Keying.  
+	Dans cette modulation A0 est nulle.  
+	– La puissance émise par la  
+	modulation OOK est nulle  
+	si le bit est à 0 → statistiquement la moitié du temps
+	![[Pasted image 20230415102854.png]]
+• Caractéristiques  
+	– Peu utilisée au-delà du Mbit/s.  
+	– Pas plus d'une dizaine de mètres.  
+	– Quelques applications :  
+		• Clés de voiture  
+		• Portes de garage  
+		• Jouets téléguidés
+## La modulation FSK
+• Caractéristiques  
+	– FSK → Frequency Shift Keying  
+	– Modulation Numérique de Fréquence  
+• Principe  
+	– Consiste à transmettre  
+	un signal sinusoïdal  
+	d'amplitude constante et  
+	de fréquence :  
+		• f0 si le bit est 0  
+		• f1 si le bit est 1  
+	– Quelques applications  
+		• Wi-Fi  
+		• Bluetooth
+![[Pasted image 20230415102949.png]]
+• Modulation 4FSK  
+	– Variante de la modulation FSK.  
+	– La modulation 4FSK permet une modulation à 4 états de  
+	fréquence.  
+	– Permet de diviser l'occupation spectrale par 2 en regroupant les  
+	bits à transmettre 2 par 2.
+![[Pasted image 20230415103015.png]]
+• Modulation AFSK  
+	– Audio FSK.  
+	– La porteuse est un signal audible, transmis par exemple sur une  
+	liaison téléphone ou radio.  
+	– L'AFSK ne permet pas des débits très rapides.  
+	– Les premiers modems utilisaient l'AFSK (jusqu'à 300 bits/s).  
+	– Les premiers micro-ordinateurs utilisaient des modulations AFSK  
+	pour l'enregistrement de programmes sur cassettes audio.
+	![[Pasted image 20230415103043.png]]
+## La modulation PSK
+• Dénomination  
+	– PSK ou BPSK → Binary Phase Shift Keying  
+	– Modulation Numérique de Phase  
+• Principe  
+	– Consiste à transmettre un signal  
+	sinusoïdal d'amplitude constante  
+	dont l'expression est :  
+	• A.cos (ωc.t+φ0) si le bit est 0  
+	• A.cos (ωc.t+φ1) si le bit est 1  
+	– Généralement le déphasage est  
+	• φ1- φ0 = π (180°)  
+	– Applications  
+	• Wi-fi, satellites, DVB, modems, ...
+	![[Pasted image 20230415103110.png]]
+## La modulation QPSK
+• Dénomination  
+	– QPSK → Quadrature Phase Shift Keying  
+• Principe  
+	– Deux porteuses  
+	déphasées de π/2  
+	vont être utilisées.  
+	– La porteuse de référence est  
+	appelée I pour « in phase ».  
+	– L'autre, déphasée de 90°  
+	est appelée Q pour « in quadrature ».  
+	– Les deux porteuses sont codées séparément en BPSK et  
+	additionnées pour former le signal QPSK.  
+	– Un sin déphasé de π/2 peut être écrit comme un cos.
+	![[Pasted image 20230415103139.png]]
+	– Les deux signaux BPSQ sont additionnés pour donner :  
+	±sin(2πf0t)±cos(2πf0t)  
+	– Il y a 4 combinaisons possible:  
+	• 0 0 (0 sur le canal I et 0 sur le canal Q) → -sin(2πf0t)-cos(2πf0t)  
+	• 0 1 (0 sur le canal I et 1 sur le canal Q) → -sin(2πf0t)+cos(2πf0t)  
+	• 1 0 (1 sur le canal I et 0 sur le canal Q) → +sin(2πf0t)-cos(2πf0t)  
+	• 1 1 (1 sur le canal I et 1 sur le canal Q) → +sin(2πf0t)+cos(2πf0t)
+• Constellation  
+	– La constellation QPSK est un graphique qui montre l'amplitude  
+	et la phase de chacune de 4 possibilités.  
+	– Les amplitudes ±1 des sinus sont représentées sur l'axe I  
+	(déphasage nul).  
+	– Les amplitudes ±1 des cosinus sont représentées sur l'axe Q  
+	(déphasage 90°).  
+	– Chaque point représente la somme des 2 canaux.  
+	– Les amplitudes sont les même  
+	mais les déphasages sont :  
+	• 00 → déphasage de 225°  
+	• 01 → déphasage de 135°  
+	• 10 → déphasage de 315°  
+	• 11 → déphasage de 45°
+	![[Pasted image 20230415103255.png]]
+• Analyse d'une constellation reçue  
+	– Un analyseur de champ permet de visualiser une constellation  
+	reçue.  
+	– Ces équipements sont utilisés pour qualifier les installations de  
+	réception télévisée par satellite ou terrestre.  
+	– La modulation QPSK résiste très bien  
+	au bruit, il suffit de déterminer dans  
+	quel quadrant le point se trouve.  
+	Un écart important peut être permis  
+	sans qu'il n'y ait d'erreur.
+	![[Pasted image 20230415103317.png]]
+• Exemple
+![[Pasted image 20230415103333.png]]
+	– Le signal rouge représente la porteuse cohérente.  
+	– En noir, le signal QPSK transmis → l'amplitude reste la même  
+	contrairement à la phase.  
+	– Pour une modulation réelle, la fréquence de la porteuse est  
+	d'environ 100 périodes par symbole.
+## La modulation 8PSK
+• Modulation 8PSK  
+	– Les bits à transmettre sont regroupés par 3.  
+	– Deux points adjacents sur la constellation ne diffèrent que d'un  
+	bit.  
+	– S'il y a une erreur de décodage, elle ne sera que sur un bit et  
+	pourra être plus facilement corrigée.
+	![[Pasted image 20230415103409.png]]
+## La modulation 8QAM
+• Modulation 8QAM  
+	– Il est possible de regrouper plusieurs types de modulation.  
+	– La modulation QAM combine la modulation ASK et PSK.  
+	– Les bits à transmettre sont regroupés par 3 pour 8QAM.  
+	– Il y a donc 8 combinaisons différentes : 23 = 8.  
+	– Prenons 2 amplitudes combinées avec 4 décalages de phases  
+	différents.
+	![[Pasted image 20230415103440.png]]
+	![[Pasted image 20230415103448.png]]
+• Modulation 8QAM  
+	– Quel est la suite de bits suivante :
+	![[Pasted image 20230415103516.png]]
+## La modulation à plus de 4 états
+• Modulation 16QAM  
+	– On regroupe les bits par 4. Les signaux I et Q peuvent avoir 4  
+	états.  
+	• I → ±1V  
+	• I* → ±3V  
+	• Q → ±1V  
+	• Q* → ±3V  
+	– La modulation sera à 16 états d'amplitude et de phase.
+	![[Pasted image 20230415103541.png]]
+	– Avec 16 symboles différents, on peut passer 4 bits (24 = 16).  
+	– La constellation sera alors la suivante.
+	![[Pasted image 20230415103608.png]]
+	– Il existe plusieurs façons de disposer les points, mais deux  
+	points adjacents sur la constellation ne diffèrent que d'un bit.
+• Modulation 16QAM ou 16PSK  
+	– Les deux modulations permettent de coder 4 bits par symboles.  
+	– Les points de la modulation 16QAM sont plus éloignés →  
+	meilleure résistance au bruit.  
+	– L'amplitude des points 16QAM les plus éloignés est plus grande  
+	→ amplificateur plus puissant  
+	– Le choix dépend donc des  
+	priorités :  
+	• Puissance de l'amplificateur  
+	• Résistance au bruit
+	![[Pasted image 20230415103643.png]]
+• Modulation 64QAM et au delà  
+	– 64QAM : On peut créer des signaux I et Q à 8 états. Les bits  
+	sont alors regroupés par 6. On obtient une constellation à 64  
+	(8*8) états d'amplitude et de phase. Cette modulation est utilisée  
+	en TNT.  
+	– 256QAM : Avec des signaux I et Q à 16 niveaux de tension, on  
+	obtient une constellation à 256 (16*16) états d'amplitude et de  
+	phase. Cette modulation est utilisée en télévision par câble.  
+	– On rencontre peu d'application  
+	utilisant une modulation de plus  
+	de 256 états. En effet, la distance  
+	entre deux symboles devient trop  
+	petite et le bruit entraîne alors de  
+	nombreuses erreurs.
+	![[Pasted image 20230415103708.png]]
+• Nombre de bit par symbole  
+	– La modulation QAM est capable de transporter plus de bits  
+	d'information par symbole. En choisissant un nombre d'état QAM  
+	plus élevé, le débit de donnée d'une liaison est augmenté.  
+	– Le tableau ci-dessous donne un résumé des débits en fonction  
+	des types de modulations de données numériques.
+	![[Pasted image 20230415103727.png]]
+
+
+
+

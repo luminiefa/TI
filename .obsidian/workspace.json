@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103727.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103727.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png",
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103727.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,16 +123,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png"
+                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103727.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,20 +147,20 @@
   },
   "active": "5896e84e247d14b3",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112547.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411112510.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110429.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110352.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110332.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110226.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110140.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110126.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110101.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230411110022.png",
-    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
     "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103727.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103708.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103643.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103608.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103607.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103541.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103516.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103448.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103440.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415103409.png",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
