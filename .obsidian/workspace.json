@@ -24,9 +24,12 @@
             "id": "31fa123f88f5292b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210334.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210334.png",
+                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210334.png",
+                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210334.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md"
               }
             }
           }
@@ -162,6 +165,9 @@
   "lastOpenFiles": [
     "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210334.png",
+    "ludo/Q2/PacketTracer/ludo/manip8/manip8-v3.pkt",
+    "ludo/Q2/PacketTracer/ludo/manip8/manip8-v2.pkt",
+    "ludo/Q2/PacketTracer/ludo/manip8/manip8-v1.pkt",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210330.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210327.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210323.png",
@@ -191,9 +197,6 @@
     "Pasted image 20230410145625.png.md",
     "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
     "ludo/Q2/PacketTracer/ludo/séance5/manip5.pkt~",
-    "ludo/Q2/PacketTracer/ludo/séance6/partie2.pkt~",
-    "ludo/Q2/PacketTracer/ludo/séance5/manip5.pkt",
-    "ludo/Q2/PacketTracer/ludo/séance5",
     "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
     "ludo/Q2/SQL/labo5/ex3/modif.md",
