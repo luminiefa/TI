@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
+                "file": "ludo/Q1/éléctronique appliquée labo q1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,81 @@
             }
           },
           {
-            "id": "31fa123f88f5292b",
+            "id": "d223c2297acf06fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
+                "file": "Templates/Exercices terminés.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d35888ab458993fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Exercice.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ece1f617ccd94ebb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "presentation graphique du github.canvas",
+                "viewState": {
+                  "x": -68.93963142744474,
+                  "y": 501.6921652681247,
+                  "zoom": -0.4641327149775077
+                }
+              }
+            }
+          },
+          {
+            "id": "f119d46040e6baaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/SQL/Exercices terminés SQL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "316bb38abb023185",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "presentation graphique du github.canvas",
+                "viewState": {
+                  "x": 39.616674242647264,
+                  "y": 582.9158160849838,
+                  "zoom": -0.4641327149775077
+                }
+              }
+            }
+          },
+          {
+            "id": "1665195262b39e8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -100,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
+                "file": "Lien des cours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
+                "file": "Lien des cours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md"
+                "file": "Lien des cours.md"
               }
             }
           }
@@ -161,9 +230,25 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "5896e84e247d14b3",
+  "active": "316bb38abb023185",
   "lastOpenFiles": [
+    "ludo/Q2/SQL/Exercices terminés SQL.md",
+    "ludo/Q2/SQL/labo8/ex1/Exercices labo 8.md",
+    "presentation graphique du github.canvas",
+    "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
+    "ludo/Q2/PacketTracer/ludo/séance1/manip1.md",
+    "Lien des cours.md",
+    "ludo/Ludo.md",
+    "ludo/Q2/PacketTracer/packet tracer.md",
+    "ludo/Q2/PacketTracer/ludo/manip8/manip8.md",
+    "ludo/Q2/PacketTracer/ludo/Sans titre.md",
+    "Templates/Exercice.md",
+    "Templates/Exercices terminés.md",
+    "ludo/Q1/éléctronique appliquée labo q1.md",
+    "Templates",
+    "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
     "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md",
+    "ludo/Q2/PacketTracer/ludo/manip8/infra reseau_230418_213111 (1).pdf",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210334.png",
     "ludo/Q2/PacketTracer/ludo/manip8/manip8-v3.pkt",
     "ludo/Q2/PacketTracer/ludo/manip8/manip8-v2.pkt",
@@ -182,10 +267,7 @@
     "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées",
     "ludo/Obsidian-TI_github/TI/Q1/languesEtrangères1-Q1",
     "ludo/Obsidian-TI_github/TI/Q1/introductionProgrammation",
-    "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
     "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée",
-    "presentation graphique du github.canvas",
-    "ludo/Q2/PacketTracer/ludo/manip8",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
@@ -196,18 +278,6 @@
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
     "Pasted image 20230410145625.png.md",
     "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
-    "ludo/Q2/PacketTracer/ludo/séance5/manip5.pkt~",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
-    "ludo/Q2/SQL/labo5/ex3/modif.md",
-    "ludo/Q2/SQL/labo5/ex1/ex.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
-    "ludo/Q2/Progra/Séquences/1- Séquences.md",
-    "ludo/Q2/initiationSystEmbarque/liens des exercices.md",
-    "ludo/Q2/Progra/Exceptions/4- Héritage et Exceptions.md",
-    "ludo/Q2/Progra/Fichiers et module OS/5- Fichiers et module OS.md",
-    "mathias/Mathias.md",
-    "ludo/Q2/Progra/Programmation.md"
+    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md"
   ]
 }
