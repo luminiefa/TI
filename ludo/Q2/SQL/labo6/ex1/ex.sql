@@ -72,7 +72,7 @@ VALUES
 (50, 'Dupuis', 'Corinne', 'Co.dupuis@hotmail.com', '0495.45.63.98', NULL);
 
 -- Notez que pour l'attribut "Marie" correspondant à l'ID de l'époux/épouse, nous avons indiqué la valeur NULL pour les personnes non mariées.
-
+-- à corriger ici !!
 -- Enregistrez ensuite le couple suivant :
 INSERT INTO personne (Nom, Prenom, Email, Telephone) VALUES ('Cote', 'Isabelle', 'c.isa@gmail.com', '0478/11.44.56');
 INSERT INTO personne (Nom, Prenom, Email, Telephone, Mari) VALUES ('Tombal', 'Pierre', 'p.tombal@hotmail.com', '0497.19.78.55', 10);
