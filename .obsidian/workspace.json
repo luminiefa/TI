@@ -240,7 +240,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/math.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e0e2164fff90171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -274,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -340,7 +353,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/math.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,7 +370,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/math.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -380,7 +393,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/math.md"
+                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md"
               }
             }
           }
@@ -401,11 +414,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "96b130fa3850b561",
+  "active": "4e0e2164fff90171",
   "lastOpenFiles": [
+    "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md",
+    "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
+    "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
+    "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/math.md",
     "Pasted image 20230420212214.png",
     "présentation détaillées sur les cours.canvas",
-    "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/math.md",
     "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
     "ludo/Q2/PacketTracer/ludo/séance5/manip5.md",
     "ludo/Q1/éléctronique appliquée labo q1.md",
@@ -440,7 +456,6 @@
     "ludo/Q2/SQL/labo5/Exercices Labo 5.md",
     "ludo/Q2/SQL/labo6/Exercices Labo 6.md",
     "ludo/Q2/initiationSystEmbarque/IMG20230328093527.jpg",
-    "ludo/Q2/initiationSystEmbarque/liens des exercices.md",
     "ludo/Q2/initiationSystEmbarque/IMG20230328115925.jpg",
     "ludo/Q2/initiationSystEmbarque/IMG20230328115909.jpg",
     "ludo/Q2/initiationSystEmbarque/IMG20230328115658.jpg",
@@ -448,8 +463,6 @@
     "ludo/Q2/initiationSystEmbarque/IMG20230328113858.jpg",
     "ludo/Q2/initiationSystEmbarque/IMG20230328113826.jpg",
     "ludo/Q2/initiationSystEmbarque/IMG20230328113825.jpg",
-    "ludo/Q2/initiationSystEmbarque/Table de référence, test.md",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210334.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210330.png"
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210334.png"
   ]
 }
