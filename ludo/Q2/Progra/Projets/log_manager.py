@@ -42,12 +42,15 @@ class LogManager:
     def __str__(self):
         output = []
         for program, logs in self.logs.items():
-            sorted_logs = sorted(logs, key=lambda log: log.datetime)
+            sorted_logs = sorted(logs, key=lambda log: log.text)
             output.append(program + ":")
             for log in sorted_logs:
-                output.append(f"    {log.datetime} - {log.source} - {log.text}")
-        output.append(f"TOTAL LOGS: {self.nbr_logs}")
+                output.append("    " + str(log))
+        output.append("TOTAL LOGS: " + str(self.nbr_logs))
         return "\n".join(output)
+
+
+
     
 def load_log_from_file(relative_path):
     logs = []
