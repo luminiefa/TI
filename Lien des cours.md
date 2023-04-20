@@ -49,9 +49,9 @@
 ## Q1
 [[éléctronique appliquée labo q1]]
 ## Q2
-[[ludo/Q2/initiationSystEmbarque/liens des exercices|initiationSystEmbarque]]
-[[Programmation]]
+[[Exercices terminés TinkerCad]]
+[[Exercices termines programmation]]
 [[Exercices terminés packetTracer]]
-[[LaboScience]]
+[[Exercices terminés laboScience]]
 [[Exercices terminés SQL]]
 

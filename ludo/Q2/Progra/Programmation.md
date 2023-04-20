@@ -1,5 +1,0 @@
-[[1- Séquences]]
-[[2- Dictionnaires et Set]]
-[[3- Orienté Objet]]
-[[4- Héritage et Exceptions]]
-[[5- Fichiers et module OS]]

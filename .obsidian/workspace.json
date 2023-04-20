@@ -78,14 +78,155 @@
             "id": "316bb38abb023185",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "presentation graphique du github.canvas",
-                "viewState": {
-                  "x": 39.616674242647264,
-                  "y": 582.9158160849838,
-                  "zoom": -0.4641327149775077
-                }
+                "file": "ludo/Q2/SQL/Exercices terminés SQL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7894367930f40f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/SQL/labo8/ex2/Exercices Labo 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48dde2a50535f06b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/SQL/labo8/ex3/Exercices Labo 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "128a56d2b4e040c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/SQL/labo7/Exercices Labo 7.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d822c3a6616b2f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/PacketTracer/ludo/séance1/manip1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba0db15d621a1767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/PacketTracer/ludo/séance2/manip2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b13838db0ec74516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/PacketTracer/ludo/séance3/manip3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce72cdfcd1892e81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/PacketTracer/ludo/séance4/manip4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cce9871b94769673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/PacketTracer/ludo/séance5/manip5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a11ae04f0a72b874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/PacketTracer/ludo/séance6/manip6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae2011de77bd6fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32339ee305735f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Q2/tinkercad/Exercices terminés TinkerCad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -103,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -169,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lien des cours.md",
+                "file": "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lien des cours.md",
+                "file": "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lien des cours.md"
+                "file": "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md"
               }
             }
           }
@@ -230,54 +371,54 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "316bb38abb023185",
+  "active": "ae2011de77bd6fb1",
   "lastOpenFiles": [
-    "ludo/Q2/SQL/Exercices terminés SQL.md",
-    "ludo/Q2/SQL/labo8/ex1/Exercices labo 8.md",
-    "presentation graphique du github.canvas",
-    "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
+    "ludo/Q2/PacketTracer/ludo/séance7/manip7.md",
+    "ludo/Q2/PacketTracer/ludo/séance6/manip6.md",
+    "ludo/Q2/PacketTracer/ludo/séance5/manip5.md",
+    "ludo/Q2/PacketTracer/ludo/séance4/manip4.md",
+    "ludo/Q2/PacketTracer/ludo/séance3/manip3.md",
+    "ludo/Q2/PacketTracer/ludo/séance2/manip2.md",
     "ludo/Q2/PacketTracer/ludo/séance1/manip1.md",
-    "Lien des cours.md",
-    "ludo/Ludo.md",
-    "ludo/Q2/PacketTracer/packet tracer.md",
+    "ludo/Q2/PacketTracer/ludo/séance2/Sans titre",
     "ludo/Q2/PacketTracer/ludo/manip8/manip8.md",
-    "ludo/Q2/PacketTracer/ludo/Sans titre.md",
-    "Templates/Exercice.md",
-    "Templates/Exercices terminés.md",
-    "ludo/Q1/éléctronique appliquée labo q1.md",
-    "Templates",
-    "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
-    "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md",
-    "ludo/Q2/PacketTracer/ludo/manip8/infra reseau_230418_213111 (1).pdf",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210334.png",
-    "ludo/Q2/PacketTracer/ludo/manip8/manip8-v3.pkt",
-    "ludo/Q2/PacketTracer/ludo/manip8/manip8-v2.pkt",
-    "ludo/Q2/PacketTracer/ludo/manip8/manip8-v1.pkt",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210330.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210327.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210323.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210253.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210249.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210233.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210219.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210200.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210154.png",
-    "ludo/Obsidian-TI_github/TI/Q1/Sans titre.md",
-    "ludo/Obsidian-TI_github/TI/Q1/sécuritéEntreprise",
-    "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées",
-    "ludo/Obsidian-TI_github/TI/Q1/languesEtrangères1-Q1",
-    "ludo/Obsidian-TI_github/TI/Q1/introductionProgrammation",
-    "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée",
+    "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
+    "ludo/Q2/Progra/Exercices termines programmation.md",
+    "ludo/Q2/SQL/Exercices terminés SQL.md",
+    "ludo/Q2/tinkercad/Exercices terminés TinkerCad.md",
+    "ludo/Q2/Progra/Projets/v1_main.py",
+    "ludo/Q2/Progra/Projets/test_program_not_found.py",
+    "ludo/Q2/Progra/Projets/test_main.py",
+    "ludo/Q2/Progra/Projets/test_log_manager.py",
+    "ludo/Q2/Progra/Projets/test_log.py",
+    "ludo/Q2/Progra/Projets/pylintrc",
+    "ludo/Q2/Progra/Projets/program_not_found.py",
+    "ludo/Q2/Progra/Projets/main.py",
+    "ludo/Q2/Progra/Projets/log_manager.py",
+    "ludo/Q2/Progra/Projets/exercices.md",
+    "ludo/Q2/SQL/labo5/Exercices Labo 5.md",
+    "presentation graphique du github.canvas",
+    "ludo/Q2/SQL/labo6/Exercices Labo 6.md",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328093527.jpg",
+    "ludo/Q2/initiationSystEmbarque/liens des exercices.md",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328115925.jpg",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328115909.jpg",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328115658.jpg",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328113902.jpg",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328113858.jpg",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328113826.jpg",
+    "ludo/Q2/initiationSystEmbarque/IMG20230328113825.jpg",
+    "ludo/Q2/initiationSystEmbarque/Table de référence, test.md",
+    "Lien des cours.md",
+    "ludo/Q2/laboScience/Exercices terminés laboScience.md",
+    "ludo/Ludo.md",
+    "ludo/Q2/SQL/labo7/Exercices Labo 7.md",
+    "ludo/Q2/SQL/labo8/ex3/Exercices Labo 3.md",
+    "ludo/Q2/SQL/labo8/ex2/Exercices Labo 2.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, pratique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
-    "Pasted image 20230410145625.png.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md"
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210334.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210330.png"
   ]
 }
