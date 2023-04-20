@@ -208,9 +208,39 @@
             "id": "ae2011de77bd6fb1",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "presentation graphique du github.canvas",
+                "viewState": {
+                  "x": 193.17608165282923,
+                  "y": 742.0834143793148,
+                  "zoom": -0.3044260370307241
+                }
+              }
+            }
+          },
+          {
+            "id": "2aa094dcf0431cff",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "présentation détaillées sur les cours.canvas",
+                "viewState": {
+                  "x": 207.17879110769763,
+                  "y": 1364.346183753571,
+                  "zoom": -2.6666666666666665
+                }
+              }
+            }
+          },
+          {
+            "id": "96b130fa3850b561",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/math.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -244,7 +274,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -310,7 +340,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +357,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -350,7 +380,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md"
+                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/math.md"
               }
             }
           }
@@ -371,20 +401,32 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "ae2011de77bd6fb1",
+  "active": "96b130fa3850b561",
   "lastOpenFiles": [
+    "Pasted image 20230420212214.png",
+    "présentation détaillées sur les cours.canvas",
+    "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/math.md",
+    "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
+    "ludo/Q2/PacketTracer/ludo/séance5/manip5.md",
+    "ludo/Q1/éléctronique appliquée labo q1.md",
+    "presentation graphique du github.canvas",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+    "ludo/Q2/SQL/Exercices terminés SQL.md",
+    "ludo/Q2/SQL/labo8/ex2/Exercices Labo 2.md",
+    "mathias/Q2/Programmation/Liens des exercices mathias.md",
+    "mathias/Mathias.md",
+    "ludo/Q2/Progra/Fichiers et module OS/5- Fichiers et module OS.md",
+    "ludo/Q2/Progra/Projets/projets exercice.md",
+    "ludo/Q2/Progra/Exercices termines programmation.md",
+    "ludo/Q2/Progra/Séquences/1- Séquences.md",
     "ludo/Q2/PacketTracer/ludo/séance7/manip7.md",
     "ludo/Q2/PacketTracer/ludo/séance6/manip6.md",
-    "ludo/Q2/PacketTracer/ludo/séance5/manip5.md",
     "ludo/Q2/PacketTracer/ludo/séance4/manip4.md",
     "ludo/Q2/PacketTracer/ludo/séance3/manip3.md",
     "ludo/Q2/PacketTracer/ludo/séance2/manip2.md",
     "ludo/Q2/PacketTracer/ludo/séance1/manip1.md",
     "ludo/Q2/PacketTracer/ludo/séance2/Sans titre",
     "ludo/Q2/PacketTracer/ludo/manip8/manip8.md",
-    "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
-    "ludo/Q2/Progra/Exercices termines programmation.md",
-    "ludo/Q2/SQL/Exercices terminés SQL.md",
     "ludo/Q2/tinkercad/Exercices terminés TinkerCad.md",
     "ludo/Q2/Progra/Projets/v1_main.py",
     "ludo/Q2/Progra/Projets/test_program_not_found.py",
@@ -395,9 +437,7 @@
     "ludo/Q2/Progra/Projets/program_not_found.py",
     "ludo/Q2/Progra/Projets/main.py",
     "ludo/Q2/Progra/Projets/log_manager.py",
-    "ludo/Q2/Progra/Projets/exercices.md",
     "ludo/Q2/SQL/labo5/Exercices Labo 5.md",
-    "presentation graphique du github.canvas",
     "ludo/Q2/SQL/labo6/Exercices Labo 6.md",
     "ludo/Q2/initiationSystEmbarque/IMG20230328093527.jpg",
     "ludo/Q2/initiationSystEmbarque/liens des exercices.md",
@@ -409,15 +449,6 @@
     "ludo/Q2/initiationSystEmbarque/IMG20230328113826.jpg",
     "ludo/Q2/initiationSystEmbarque/IMG20230328113825.jpg",
     "ludo/Q2/initiationSystEmbarque/Table de référence, test.md",
-    "Lien des cours.md",
-    "ludo/Q2/laboScience/Exercices terminés laboScience.md",
-    "ludo/Ludo.md",
-    "ludo/Q2/SQL/labo7/Exercices Labo 7.md",
-    "ludo/Q2/SQL/labo8/ex3/Exercices Labo 3.md",
-    "ludo/Q2/SQL/labo8/ex2/Exercices Labo 2.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210334.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210330.png"
   ]
