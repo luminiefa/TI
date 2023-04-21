@@ -122,6 +122,7 @@ def load(path_folder):
     return logs
 
 
+
 def menu(available_choices):
     while True:
         for key, value in available_choices.items():

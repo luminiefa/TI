@@ -1,3 +1,4 @@
+import re
 class Log:
     def __init__(self, text, source):
         """
@@ -9,14 +10,17 @@ class Log:
         self.text = text
         self.source = source
 
+    
+
     def get_program(self):
-        words = self.text.split(" ")
-        program = "Unknown"
-        for word in words:
-            if "]" in word:
-                program = word.split("[")[0]
-                break
+        pattern = r"\w+(?=\[\d+\])"
+        match = re.search(pattern, self.text)
+        if match:
+            program = match.group().split('[')[0]  # Prendre seulement la partie avant les crochets
+        else:
+            program = "Unknown"
         return program
+
 
 
 
