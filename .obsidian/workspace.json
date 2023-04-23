@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d04045c78a368f6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q1/éléctronique appliquée labo q1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d223c2297acf06fc",
             "type": "leaf",
             "state": {
@@ -101,103 +88,12 @@
             }
           },
           {
-            "id": "48dde2a50535f06b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q2/SQL/labo8/ex3/Exercices Labo 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "128a56d2b4e040c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q2/SQL/labo7/Exercices Labo 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8d822c3a6616b2f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ludo/Q2/PacketTracer/ludo/séance1/manip1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba0db15d621a1767",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q2/PacketTracer/ludo/séance2/manip2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b13838db0ec74516",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q2/PacketTracer/ludo/séance3/manip3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce72cdfcd1892e81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q2/PacketTracer/ludo/séance4/manip4.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cce9871b94769673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q2/PacketTracer/ludo/séance5/manip5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a11ae04f0a72b874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q2/PacketTracer/ludo/séance6/manip6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -253,7 +149,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4bc3988312f81cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "planning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -287,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -353,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
+                "file": "planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
+                "file": "planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -393,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md"
+                "file": "planning.md"
               }
             }
           }
@@ -414,9 +323,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "4e0e2164fff90171",
+  "active": "5896e84e247d14b3",
   "lastOpenFiles": [
     "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md",
+    "planning.md",
     "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
     "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
     "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/math.md",
@@ -454,7 +364,6 @@
     "ludo/Q2/Progra/Projets/main.py",
     "ludo/Q2/Progra/Projets/log_manager.py",
     "ludo/Q2/SQL/labo5/Exercices Labo 5.md",
-    "ludo/Q2/SQL/labo6/Exercices Labo 6.md",
     "ludo/Q2/initiationSystEmbarque/IMG20230328093527.jpg",
     "ludo/Q2/initiationSystEmbarque/IMG20230328115925.jpg",
     "ludo/Q2/initiationSystEmbarque/IMG20230328115909.jpg",

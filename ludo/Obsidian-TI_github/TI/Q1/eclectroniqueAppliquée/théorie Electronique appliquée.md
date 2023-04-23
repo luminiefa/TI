@@ -131,6 +131,7 @@ En choisissant un sens pour la boucle et le sens des tension positives
 •Couches situées à des niveaux d’énergie précis
 ![[Pasted image 20230418204432.png]]
 ## Théorie des bandes
+https://www.youtube.com/watch?v=g8CwSCepwD8
 •En ajoutant des atomes au système, le nombre de niveaux d’énergie possible augmente.
 • Pour un cristal suffisamment grand: les niveaux se regroupent en bandes
 ![[Pasted image 20230418204509.png]]
