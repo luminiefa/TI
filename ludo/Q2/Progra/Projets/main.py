@@ -24,7 +24,7 @@ def menu(available_choices):
 
 def main():
     log_manager = LogManager()
-    log_manager.add_logs([Log("log1", "/config/data/TI/ludo/Q2/Progra/Projets/dossier/sous_dossier1/syslog.log")])
+    #log_manager.add_logs([Log("log1", "/config/data/TI/ludo/Q2/Progra/Projets/dossier/sous_dossier1/syslog.log")])
 
     while True:
         choice = menu({
@@ -57,11 +57,33 @@ def main():
             #print(test3)
             test4 = load("ludo/Q2/Progra/Projets/dossier/sous_dossier1")
             #print(test4)
-            log = Log("Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded.", "ludo/Q2/Progra/Projets/dossier/sous_dossier1/syslog.log")
-            test5 = log.get_program()
+            log1 = Log("Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded.", "ludo/Q2/Progra/Projets/dossier/sous_dossier1/syslog.log")
+            log2 = Log("Oct 26 02:34:27 kali kali[1]: logrotate.service: Succeeded.", "ludo/Q2/Progra/Projets/dossier/sous_dossier1/syslog.log")
+
+            test5 = log1.get_program()
             #print(test5)
-            test6 = log.__str__()
-            print(test6)
+            test6 = log1.__str__()
+            #print(test6)
+            logs = [log1, log2]
+            logs_trie = log_manager.sort_by_program(logs)
+            #print(logs_trie)
+
+            log_manager.add_logs(logs)
+            # problème avec add_logs
+            # normalement le chemin relatif de dossier est "ludo/Q2/Progra/Projets/dossier" 
+            # alors que mon programme renvoie Le chemin n'existe pas
+            # Chemin absolu: /config/data/TI/sous_dossier1
+            # alors que le chemin absolu est /config/data/TI/ludo/Q2/Progra/Projets/dossier
+            # Après /TI est le problème
+
+            chercher_logs = log_manager.search_logs("kali")
+            #print(chercher_logs)
+
+            nbrLogs = log_manager.nbr_logs
+            #print(nbrLogs)
+
+            print(log_manager.__str__())
+            
         elif choice == 9:
             print("Au revoir !")
             break
