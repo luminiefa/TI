@@ -1,0 +1,54 @@
+{
+  "version": "0.1.5",
+  "settings": {
+    "render": true,
+    "linkify": true,
+    "headingLevel": 1,
+    "highlightAsCloze": false
+  },
+  "noteState": {
+    "1682365163694": {
+      "deck": "FlashCards::Physique::ch1",
+      "hash": "3615cb0415d0c71e1201c51c8db81d52",
+      "tags": []
+    }
+  },
+  "noteTypeState": {
+    "1682358447830": {
+      "name": "Basique",
+      "fieldNames": [
+        "Recto",
+        "Verso"
+      ]
+    },
+    "1682358447832": {
+      "name": "Basique (carte inversée optionnelle)",
+      "fieldNames": [
+        "Recto",
+        "Verso",
+        "Ajouter le verso"
+      ]
+    },
+    "1682358447833": {
+      "name": "Basique (saisissez la réponse)",
+      "fieldNames": [
+        "Recto",
+        "Verso"
+      ]
+    },
+    "1682358447831": {
+      "name": "Généralités (deux sens)",
+      "fieldNames": [
+        "Recto",
+        "Verso"
+      ]
+    },
+    "1682358447834": {
+      "name": "Texte à trous",
+      "fieldNames": [
+        "Texte",
+        "Verso Extra"
+      ]
+    }
+  }
+}

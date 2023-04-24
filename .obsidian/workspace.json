@@ -4,199 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ef1c57b0ee8d21b0",
+        "id": "108a842e1114a333",
         "type": "tabs",
         "children": [
           {
-            "id": "d223c2297acf06fc",
+            "id": "87631541eea84feb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Exercices terminés.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d35888ab458993fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Exercice.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ece1f617ccd94ebb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "presentation graphique du github.canvas",
-                "viewState": {
-                  "x": -68.93963142744474,
-                  "y": 501.6921652681247,
-                  "zoom": -0.4641327149775077
-                }
-              }
-            }
-          },
-          {
-            "id": "f119d46040e6baaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q2/SQL/Exercices terminés SQL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "316bb38abb023185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q2/SQL/Exercices terminés SQL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7894367930f40f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q2/SQL/labo8/ex2/Exercices Labo 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d822c3a6616b2f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q2/PacketTracer/ludo/séance1/manip1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae2011de77bd6fb1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "presentation graphique du github.canvas",
-                "viewState": {
-                  "x": 193.17608165282923,
-                  "y": 742.0834143793148,
-                  "zoom": -0.3044260370307241
-                }
-              }
-            }
-          },
-          {
-            "id": "2aa094dcf0431cff",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "présentation détaillées sur les cours.canvas",
-                "viewState": {
-                  "x": 207.17879110769763,
-                  "y": 1364.346183753571,
-                  "zoom": -2.6666666666666665
-                }
-              }
-            }
-          },
-          {
-            "id": "96b130fa3850b561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e0e2164fff90171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4bc3988312f81cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "planning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32339ee305735f11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q2/tinkercad/Exercices terminés TinkerCad.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1665195262b39e8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,16 +28,6 @@
         "id": "848f50649672ac10",
         "type": "tabs",
         "children": [
-          {
-            "id": "5896e84e247d14b3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "9f18e282d277611d",
             "type": "leaf",
@@ -241,12 +50,23 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "91d5d748ca41b620",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 509.5
   },
   "right": {
     "id": "5d6086e019be0f50",
@@ -262,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "planning.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -320,50 +136,52 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "note-synchronizer:Import Note Types": false,
+      "note-synchronizer:Synchronize": false
     }
   },
-  "active": "5896e84e247d14b3",
+  "active": "91d5d748ca41b620",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md",
-    "planning.md",
-    "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
-    "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
-    "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/math.md",
-    "Pasted image 20230420212214.png",
+    "FlashCards/Physique/wtf.md",
+    "FlashCards/init.Systm.Embarqué/test good maybe.md",
+    "FlashCards/init.Systm.Embarqué/et le voltage bro.md",
+    "Templates/Basique (saisissez la réponse).md",
+    "Templates/Basique.md",
+    "Templates/Texte à trous.md",
+    "Templates/Exercices terminés.md",
+    "Templates/Généralités (deux sens).md",
+    "FlashCards/Physique/ch1/Sachant que la vitesse de la lumière est d’environ 300 000 kms  et qu un rayon du soleil atteint la terre environ 8 min calculez la  distance terre-soleil.md",
+    "FlashCards/Physique/ch1",
+    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
+    "FlashCards/Physique/frite.md",
+    "FlashCards/Physique/poulet mayo.md",
+    "FlashCards/Physique/last try.md",
+    "FlashCards/Physique/fuck you.md",
+    "FlashCards/Physique/fuck.md",
+    "FlashCards/Physique/la poutine.md",
+    "FlashCards/Physique/unités de base (SI).md",
+    "FlashCards/init.Systm.Embarqué/from obsidian.md",
+    "FlashCards/Physique",
     "présentation détaillées sur les cours.canvas",
-    "ludo/Q2/PacketTracer/Exercices terminés packetTracer.md",
-    "ludo/Q2/PacketTracer/ludo/séance5/manip5.md",
-    "ludo/Q1/éléctronique appliquée labo q1.md",
     "presentation graphique du github.canvas",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
-    "ludo/Q2/SQL/Exercices terminés SQL.md",
-    "ludo/Q2/SQL/labo8/ex2/Exercices Labo 2.md",
-    "mathias/Q2/Programmation/Liens des exercices mathias.md",
-    "mathias/Mathias.md",
-    "ludo/Q2/Progra/Fichiers et module OS/5- Fichiers et module OS.md",
-    "ludo/Q2/Progra/Projets/projets exercice.md",
-    "ludo/Q2/Progra/Exercices termines programmation.md",
-    "ludo/Q2/Progra/Séquences/1- Séquences.md",
-    "ludo/Q2/PacketTracer/ludo/séance7/manip7.md",
-    "ludo/Q2/PacketTracer/ludo/séance6/manip6.md",
-    "ludo/Q2/PacketTracer/ludo/séance4/manip4.md",
-    "ludo/Q2/PacketTracer/ludo/séance3/manip3.md",
-    "ludo/Q2/PacketTracer/ludo/séance2/manip2.md",
     "ludo/Q2/PacketTracer/ludo/séance1/manip1.md",
+    "ludo/Q2/SQL/labo8/ex2/Exercices Labo 2.md",
+    "ludo/Q2/SQL/Exercices terminés SQL.md",
+    "Templates/Basique (carte inversée optionnelle).md",
+    "FlashCards/init.Systm.Embarqué/volatage ma couille.md",
+    "FlashCards",
+    "init.Systm.Embarqué/voltage de l'arduino.md",
+    "FlashCards/init.Systm.Embarqué",
+    "FlashCards/test anki.md",
+    "FlashCards/test2 anki.md",
+    "FlashCards",
+    "Pasted image 20230420212214.png",
     "ludo/Q2/PacketTracer/ludo/séance2/Sans titre",
-    "ludo/Q2/PacketTracer/ludo/manip8/manip8.md",
-    "ludo/Q2/tinkercad/Exercices terminés TinkerCad.md",
     "ludo/Q2/Progra/Projets/v1_main.py",
     "ludo/Q2/Progra/Projets/test_program_not_found.py",
     "ludo/Q2/Progra/Projets/test_main.py",
     "ludo/Q2/Progra/Projets/test_log_manager.py",
-    "ludo/Q2/Progra/Projets/test_log.py",
-    "ludo/Q2/Progra/Projets/pylintrc",
-    "ludo/Q2/Progra/Projets/program_not_found.py",
-    "ludo/Q2/Progra/Projets/main.py",
-    "ludo/Q2/Progra/Projets/log_manager.py",
-    "ludo/Q2/SQL/labo5/Exercices Labo 5.md",
     "ludo/Q2/initiationSystEmbarque/IMG20230328093527.jpg",
     "ludo/Q2/initiationSystEmbarque/IMG20230328115925.jpg",
     "ludo/Q2/initiationSystEmbarque/IMG20230328115909.jpg",
