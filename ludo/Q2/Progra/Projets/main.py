@@ -13,9 +13,10 @@ from log import Log
 def load_log_from_file(relative_path):
     logs = []
     abs_path = os.path.abspath(relative_path)
+    
     try:
         source = os.path.dirname(abs_path)
-        with open(relative_path, "r") as file:
+        with open(abs_path, "r") as file:
             for line in file:
                 logs.append(Log(line.strip(), source))
     except FileNotFoundError:
@@ -28,10 +29,10 @@ def load_log_from_file(relative_path):
     return logs
 
 
+
 def load_logs_from_folder(folder_path):
     logs = []
-    abs_path = os.path.abspath(folder_path)
-    
+
     try:
         for filename in os.listdir(folder_path):
             file_path = os.path.join(folder_path, filename)
@@ -41,6 +42,7 @@ def load_logs_from_folder(folder_path):
                     logs.extend(file_logs)
         return logs
     except FileNotFoundError:
+        abs_path = os.path.abspath(folder_path)
         print("Le chemin du dossier n'existe pas")
         print("Chemin absolu:", abs_path)
         return None
@@ -48,14 +50,26 @@ def load_logs_from_folder(folder_path):
         print("Une erreur s'est produite:", e)
         return None
 
+
 def get_folders_and_subfolders(folder_path):
     folder_list = []
     abs_path = os.path.abspath(folder_path)
-    
+
     if not os.path.exists(folder_path):
         print("Le chemin du dossier n'existe pas")
         print("Chemin absolu:", abs_path)
         return None
+
+    try:
+        for root, dirs, files in os.walk(folder_path):
+            for d in dirs:
+                relative_path = os.path.join(root, d)
+                folder_list.append(os.path.relpath(relative_path, start=os.path.abspath(os.curdir)))
+        return [folder_path] + folder_list
+    except Exception as e:
+        print("Une erreur s'est produite:", e)
+        return None
+
 
     try:
         for root, dirs, files in os.walk(folder_path):
@@ -88,18 +102,6 @@ def menu(available_choices):
             return int(user_choice)
         else:
             print("Choix invalide. Veuillez réessayer.")
-
-
-def menu(available_choices):
-    while True:
-        for choice, description in available_choices.items():
-            print(f"{choice}: {description}")
-        user_input = input("Entrez le numéro de votre choix: ")
-        if user_input.isnumeric() and int(user_input) in available_choices.keys():
-            return int(user_input)
-        else:
-            print("Entrée non valide. Veuillez entrer un numéro de choix valide.\n")
-
 
 def main():
     log_manager = LogManager()
@@ -135,7 +137,7 @@ def main():
             test3 = get_folders_and_subfolders("ludo/Q2/Progra/Projets/dossier")
             #print(test3)
             test4 = load("ludo/Q2/Progra/Projets/dossier/sous_dossier1")
-            #print(test4)
+            print(test4)
             log1 = Log("Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded.", "ludo/Q2/Progra/Projets/dossier/sous_dossier1/syslog.log")
             log2 = Log("Oct 26 02:34:27 kali kali[1]: logrotate.service: Succeeded.", "ludo/Q2/Progra/Projets/dossier/sous_dossier1/syslog.log")
 
@@ -161,7 +163,7 @@ def main():
             nbrLogs = log_manager.nbr_logs
             #print(nbrLogs)
 
-            print(log_manager.__str__())
+            #print(log_manager.__str__())
             
         elif choice == 9:
             print("Au revoir !")
