@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c436f6a20ec4ab7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, labo/NTFS/Sous Windows certains SID sont identiques peu importe les systèmes Veuillez choisir une réponse. Vrai Faux.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FlashCards/systm.Exploit, labo/NTFS/Sous Windows certains SID sont identiques peu importe les systèmes Veuillez choisir une réponse. Vrai Faux.md",
+                "file": "FlashCards/Pasted image 20230501132128.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FlashCards/systm.Exploit, labo/NTFS/Sous Windows certains SID sont identiques peu importe les systèmes Veuillez choisir une réponse. Vrai Faux.md",
+                "file": "FlashCards/Pasted image 20230501132128.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FlashCards/systm.Exploit, labo/NTFS/Sous Windows certains SID sont identiques peu importe les systèmes Veuillez choisir une réponse. Vrai Faux.md"
+                "file": "FlashCards/Pasted image 20230501132128.png"
               }
             }
           }
@@ -150,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +150,22 @@
       "note-synchronizer:Synchronize": false
     }
   },
-  "active": "c436f6a20ec4ab7b",
+  "active": "91d5d748ca41b620",
   "lastOpenFiles": [
-    "planning.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
+    "FlashCards/Pasted image 20230501132128.png",
+    "FlashCards/Pasted image 20230501132115.png",
+    "FlashCards/Pasted image 20230501132103.png",
+    "FlashCards/Pasted image 20230501132039.png",
+    "FlashCards/Pasted image 20230501132011.png",
+    "FlashCards/Pasted image 20230501131950.png",
+    "FlashCards/Pasted image 20230501131932.png",
+    "FlashCards/Pasted image 20230501131914.png",
+    "FlashCards/Pasted image 20230501131857.png",
+    "FlashCards/Pasted image 20230501131836.png",
+    "présentation détaillées sur les cours.canvas",
     "FlashCards/systm.Exploit, labo/NTFS/Sous Windows certains SID sont identiques peu importe les systèmes Veuillez choisir une réponse. Vrai Faux.md",
+    "planning.md",
     "FlashCards/systm.Exploit, labo/NTFS",
     "FlashCards/systm.Exploit, labo",
     "FlashCards/Physique/ch1/Sachant que la vitesse de la lumière est d’environ 300 000 kms  et qu un rayon du soleil atteint la terre environ 8 min calculez la  distance terre-soleil.md",
@@ -181,7 +178,6 @@
     "Templates/Exercices terminés.md",
     "Templates/Généralités (deux sens).md",
     "FlashCards/Physique/ch1",
-    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
     "FlashCards/Physique/frite.md",
     "FlashCards/Physique/poulet mayo.md",
     "FlashCards/Physique/last try.md",
@@ -191,7 +187,6 @@
     "FlashCards/Physique/unités de base (SI).md",
     "FlashCards/init.Systm.Embarqué/from obsidian.md",
     "FlashCards/Physique",
-    "présentation détaillées sur les cours.canvas",
     "presentation graphique du github.canvas",
     "ludo/Q2/PacketTracer/ludo/séance1/manip1.md",
     "ludo/Q2/SQL/labo8/ex2/Exercices Labo 2.md",
@@ -199,21 +194,10 @@
     "Templates/Basique (carte inversée optionnelle).md",
     "FlashCards/init.Systm.Embarqué/volatage ma couille.md",
     "FlashCards",
-    "init.Systm.Embarqué/voltage de l'arduino.md",
     "FlashCards/init.Systm.Embarqué",
     "FlashCards",
-    "Pasted image 20230420212214.png",
     "ludo/Q2/PacketTracer/ludo/séance2/Sans titre",
     "ludo/Q2/Progra/Projets/v1_main.py",
-    "ludo/Q2/Progra/Projets/test_program_not_found.py",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328093527.jpg",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328115925.jpg",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328115909.jpg",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328115658.jpg",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328113902.jpg",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328113858.jpg",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328113826.jpg",
-    "ludo/Q2/initiationSystEmbarque/IMG20230328113825.jpg",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230418210334.png"
+    "ludo/Q2/Progra/Projets/test_program_not_found.py"
   ]
 }

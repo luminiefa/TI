@@ -859,3 +859,289 @@ les résultats possibles.
 ![[Pasted image 20230410182641.png]]
 ![[Pasted image 20230410182648.png]]
 ![[Pasted image 20230410182656.png]]
+
+# CHAPITRE 7: NOTIONS DE  CRYPTOGRAPHIE QUANTIQUE
+## 1. Introduction
+L’information quantique est un domaine récent et en plein  
+développement en matière de sciences, de technologies de  
+l’information et de communication.  
+• L’essor de l’information quantique est venu de plusieurs avancées,  
+notamment :  
+	– La mécanique quantique (1920-1940) est la théorie fondamentale décrivant  
+	microscopiquement la matière.  
+	– Les composants électroniques des ordinateurs actuels n’ont pu être développés que grâce à la  
+	compréhension quantique des phénomènes atomiques ce qui mena au transistor (1947)  
+	– La découverte par Peter Shor en 1994 d’un algorithme basé sur les principes de la mécanique  
+	quantique qui permet de factoriser un grand nombre entier en facteurs premiers dans un  
+	temps « raisonnable »
+• Les champs d’application de l’information quantique  
+concernent essentiellement deux secteurs :  
+	– Le calcul quantique : les algorithmes quantiques  
+	exploitent des caractéristiques des états quantiques  
+	- le principe de superposition des états, le principe  
+	de la mesure projective - qui conduisent pour  
+	certains problèmes à une réduction drastique de la  
+	complexité  
+	– La communication de l’information : par exemple  
+	la sécurisation de l’échange de clés secrètes de  
+	codage (cryptographie quantique) mais aussi le  
+	transfert de l’information (téléportation quantique).  
+• Ordinateur quantique :  
+	– L’informatique quantique est en voie de redéfinir les  
+	limites de la puissance de traitement de certains  
+	algorithmes.  
+	– Le fonctionnent de ce type d’ordinateur repose sur  
+	des théories quantiques tel que la superposition  
+	quantique et l’intrication quantique
+## 2. Prélude
+• Superposition quantique  
+– Une particule de l’infiniment petit peut se trouver dans un état indéterminé avant toute mesure.  
+– La position d’une particule quantique est incertaine : elle n’est pas à un point A ou un point B, mais a seulement une probabilité d’être ici ou là lors d’une mesure. Par contre, après la mesure, l’état de la particule est bien défini : elle est au point A ou au point B.
+![[Pasted image 20230501130432.png]]
+• Intrication quantique  
+– Phénomène quantique dans lequel  
+deux particules au moins partagent  
+les mêmes propriétés. Quand on  
+mesure l'état de l'une d'entre elles,  
+les autres particules intriquées  
+prennent instantanément la même  
+valeur, indépendamment de la  
+distance entre elles.  
+– En fait, les deux particules ne  
+forment pas deux systèmes  
+indépendants mais un seul.  
+– On parle alors d’intrication  
+quantique.
+![[Pasted image 20230501130456.png]]
+• Bit classique et bit quantique  
+– La notion élémentaire d’information classique 1 est  
+le bit (binary digit) qui prend deux valeurs 0 ou 1.  
+– Les calculs sont alors réalisées par l’ordinateur et  
+reposent alors sur des systèmes à deux états :  
+alimentation « up/down » interrupteur «on/off »,  
+condensateurs « chargés – déchargés »  
+– Le bit quantique ou qubit peut lui aussi se trouver  
+dans deux états 0/1 mais qui sont maintenant les  
+états d’un système quantique ; pour les distinguer  
+des états classiques, on les note ۧ |0 ou ۧ |1 (notation  
+de Dirac)  
+– On n’a plus uniquement 2 valeurs possibles mais  
+une quasi infinité de valeurs entre 0 ou 1 qu’on peut  
+écrire sous la forme ۧ  
+|𝜓 = 𝛼ۧ |0 +ۧ 𝛽|1  
+Où 𝛼 et 𝛽 représentent des complexes donnant les  
+probabilités
+![[Pasted image 20230501130705.png]]
+## 3. Algorithmes quantiques
+• Peter Shor a publié en 1994 un algorithme quantique permettant  
+de résoudre les problèmes de la factorisation.  
+• L'algorithme de Shor nécessite un ordinateur quantique d'environ  
+8 000 qubits intriqués pour factoriser une clé RSA de 4 096 bits.
+![[Pasted image 20230501130724.png]]
+• Un autre algorithme est également utilisé pour les ordinateurs quantique : l’algorithme de  
+Grover.  
+• Il permet de trouver la solution en la racine carrée d’essais par rapport à un ordinateur  
+classique.  
+– Un ordinateur classique a besoin de tester 256 clés pour essayer de déchiffrer un algorithme de  
+chiffrement tel que le Data Encryption Standard  
+→ 72 057 594 037 927 936  
+– Un ordinateur quantique exécutant l’algorithme de Grover doit en effectuer 228  
+→ 268 435 456  
+• En imaginant qu’un an soit nécessaire à un ordinateur classique pour casser une clé de 64  
+bits, il an faudrait 7,3 ms pour un ordinateur quantique utilisant l’algorithme de Grover
+• La cryptographie quantique n’a rien à voir avec l’ordinateur quantique.  
+• Elle ne fait pas reposer la sécurité sur des problèmes mathématiques  
+réputés difficiles mais sur des lois physiques de la mécanique  
+quantique.  
+• Le recours à ces propriétés est utilisé au moment de l’échange de clés  
+: ce n’est pas le chiffrement qui est quantique mais le partage des  
+clés.  
+• Dans le folklore anglo-saxon standard en matière de cryptographie, on  
+appelle Alice et Bob les personnes qui échangent le message et Eve  
+(comme eavesdropper, l’espion(ne))
+• BB84  
+– En 1984 les chercheurs Charles H. Bennett et Gilles Brassard proposent  
+le premier protocole de cryptographie quantique : le protocole BB84.  
+– Ce protocole est basé sur l’échange de photons polarisés
+![[Pasted image 20230501130800.png]]
+• Pour coder son message, Alice dispose d’une source de photons « un par un »  
+qu’elle envoie sur un polariseur.  
+• Elle oriente le polariseur horizontalement ou verticalement selon qu’elle veuille  
+produire un 0 ou un 1.  
+• Bob reçoit les photons dans un analyseur qui détermine leur polarisation.  
+• Si on en restait là, un espion qui intercepte le message peut procéder  
+exactement comme Bob , lire le message, et le retransmettre à Bob sans que  
+celui-ci ne s’aperçoive de rien  
+• L’idée du protocole BB84 est alors de rajouter une base de polarisation dans  
+laquelle on incline les polariseurs à 45°
+• Les photons  
+– Dans le transport de clé quantique, l'information est transportée par les  
+photons.  
+– Chaque photon peut être polarisé : on impose une direction à son champ  
+électrique.  
+– Pour le protocole BB84, la polarisation va être forcée à 4 valeurs.
+![[Pasted image 20230501130829.png]]
+• Détection des photons  
+– Pour détecter la polarisation d’un photon, il faut utiliser un filtre polarisant.  
+– 2 types de filtre vont être utilisés devant le détecteur:  
+• filtre polarisant orienté à 0°ou 90 °  
+• filtre polarisant orienté à 45°ou 135°
+![[Pasted image 20230501130906.png]]
+– Le choix du filtre de détection va définir la base  
+utilisée pour la détection d’un photon.
+![[Pasted image 20230501130921.png]]
+• Canaux utilisés  
+– Deux canaux vont être utilisés pour procéder à l’échange de clé.  
+• Un canal quantique mis en place pour les photons polarisés.  
+• Un canal public afin d’échanger les informations mais de façon non protégée.
+![[Pasted image 20230501130937.png]]
+• Comment Alice et Bob procèdent-ils pour se transmettre  
+l’information ?  
+• Alice va coder son message en binaire en choisissant  
+aléatoirement, pour chaque bit, la base de polarisation,  
+⊕ ou ⊗, mais en notant la succession de choix de  
+bases.  
+• Lors de la réception des photons Bob de son côté  
+procède de même avec l’orientation de son analyseur et  
+conserve lui aussi les différents choix qu’il a fait et  
+communique publiquement cette liste à Alice.  
+• Alice compare cette liste à la sienne et transmet à Bob ,  
+toujours publiquement, l’intersection des deux listes  
+c’est à dire quelles sont les positions des bits dans la  
+séquence qui auront bien la même valeur pour Alice et  
+Bob puisque pour ces bits là ils auront tous les deux  
+utilises le même choix de codage :  
+• Seuls les bits détectés avec la bonne base sont  
+conservés.  
+• Certains bits restant sont comparés par le canal public,  
+ils seront retirés de la clé.  
+• Ce processus est utilisé pour détecter une éventuelle  
+présence d’Eve (voir explication plus loin). Les bits  
+sécurisés restant forment la clé secrète.
+![[Pasted image 20230501130957.png]]
+• Que se passe-t-il si Eve écoute sur le canal quantique ?  
+– Lorsque Eve « écoute » un photon, elle doit obligatoirement en réémettre  
+un. Sinon Bob ne le recevra pas.  
+– Il lui sera impossible de réémettre un photon avec exactement les mêmes  
+propriétés que celui d’origine. Ceci a été démontré par le théorème  
+d'impossibilité du clonage quantique (1982).
+![[Pasted image 20230501131011.png]]
+• Si un espion intercepte un photon, il va lire la polarisation dans l’une des deux bases qu’il choisira,  
+lui-aussi aléatoirement. Ce faisant il va projeter la polarisation du photon intercepté sur l’état qu’il  
+lit.  
+• Par exemple supposons qu’Alice ait envoyé un photon ۧ |→ , donc un 0 et qu’Eve utilise la base ⊗ ;  
+il va trouver avec une chance sur deux, et lire ۧ |↘ dans ce cas la bonne valeur, 0.  
+• Le photon est maintenant projeté dans l’état ۧ |↘ et parvient à Bob ; supposons que Bob ait fait le  
+même choix de base qu’Alice, ⊕ donc il a une chance sur deux de lire c’est à dire une valeur  
+différente de celle du bit émis. Donc l’interception du photon par un espion peut modifier la valeur  
+du bit, avec une probabilité de 25% (50%×50%).  
+• Vu qu’Alice et Bob s’échangent en clair une partie de leur clé, s’ils détectent des erreurs, c’est  
+qu’ils sont sur écoute
+# Matériaux et fabrication assistée par ordinateur
+## Introduction
+• Conception:  
+– Modélisation  
+– Choix du matériau  
+– Fabrication
+## Matériaux
+Tableau de kirchkof
+![[Pasted image 20230501131409.png]]
+### Matériaux: Classement
+• Métaux:  
+➢ Molécules composées d’éléments métalliques  
+• Céramiques:  
+➢ Molécules composées de mélanges d’éléments dont des non-métaux  
+• Matériaux organiques (souvent polymères):  
+➢ Molécules contenant du carbone  
+• Composites:  
+➢ Matériaux composés de mélanges des trois précédents
+#### Métaux
+• Solides cristallins covalents
+![[Pasted image 20230501131444.png]]
+• Exemples: Fer, Cuivre, Laiton (Alliage Cu+Zn)
+![[Pasted image 20230501131500.png]]
+#### Céramiques
+• Solides cristallins ioniques ou covalents  
+• Exemples: Carbure de tungstène, Corindon (rubis/saphir),...
+![[Pasted image 20230501131525.png]]
+#### Organiques (polymères)
+• Solides amorphes covalents  
+• Longue molécules entremêlées → état solide  
+• Exemples: Teflon, Bakélite, PLA,..
+![[Pasted image 20230501131548.png]]
+#### Composites
+• Mélanges de solides des type précédents  
+• Exemples: Beton armé, Fibre de carbone,..
+![[Pasted image 20230501131615.png]]
+## Fabrication
+![[Pasted image 20230501131632.png]]
+### Fabrication par déformation
+• Forgeage
+![[Pasted image 20230501131720.png]]
+• Emboutissage 
+![[Pasted image 20230501131731.png]]
+➢ Ecrouissage  
+• Déformation augmente  
+la dureté  
+• Création de dislocation  
+empêche le glissement
+![[Pasted image 20230501131740.png]]
+### Fabrication par fusion
+• Moulage:  
+– Matériaux liquide
+![[Pasted image 20230501131804.png]]
+• Frittage:  
+– Matériaux en poudre
+![[Pasted image 20230501131813.png]]
+### Fabrication soustractive
+• Tournage:
+![[Pasted image 20230501131836.png]]
+• Fraisage:
+![[Pasted image 20230501131857.png]]
+• Découpe:  
+– Laser  
+– Plasma  
+– Eau
+![[Pasted image 20230501131914.png]]
+### Fabrication additive
+• Powder Bed Fusion (PBF):  
+– De la poudre est étalée par  
+couche.  
+– Après chaque couche, un laser ou  
+flux d’électrons vient faire fondre  
+et fusionner les particules.  
+– Permet les structures suspendues  
+(chaque couche repose sur la  
+précédente)
+![[Pasted image 20230501131932.png]]
+• Fused Deposition Modelling (FDM):  
+– Un filament (généralement thermoplastique)  
+est extrudée dans la buse (nozzle)  
+– La buse se déplace dans les 3 dimensions de  
+l’espace par rapport à la pièce  
++ Peu couteux et rapide  
+- Sensible mécaniquement  
+entre les couches
+![[Pasted image 20230501131950.png]]
+• Dépôt de matériau et fusion (DED):  
+– Laser/Plasma/Flux électrons fond  
+le matériau en fur et à mesure qu’il est  
+déposé.  
+– Sous forme de poudre ou de fil:  
+• Aluminium, alliages de nickel, ...  
+– Système de mouvement à 4 ou 5 axes ou un  
+bras robotisé pour positionner la tête de dépôt
+![[Pasted image 20230501132011.png]]
+• Photopolymérisation :  
+– Cuve contenant une résine de monomères  
+– En éclairant avec une lumière UV certains  
+endroits la résine polymérise et devient donc  
+solide  
++ Rapidité  
+- Matériaux limités
+![[Pasted image 20230501132039.png]]
+## Imprimante Laboratoire
+![[Pasted image 20230501132103.png]]
+## Impression 3D
+![[Pasted image 20230501132115.png]]
+![[Pasted image 20230501132128.png]]
