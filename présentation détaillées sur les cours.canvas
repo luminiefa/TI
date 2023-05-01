@@ -18,7 +18,7 @@
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md","id":"9854fe55fcc9d8e3","x":-1045,"y":3300,"width":400,"height":400},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md","id":"cef0aa62ae1f07ba","x":-1680,"y":3300,"width":400,"height":400},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Laboratoire des sciences appliquées à l'informatique.md","id":"abf0db4eca0e672a","x":-1440,"y":3800,"width":400,"height":400},
-		{"id":"319ac11b1bb30fd5","x":2407,"y":3602,"width":250,"height":60,"type":"text","text":"Plus que à corriger"},
+		{"type":"text","text":"Plus que à corriger","id":"319ac11b1bb30fd5","x":2407,"y":3602,"width":250,"height":60},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md","id":"b7e0f3f654a3c7b1","x":-2400,"y":77,"width":960,"height":1120},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md","id":"41af0f88af3bf265","x":-1760,"y":4360,"width":400,"height":400},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md","id":"f7d4eccbffb86c42","x":-220,"y":3400,"width":400,"height":400},
@@ -28,14 +28,14 @@
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, labo.md","id":"3d59ae18fd4bbb3a","x":380,"y":4080,"width":400,"height":400},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md","id":"0e962d0298d395a8","x":-1060,"y":4360,"width":400,"height":400},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md","id":"740b2787c311f9b0","x":-2160,"y":3800,"width":400,"height":400},
-		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md","id":"85374d7d1375f908","x":-1200,"y":5480,"width":400,"height":400},
-		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md","id":"09e9148ce61904ad","x":-600,"y":5480,"width":400,"height":400},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md","id":"cc390590c3c4713a","x":-60,"y":5480,"width":400,"height":400},
-		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md","id":"37383b466f974692","x":-1760,"y":5480,"width":400,"height":400},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md","id":"fbaf67eb37364b83","x":1520,"y":4960,"width":400,"height":400},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, théorie.md","id":"395a93f190d5b520","x":520,"y":4560,"width":400,"height":400},
-		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md","id":"8888f9365b0bc6ae","x":-1760,"y":4960,"width":400,"height":400},
-		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md","id":"cc8c8c01c2bac286","x":-1200,"y":4960,"width":400,"height":400}
+		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md","id":"cc8c8c01c2bac286","x":-60,"y":4960,"width":400,"height":400},
+		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md","id":"8888f9365b0bc6ae","x":-660,"y":4960,"width":400,"height":400},
+		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md","id":"09e9148ce61904ad","x":-1200,"y":4960,"width":400,"height":400},
+		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md","id":"37383b466f974692","x":-660,"y":5480,"width":400,"height":400},
+		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md","id":"85374d7d1375f908","x":-60,"y":6000,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"3f11be596e15475a","fromNode":"848d78e225319326","fromSide":"bottom","toNode":"8793b078d9f73caf","toSide":"top"},

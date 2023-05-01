@@ -4,23 +4,195 @@
     "type": "split",
     "children": [
       {
-        "id": "108a842e1114a333",
+        "id": "c36f36940a623d83",
         "type": "tabs",
         "children": [
           {
-            "id": "87631541eea84feb",
+            "id": "0891e95387232817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "planning.md",
+                "file": "FlashCards/systm.Exploit, concepts/Quels sont les objectifs principaux de l'ordonnancement en informatique..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ba599672114dbc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, concepts/Expliquez la différence entre l'ordonnancement préemptif et non-préemptif..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c85e82870a9c8fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, concepts/Décrivez brièvement les mécanismes d'ordonnancement suivants , FCFS, Shortest Job First, Round Robin et par files de priorités multiniveaux..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4e7b4169eebd2fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, concepts/Quel algorithme d'ordonnancement est utilisé par le noyau Linux..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0432584cc68c5c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, concepts/Quels sont les trois problèmes principaux que doit résoudre la gestion de la mémoire..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "528781abde57e423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, concepts/Comparez et contrastez la segmentation et la pagination en matière de gestion de la mémoire..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acf9993f8d2bbabd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, concepts/Qu'est-ce que la mémoire virtuelle et comment fonctionne-t-elle ..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02eb803df1ac3e02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, concepts/Définissez les termes fichier logique et fichier physique et expliquez leur relation..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cb74e6835fac87c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, concepts/Décrivez les trois modes d'accès aux fichiers logiques et donnez un exemple d'utilisation pour chacun..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f7bff0e9f0250af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, concepts/Quelles sont les méthodes d'allocation de blocs physiques pour les fichiers et comment fonctionnent-elles ..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3cd99cf8200137f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, concepts/Qu'est-ce qu'un répertoire et quel rôle joue-t-il dans la gestion des fichiers ..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03528a60eac57959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, concepts/Quels sont les droits d'accès standards pour les fichiers et comment peuvent-ils être modifiés..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "007f120f7522ed11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, concepts/Comparez et contrastez les systèmes de fichiers NTFS et EXT3 en termes de structure, capacité de stockage et fonctionnalités..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12c73038c5f100ea",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "présentation détaillées sur les cours.canvas",
+                "viewState": {
+                  "x": 129.51909683363243,
+                  "y": 3938.529707851214,
+                  "zoom": -1.8256629401414928
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -71,7 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 654.5
   },
   "right": {
     "id": "5d6086e019be0f50",
@@ -87,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FlashCards/Pasted image 20230501132128.png",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FlashCards/Pasted image 20230501132128.png",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FlashCards/Pasted image 20230501132128.png"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md"
               }
             }
           }
@@ -136,7 +308,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,22 +323,39 @@
       "note-synchronizer:Synchronize": false
     }
   },
-  "active": "91d5d748ca41b620",
+  "active": "12c73038c5f100ea",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
-    "FlashCards/Pasted image 20230501132128.png",
-    "FlashCards/Pasted image 20230501132115.png",
-    "FlashCards/Pasted image 20230501132103.png",
-    "FlashCards/Pasted image 20230501132039.png",
-    "FlashCards/Pasted image 20230501132011.png",
-    "FlashCards/Pasted image 20230501131950.png",
-    "FlashCards/Pasted image 20230501131932.png",
-    "FlashCards/Pasted image 20230501131914.png",
-    "FlashCards/Pasted image 20230501131857.png",
-    "FlashCards/Pasted image 20230501131836.png",
-    "présentation détaillées sur les cours.canvas",
-    "FlashCards/systm.Exploit, labo/NTFS/Sous Windows certains SID sont identiques peu importe les systèmes Veuillez choisir une réponse. Vrai Faux.md",
     "planning.md",
+    "présentation détaillées sur les cours.canvas",
+    "FlashCards/systm.Exploit, concepts/Quels sont les objectifs principaux de l'ordonnancement en informatique..md",
+    "FlashCards/systm.Exploit, concepts/Quels sont les trois problèmes principaux que doit résoudre la gestion de la mémoire..md",
+    "FlashCards/systm.Exploit, concepts/Quels sont les droits d'accès standards pour les fichiers et comment peuvent-ils être modifiés..md",
+    "FlashCards/systm.Exploit, concepts/Quelles sont les méthodes d'allocation de blocs physiques pour les fichiers et comment fonctionnent-elles ..md",
+    "FlashCards/systm.Exploit, concepts/Quel algorithme d'ordonnancement est utilisé par le noyau Linux..md",
+    "FlashCards/systm.Exploit, concepts/Qu'est-ce que TMPFS et dans quelles situations est-il couramment utilisé ..md",
+    "FlashCards/systm.Exploit, concepts/Qu'est-ce que la mémoire virtuelle et comment fonctionne-t-elle ..md",
+    "FlashCards/systm.Exploit, concepts/Qu'est-ce qu'un répertoire et quel rôle joue-t-il dans la gestion des fichiers ..md",
+    "FlashCards/systm.Exploit, concepts/Expliquez la différence entre l'ordonnancement préemptif et non-préemptif..md",
+    "FlashCards/systm.Exploit, concepts/Définissez les termes fichier logique et fichier physique et expliquez leur relation..md",
+    "FlashCards/systm.Exploit, concepts/Décrivez les trois modes d'accès aux fichiers logiques et donnez un exemple d'utilisation pour chacun..md",
+    "FlashCards/systm.Exploit, concepts/Décrivez brièvement les mécanismes d'ordonnancement suivants , FCFS, Shortest Job First, Round Robin et par files de priorités multiniveaux..md",
+    "FlashCards/systm.Exploit, concepts/Comparez et contrastez les systèmes de fichiers NTFS et EXT3 en termes de structure, capacité de stockage et fonctionnalités..md",
+    "FlashCards/systm.Exploit, concepts/Comparez et contrastez la segmentation et la pagination en matière de gestion de la mémoire..md",
+    "FlashCards/systm.Exploit, concepts",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132128.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230420212214.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501130724.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501130829.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501130800.png",
+    "presentation graphique du github.canvas",
+    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132115.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132103.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132039.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132011.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501131950.png",
+    "FlashCards/systm.Exploit, labo/NTFS/Sous Windows certains SID sont identiques peu importe les systèmes Veuillez choisir une réponse. Vrai Faux.md",
     "FlashCards/systm.Exploit, labo/NTFS",
     "FlashCards/systm.Exploit, labo",
     "FlashCards/Physique/ch1/Sachant que la vitesse de la lumière est d’environ 300 000 kms  et qu un rayon du soleil atteint la terre environ 8 min calculez la  distance terre-soleil.md",
@@ -175,29 +365,12 @@
     "Templates/Basique (saisissez la réponse).md",
     "Templates/Basique.md",
     "Templates/Texte à trous.md",
-    "Templates/Exercices terminés.md",
-    "Templates/Généralités (deux sens).md",
     "FlashCards/Physique/ch1",
-    "FlashCards/Physique/frite.md",
-    "FlashCards/Physique/poulet mayo.md",
-    "FlashCards/Physique/last try.md",
-    "FlashCards/Physique/fuck you.md",
-    "FlashCards/Physique/fuck.md",
-    "FlashCards/Physique/la poutine.md",
-    "FlashCards/Physique/unités de base (SI).md",
-    "FlashCards/init.Systm.Embarqué/from obsidian.md",
     "FlashCards/Physique",
-    "presentation graphique du github.canvas",
-    "ludo/Q2/PacketTracer/ludo/séance1/manip1.md",
-    "ludo/Q2/SQL/labo8/ex2/Exercices Labo 2.md",
-    "ludo/Q2/SQL/Exercices terminés SQL.md",
-    "Templates/Basique (carte inversée optionnelle).md",
-    "FlashCards/init.Systm.Embarqué/volatage ma couille.md",
     "FlashCards",
     "FlashCards/init.Systm.Embarqué",
     "FlashCards",
     "ludo/Q2/PacketTracer/ludo/séance2/Sans titre",
-    "ludo/Q2/Progra/Projets/v1_main.py",
-    "ludo/Q2/Progra/Projets/test_program_not_found.py"
+    "ludo/Q2/Progra/Projets/v1_main.py"
   ]
 }
