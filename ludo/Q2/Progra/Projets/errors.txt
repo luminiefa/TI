@@ -11,7 +11,7 @@ test_program_not_found.py ..                                             [100%]
 =================================== FAILURES ===================================
 _____________________________ test_init_with_logs ______________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-98/dossier')
 
     def test_init_with_logs(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
@@ -25,11 +25,11 @@ log_manager.py:20: in __init__
     self.logs = self.sort_by_program(logs)
 log_manager.py:11: in sort_by_program
     program = log.get_program()
-log.py:18: in get_program
-    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cbb60190>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f255dd440d0>
 flags = 0
 
     def search(pattern, string, flags=0):
@@ -39,11 +39,9 @@ flags = 0
 E       TypeError: expected string or bytes-like object
 
 /usr/lib/python3.10/re.py:200: TypeError
------------------------------ Captured stdout call -----------------------------
-self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 _______________________________ test_clear_logs ________________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-98/dossier')
 
     def test_clear_logs(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
@@ -57,11 +55,11 @@ log_manager.py:20: in __init__
     self.logs = self.sort_by_program(logs)
 log_manager.py:11: in sort_by_program
     program = log.get_program()
-log.py:18: in get_program
-    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cb9d7af0>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f255dbbb9a0>
 flags = 0
 
     def search(pattern, string, flags=0):
@@ -71,11 +69,9 @@ flags = 0
 E       TypeError: expected string or bytes-like object
 
 /usr/lib/python3.10/re.py:200: TypeError
------------------------------ Captured stdout call -----------------------------
-self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 ________________________________ test_add_logs _________________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-98/dossier')
 
     def test_add_logs(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
@@ -89,11 +85,11 @@ log_manager.py:20: in __init__
     self.logs = self.sort_by_program(logs)
 log_manager.py:11: in sort_by_program
     program = log.get_program()
-log.py:18: in get_program
-    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cb9eb9a0>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f255dbcf9d0>
 flags = 0
 
     def search(pattern, string, flags=0):
@@ -103,11 +99,9 @@ flags = 0
 E       TypeError: expected string or bytes-like object
 
 /usr/lib/python3.10/re.py:200: TypeError
------------------------------ Captured stdout call -----------------------------
-self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 _______________________________ test_search_logs _______________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-98/dossier')
 
     def test_search_logs(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
@@ -120,11 +114,11 @@ log_manager.py:20: in __init__
     self.logs = self.sort_by_program(logs)
 log_manager.py:11: in sort_by_program
     program = log.get_program()
-log.py:18: in get_program
-    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cb9d4820>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f255dbb82b0>
 flags = 0
 
     def search(pattern, string, flags=0):
@@ -134,11 +128,9 @@ flags = 0
 E       TypeError: expected string or bytes-like object
 
 /usr/lib/python3.10/re.py:200: TypeError
------------------------------ Captured stdout call -----------------------------
-self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 _______________________ test_search_logs_with_exception ________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-98/dossier')
 
     def test_search_logs_with_exception(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
@@ -151,11 +143,11 @@ log_manager.py:20: in __init__
     self.logs = self.sort_by_program(logs)
 log_manager.py:11: in sort_by_program
     program = log.get_program()
-log.py:18: in get_program
-    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cbb7b2b0>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f255db64550>
 flags = 0
 
     def search(pattern, string, flags=0):
@@ -165,11 +157,9 @@ flags = 0
 E       TypeError: expected string or bytes-like object
 
 /usr/lib/python3.10/re.py:200: TypeError
------------------------------ Captured stdout call -----------------------------
-self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 ________________________________ test_nbr_logs _________________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-98/dossier')
 
     def test_nbr_logs(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
@@ -181,11 +171,11 @@ log_manager.py:20: in __init__
     self.logs = self.sort_by_program(logs)
 log_manager.py:11: in sort_by_program
     program = log.get_program()
-log.py:18: in get_program
-    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cb985420>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f255dd47d90>
 flags = 0
 
     def search(pattern, string, flags=0):
@@ -195,11 +185,9 @@ flags = 0
 E       TypeError: expected string or bytes-like object
 
 /usr/lib/python3.10/re.py:200: TypeError
------------------------------ Captured stdout call -----------------------------
-self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 ___________________________________ test_str ___________________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-98/dossier')
 
     def test_str(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
@@ -211,11 +199,11 @@ log_manager.py:20: in __init__
     self.logs = self.sort_by_program(logs)
 log_manager.py:11: in sort_by_program
     program = log.get_program()
-log.py:18: in get_program
-    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cbb78940>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f255db67ca0>
 flags = 0
 
     def search(pattern, string, flags=0):
@@ -225,11 +213,9 @@ flags = 0
 E       TypeError: expected string or bytes-like object
 
 /usr/lib/python3.10/re.py:200: TypeError
------------------------------ Captured stdout call -----------------------------
-self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 ___________________________ test_load_log_from_file ____________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-98/dossier')
 
     def test_load_log_from_file(folder_structure):
         logs = load_log_from_file(str(folder_structure.joinpath('sous_dossier1/syslog.log')))
@@ -238,37 +224,40 @@ folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
 >           assert isinstance(log, str), "La liste devrait être composée d'instances de String"
 E           AssertionError: La liste devrait être composée d'instances de String
 E           assert False
-E            +  where False = isinstance(<log.Log object at 0x7f13cb987430>, str)
+E            +  where False = isinstance(<log.Log object at 0x7f255dd465c0>, str)
 
 test_main.py:35: AssertionError
 __________________________ test_load_logs_from_folder __________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-98/dossier')
 
     def test_load_logs_from_folder(folder_structure):
         logs = load_logs_from_folder(str(folder_structure.joinpath('sous_dossier1')))
-        assert isinstance(logs, list), "La fonction devrait renvoyer une liste"
-        for log in logs:
->           assert isinstance(log, str), "La liste devrait être composée d'instances de String"
-E           AssertionError: La liste devrait être composée d'instances de String
-E           assert False
-E            +  where False = isinstance(<log.Log object at 0x7f13cb9df610>, str)
+>       assert isinstance(logs, list), "La fonction devrait renvoyer une liste"
+E       AssertionError: La fonction devrait renvoyer une liste
+E       assert False
+E        +  where False = isinstance(None, list)
 
-test_main.py:50: AssertionError
+test_main.py:48: AssertionError
+----------------------------- Captured stdout call -----------------------------
+Une erreur s'est produite: 'list' object has no attribute 'split'
 __________________________________ test_load ___________________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-98/dossier')
 
     def test_load(folder_structure):
         logs = load(str(folder_structure))
         assert isinstance(logs, list), "La fonction devrait renvoyer une liste"
         for log in logs:
->           assert isinstance(log, str), "La liste devrait être composée d'instances de String"
-E           AssertionError: La liste devrait être composée d'instances de String
-E           assert False
-E            +  where False = isinstance(<log.Log object at 0x7f13cb987b20>, str)
+            assert isinstance(log, str), "La liste devrait être composée d'instances de String"
+>       assert len(logs) == 12
+E       assert 0 == 12
+E        +  where 0 = len([])
 
-test_main.py:73: AssertionError
+test_main.py:74: AssertionError
+----------------------------- Captured stdout call -----------------------------
+Une erreur s'est produite: 'list' object has no attribute 'split'
+Une erreur s'est produite: 'list' object has no attribute 'split'
 =========================== short test summary info ============================
 FAILED test_log_manager.py::test_init_with_logs - TypeError: expected string ...
 FAILED test_log_manager.py::test_clear_logs - TypeError: expected string or b...
@@ -278,6 +267,6 @@ FAILED test_log_manager.py::test_search_logs_with_exception - TypeError: expe...
 FAILED test_log_manager.py::test_nbr_logs - TypeError: expected string or byt...
 FAILED test_log_manager.py::test_str - TypeError: expected string or bytes-li...
 FAILED test_main.py::test_load_log_from_file - AssertionError: La liste devra...
-FAILED test_main.py::test_load_logs_from_folder - AssertionError: La liste de...
-FAILED test_main.py::test_load - AssertionError: La liste devrait être compos...
-======================== 10 failed, 12 passed in 0.08s =========================
+FAILED test_main.py::test_load_logs_from_folder - AssertionError: La fonction...
+FAILED test_main.py::test_load - assert 0 == 12
+======================== 10 failed, 12 passed in 0.09s =========================

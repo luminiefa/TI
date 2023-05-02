@@ -17,7 +17,10 @@ def load_log_from_file(path):
             return '\n'.join(str(log) for log in logs)
     except FileNotFoundError:
         return "Le chemin du fichier n'existe pas"
-
+    except Exception as e:
+        print("Une erreur s'est produite:", e)
+        return None
+    return logs
 
 
 def load_logs_from_folder(folder_path):
@@ -29,7 +32,7 @@ def load_logs_from_folder(folder_path):
             if os.path.isfile(file_path):
                 file_logs = load_log_from_file(file_path)
                 if file_logs is not None:
-                    logs.extend(file_logs)
+                    logs += file_logs.split('\n')
         return logs
     except FileNotFoundError:
         abs_path = os.path.abspath(folder_path)
@@ -55,17 +58,6 @@ def get_folders_and_subfolders(folder_path):
             for d in dirs:
                 relative_path = os.path.join(root, d)
                 folder_list.append(os.path.relpath(relative_path, start=os.path.abspath(os.curdir)))
-        return [folder_path] + folder_list
-    except Exception as e:
-        print("Une erreur s'est produite:", e)
-        return None
-
-
-    try:
-        for root, dirs, files in os.walk(folder_path):
-            for d in dirs:
-                relative_path = os.path.join(root, d)
-                folder_list.append(os.path.relpath(relative_path, start=folder_path))
         return [folder_path] + folder_list
     except Exception as e:
         print("Une erreur s'est produite:", e)
@@ -123,7 +115,7 @@ def main():
             test = load_log_from_file("ludo/Q2/Progra/Projets/dossier/sous_dossier1/syslog.log")
             #print(test)
             test2 = load_logs_from_folder("ludo/Q2/Progra/Projets/dossier/sous_dossier1")
-            #print(test2)
+            print(test2)
             test3 = get_folders_and_subfolders("ludo/Q2/Progra/Projets/dossier")
             #print(test3)
             test4 = load("ludo/Q2/Progra/Projets/dossier/sous_dossier1")
