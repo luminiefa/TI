@@ -18,9 +18,7 @@ def load_log_from_file(path):
     except FileNotFoundError:
         return "Le chemin du fichier n'existe pas"
     except Exception as e:
-        print("Une erreur s'est produite:", e)
-        return None
-    return logs
+        return "Une erreur s'est produite: {}".format(e)
 
 
 def load_logs_from_folder(folder_path):
