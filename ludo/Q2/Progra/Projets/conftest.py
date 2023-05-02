@@ -27,11 +27,14 @@ def folder_structure(tmp_path_factory):
     :param tmp_path_factory:
     :return: objet Path
     """
-    path = tmp_path_factory.mktemp("dossier", False)
-    os.mkdir(path.joinpath('sous_dossier1'))
-    with open(path.joinpath('sous_dossier1/syslog.log'), "w") as file:
-        file.write(CONTENU_LOG)
-    os.mkdir(path.joinpath('sous_dossier2'))
-    with open(path.joinpath('sous_dossier2/syslog.log'), "w") as file:
-        file.write(CONTENU_LOG)
-    return path
+    try:
+        path = tmp_path_factory.mktemp("dossier", False)
+        os.mkdir(path.joinpath('sous_dossier1'))
+        with open(path.joinpath('sous_dossier1/syslog.log'), "w") as file:
+            file.write(CONTENU_LOG)
+        os.mkdir(path.joinpath('sous_dossier2'))
+        with open(path.joinpath('sous_dossier2/syslog.log'), "w") as file:
+            file.write(CONTENU_LOG)
+        return path
+    except FileExistsError:
+        return tmp_path_factory.getbasetemp().joinpath("dossier")

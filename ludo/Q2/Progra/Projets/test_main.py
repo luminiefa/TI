@@ -1,6 +1,5 @@
 from io import StringIO
 
-from log import Log
 from main import menu, load_log_from_file, load_logs_from_folder, get_folders_and_subfolders, load, main
 
 choix = {
@@ -30,10 +29,10 @@ def test_load_log_from_file_not_found(capsys):
 
 
 def test_load_log_from_file(folder_structure):
-    logs = load_log_from_file(folder_structure.joinpath('sous_dossier1/syslog.log'))
+    logs = load_log_from_file(str(folder_structure.joinpath('sous_dossier1/syslog.log')))
     assert isinstance(logs, list), "La fonction devrait renvoyer une liste"
     for log in logs:
-        isinstance(log, Log), "La liste devrait être composée d'instances de Log"
+        assert isinstance(log, str), "La liste devrait être composée d'instances de String"
     assert len(logs) == 6
 
 
@@ -45,10 +44,10 @@ def test_load_logs_from_folder_not_found(capsys):
 
 
 def test_load_logs_from_folder(folder_structure):
-    logs = load_logs_from_folder(folder_structure.joinpath('sous_dossier1'))
+    logs = load_logs_from_folder(str(folder_structure.joinpath('sous_dossier1')))
     assert isinstance(logs, list), "La fonction devrait renvoyer une liste"
     for log in logs:
-        isinstance(log, Log), "La liste devrait être composée d'instances de Log"
+        assert isinstance(log, str), "La liste devrait être composée d'instances de String"
     assert len(logs) == 6
 
 
@@ -60,16 +59,16 @@ def test_get_folders_and_subfolders_not_found(capsys):
 
 
 def test_get_folders_and_subfolders(folder_structure):
-    paths = get_folders_and_subfolders(folder_structure)
+    paths = get_folders_and_subfolders(str(folder_structure))
     assert isinstance(paths, list), "La fonction devrait renvoyer une liste"
     for path in paths:
-        isinstance(path, str), "La liste devrait être composée d'instances de Log"
+        assert isinstance(path, str), "La liste devrait être composée d'instances de String"
     assert len(paths) == 3
 
 
 def test_load(folder_structure):
-    logs = load(folder_structure)
+    logs = load(str(folder_structure))
     assert isinstance(logs, list), "La fonction devrait renvoyer une liste"
     for log in logs:
-        isinstance(log, Log), "La liste devrait être composée d'instances de Log"
+        assert isinstance(log, str), "La liste devrait être composée d'instances de String"
     assert len(logs) == 12
