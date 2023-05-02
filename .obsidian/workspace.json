@@ -242,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 654.5
+    "width": 654.5,
+    "collapsed": true
   },
   "right": {
     "id": "5d6086e019be0f50",
@@ -307,7 +308,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -321,7 +323,7 @@
       "note-synchronizer:Synchronize": false
     }
   },
-  "active": "0891e95387232817",
+  "active": "91d5d748ca41b620",
   "lastOpenFiles": [
     "présentation détaillées sur les cours.canvas",
     "FlashCards/systm.Exploit, concepts/Quels sont les objectifs principaux de l'ordonnancement en informatique..md",
