@@ -5,113 +5,171 @@ collected 22 items
 
 test_log.py ...                                                          [ 13%]
 test_log_manager.py .FFFFFFF                                             [ 50%]
-test_main.py ..FFFFF.F                                                   [ 90%]
+test_main.py ...F.F..F                                                   [ 90%]
 test_program_not_found.py ..                                             [100%]
 
 =================================== FAILURES ===================================
 _____________________________ test_init_with_logs ______________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-61/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
 
     def test_init_with_logs(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
->       logs_string = load_log_from_file(path)
+        logs_string = load_log_from_file(path)
+        logs = convert_logs(logs_string, path)
+>       log_manager = LogManager(logs)
 
-test_log_manager.py:38: 
+test_log_manager.py:40: 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-main.py:16: in load_log_from_file
-    return [LogEntry.from_line(line.strip()) for line in file]
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:18: in get_program
+    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-.0 = <_io.TextIOWrapper name='/tmp/pytest-of-abc/pytest-61/dossier/sous_dossier1/syslog.log' mode='r' encoding='UTF-8'>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cbb60190>
+flags = 0
 
->   return [LogEntry.from_line(line.strip()) for line in file]
-E   NameError: name 'LogEntry' is not defined
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
 
-main.py:16: NameError
+/usr/lib/python3.10/re.py:200: TypeError
+----------------------------- Captured stdout call -----------------------------
+self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 _______________________________ test_clear_logs ________________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-61/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
 
     def test_clear_logs(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
->       logs_string = load_log_from_file(path)
+        logs_string = load_log_from_file(path)
+        logs = convert_logs(logs_string, path)
+>       log_manager = LogManager(logs)
 
-test_log_manager.py:47: 
+test_log_manager.py:49: 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-main.py:16: in load_log_from_file
-    return [LogEntry.from_line(line.strip()) for line in file]
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:18: in get_program
+    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-.0 = <_io.TextIOWrapper name='/tmp/pytest-of-abc/pytest-61/dossier/sous_dossier1/syslog.log' mode='r' encoding='UTF-8'>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cb9d7af0>
+flags = 0
 
->   return [LogEntry.from_line(line.strip()) for line in file]
-E   NameError: name 'LogEntry' is not defined
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
 
-main.py:16: NameError
+/usr/lib/python3.10/re.py:200: TypeError
+----------------------------- Captured stdout call -----------------------------
+self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 ________________________________ test_add_logs _________________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-61/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
 
     def test_add_logs(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
->       logs_string = load_log_from_file(path)
+        logs_string = load_log_from_file(path)
+        logs = convert_logs(logs_string, path)
+>       log_manager = LogManager(logs)
 
-test_log_manager.py:56: 
+test_log_manager.py:58: 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-main.py:16: in load_log_from_file
-    return [LogEntry.from_line(line.strip()) for line in file]
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:18: in get_program
+    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-.0 = <_io.TextIOWrapper name='/tmp/pytest-of-abc/pytest-61/dossier/sous_dossier1/syslog.log' mode='r' encoding='UTF-8'>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cb9eb9a0>
+flags = 0
 
->   return [LogEntry.from_line(line.strip()) for line in file]
-E   NameError: name 'LogEntry' is not defined
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
 
-main.py:16: NameError
+/usr/lib/python3.10/re.py:200: TypeError
+----------------------------- Captured stdout call -----------------------------
+self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 _______________________________ test_search_logs _______________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-61/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
 
     def test_search_logs(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
->       logs_string = load_log_from_file(path)
+        logs_string = load_log_from_file(path)
+>       log_manager = LogManager(convert_logs(logs_string, path))
 
-test_log_manager.py:66: 
+test_log_manager.py:67: 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-main.py:16: in load_log_from_file
-    return [LogEntry.from_line(line.strip()) for line in file]
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:18: in get_program
+    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-.0 = <_io.TextIOWrapper name='/tmp/pytest-of-abc/pytest-61/dossier/sous_dossier1/syslog.log' mode='r' encoding='UTF-8'>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cb9d4820>
+flags = 0
 
->   return [LogEntry.from_line(line.strip()) for line in file]
-E   NameError: name 'LogEntry' is not defined
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
 
-main.py:16: NameError
+/usr/lib/python3.10/re.py:200: TypeError
+----------------------------- Captured stdout call -----------------------------
+self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 _______________________ test_search_logs_with_exception ________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-61/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
 
     def test_search_logs_with_exception(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
->       logs_string = load_log_from_file(path)
+        logs_string = load_log_from_file(path)
+>       log_manager = LogManager(convert_logs(logs_string, path))
 
-test_log_manager.py:77: 
+test_log_manager.py:78: 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-main.py:16: in load_log_from_file
-    return [LogEntry.from_line(line.strip()) for line in file]
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:18: in get_program
+    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-.0 = <_io.TextIOWrapper name='/tmp/pytest-of-abc/pytest-61/dossier/sous_dossier1/syslog.log' mode='r' encoding='UTF-8'>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cbb7b2b0>
+flags = 0
 
->   return [LogEntry.from_line(line.strip()) for line in file]
-E   NameError: name 'LogEntry' is not defined
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
 
-main.py:16: NameError
+/usr/lib/python3.10/re.py:200: TypeError
+----------------------------- Captured stdout call -----------------------------
+self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 ________________________________ test_nbr_logs _________________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-61/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
 
     def test_nbr_logs(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
@@ -119,19 +177,29 @@ folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-61/dossier')
 
 test_log_manager.py:85: 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-main.py:16: in load_log_from_file
-    return [LogEntry.from_line(line.strip()) for line in file]
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:18: in get_program
+    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-.0 = <_io.TextIOWrapper name='/tmp/pytest-of-abc/pytest-61/dossier/sous_dossier1/syslog.log' mode='r' encoding='UTF-8'>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cb985420>
+flags = 0
 
->   return [LogEntry.from_line(line.strip()) for line in file]
-E   NameError: name 'LogEntry' is not defined
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
 
-main.py:16: NameError
+/usr/lib/python3.10/re.py:200: TypeError
+----------------------------- Captured stdout call -----------------------------
+self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 ___________________________________ test_str ___________________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-61/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
 
     def test_str(folder_structure):
         path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
@@ -139,133 +207,77 @@ folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-61/dossier')
 
 test_log_manager.py:91: 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-main.py:16: in load_log_from_file
-    return [LogEntry.from_line(line.strip()) for line in file]
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:18: in get_program
+    match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-.0 = <_io.TextIOWrapper name='/tmp/pytest-of-abc/pytest-61/dossier/sous_dossier1/syslog.log' mode='r' encoding='UTF-8'>
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7f13cbb78940>
+flags = 0
 
->   return [LogEntry.from_line(line.strip()) for line in file]
-E   NameError: name 'LogEntry' is not defined
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
 
-main.py:16: NameError
-______________________ test_load_log_from_file_not_found _______________________
-
-capsys = <_pytest.capture.CaptureFixture object at 0x7f3b4adacf70>
-
-    def test_load_log_from_file_not_found(capsys):
-        load_log_from_file("/notexist.log")
-        captured = capsys.readouterr()
->       assert "Le chemin du fichier n'existe pas" in captured.out, \
-            "La fonction devrait afficher un message pour avertir que le fichier n'existe pas"
-E       AssertionError: La fonction devrait afficher un message pour avertir que le fichier n'existe pas
-E       assert "Le chemin du fichier n'existe pas" in "Le fichier n'existe pas\n"
-E        +  where "Le fichier n'existe pas\n" = CaptureResult(out="Le fichier n'existe pas\n", err='').out
-
-test_main.py:27: AssertionError
+/usr/lib/python3.10/re.py:200: TypeError
+----------------------------- Captured stdout call -----------------------------
+self.text: Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded., type: <class 'log.Log'>
 ___________________________ test_load_log_from_file ____________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-61/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
 
     def test_load_log_from_file(folder_structure):
->       logs = load_log_from_file(str(folder_structure.joinpath('sous_dossier1/syslog.log')))
+        logs = load_log_from_file(str(folder_structure.joinpath('sous_dossier1/syslog.log')))
+        assert isinstance(logs, list), "La fonction devrait renvoyer une liste"
+        for log in logs:
+>           assert isinstance(log, str), "La liste devrait être composée d'instances de String"
+E           AssertionError: La liste devrait être composée d'instances de String
+E           assert False
+E            +  where False = isinstance(<log.Log object at 0x7f13cb987430>, str)
 
-test_main.py:32: 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-main.py:16: in load_log_from_file
-    return [LogEntry.from_line(line.strip()) for line in file]
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-
-.0 = <_io.TextIOWrapper name='/tmp/pytest-of-abc/pytest-61/dossier/sous_dossier1/syslog.log' mode='r' encoding='UTF-8'>
-
->   return [LogEntry.from_line(line.strip()) for line in file]
-E   NameError: name 'LogEntry' is not defined
-
-main.py:16: NameError
-_____________________ test_load_logs_from_folder_not_found _____________________
-
-capsys = <_pytest.capture.CaptureFixture object at 0x7f3b4adc7bb0>
-
-    def test_load_logs_from_folder_not_found(capsys):
-        load_logs_from_folder('./foldernotexist')
-        captured = capsys.readouterr()
->       assert "Le chemin du dossier n'existe pas" in captured.out, \
-            "La fonction devrait afficher un message pour avertir que le dossier n'existe pas"
-E       AssertionError: La fonction devrait afficher un message pour avertir que le dossier n'existe pas
-E       assert "Le chemin du dossier n'existe pas" in ''
-E        +  where '' = CaptureResult(out='', err='').out
-
-test_main.py:42: AssertionError
+test_main.py:35: AssertionError
 __________________________ test_load_logs_from_folder __________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-61/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
 
     def test_load_logs_from_folder(folder_structure):
->       logs = load_logs_from_folder(str(folder_structure.joinpath('sous_dossier1')))
+        logs = load_logs_from_folder(str(folder_structure.joinpath('sous_dossier1')))
+        assert isinstance(logs, list), "La fonction devrait renvoyer une liste"
+        for log in logs:
+>           assert isinstance(log, str), "La liste devrait être composée d'instances de String"
+E           AssertionError: La liste devrait être composée d'instances de String
+E           assert False
+E            +  where False = isinstance(<log.Log object at 0x7f13cb9df610>, str)
 
-test_main.py:47: 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-main.py:30: in load_logs_from_folder
-    logs.extend(load_log_from_file(file_path))
-main.py:16: in load_log_from_file
-    return [LogEntry.from_line(line.strip()) for line in file]
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-
-.0 = <_io.TextIOWrapper name='/tmp/pytest-of-abc/pytest-61/dossier/sous_dossier1/syslog.log' mode='r' encoding='UTF-8'>
-
->   return [LogEntry.from_line(line.strip()) for line in file]
-E   NameError: name 'LogEntry' is not defined
-
-main.py:16: NameError
-__________________ test_get_folders_and_subfolders_not_found ___________________
-
-capsys = <_pytest.capture.CaptureFixture object at 0x7f3b4adaf550>
-
-    def test_get_folders_and_subfolders_not_found(capsys):
-        load_logs_from_folder('./foldernotexist')
-        captured = capsys.readouterr()
->       assert "Le chemin du dossier n'existe pas" in captured.out, \
-            "La fonction devrait afficher un message pour avertir que le dossier n'existe pas"
-E       AssertionError: La fonction devrait afficher un message pour avertir que le dossier n'existe pas
-E       assert "Le chemin du dossier n'existe pas" in ''
-E        +  where '' = CaptureResult(out='', err='').out
-
-test_main.py:57: AssertionError
+test_main.py:50: AssertionError
 __________________________________ test_load ___________________________________
 
-folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-61/dossier')
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-78/dossier')
 
     def test_load(folder_structure):
->       logs = load(str(folder_structure))
+        logs = load(str(folder_structure))
+        assert isinstance(logs, list), "La fonction devrait renvoyer une liste"
+        for log in logs:
+>           assert isinstance(log, str), "La liste devrait être composée d'instances de String"
+E           AssertionError: La liste devrait être composée d'instances de String
+E           assert False
+E            +  where False = isinstance(<log.Log object at 0x7f13cb987b20>, str)
 
-test_main.py:70: 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-main.py:71: in load
-    return load_logs_from_folder(input)
-main.py:30: in load_logs_from_folder
-    logs.extend(load_log_from_file(file_path))
-main.py:16: in load_log_from_file
-    return [LogEntry.from_line(line.strip()) for line in file]
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-
-.0 = <_io.TextIOWrapper name='/tmp/pytest-of-abc/pytest-61/dossier/sous_dossier1/syslog.log' mode='r' encoding='UTF-8'>
-
->   return [LogEntry.from_line(line.strip()) for line in file]
-E   NameError: name 'LogEntry' is not defined
-
-main.py:16: NameError
+test_main.py:73: AssertionError
 =========================== short test summary info ============================
-FAILED test_log_manager.py::test_init_with_logs - NameError: name 'LogEntry' ...
-FAILED test_log_manager.py::test_clear_logs - NameError: name 'LogEntry' is n...
-FAILED test_log_manager.py::test_add_logs - NameError: name 'LogEntry' is not...
-FAILED test_log_manager.py::test_search_logs - NameError: name 'LogEntry' is ...
-FAILED test_log_manager.py::test_search_logs_with_exception - NameError: name...
-FAILED test_log_manager.py::test_nbr_logs - NameError: name 'LogEntry' is not...
-FAILED test_log_manager.py::test_str - NameError: name 'LogEntry' is not defined
-FAILED test_main.py::test_load_log_from_file_not_found - AssertionError: La f...
-FAILED test_main.py::test_load_log_from_file - NameError: name 'LogEntry' is ...
-FAILED test_main.py::test_load_logs_from_folder_not_found - AssertionError: L...
-FAILED test_main.py::test_load_logs_from_folder - NameError: name 'LogEntry' ...
-FAILED test_main.py::test_get_folders_and_subfolders_not_found - AssertionErr...
-FAILED test_main.py::test_load - NameError: name 'LogEntry' is not defined
-========================= 13 failed, 9 passed in 0.08s =========================
+FAILED test_log_manager.py::test_init_with_logs - TypeError: expected string ...
+FAILED test_log_manager.py::test_clear_logs - TypeError: expected string or b...
+FAILED test_log_manager.py::test_add_logs - TypeError: expected string or byt...
+FAILED test_log_manager.py::test_search_logs - TypeError: expected string or ...
+FAILED test_log_manager.py::test_search_logs_with_exception - TypeError: expe...
+FAILED test_log_manager.py::test_nbr_logs - TypeError: expected string or byt...
+FAILED test_log_manager.py::test_str - TypeError: expected string or bytes-li...
+FAILED test_main.py::test_load_log_from_file - AssertionError: La liste devra...
+FAILED test_main.py::test_load_logs_from_folder - AssertionError: La liste de...
+FAILED test_main.py::test_load - AssertionError: La liste devrait être compos...
+======================== 10 failed, 12 passed in 0.08s =========================

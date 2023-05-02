@@ -14,6 +14,7 @@ class Log:
 
     def get_program(self):
         pattern = r'\w+(?=\[\d+\])'
+        print(f"self.text: {self.text}, type: {type(self.text)}")  # Ajoutez cette ligne
         match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
         return match.group(0) if match else None
 
