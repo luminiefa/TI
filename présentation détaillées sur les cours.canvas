@@ -28,14 +28,16 @@
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, labo.md","id":"3d59ae18fd4bbb3a","x":380,"y":4080,"width":400,"height":400},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md","id":"0e962d0298d395a8","x":-1060,"y":4360,"width":400,"height":400},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md","id":"740b2787c311f9b0","x":-2160,"y":3800,"width":400,"height":400},
-		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md","id":"cc390590c3c4713a","x":-60,"y":5480,"width":400,"height":400},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md","id":"fbaf67eb37364b83","x":1520,"y":4960,"width":400,"height":400},
 		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, théorie.md","id":"395a93f190d5b520","x":520,"y":4560,"width":400,"height":400},
-		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md","id":"cc8c8c01c2bac286","x":-60,"y":4960,"width":400,"height":400},
-		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md","id":"8888f9365b0bc6ae","x":-660,"y":4960,"width":400,"height":400},
-		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md","id":"09e9148ce61904ad","x":-1200,"y":4960,"width":400,"height":400},
-		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md","id":"37383b466f974692","x":-660,"y":5480,"width":400,"height":400},
-		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md","id":"85374d7d1375f908","x":-60,"y":6000,"width":400,"height":400}
+		{"id":"0a485cc8f1aebff3","x":2240,"y":5609,"width":343,"height":143,"type":"text","text":"Faire une synthèse/cheat-sheet"},
+		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md","id":"cc8c8c01c2bac286","x":880,"y":5552,"width":400,"height":400},
+		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md","id":"8888f9365b0bc6ae","x":880,"y":6120,"width":400,"height":400},
+		{"id":"bbc411c3749ed520","x":2333,"y":6170,"width":250,"height":60,"type":"text","text":"Faire les exs"},
+		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md","id":"09e9148ce61904ad","x":880,"y":6840,"width":400,"height":400},
+		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md","id":"37383b466f974692","x":880,"y":7360,"width":400,"height":400},
+		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md","id":"85374d7d1375f908","x":880,"y":7840,"width":400,"height":400},
+		{"type":"file","file":"ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md","id":"cc390590c3c4713a","x":280,"y":5830,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"3f11be596e15475a","fromNode":"848d78e225319326","fromSide":"bottom","toNode":"8793b078d9f73caf","toSide":"top"},
@@ -63,6 +65,12 @@
 		{"id":"c37e0fe48ee1dee8","fromNode":"41af0f88af3bf265","fromSide":"right","toNode":"cbf83dffd31c534f","toSide":"left"},
 		{"id":"cda3b89410ff0520","fromNode":"0e962d0298d395a8","fromSide":"right","toNode":"cbf83dffd31c534f","toSide":"left"},
 		{"id":"6f19f09186a03da1","fromNode":"740b2787c311f9b0","fromSide":"right","toNode":"cbf83dffd31c534f","toSide":"left"},
-		{"id":"cfcd763081a3d966","fromNode":"395a93f190d5b520","fromSide":"right","toNode":"a36305064fa787ba","toSide":"left"}
+		{"id":"cfcd763081a3d966","fromNode":"395a93f190d5b520","fromSide":"right","toNode":"a36305064fa787ba","toSide":"left"},
+		{"id":"b596b7fd8a93c3c5","fromNode":"cc8c8c01c2bac286","fromSide":"right","toNode":"0a485cc8f1aebff3","toSide":"left"},
+		{"id":"4129d1647fdd6673","fromNode":"8888f9365b0bc6ae","fromSide":"right","toNode":"0a485cc8f1aebff3","toSide":"left"},
+		{"id":"023d9b709480fffd","fromNode":"09e9148ce61904ad","fromSide":"right","toNode":"bbc411c3749ed520","toSide":"left"},
+		{"id":"d52207aa3d16c8aa","fromNode":"37383b466f974692","fromSide":"right","toNode":"bbc411c3749ed520","toSide":"left"},
+		{"id":"3703e9a2328718bc","fromNode":"85374d7d1375f908","fromSide":"right","toNode":"bbc411c3749ed520","toSide":"left"},
+		{"id":"06fa87f0fbc3433c","fromNode":"cc390590c3c4713a","fromSide":"right","toNode":"0a485cc8f1aebff3","toSide":"left"}
 	]
 }

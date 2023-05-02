@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Quels sont les objectifs principaux de l'ordonnancement en informatique..md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -191,8 +191,7 @@
               }
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md"
               }
             }
           }
@@ -308,8 +307,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,11 +321,12 @@
       "note-synchronizer:Synchronize": false
     }
   },
-  "active": "12c73038c5f100ea",
+  "active": "0891e95387232817",
   "lastOpenFiles": [
-    "planning.md",
     "présentation détaillées sur les cours.canvas",
     "FlashCards/systm.Exploit, concepts/Quels sont les objectifs principaux de l'ordonnancement en informatique..md",
+    "ludo/Q2/Progra/Projets/base.zip",
+    "planning.md",
     "FlashCards/systm.Exploit, concepts/Quels sont les trois problèmes principaux que doit résoudre la gestion de la mémoire..md",
     "FlashCards/systm.Exploit, concepts/Quels sont les droits d'accès standards pour les fichiers et comment peuvent-ils être modifiés..md",
     "FlashCards/systm.Exploit, concepts/Quelles sont les méthodes d'allocation de blocs physiques pour les fichiers et comment fonctionnent-elles ..md",
@@ -370,7 +369,6 @@
     "FlashCards",
     "FlashCards/init.Systm.Embarqué",
     "FlashCards",
-    "ludo/Q2/PacketTracer/ludo/séance2/Sans titre",
-    "ludo/Q2/Progra/Projets/v1_main.py"
+    "ludo/Q2/PacketTracer/ludo/séance2/Sans titre"
   ]
 }
