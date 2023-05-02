@@ -10,22 +10,10 @@ from program_not_found import ProgramNotFound
 from log import Log
 
 
-def load_log_from_file(relative_path):
-    logs = []
-    abs_path = os.path.abspath(relative_path)
-    
-    try:
-        source = os.path.dirname(abs_path)
-        with open(abs_path, "r") as file:
-            for line in file:
-                logs.append(Log(line.strip(), source))
-    except FileNotFoundError:
-        print("Le chemin du fichier n'existe pas")
-        print("Chemin absolu:", abs_path)
-        return None
-    except Exception as e:
-        print("Une erreur s'est produite:", e)
-        return None
+def load_log_from_file(path):
+    with open(path, 'r') as file:
+        lines = file.readlines()
+    logs = [line.strip() for line in lines]
     return logs
 
 

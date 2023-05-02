@@ -1,0 +1,552 @@
+import os
+from log_manager import LogManager
+
+
+from log import Log
+
+import os
+from log_manager import LogManager
+from program_not_found import ProgramNotFound
+from log import Log
+
+
+def load_log_from_file(relative_path):
+    logs = []
+    abs_path = os.path.abspath(relative_path)
+    
+    try:
+        source = os.path.dirname(abs_path)
+        with open(abs_path, "r") as file:
+            for line in file:
+                logs.append(Log(line.strip(), source))
+    except FileNotFoundError:
+        print("Le chemin du fichier n'existe pas")
+        print("Chemin absolu:", abs_path)
+        return None
+    except Exception as e:
+        print("Une erreur s'est produite:", e)
+        return None
+    return logs
+
+
+
+def load_logs_from_folder(folder_path):
+    logs = []
+
+    try:
+        for filename in os.listdir(folder_path):
+            file_path = os.path.join(folder_path, filename)
+            if os.path.isfile(file_path):
+                file_logs = load_log_from_file(file_path)
+                if file_logs is not None:
+                    logs.extend(file_logs)
+        return logs
+    except FileNotFoundError:
+        abs_path = os.path.abspath(folder_path)
+        print("Le chemin du dossier n'existe pas")
+        print("Chemin absolu:", abs_path)
+        return None
+    except Exception as e:
+        print("Une erreur s'est produite:", e)
+        return None
+
+
+def get_folders_and_subfolders(folder_path):
+    folder_list = []
+    abs_path = os.path.abspath(folder_path)
+
+    if not os.path.exists(folder_path):
+        print("Le chemin du dossier n'existe pas")
+        print("Chemin absolu:", abs_path)
+        return None
+
+    try:
+        for root, dirs, files in os.walk(folder_path):
+            for d in dirs:
+                relative_path = os.path.join(root, d)
+                folder_list.append(os.path.relpath(relative_path, start=os.path.abspath(os.curdir)))
+        return [folder_path] + folder_list
+    except Exception as e:
+        print("Une erreur s'est produite:", e)
+        return None
+
+
+    try:
+        for root, dirs, files in os.walk(folder_path):
+            for d in dirs:
+                relative_path = os.path.join(root, d)
+                folder_list.append(os.path.relpath(relative_path, start=folder_path))
+        return [folder_path] + folder_list
+    except Exception as e:
+        print("Une erreur s'est produite:", e)
+        return None
+
+def load(path_folder):
+    logs = []
+    folder_list = get_folders_and_subfolders(path_folder)
+    if folder_list is not None:
+        for folder in folder_list:
+            folder_logs = load_logs_from_folder(folder)
+            if folder_logs is not None:
+                logs.extend(folder_logs)
+    return logs
+
+
+
+def menu(available_choices):
+    while True:
+        for key, value in available_choices.items():
+            print(f"{key}: {value}")
+        user_choice = input("Entrez le numéro de votre choix: ")
+        if user_choice.isdigit() and int(user_choice) in available_choices:
+            return int(user_choice)
+        else:
+            print("Choix invalide. Veuillez réessayer.")
+
+def main():
+    log_manager = LogManager()
+    #log_manager.add_logs([Log("log1", "/config/data/TI/ludo/Q2/Progra/Projets/dossier/sous_dossier1/syslog.log")])
+
+    while True:
+        choice = menu({
+            1: "Affiche les logs d'un programme",
+            2: "Charger un autre dossier contenant des fichiers de logs (attention, les anciens logs sont supprimés)",
+            3: "Test",
+            9: "Termine le programme"
+        })
+
+        if choice == 1:
+            program_name = input("Entrez le nom du programme: ")
+            try:
+                searched_logs = log_manager.search_logs(program_name)
+                for log in searched_logs:
+                    print(log)
+            except ProgramNotFound as e:
+                print(str(e))
+        elif choice == 2:
+            log_manager.clear()
+            folder_path = input("Entrez le chemin relatif du dossier: ")
+            logs = load(folder_path)
+            if logs is not None:
+                log_manager.add_logs([Log(log, folder_path) for log in logs])
+        elif choice == 3:
+            test = load_log_from_file("ludo/Q2/Progra/Projets/dossier/sous_dossier1/syslog.log")
+            #print(test)
+            test2 = load_logs_from_folder("ludo/Q2/Progra/Projets/dossier/sous_dossier1")
+            #print(test2)
+            test3 = get_folders_and_subfolders("ludo/Q2/Progra/Projets/dossier")
+            #print(test3)
+            test4 = load("ludo/Q2/Progra/Projets/dossier/sous_dossier1")
+            print(test4)
+            log1 = Log("Oct 25 02:34:27 kali systemd[1]: logrotate.service: Succeeded.", "ludo/Q2/Progra/Projets/dossier/sous_dossier1/syslog.log")
+            log2 = Log("Oct 26 02:34:27 kali kali[1]: logrotate.service: Succeeded.", "ludo/Q2/Progra/Projets/dossier/sous_dossier1/syslog.log")
+
+            test5 = log1.get_program()
+            #print(test5)
+            test6 = log1.__str__()
+            #print(test6)
+            logs = [log1, log2]
+            logs_trie = log_manager.sort_by_program(logs)
+            #print(logs_trie)
+
+            log_manager.add_logs(logs)
+            # problème avec add_logs
+            # normalement le chemin relatif de dossier est "ludo/Q2/Progra/Projets/dossier" 
+            # alors que mon programme renvoie Le chemin n'existe pas
+            # Chemin absolu: /config/data/TI/sous_dossier1
+            # alors que le chemin absolu est /config/data/TI/ludo/Q2/Progra/Projets/dossier
+            # Après /TI est le problème
+
+            chercher_logs = log_manager.search_logs("kali")
+            #print(chercher_logs)
+
+            nbrLogs = log_manager.nbr_logs
+            #print(nbrLogs)
+
+            #print(log_manager.__str__())
+            
+        elif choice == 9:
+            print("Au revoir !")
+            break
+
+
+if __name__ == "__main__":
+    main()
+
+
+import re
+class Log:
+    def __init__(self, text, source):
+        """
+        Constructeur de la classe Log
+        :param text: String - Contenu de la ligne de log
+        :param source: String - Chemin vers le fichier qui contenait
+        cette ligne de log
+        """
+        self.text = text
+        self.source = source
+
+    
+
+    def get_program(self):
+        pattern = r"\w+(?=\[\d+\])"
+        match = re.search(pattern, self.text)
+        if match:
+            program = match.group().split('[')[0]  # Prendre seulement la partie avant les crochets
+        else:
+            program = "Unknown"
+        return program
+
+
+
+
+    def __str__(self):
+        """
+        :return: String - renvoie le contenu du log
+        """
+        return self.text
+
+import os
+from log import Log
+from program_not_found import ProgramNotFound
+from datetime import datetime
+
+class LogManager:
+    @staticmethod
+    def sort_by_program(logs):
+        sorted_logs = {}
+        for log in logs:
+            program = log.get_program()
+            if program not in sorted_logs:
+                sorted_logs[program] = []
+            sorted_logs[program].append(log)
+        return sorted_logs
+
+    def __init__(self, logs=None):
+        if logs is None:
+            logs = []
+        self.logs = self.sort_by_program(logs)
+
+    def clear(self):
+        self.logs = {}
+
+    def add_logs(self, logs):
+        new_logs = self.sort_by_program(logs)
+        for program, log_list in new_logs.items():
+            if program not in self.logs:
+                self.logs[program] = []
+            self.logs[program].extend(log_list)
+
+    def search_logs(self, program_name):
+        if program_name in self.logs:
+            return self.logs[program_name]
+        else:
+            raise ProgramNotFound(program_name, list(self.logs.keys()))
+
+    @property
+    def nbr_logs(self):
+        return sum([len(logs) for logs in self.logs.values()])
+
+    def __str__(self):
+        output = []
+        for program, logs in self.logs.items():
+            output.append(program + ":")
+            output.append("=" * len(program))
+            for log in logs:
+                output.append(str(log))
+        output.append("TOTAL LOGS: " + str(self.nbr_logs))
+        return "\n".join(output)
+
+
+class ProgramNotFound(Exception):
+    def __init__(self, searched_program, available_programs):
+        """
+        :param searched_program: String - le programme recherché
+        :param available_programs: Liste de String - ensemble des
+        programmes qui étaient disponibles
+        """
+        super().__init__()
+        self.searched_program = searched_program
+        self.available_programs = available_programs
+
+    def __str__(self):
+        """
+        Renvoie une chaîne de caractères représentant l'erreur
+        Exemple :
+        Impossible de trouver le programme Prog dans la liste :
+        Programme1
+        Programme2
+        Programme3
+        :return: String
+        """
+        return f"Impossible de trouver le programme {self.searched_program} dans la liste :\n" + "\n".join(self.available_programs)
+
+============================= test session starts ==============================
+platform linux -- Python 3.10.6, pytest-7.3.1, pluggy-1.0.0
+rootdir: /config/data/TI/ludo/Q2/Progra/Projets
+collected 22 items
+
+test_log.py ...                                                          [ 13%]
+test_log_manager.py .FFFFFFF                                             [ 50%]
+test_main.py ...F.F..F                                                   [ 90%]
+test_program_not_found.py ..                                             [100%]
+
+=================================== FAILURES ===================================
+_____________________________ test_init_with_logs ______________________________
+
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-55/dossier')
+
+    def test_init_with_logs(folder_structure):
+        path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
+        logs_string = load_log_from_file(path)
+        logs = convert_logs(logs_string, path)
+>       log_manager = LogManager(logs)
+
+test_log_manager.py:40: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7fb445238040>
+flags = 0
+
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
+
+/usr/lib/python3.10/re.py:200: TypeError
+_______________________________ test_clear_logs ________________________________
+
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-55/dossier')
+
+    def test_clear_logs(folder_structure):
+        path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
+        logs_string = load_log_from_file(path)
+        logs = convert_logs(logs_string, path)
+>       log_manager = LogManager(logs)
+
+test_log_manager.py:49: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7fb4450ab940>
+flags = 0
+
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
+
+/usr/lib/python3.10/re.py:200: TypeError
+________________________________ test_add_logs _________________________________
+
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-55/dossier')
+
+    def test_add_logs(folder_structure):
+        path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
+        logs_string = load_log_from_file(path)
+        logs = convert_logs(logs_string, path)
+>       log_manager = LogManager(logs)
+
+test_log_manager.py:58: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7fb4450c3a00>
+flags = 0
+
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
+
+/usr/lib/python3.10/re.py:200: TypeError
+_______________________________ test_search_logs _______________________________
+
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-55/dossier')
+
+    def test_search_logs(folder_structure):
+        path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
+        logs_string = load_log_from_file(path)
+>       log_manager = LogManager(convert_logs(logs_string, path))
+
+test_log_manager.py:67: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7fb4450a8190>
+flags = 0
+
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
+
+/usr/lib/python3.10/re.py:200: TypeError
+_______________________ test_search_logs_with_exception ________________________
+
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-55/dossier')
+
+    def test_search_logs_with_exception(folder_structure):
+        path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
+        logs_string = load_log_from_file(path)
+>       log_manager = LogManager(convert_logs(logs_string, path))
+
+test_log_manager.py:78: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7fb44505c3a0>
+flags = 0
+
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
+
+/usr/lib/python3.10/re.py:200: TypeError
+________________________________ test_nbr_logs _________________________________
+
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-55/dossier')
+
+    def test_nbr_logs(folder_structure):
+        path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
+>       log_manager = LogManager(convert_logs(load_log_from_file(path), path))
+
+test_log_manager.py:85: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7fb445239990>
+flags = 0
+
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
+
+/usr/lib/python3.10/re.py:200: TypeError
+___________________________________ test_str ___________________________________
+
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-55/dossier')
+
+    def test_str(folder_structure):
+        path = str(folder_structure.joinpath('sous_dossier1/syslog.log'))
+>       log_manager = LogManager(convert_logs(load_log_from_file(path), path))
+
+test_log_manager.py:91: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+log_manager.py:20: in __init__
+    self.logs = self.sort_by_program(logs)
+log_manager.py:11: in sort_by_program
+    program = log.get_program()
+log.py:17: in get_program
+    match = re.search(pattern, self.text)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+pattern = '\\w+(?=\\[\\d+\\])', string = <log.Log object at 0x7fb44505d5d0>
+flags = 0
+
+    def search(pattern, string, flags=0):
+        """Scan through string looking for a match to the pattern, returning
+        a Match object, or None if no match was found."""
+>       return _compile(pattern, flags).search(string)
+E       TypeError: expected string or bytes-like object
+
+/usr/lib/python3.10/re.py:200: TypeError
+___________________________ test_load_log_from_file ____________________________
+
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-55/dossier')
+
+    def test_load_log_from_file(folder_structure):
+        logs = load_log_from_file(str(folder_structure.joinpath('sous_dossier1/syslog.log')))
+        assert isinstance(logs, list), "La fonction devrait renvoyer une liste"
+        for log in logs:
+>           assert isinstance(log, str), "La liste devrait être composée d'instances de String"
+E           AssertionError: La liste devrait être composée d'instances de String
+E           assert False
+E            +  where False = isinstance(<log.Log object at 0x7fb44523a350>, str)
+
+test_main.py:35: AssertionError
+__________________________ test_load_logs_from_folder __________________________
+
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-55/dossier')
+
+    def test_load_logs_from_folder(folder_structure):
+        logs = load_logs_from_folder(str(folder_structure.joinpath('sous_dossier1')))
+        assert isinstance(logs, list), "La fonction devrait renvoyer une liste"
+        for log in logs:
+>           assert isinstance(log, str), "La liste devrait être composée d'instances de String"
+E           AssertionError: La liste devrait être composée d'instances de String
+E           assert False
+E            +  where False = isinstance(<log.Log object at 0x7fb4450b79d0>, str)
+
+test_main.py:50: AssertionError
+__________________________________ test_load ___________________________________
+
+folder_structure = PosixPath('/tmp/pytest-of-abc/pytest-55/dossier')
+
+    def test_load(folder_structure):
+        logs = load(str(folder_structure))
+        assert isinstance(logs, list), "La fonction devrait renvoyer une liste"
+        for log in logs:
+>           assert isinstance(log, str), "La liste devrait être composée d'instances de String"
+E           AssertionError: La liste devrait être composée d'instances de String
+E           assert False
+E            +  where False = isinstance(<log.Log object at 0x7fb44523b700>, str)
+
+test_main.py:73: AssertionError
+=========================== short test summary info ============================
+FAILED test_log_manager.py::test_init_with_logs - TypeError: expected string ...
+FAILED test_log_manager.py::test_clear_logs - TypeError: expected string or b...
+FAILED test_log_manager.py::test_add_logs - TypeError: expected string or byt...
+FAILED test_log_manager.py::test_search_logs - TypeError: expected string or ...
+FAILED test_log_manager.py::test_search_logs_with_exception - TypeError: expe...
+FAILED test_log_manager.py::test_nbr_logs - TypeError: expected string or byt...
+FAILED test_log_manager.py::test_str - TypeError: expected string or bytes-li...
+FAILED test_main.py::test_load_log_from_file - AssertionError: La liste devra...
+FAILED test_main.py::test_load_logs_from_folder - AssertionError: La liste de...
+FAILED test_main.py::test_load - AssertionError: La liste devrait être compos...
+======================== 10 failed, 12 passed in 0.08s =========================

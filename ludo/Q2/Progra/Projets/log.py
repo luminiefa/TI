@@ -13,13 +13,9 @@ class Log:
     
 
     def get_program(self):
-        pattern = r"\w+(?=\[\d+\])"
-        match = re.search(pattern, self.text)
-        if match:
-            program = match.group().split('[')[0]  # Prendre seulement la partie avant les crochets
-        else:
-            program = "Unknown"
-        return program
+        pattern = r'\w+(?=\[\d+\])'
+        match = re.search(pattern, self.text)  # Utilisez self.text au lieu de self
+        return match.group(0) if match else None
 
 
 
