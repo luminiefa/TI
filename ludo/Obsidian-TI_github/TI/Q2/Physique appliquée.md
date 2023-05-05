@@ -1145,3 +1145,111 @@ solide
 ## Impression 3D
 ![[Pasted image 20230501132115.png]]
 ![[Pasted image 20230501132128.png]]
+# Notions de développement durable
+## introduction
+Rapport Bruntland pour la Commission mondiale sur l’environnement et le
+développement (ONU, 1987)
+• La définition officielle : « le développement durable est celui qui répond aux besoins
+des générations présentes sans compromettre la capacité des générations futures à
+satisfaire les leurs »
+• Un concept un peu flou à ce stade, où chacun peut trouver ce qu’il veut…
+• Le Développement Durable reste la recherche de réponses réalistes, obéissant à la
+fois aux aspirations de l’humanité et aux contraintes économiques, sociales et
+environnementales
+• C’est une notion intégratrice qui englobe différents objectifs parfois considérées
+comme opposées.
+• Les constats suivants s’imposent en matière de développement économique :
+• Notre modèle actuel est fondé sur :
+– Des ressources naturelles bon marché • Des consommations d’énergie élevées
+– Une croissance économique nécessaire pour être à l’équilibre du système
+• Mais avec…
+– Des écarts de richesse croissants : hausse des inégalités
+– Des impacts environnementaux s’aggravant : climat et biodiversité
+– Des défis humains et écologiques majeurs
+## les différentes sources d'énergie
+### Les énergies non renouvables
+Les énergies fossiles sont issues de la matière vivante, végétale ou animale.
+• On distingue notamment le charbon, le pétrole et le gaz naturel et plus
+récemment l’utilisation du nucléaire
+• Leur utilisation, en tant que combustible, s’est véritablement développée au
+cours du 19ème siècle à une époque où les besoins en énergie ont fortement
+augmenté avec les débuts de la «Révolution industrielle».
+• Faciles à transporter et à stocker, les énergies fossiles présentent
+néanmoins quelques inconvénients:
+– coût très fluctuant
+– émission de gaz à effet de serre
+– diminution des réserves
+Actuellement, notre société exploite comme source 
+d’énergie :
+• Le charbon qui est la source d’énergie fossile la 
+plus abondante et la mieux répartie dans le monde. 
+• Le charbon s’est formé il y a plus de 280 millions 
+d’années à partir de végétaux engloutis par les 
+eaux lors de bouleversements géologiques 
+importants. 
+• C’est aujourd’hui la principale réserve d’énergie 
+fossile. Il est surtout utilisé dans les centrales 
+thermiques de production d’électricité et pour le 
+chauffage. 
+• Malheureusement, l’émission de gaz à effet de 
+serre due au charbon est le double en volume de 
+celle liée au gaz naturel, à production d’énergie 
+égale.
+Actuellement, notre société exploite comme 
+source d’énergie : 
+• Le pétrole constitue la première source 
+d’énergie mondiale. Formé, il y’a 20 à 350 
+millions d’années à partir du plancton qui 
+s’est déposé au fond des mers, la formation 
+du pétrole passe par plusieurs étapes : 
+1. À un kilomètre sous terre, la température 
+atteint environ 60 °C et la pression environ 
+250 bars. La matière organique se 
+transforme alors en kérogène, un mélange 
+d'eau, de CO2, d'hydrogène et de carbone 
+dans des proportions diverses
+2. Lorsque la température et la pression 
+augmentent encore avec l'enfouissement, 
+entre 2.000 et 3.800 mètres, les roches￾mères entrent dans ce que l'on appelle « la 
+fenêtre à huile ». Les liaisons chimiques du 
+kérogène se brisent. Les atomes de 
+carbone et d'hydrogène se recombinent 
+pour former du pétrole.
+Actuellement, notre société exploite
+comme source d’énergie :
+• Le gaz naturel s’est formé en même
+temps que le pétrole. Issu de la
+transformation naturelle durant des
+millions d’années de matières
+organiques, le gaz provient de
+couches géologiques du sous-sol où il
+se trouve soit seul, soit en association
+avec du pétrole. Aujourd’hui, le gaz
+représente près de 22% de la
+consommation mondiale d’énergie
+primaire.
+Actuellement, notre société exploite 
+comme source d’énergie :
+• L’uranium 235 est utilisé dans les 
+centrales nucléaires où il dégage 
+de l’énergie par « fission ». Les 
+centrales nucléaires belges 
+fournissent environ 55 % de la 
+consommation d’électricité du pays 
+– L'extraction. 
+– Le traitement
+– L'enrichissement
+– La fabrication du combustible
+– Le retraitement
+### Les énergies renouvelables
+Les énergies renouvelables constituent
+historiquement les premières sources
+d’énergies utilisées par les hommes. Fournies
+par le soleil, le vent, la chaleur de la terre, les
+chutes d’eau; ces énergies, par définition, se
+renouvellent naturellement après avoir été
+consommées et sont donc inépuisables (au
+moins sur des très grandes échelles de
+temps). Aujourd’hui, elles servent surtout à la
+production d’électricité
+## La pollution numérique
