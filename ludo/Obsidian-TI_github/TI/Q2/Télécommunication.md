@@ -47,6 +47,7 @@
 # chapitre 1 ondes électromagnétiques
 ## Préambule
 ![[ludo/Obsidian-TI_github/TI/pasted image/Pasted image 20230315162457.png]]
+![description de l'image](ludo/Obsidian-TI_github/TI/pasted image/Pasted image 20230315162457.png)
 ## Les ondes électromagnétiques
 ### Différences avec les ondes mécaniques
 • Une onde mécanique est le déplacement d’une perturbation  
