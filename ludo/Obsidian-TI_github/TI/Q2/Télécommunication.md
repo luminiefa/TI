@@ -46,6 +46,8 @@
 
 # chapitre 1 ondes électromagnétiques
 ## Préambule
+![image](https://user-images.githubusercontent.com/19058019/236643283-0701df02-c7f2-4c53-b142-efc4633035ec.png)
+
 ![[ludo/Obsidian-TI_github/TI/pasted image/Pasted image 20230315162457.png]]
 ![description de l'image](ludo/Obsidian-TI_github/TI/pasted image/Pasted image 20230315162457.png)
 ## Les ondes électromagnétiques
