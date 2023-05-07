@@ -1,55 +1,6 @@
-- [[#chapitre 1 ondes électromagnétiques|chapitre 1 ondes électromagnétiques]]
-	- [[#chapitre 1 ondes électromagnétiques#Préambule|Préambule]]
-	- [[#chapitre 1 ondes électromagnétiques#Les ondes électromagnétiques|Les ondes électromagnétiques]]
-		- [[#Les ondes électromagnétiques#Différences avec les ondes mécaniques|Différences avec les ondes mécaniques]]
-		- [[#Les ondes électromagnétiques#Nature des ondes électromagnétiques|Nature des ondes électromagnétiques]]
-		- [[#Les ondes électromagnétiques#Nature des ondes électromagnétiques|Nature des ondes électromagnétiques]]
-		- [[#Les ondes électromagnétiques#Caractéristiques|Caractéristiques]]
-		- [[#Les ondes électromagnétiques#Le spectre électromagnétique|Le spectre électromagnétique]]
-		- [[#Les ondes électromagnétiques#Exercices|Exercices]]
-- [[#chapitre 2 liaisons hertziennes en espace libre|chapitre 2 liaisons hertziennes en espace libre]]
-	- [[#chapitre 2 liaisons hertziennes en espace libre#Introduction|Introduction]]
-		- [[#Introduction#Rappel :|Rappel :]]
-	- [[#chapitre 2 liaisons hertziennes en espace libre#Propagation dans l'environnement terrestre|Propagation dans l'environnement terrestre]]
-	- [[#chapitre 2 liaisons hertziennes en espace libre#Atténuation et absorption|Atténuation et absorption]]
-	- [[#chapitre 2 liaisons hertziennes en espace libre#Ellipsoïde de Fresnel|Ellipsoïde de Fresnel]]
-		- [[#Ellipsoïde de Fresnel#Exercices|Exercices]]
-	- [[#chapitre 2 liaisons hertziennes en espace libre#Type de liaison|Type de liaison]]
-- [[#chapitre 3 les antennes|chapitre 3 les antennes]]
-	- [[#chapitre 3 les antennes#Le décibel|Le décibel]]
-	- [[#chapitre 3 les antennes#Caractéristiques des antennes|Caractéristiques des antennes]]
-	- [[#chapitre 3 les antennes#Diagramme de rayonnement|Diagramme de rayonnement]]
-	- [[#chapitre 3 les antennes#Gain d'une antenne|Gain d'une antenne]]
-	- [[#chapitre 3 les antennes#Polarisation|Polarisation]]
-	- [[#chapitre 3 les antennes#Bande passante|Bande passante]]
-	- [[#chapitre 3 les antennes#Exemple|Exemple]]
-- [[#chapitre 4 traitement des signaux|chapitre 4 traitement des signaux]]
-	- [[#chapitre 4 traitement des signaux#Signal et bruit|Signal et bruit]]
-		- [[#Signal et bruit#Définitions|Définitions]]
-	- [[#chapitre 4 traitement des signaux#Signal sinusoïdal|Signal sinusoïdal]]
-	- [[#chapitre 4 traitement des signaux#Série de Fourier|Série de Fourier]]
-		- [[#Série de Fourier#Définitions|Définitions]]
-		- [[#Série de Fourier#Exemples|Exemples]]
-		- [[#Série de Fourier#Transformée de Fourier|Transformée de Fourier]]
-	- [[#chapitre 4 traitement des signaux#Spectre du signal|Spectre du signal]]
-		- [[#Spectre du signal#Définition|Définition]]
-	- [[#chapitre 4 traitement des signaux#Pourquoi traiter le signal|Pourquoi traiter le signal]]
-		- [[#Pourquoi traiter le signal#Utilités|Utilités]]
-		- [[#Pourquoi traiter le signal#Largeur de bande|Largeur de bande]]
-		- [[#Pourquoi traiter le signal#Exemple de transposition de fréquence|Exemple de transposition de fréquence]]
-		- [[#Pourquoi traiter le signal#Transposition de fréquence|Transposition de fréquence]]
-		- [[#Pourquoi traiter le signal#Transposition de fréquence|Transposition de fréquence]]
-		- [[#Pourquoi traiter le signal#Exemple de multiplexage fréquentiel|Exemple de multiplexage fréquentiel]]
-	- [[#chapitre 4 traitement des signaux#Signal analogique et numérique|Signal analogique et numérique]]
-	- [[#chapitre 4 traitement des signaux#Chaîne de communication en propagation libre|Chaîne de communication en propagation libre]]
-		- [[#Chaîne de communication en propagation libre#Modulation|Modulation]]
-
 # chapitre 1 ondes électromagnétiques
 ## Préambule
-![image](https://user-images.githubusercontent.com/19058019/236643283-0701df02-c7f2-4c53-b142-efc4633035ec.png)
-
-![[ludo/Obsidian-TI_github/TI/pasted image/Pasted image 20230315162457.png]]
-![description de l'image](ludo/Obsidian-TI_github/TI/pasted image/Pasted image 20230315162457.png)
+![image](https://user-images.githubusercontent.com/19058019/236664868-9aba3ae4-9b05-4833-b2c8-279aafe3d001.png)
 ## Les ondes électromagnétiques
 ### Différences avec les ondes mécaniques
 • Une onde mécanique est le déplacement d’une perturbation  
@@ -121,9 +72,9 @@ phénomènes distincts.
 	ondes s’effectue à une vitesse qui dépend du milieu considéré. Dans le vide, la vitesse de  
 	propagation est égale à 3.108 m.s-1.  
 	– Plus l’on s’éloigne de la source plus le champ diminue.
-	![[Pasted image 20230315162954.png]]
+	![image](https://user-images.githubusercontent.com/19058019/236664886-cc519766-8b4c-443f-9be2-5dfe4fe0dbf1.png)
 ### Le spectre électromagnétique
-![[Pasted image 20230315163031.png]]
+![image](https://user-images.githubusercontent.com/19058019/236664909-fc13f98e-1af4-4d07-88fe-ff44bf32c454.png)
 • Les ondes EM aux différentes fréquences :  
 	– Les rayons gamma ( γ ) : fréquences supérieures à 3×1019 Hz. Ils sont dus aux  
 	radiations émises par les éléments radioactifs. Très énergétiques, ils traversent  
@@ -168,7 +119,7 @@ dont la longueur d’onde est donnée, calculez la fréquence.
 – 1 m  
 • Dans quelle partie du spectre électromagnétique se situent ces  
 ondes ?
-![[telecommunication_230213_104944.pdf]]
+![image](https://user-images.githubusercontent.com/19058019/236664929-79104372-cb4f-4587-ab64-b229c9ba961f.png)
 # chapitre 2 liaisons hertziennes en espace libre
 ## Introduction
 ### Rappel :  
@@ -192,7 +143,7 @@ l’information numérique :
 	– Comment garantir la confidentialité de transmission entre  
 	l’émetteur et le récepteur
 ## Propagation dans l'environnement terrestre
-![[Pasted image 20230315163811.png]]
+![image](https://user-images.githubusercontent.com/19058019/236664937-36550db1-179f-4740-9ce6-b22dd3dfc39d.png)
 • Les différents types d’ondes :  
 	– L'onde directe : l'émetteur et le récepteur sont en inter visibilité, c'est le type de  
 	propagation des fréquences très élevées.  
@@ -223,13 +174,13 @@ l’information numérique :
 	le sol car les antennes sont très directives (paraboles). C'est le cas des faisceaux  
 	hertziens et de la télévision par satellite.
 ## Atténuation et absorption
-![[Pasted image 20230315163952.png]]
-![[Pasted image 20230315164009.png]]
+![image](https://user-images.githubusercontent.com/19058019/236664950-72746b27-565e-4c30-be83-4e5a3e604914.png)
+![image](https://user-images.githubusercontent.com/19058019/236664956-4cb4d46f-7a6f-486b-8ea6-7ae48249414f.png)
 ## Ellipsoïde de Fresnel
-![[Pasted image 20230315164030.png]]
-![[Pasted image 20230315164040.png]]
-![[Pasted image 20230315164051.png]]
-![[Pasted image 20230315164104.png]]
+![image](https://user-images.githubusercontent.com/19058019/236664975-2fb9e4fe-a623-4941-b3f8-70914b8b409b.png)
+![image](https://user-images.githubusercontent.com/19058019/236664982-e31a2192-999e-43fe-9b68-bebd9ea94f77.png)
+![image](https://user-images.githubusercontent.com/19058019/236664987-da499de2-f474-4b6a-9aa4-8277a5c0b113.png)
+![image](https://user-images.githubusercontent.com/19058019/236665003-17524944-d363-4cf6-ab71-012165a7b497.png)
 ### Exercices
 – Quel est rmax pour une transmission GSM à 900 MHz entre 2 antennes distantes de 10  
 km ?  
@@ -240,19 +191,23 @@ La hauteur de végétation moyenne est de 15m (il n'y a aucun relief)
 assurer une liaison en 11 Ghz pour que la première ellipsoïde de Fresnel soit visible à  
 100 % ?  
 La hauteur de végétation moyenne est de 19 m (il n'y a aucun relief)
-![[transmission 2_230217_144525 1.pdf]]
+![image](https://user-images.githubusercontent.com/19058019/236665014-992f4073-c827-49fd-b9c7-56a55e8fdeda.png)
+![image](https://user-images.githubusercontent.com/19058019/236665023-b73f92db-edd3-4632-b097-3642af4f94ef.png)
+![image](https://user-images.githubusercontent.com/19058019/236665031-d96f0492-6141-4f34-88e6-4bb615ac3e3e.png)
+![image](https://user-images.githubusercontent.com/19058019/236665035-8806a741-844a-4c7b-9613-f8d615000714.png)
+
 ## Type de liaison
-![[Pasted image 20230315164201.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665050-d787ee10-5549-492a-97ab-bb905f43b3c2.png)
 # chapitre 3 les antennes
 ## Le décibel
-![[Pasted image 20230315164440.png]]
-![[Pasted image 20230315164451.png]]
-![[Pasted image 20230315164504.png]]
-![[Pasted image 20230315164514.png]]
-![[Pasted image 20230315164534.png]]
-![[Pasted image 20230315164550.png]]
-![[Pasted image 20230315164604.png]]
-![[Pasted image 20230315164624.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665063-365fc12e-0a28-4bad-a564-2384fc74d002.png)
+![image](https://user-images.githubusercontent.com/19058019/236665068-c586a10b-6cbb-4de0-a6d7-36c9360f48a9.png)
+![image](https://user-images.githubusercontent.com/19058019/236665077-dffbe17d-48c7-4b9c-af65-1e8c38532bbb.png)
+![image](https://user-images.githubusercontent.com/19058019/236665083-04af91b9-45dc-48dc-8074-fd6fdbe792dc.png)
+![image](https://user-images.githubusercontent.com/19058019/236665089-eb6c75f8-08b9-4232-9c03-b18c9656c046.png)
+![image](https://user-images.githubusercontent.com/19058019/236665097-229dd1d7-8f36-48a0-8134-9f3c93a39c9d.png)
+![image](https://user-images.githubusercontent.com/19058019/236665106-229cdae6-a867-412d-8e40-9ad13d0a737c.png)
+![image](https://user-images.githubusercontent.com/19058019/236665115-ee87c951-3b2d-4ecf-846c-1e9cffa10b82.png)
 • Exercices  
 – On injecte en entrée d'un amplificateur une puissance  
 de 10 mW.  
@@ -267,12 +222,12 @@ coupure à -3 dB.
 Quel est le rapport de puissance correspondant ?  
 Quel est le rapport de tension correspondant ?
 ## Caractéristiques des antennes  
-![[Pasted image 20230315164945.png]]
-![[Pasted image 20230315164957.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665128-33b0a205-3833-452f-8870-816156ee1202.png)
+![image](https://user-images.githubusercontent.com/19058019/236665137-330480df-9c08-4a76-84d4-86e35694efd8.png)
 ## Diagramme de rayonnement  
-![[Pasted image 20230315165013.png]]
-![[Pasted image 20230315165027.png]]
-![[Pasted image 20230315165042.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665142-d9fd55ad-2567-411c-b5eb-4aba2831e472.png)
+![image](https://user-images.githubusercontent.com/19058019/236665148-ecefb6db-2da5-4273-8c50-7897c376263b.png)
+![image](https://user-images.githubusercontent.com/19058019/236665154-4829e7e2-1330-4edf-9d0a-40ecfcbdde4a.png)
 – Dans certaines applications, on souhaite émettre ou recevoir  
 dans une direction précise.  
 – Exemples d'antennes directives :  
@@ -285,12 +240,12 @@ véhicule à la fois
 • émission TV : l'émetteur « arrose » toute une région  
 • talkie-walkie : on ignore où se trouve l'autre poste  
 • émetteur et récepteur Wi-Fi
-![[Pasted image 20230315165112.png]]
-![[Pasted image 20230315165129.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665165-6b762799-d3a1-4a94-b392-adcd28b010f1.png)
+![image](https://user-images.githubusercontent.com/19058019/236665179-38f2e345-861c-467b-a450-7366c351c03a.png)
 ## Gain d'une antenne  
-![[Pasted image 20230315165143.png]]
-![[Pasted image 20230315165155.png]]
-![[Pasted image 20230315165209.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665189-ff87ffd7-2f6e-49d9-8406-677dc189d16c.png)
+![image](https://user-images.githubusercontent.com/19058019/236665196-c64a2dbd-10c2-41ab-a1d9-b76a07bc83d9.png)
+![image](https://user-images.githubusercontent.com/19058019/236665210-0174978e-b0bf-45d0-97ed-386a21bd5888.png)
 ### Examples exercices  
 – Une antenne isotrope n'a pas de gain => 0 dBi  
 – Une antenne dipôle possède un gain de 2,15 dB par  
@@ -300,11 +255,16 @@ On dit aussi qu'elle a un gain de 2,15 dBi.
 – Antenne autodirectrice de missile: 20 dBi  
 – Antenne de radar de surveillance: 40 dBi  
 – Antenne de radioastronomie: 50 dBi
-![[Pasted image 20230315165248.png]]
-![[Pasted image 20230315165304.png]]
-![[Pasted image 20230315165314.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665216-ae175d90-2d46-45de-959c-bd42afe7d311.png)
+![image](https://user-images.githubusercontent.com/19058019/236665224-15763f94-fecc-482b-be7f-8d4efac6f5f5.png)
+![image](https://user-images.githubusercontent.com/19058019/236665232-b735968f-11ae-41f7-93f8-c9f9bd7e8722.png)
 
-![[Telecom_230302_121631 (1).pdf]]
+![image](https://user-images.githubusercontent.com/19058019/236665263-c6df0c65-bb2f-4ce7-9f88-9f51e5ac0dab.png)
+![image](https://user-images.githubusercontent.com/19058019/236665276-e6d7890a-cf24-4f10-b198-06122403f64f.png)
+![image](https://user-images.githubusercontent.com/19058019/236665284-8e7d29b1-8e9d-4c6b-aa10-8ba48ca6a2c9.png)
+![image](https://user-images.githubusercontent.com/19058019/236665287-5bc2875b-3fdf-4ee9-927d-6bcb24b8d297.png)
+![image](https://user-images.githubusercontent.com/19058019/236665311-4c25ee64-da6a-49dc-883e-df43c412d176.png)
+
 ## Polarisation  
 • Principe  
 	– Le signal émis par une antenne est polarisé. Le champ  
