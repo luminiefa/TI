@@ -450,8 +450,8 @@ La modulation analogique
 	maximale ?  
 	– Quelles sont les indices de modulations minimum et maximum ?
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101610.png?raw=true)
-![[Pasted image 20230415101610.png]]
-![[Pasted image 20230415101621.png]]
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101621.png?raw=true)
+
 ## Démodulation de fréquence
 • Démodulation par discriminateur  
 Le but du discriminateur est de dériver le signal modulé en fréquence.  
@@ -459,13 +459,13 @@ L’amplitude est alors proportionnelle au signal modulant. Un détecteur
 d’enveloppe permet d’extraire uniquement l’amplitude du signal modulant  
 Pour dériver le signal, on utilise un circuit de type filtre qui fait varier l’amplitude  
 en fonction de la fréquence
-![[Pasted image 20230415101641.png]]
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101641.png?raw=true)
 ## Modulation de phase
-![[Pasted image 20230415101655.png]]
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101655.png?raw=true)
 • Principe  
 	– On constate que la forme du signal modulé en modulation de phase a la même forme que celui modulé en fréquence.  
 	– Il est en avance d'un quart de période ( 90°), ce qui correspond à une dérivation du signal modulant.
-![[Pasted image 20230415101709.png]]
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101709.png?raw=true)
 # Chapitre 6 modulation numérique
 ## La modulation numérique
 ![[Pasted image 20230415102100.png]]
