@@ -1,156 +1,25 @@
-- [[#CHAPITRE 1 : LES UNITÉS DE BASE|CHAPITRE 1 : LES UNITÉS DE BASE]]
-	- [[#CHAPITRE 1 : LES UNITÉS DE BASE#2. Le système international (SI)|2. Le système international (SI)]]
-		- [[#2. Le système international (SI)#Le mètre|Le mètre]]
-		- [[#2. Le système international (SI)#La seconde|La seconde]]
-		- [[#2. Le système international (SI)#Le kilogramme|Le kilogramme]]
-		- [[#2. Le système international (SI)#L’ampère|L’ampère]]
-		- [[#2. Le système international (SI)#Le kelvin|Le kelvin]]
-		- [[#2. Le système international (SI)#La mole|La mole]]
-		- [[#2. Le système international (SI)#La candela|La candela]]
-	- [[#CHAPITRE 1 : LES UNITÉS DE BASE#2. Ordre de grandeur|2. Ordre de grandeur]]
-		- [[#2. Ordre de grandeur#Quizz|Quizz]]
-- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE|CHAPITRE 2: NOTIONS DE MÉCANIQUE]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#1. Introduction|1. Introduction]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Exemple : le vecteur déplacement|Exemple : le vecteur déplacement]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Addition géométrique des vecteurs|Addition géométrique des vecteurs]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Composantes des vecteurs|Composantes des vecteurs]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#La multiplication des vecteurs|La multiplication des vecteurs]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#2. Forces et lois du mouvement|2. Forces et lois du mouvement]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Les trois lois de Newton|Les trois lois de Newton]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Quelques types de forces|Quelques types de forces]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#3. L’énergie|3. L’énergie]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Pas une mais des énergies|Pas une mais des énergies]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Le travail|Le travail]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#1er cas : Energie cinétique|1er cas : Energie cinétique]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#2ème cas : l’énergie potentielle|2ème cas : l’énergie potentielle]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Conservation de l’énergie|Conservation de l’énergie]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#Pertes d’énergie|Pertes d’énergie]]
-	- [[#CHAPITRE 2: NOTIONS DE MÉCANIQUE#4. La puissance|4. La puissance]]
-- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE|CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#1. Introduction|1. Introduction]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Limitations des lois de l’optique géométrique :|Limitations des lois de l’optique géométrique :]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Indice de réfraction|Indice de réfraction]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#2. Les lois de Snell-Descartes|2. Les lois de Snell-Descartes]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Première loi de Snell-Descartes (loi sur le plan|Première loi de Snell-Descartes (loi sur le plan]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Deuxième loi de Snell-Descartes (loi sur la réflexion)|Deuxième loi de Snell-Descartes (loi sur la réflexion)]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Troisième loi de Snell-Descartes (loi sur la réfraction)|Troisième loi de Snell-Descartes (loi sur la réfraction)]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Loi du retour inverse de la lumière|Loi du retour inverse de la lumière]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Interprétation qualitative de la 3ème loi de Snell-  Descartes|Interprétation qualitative de la 3ème loi de Snell-  Descartes]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#3. Réflexion totale|3. Réflexion totale]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#4. La fibre optique|4. La fibre optique]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Profil à saut d’indice|Profil à saut d’indice]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Profil à gradient d’indice|Profil à gradient d’indice]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Types de fibres optiques|Types de fibres optiques]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Multimode à saut d'indice|Multimode à saut d'indice]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Multimode à gradient d'indice|Multimode à gradient d'indice]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Fibre monomode|Fibre monomode]]
-	- [[#CHAPITRE 3 : NOTIONS D’OPTIQUE  GÉOMÉTRIQUE#Exercices|Exercices]]
-- [[#CHAPITRE 4 : NOTIONS DE  TEMPÉRATURE ET DE CHALEUR|CHAPITRE 4 : NOTIONS DE  TEMPÉRATURE ET DE CHALEUR]]
-	- [[#CHAPITRE 4 : NOTIONS DE  TEMPÉRATURE ET DE CHALEUR#1. Introduction|1. Introduction]]
-	- [[#CHAPITRE 4 : NOTIONS DE  TEMPÉRATURE ET DE CHALEUR#2. Principe zéro et thermomètre|2. Principe zéro et thermomètre]]
-	- [[#CHAPITRE 4 : NOTIONS DE  TEMPÉRATURE ET DE CHALEUR#3. Les échelles de température|3. Les échelles de température]]
-	- [[#CHAPITRE 4 : NOTIONS DE  TEMPÉRATURE ET DE CHALEUR#4. Formes d’échanges thermiques :|4. Formes d’échanges thermiques :]]
-	- [[#CHAPITRE 4 : NOTIONS DE  TEMPÉRATURE ET DE CHALEUR#5. La dilatation des solides|5. La dilatation des solides]]
-		- [[#5. La dilatation des solides#Le coefficient de dilatation linéique|Le coefficient de dilatation linéique]]
-	- [[#CHAPITRE 4 : NOTIONS DE  TEMPÉRATURE ET DE CHALEUR#6. Un exemple de cycle thermodynamique : le cycle de|6. Un exemple de cycle thermodynamique : le cycle de]]
-	- [[#CHAPITRE 4 : NOTIONS DE  TEMPÉRATURE ET DE CHALEUR#7. Les principales techniques de refroidissement|7. Les principales techniques de refroidissement]]
-		- [[#7. Les principales techniques de refroidissement#Refroidissement à air|Refroidissement à air]]
-		- [[#7. Les principales techniques de refroidissement#Refroidissement à air passif|Refroidissement à air passif]]
-		- [[#7. Les principales techniques de refroidissement#Refroidissement à air actif|Refroidissement à air actif]]
-		- [[#7. Les principales techniques de refroidissement#Chambre à vapeur|Chambre à vapeur]]
-		- [[#7. Les principales techniques de refroidissement#Refroidissement à eau (Watercooling)|Refroidissement à eau (Watercooling)]]
-		- [[#7. Les principales techniques de refroidissement#Avantages et inconvénients|Avantages et inconvénients]]
-		- [[#7. Les principales techniques de refroidissement#Composants|Composants]]
-		- [[#7. Les principales techniques de refroidissement#Refroidissements exotiques|Refroidissements exotiques]]
-		- [[#7. Les principales techniques de refroidissement#Exercices|Exercices]]
-- [[#CHAPITRE 5 : Electricité|CHAPITRE 5 : Electricité]]
-	- [[#CHAPITRE 5 : Electricité#Electronique en informatique|Electronique en informatique]]
-		- [[#Electronique en informatique#Composants:|Composants:]]
-		- [[#Electronique en informatique#Trois problématiques de ce chapitre|Trois problématiques de ce chapitre]]
-	- [[#CHAPITRE 5 : Electricité#Processeurs (CPU,GPU,APU,DSP)|Processeurs (CPU,GPU,APU,DSP)]]
-	- [[#CHAPITRE 5 : Electricité#Plan d’un transistor|Plan d’un transistor]]
-	- [[#CHAPITRE 5 : Electricité#Condensateur|Condensateur]]
-	- [[#CHAPITRE 5 : Electricité#Equations de l’électronique|Equations de l’électronique]]
-	- [[#CHAPITRE 5 : Electricité#Condensateur: analogie avec l’eau|Condensateur: analogie avec l’eau]]
-	- [[#CHAPITRE 5 : Electricité#Condensateur: AC et DC|Condensateur: AC et DC]]
-	- [[#CHAPITRE 5 : Electricité#Transistor MOSFET|Transistor MOSFET]]
-	- [[#CHAPITRE 5 : Electricité#Fonctionnement d’un transistor MOS|Fonctionnement d’un transistor MOS]]
-	- [[#CHAPITRE 5 : Electricité#Exemple d’application: XOR|Exemple d’application: XOR]]
-	- [[#CHAPITRE 5 : Electricité#Puissance Electronique Digitale|Puissance Electronique Digitale]]
-	- [[#CHAPITRE 5 : Electricité#Vitesse d’un processeur|Vitesse d’un processeur]]
-	- [[#CHAPITRE 5 : Electricité#Exemple d’overclocking|Exemple d’overclocking]]
-	- [[#CHAPITRE 5 : Electricité#Vitesse des processeurs (fabrication)|Vitesse des processeurs (fabrication)]]
-	- [[#CHAPITRE 5 : Electricité#Taille et loi de Moore|Taille et loi de Moore]]
-	- [[#CHAPITRE 5 : Electricité#Les alimentations|Les alimentations]]
-	- [[#CHAPITRE 5 : Electricité#Alimentation classique|Alimentation classique]]
-	- [[#CHAPITRE 5 : Electricité#Les alimentations|Les alimentations]]
-	- [[#CHAPITRE 5 : Electricité#Les alimentations à découpage|Les alimentations à découpage]]
-	- [[#CHAPITRE 5 : Electricité#Les alimentations à découpage|Les alimentations à découpage]]
-	- [[#CHAPITRE 5 : Electricité#Inductance|Inductance]]
-	- [[#CHAPITRE 5 : Electricité#Equations de l’électronique|Equations de l’électronique]]
-	- [[#CHAPITRE 5 : Electricité#Inductance: AC et DC|Inductance: AC et DC]]
-	- [[#CHAPITRE 5 : Electricité#Les alimentations à découpage|Les alimentations à découpage]]
-	- [[#CHAPITRE 5 : Electricité#Bilan|Bilan]]
-	- [[#CHAPITRE 5 : Electricité#Interférences et Compatibilité électromagnétique (EMC)|Interférences et Compatibilité électromagnétique (EMC)]]
-	- [[#CHAPITRE 5 : Electricité#EMC|EMC]]
-	- [[#CHAPITRE 5 : Electricité#Solutions|Solutions]]
-- [[#Chapitre 5 : Compléments sur le magnétisme|Chapitre 5 : Compléments sur le magnétisme]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#Introduction|Introduction]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#Les aimants|Les aimants]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#Expérience historique d’Oersted|Expérience historique d’Oersted]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#Champ magnétique créé par un courant électrique  continu (fil)|Champ magnétique créé par un courant électrique  continu (fil)]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#Champ magnétique créé par un courant électrique  continu (solénoïde)|Champ magnétique créé par un courant électrique  continu (solénoïde)]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#Les lignes de champs|Les lignes de champs]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#Conséquences : Câbles à paires torsadées blindées|Conséquences : Câbles à paires torsadées blindées]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#Conséquences : Câble à paires torsadées non blindées|Conséquences : Câble à paires torsadées non blindées]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#Applications : Disques durs|Applications : Disques durs]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#Les plateaux|Les plateaux]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#La tête de lecture-écriture|La tête de lecture-écriture]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#Principe d’écriture|Principe d’écriture]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#Principe de lecture|Principe de lecture]]
-	- [[#Chapitre 5 : Compléments sur le magnétisme#Le bras de contrôle|Le bras de contrôle]]
-- [[#CHAPITRE 6 : NOTIONS DE|CHAPITRE 6 : NOTIONS DE]]
-	- [[#CHAPITRE 6 : NOTIONS DE#1. Introduction|1. Introduction]]
-	- [[#CHAPITRE 6 : NOTIONS DE#2. Types de maintenance|2. Types de maintenance]]
-		- [[#2. Types de maintenance#2.1 Maintenance corrective|2.1 Maintenance corrective]]
-		- [[#2. Types de maintenance#2.2 Maintenance préventive|2.2 Maintenance préventive]]
-			- [[#2.2 Maintenance préventive#2.2.1 Intérêt d’une maintenance préventive|2.2.1 Intérêt d’une maintenance préventive]]
-			- [[#2.2 Maintenance préventive#2.2.2 Gestion du stock des pièces de rechange|2.2.2 Gestion du stock des pièces de rechange]]
-			- [[#2.2 Maintenance préventive#2.2.3 Standardisation|2.2.3 Standardisation]]
-			- [[#2.2 Maintenance préventive#2.2.4 Planification|2.2.4 Planification]]
-	- [[#CHAPITRE 6 : NOTIONS DE#3. Les différents niveaux de la maintenance|3. Les différents niveaux de la maintenance]]
-		- [[#3. Les différents niveaux de la maintenance#1er Niveau|1er Niveau]]
-		- [[#3. Les différents niveaux de la maintenance#2ème Niveau|2ème Niveau]]
-		- [[#3. Les différents niveaux de la maintenance#3ème Niveau|3ème Niveau]]
-		- [[#3. Les différents niveaux de la maintenance#4ème Niveau|4ème Niveau]]
-		- [[#3. Les différents niveaux de la maintenance#5ème Niveau|5ème Niveau]]
-	- [[#CHAPITRE 6 : NOTIONS DE#4. Méthodes de dépannage|4. Méthodes de dépannage]]
-		- [[#4. Méthodes de dépannage#4.1 Diagnostic en maintenance corrective|4.1 Diagnostic en maintenance corrective]]
-		- [[#4. Méthodes de dépannage#4.2 Dépannage au voltmètre|4.2 Dépannage au voltmètre]]
-			- [[#4.2 Dépannage au voltmètre#4.2.1 Exemple de recherche de panne au voltmètre|4.2.1 Exemple de recherche de panne au voltmètre]]
 
-
-![[Physique_230302_101742.pdf]]
+![image](https://user-images.githubusercontent.com/19058019/236685859-2969eacb-801b-498d-ba9b-f6304f4a9297.png)
 
 # CHAPITRE 1 : LES UNITÉS DE BASE
 ## 2. Le système international (SI)
-![[Pasted image 20230315115356.png]]
+![image](https://user-images.githubusercontent.com/19058019/236685880-5fb130d7-a2d7-4135-8b7a-8b57e8bd37a2.png)
 ### Le mètre
-![[Pasted image 20230315115428.png]]
+![image](https://user-images.githubusercontent.com/19058019/236685893-e8431b6d-7b89-43c9-b17e-f4d94195a365.png)
 ### La seconde
-![[Pasted image 20230315115447.png]]
+![image](https://user-images.githubusercontent.com/19058019/236685908-ed6faeec-d85e-4d68-8290-703fc4a34770.png)
 ### Le kilogramme
-![[Pasted image 20230315115510.png]]
+![image](https://user-images.githubusercontent.com/19058019/236685923-51ed74b1-947b-4689-a683-25233565b611.png)
 ### L’ampère
-![[Pasted image 20230315115533.png]]
+![image](https://user-images.githubusercontent.com/19058019/236685928-8d3c2240-c293-4f53-abfc-16c3b8953910.png)
 ### Le kelvin
-![[Pasted image 20230315115555.png]]
+![image](https://user-images.githubusercontent.com/19058019/236685931-92797f6a-b6c0-4c35-8b3c-3b64fcf15f7b.png)
 ### La mole
-![[Pasted image 20230315115613.png]]
+![image](https://user-images.githubusercontent.com/19058019/236685940-729570b7-388b-456f-974b-75bb0e792911.png)
 ### La candela
-![[Pasted image 20230315115630.png]]
+![image](https://user-images.githubusercontent.com/19058019/236685953-56a245f5-afb0-4b3d-8fc2-a86e57f58cc5.png)
 ## 2. Ordre de grandeur
-![[Pasted image 20230315115653.png]]
+![image](https://user-images.githubusercontent.com/19058019/236685962-47f9ecab-c3f6-48f1-887f-a0fc4790a053.png)
 ### Quizz
 • Sachant que la vitesse de la lumière est d’environ 300 000 km/s  
 et qu’un rayon du soleil atteint la terre environ 8 min, calculez, la  
@@ -177,13 +46,13 @@ déplacement, vitesse, accélération,...)
 – Un scalaire ne possède pas de direction et est soumis aux  
 règles de l’algèbre ordinaire (ex: température, pression,...)
 ## Exemple : le vecteur déplacement
-![[Pasted image 20230315120106.png]]
+![image](https://user-images.githubusercontent.com/19058019/236685981-ce28413b-11cc-489f-a33e-86de42d8c579.png)
 ## Addition géométrique des vecteurs
-![[Pasted image 20230315120131.png]]
+![image](https://user-images.githubusercontent.com/19058019/236685989-6fde5b16-b157-4eb1-9c6b-265317b42670.png)
 ## Composantes des vecteurs
-![[Pasted image 20230315120157.png]]
+![image](https://user-images.githubusercontent.com/19058019/236685993-90d031bc-64b7-4dbf-bc3a-ad59ec3b5a63.png)
 ## La multiplication des vecteurs
-![[Pasted image 20230315120216.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686004-a66eddac-a285-4e61-84c1-f7bbe17891dd.png)
 ## 2. Forces et lois du mouvement
 • Toute variation sur le vecteur de la vitesse (direction ou  
 intensité) est la conséquence d’une action d’un corps sur  
@@ -192,9 +61,9 @@ un autre.
 permettant de modéliser l’action d’un corps sur un autre  
 Comme par exemple le mouvement d’un corps (effet  
 dynamique) ou de le déformer (effet statique)
-![[Pasted image 20230315120245.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686017-a15b9bdf-c015-4702-a06d-1915c66e8c78.png)
 ## Les trois lois de Newton
-![[Pasted image 20230315120307.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686027-7b62c9a4-cc2c-4a0d-b902-9f86020c57a9.png)
 ## Quelques types de forces
 • La force gravitationnelle 𝐹𝑔 peut se définir comme l’attraction d’un corps en  
 direction d’un autre corps  
@@ -218,7 +87,7 @@ domaines. Cette méthode tient compte de l’énergie qui se présente sous un
 grand nombre de formes et de types.  
 • L’énergie est une quantité scalaire associée à l’état (ou à la situation d’un ou de  
 plusieurs objets)
-![[Pasted image 20230315120415.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686046-45562c9a-1ba5-400c-8ad6-3234bf061823.png)
 ## Pas une mais des énergies
 • Existence de nombreuses formes d'énergie : L'énergie cinétique est une forme  
 d'énergie liée au mouvement d'un corps. La combustion, quant à elle, permet de  
@@ -240,9 +109,9 @@ personne
 • Lorsqu’un tel transfert d’énergie accompli au moyen d’une force se produit, on  
 dit qu’un travail, W, a été effectué sur l’objet par la force. Le travail étant alors  
 comparable à de l’énergie, son unité est également le joule.
-![[Pasted image 20230315120519.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686066-e1aee338-c907-4e48-bc52-ebc403027f09.png)
 ## 1er cas : Energie cinétique
-![[Pasted image 20230315120543.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686071-89e5f001-ef88-4d46-8549-01ca050a0c10.png)
 ## 2ème cas : l’énergie potentielle
 • Imaginons un corps en hauteur, la masse possède alors une  
 énergie potentielle de pesanteur plus élevée qu'à l'état initial,  
@@ -253,9 +122,9 @@ potentiellement être libérée en étant par exemple transformée en
 𝐸𝑃 = 𝑚𝑔ℎ  
 Où g représente l’accélération gravifique (9,81 𝑚/𝑠2)
 ## Conservation de l’énergie
-![[Pasted image 20230315120652.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686092-dbe02000-a3aa-47ab-8481-82638dbd0d2d.png)
 ## Pertes d’énergie
-![[Pasted image 20230315120711.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686101-72dd046d-8207-43e8-a266-7fb750e974ab.png)
 ## 4. La puissance
 • En physique, la puissance est la quantité d'énergie par unité de temps fournie par un  
 système à un autre.  
@@ -279,36 +148,30 @@ l’origine des théories
 • Fin 16ème siècle deux théories s’opposent : la description corpusculaire  
 (Newton) >< description ondulatoire (Huygens)
 ## Limitations des lois de l’optique géométrique :
-![[Pasted image 20230315121155.png]]
-![[Pasted image 20230315121212.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686129-8664c46a-6027-418b-be77-a93561f79e82.png)
 ## Indice de réfraction
-![[Pasted image 20230315121239.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686145-ef435b7a-af6a-423d-bb33-dbfcab260fa8.png)
 ## 2. Les lois de Snell-Descartes
-![[Pasted image 20230315121302.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686157-040023af-58c3-4b0d-bb06-3ca94b025bac.png)
 ## Première loi de Snell-Descartes (loi sur le plan  
 d’incidence)
-![[Pasted image 20230315121330.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686163-831c0a0f-90a9-4dfd-98df-fd5419ccec9e.png)
 ## Deuxième loi de Snell-Descartes (loi sur la réflexion)
-![[Pasted image 20230315121350.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686173-34df0504-92d9-437d-8854-21d235f70a42.png)
 ## Troisième loi de Snell-Descartes (loi sur la réfraction)
-![[Pasted image 20230315121406.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686184-fcd1bed7-1026-45e6-94e3-5dd14504baff.png)
 ## Loi du retour inverse de la lumière
-![[Pasted image 20230315121429.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686191-279fe7e1-dbf6-4ac4-a17a-b38c36ed83e4.png)
 ## Interprétation qualitative de la 3ème loi de Snell-  Descartes
-![[Pasted image 20230315121502.png]]
-![[Pasted image 20230315121518.png]]
-![[Pasted image 20230315121533.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686209-db8e8581-a246-4aa6-b02c-c151d78f59ee.png)
 ## 3. Réflexion totale
-![[Pasted image 20230315121554.png]]
-![[Pasted image 20230315121606.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686217-af75b6f7-90fd-40b1-91a9-e328f4058a09.png)
 ## 4. La fibre optique
-![[Pasted image 20230315121630.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686240-dc33bdcc-9a5c-4037-94c6-a8bc6d498ebd.png)
 ## Profil à saut d’indice
-![[Pasted image 20230315121655.png]]
-![[Pasted image 20230315121705.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686249-104ca660-0067-47f7-99c2-fd9db1e7f995.png)
 ## Profil à gradient d’indice
-![[Pasted image 20230315121725.png]]
-![[Pasted image 20230315121735.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686258-b52df33d-586a-4f64-b4d1-9f83e60149f2.png)
 ## Types de fibres optiques
 • Il existe deux sortes de fibres optiques :  
 – Les fibres optiques MULTIMODES  
@@ -320,13 +183,13 @@ la fibre qui porte alors le nom de multimode.
 • À l’inverse, une fibre monomode n’autorise la propagation que d’un seul  
 rayon lumineux. Il porte le nom de mode fondamental.
 ## Multimode à saut d'indice
-![[Pasted image 20230315121808.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686273-99e040bf-2bf1-432b-88b6-bfc361479c9b.png)
 ## Multimode à gradient d'indice
-![[Pasted image 20230315121836.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686278-44ffac3d-9deb-443f-acd4-592ba64c4cfc.png)
 ## Fibre monomode
-![[Pasted image 20230315121851.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686285-266f3231-929d-42af-98cb-2745af0a1101.png)
 ## Exercices
-![[Pasted image 20230315121908.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686300-112a9093-6ee2-4b5f-8238-51393b721756.png)
 # CHAPITRE 4 : NOTIONS DE  TEMPÉRATURE ET DE CHALEUR
 ## 1. Introduction
 • La notion de température est subjective. Par le sens du toucher, nous  
@@ -383,14 +246,14 @@ propagent ainsi la chaleur.
 • Le rayonnement : tout corps chauffé émet spontanément de l’énergie sous forme de  
 radiations électromagnétiques. Inversement, ces radiations peuvent être absorbées et  
 contribuer à chauffer un corps récepteur.
-![[Pasted image 20230315124027.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686319-b189a0da-2573-4a9a-b777-22ab29a7fdf9.png)
 ## 5. La dilatation des solides
-![[Pasted image 20230315124047.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686336-2237a0af-f949-4d63-a166-5917cd865b71.png)
 ### Le coefficient de dilatation linéique
-![[Pasted image 20230315124115.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686346-c1820d98-1493-47be-9c5f-6f5515576c1e.png)
 ## 6. Un exemple de cycle thermodynamique : le cycle de  
 réfrigération
-![[Pasted image 20230315124138.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686355-d4fc37e8-75f8-4b41-91c6-1abd52baa42b.png)
 ## 7. Les principales techniques de refroidissement  
 utilisées en informatique
 • Réduire la température de certains composants d'ordinateur afin d'éviter leur  
@@ -509,9 +372,9 @@ impérativement être placé avant la pompe pour que celle-ci n'avale pas d'air.
 Deux critères : la taille et la souplesse  
 • F) Les embouts :  
 Les embouts assurent l'étanchéité entre les waterblocks et les radiateurs et les tuyaux
-![[Pasted image 20230315124418.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686381-3cf92d84-89eb-4c6d-b2da-d899d7975ec6.png)
 ### Refroidissements exotiques
-![[Pasted image 20230315124441.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686393-024a7a4b-edc1-487a-aea3-0ecabd320c4f.png)
 ### Exercices
 • Exprimez en degré Kelvin  
 a) La température normale du corps humain, 37°𝐶 ;  
@@ -545,64 +408,59 @@ déterminé à partir du graphique.
 	➢ Courants  
 	➢ Eléments problématique
 ## Processeurs (CPU,GPU,APU,DSP)
-![[Pasted image 20230316182931.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686434-d1a3e7a8-b8e5-4754-bdfa-f5447c4767ac.png)
 ## Plan d’un transistor
-![[Pasted image 20230316182945.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686445-e3435cb4-347a-433a-989c-b498cabe76b4.png)
 ## Condensateur
-![[Pasted image 20230316183006.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686455-39b0e6bd-758f-4ace-8395-ffafffaafae5.png)
 ## Equations de l’électronique
-![[Pasted image 20230316183022.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686466-4cdd138c-058a-49e5-b940-dc129a601fa8.png)
 ## Condensateur: analogie avec l’eau
-![[Pasted image 20230316183038.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686471-72e9ab80-cb74-462c-8fc1-66bf02218fb2.png)
 ## Condensateur: AC et DC
-![[Pasted image 20230316183057.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686480-e545ea78-a115-4f72-8aaa-1aea290c67ea.png)
 ## Transistor MOSFET
-![[Pasted image 20230316183113.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686491-48090c83-d083-422d-a485-f55418cb9963.png)
 ## Fonctionnement d’un transistor MOS
-![[Pasted image 20230316183137.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686498-e3a7f452-6c5b-4cd4-aaa3-d4d8ca14bd34.png)
 ## Exemple d’application: XOR
-![[Pasted image 20230316183153.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686507-ee4b1515-889a-4f57-897c-828ed016d9ec.png)
 ## Puissance Electronique Digitale
-![[Pasted image 20230316183206.png]]
-![[Pasted image 20230316183226.png]]
-![[Pasted image 20230316183245.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686608-fa9237ea-34a4-4af0-a0b9-78a7c2f498e8.png)
 ## Vitesse d’un processeur
-![[Pasted image 20230316183301.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686625-df76213c-047a-43c2-b8e5-2dd7c61c58c5.png)
 ## Exemple d’overclocking
-![[Pasted image 20230316183317.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686633-e3413062-3f43-4d62-8c69-4a29bee6f860.png)
 ## Vitesse des processeurs (fabrication)
-![[Pasted image 20230316183340.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686638-a2f87da4-3858-4650-8baf-baa79f7ad520.png)
 ## Taille et loi de Moore
-![[Pasted image 20230316183353.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686648-b591f76e-8b58-40db-92a6-069d198fb0fd.png)
 ## Les alimentations
-![[Pasted image 20230316183406.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686652-2d5bd712-8314-4c2b-815a-e98ca581515c.png)
 ## Alimentation classique
-![[Pasted image 20230316183424.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686660-31dce282-8ae7-487f-8000-877cf98d2b24.png)
 ## Les alimentations
-![[Pasted image 20230316183441.png]]
-![[Pasted image 20230316183503.png]]
-![[Pasted image 20230316183516.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686676-e44f93e8-d8f9-49bb-9d69-64e17b018931.png)
 ## Les alimentations à découpage
-![[Pasted image 20230316183528.png]]
-![[Pasted image 20230316183544.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686686-15d5c723-fff1-4990-9a8d-5bbc3e7e8ddb.png)
 ## Les alimentations à découpage
-![[Pasted image 20230316183607.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686789-a0c78e93-fe19-43f5-9ac0-5ae0ecdc51c2.png)
 ## Inductance
-![[Pasted image 20230316183631.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686809-c7510989-ddc3-49e5-b8e1-83c8abb35a9f.png)
 ## Equations de l’électronique
-![[Pasted image 20230316183645.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686826-7e6b998d-9fad-4127-a0d2-553f50b87d6d.png)
 ## Inductance: AC et DC
-![[Pasted image 20230316183700.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686836-979f03ad-f0d6-469e-8d30-92f8d3f95968.png)
 ## Les alimentations à découpage
-![[Pasted image 20230316183723.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686843-17a8aacb-d2c3-4da2-b01b-c90c71fbb456.png)
 ## Bilan
-![[Pasted image 20230316183734.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686854-dbe0eac2-64b7-4b88-a7a2-174292b75c3c.png)
 ## Interférences et Compatibilité électromagnétique (EMC)
-![[Pasted image 20230316183754.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686867-3216c45d-782f-4480-8832-5ffb6eefe815.png)
 ## EMC
-![[Pasted image 20230316183810.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686879-3b4f2e38-ade9-4d11-99a5-c85d456e33a1.png)
 ## Solutions
-![[Pasted image 20230316183823.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686886-ffba79ff-b164-4d50-bf43-7ee9d41bcd44.png)
 
 # Chapitre 5 : Compléments sur le magnétisme
 ## Introduction
@@ -616,11 +474,11 @@ ferreux. Cette propriété porte le nom de ferromagnétisme.
 cobalt (Co), le dysprosium (Dy), le fer (Fe), le gadolinium (Gd) et  
 le manganèse (Mn).
 ## Expérience historique d’Oersted
-![[Pasted image 20230410182006.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686898-3c603232-79c4-46dc-a3fe-e8418e6d8ce6.png)
 ## Champ magnétique créé par un courant électrique  continu (fil)
-![[Pasted image 20230410182020.png]]
+![image](https://user-images.githubusercontent.com/19058019/236686987-58300edf-a715-4c01-b52c-267b29a28812.png)
 ## Champ magnétique créé par un courant électrique  continu (solénoïde)
-![[Pasted image 20230410182034.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687002-44475286-9d3d-4034-8793-5e05d69127cf.png)
 ## Les lignes de champs
 • On peut également utiliser des lignes de champ pour représenter le champ magnétique :  
 1. Le champ est toujours tangent à la ligne de champ, dans la direction de la ligne  
@@ -628,12 +486,11 @@ le manganèse (Mn).
 3. Le nombre de ligne de champ qui arrivent ou qui partent d’un pôle est proportionnel à l’intensité de ce pôle  
 4. Les lignes de champs ne se croisent pas
 ## Conséquences : Câbles à paires torsadées blindées
-![[Pasted image 20230410182054.png]]
-![[Pasted image 20230410182103.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687021-bcbb3137-4548-4dab-94ac-dba92967e573.png)
 ## Conséquences : Câble à paires torsadées non blindées
-![[Pasted image 20230410182111.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687033-f0a08422-bb13-4657-843f-496633734b5c.png)
 ## Applications : Disques durs
-![[Pasted image 20230410182121.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687044-6a89285d-876a-41fd-aafa-0f6cd3f1d963.png)
 ## Les plateaux
 • Empilement de plusieurs  
 disques appelés plateaux  
@@ -655,7 +512,7 @@ les zones de la couche
 magnétique  
 • A environ 10 nm au dessus des  
 plateaux
-![[Pasted image 20230410182143.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687052-cbb8284d-650e-4d68-8b85-a2f35e1cbde9.png)
 ## Principe d’écriture
 • Courant dans une bobine => champ  
 magnétique  
@@ -691,7 +548,7 @@ potentiel du matériel
 • Ces activités sont une combinaison d’activités techniques,  
 administratives et de management.
 ## 2. Types de maintenance
-![[Pasted image 20230410182329.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687060-6f60ec5a-a61a-4712-8b75-ee41e5777bfa.png)
 ### 2.1 Maintenance corrective
 • Il s’agit d’une « maintenance effectuée après défaillance ». C’est une  
 politique de maintenance qui correspond à une attitude de réaction à  
@@ -835,10 +692,9 @@ service spécialisé.
 ➢Rénovation d’une ligne de production en vue d’une amélioration.  
 ➢Réparation d’un équipement suite à accident grave
 ## 4. Méthodes de dépannage
-![[Pasted image 20230410182510.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687086-0f60d307-45cf-4e56-a48b-8b72cdd1d388.png)
 ### 4.1 Diagnostic en maintenance corrective
-![[Pasted image 20230410182526.png]]
-![[Pasted image 20230410182536.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687092-79239437-cd75-4db7-b2c5-b55e6808d691.png)
 ### 4.2 Dépannage au voltmètre
 • Il existe principalement deux types de pannes électriques qui  
 engendrent deux situations de dépannage différentes :  
@@ -847,18 +703,13 @@ sécurité par exemple). Dans ce cas le dépannage s’effectue au
 voltmètre.  
 - Le circuit électrique n’est plus alimenté (court-circuit par  
 exemple). Dans ce cas le dépannage doit se faire à l’ohmmètre.
-![[Pasted image 20230410182554.png]]
-![[Pasted image 20230410182606.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687098-089ec63e-8a14-4797-87e5-414e83a50953.png)
 #### 4.2.1 Exemple de recherche de panne au voltmètre
 • Sur cette même installation, nous allons supposer que le  
 contacteur ne veut pas s’enclencher.  
 Nous allons effectuer une série de mesure et interpréter  
 les résultats possibles.
-![[Pasted image 20230410182622.png]]
-![[Pasted image 20230410182634.png]]
-![[Pasted image 20230410182641.png]]
-![[Pasted image 20230410182648.png]]
-![[Pasted image 20230410182656.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687105-051042dc-5f0f-4637-9b11-648dd2da2a97.png)
 
 # CHAPITRE 7: NOTIONS DE  CRYPTOGRAPHIE QUANTIQUE
 ## 1. Introduction
@@ -897,7 +748,7 @@ concernent essentiellement deux secteurs :
 • Superposition quantique  
 – Une particule de l’infiniment petit peut se trouver dans un état indéterminé avant toute mesure.  
 – La position d’une particule quantique est incertaine : elle n’est pas à un point A ou un point B, mais a seulement une probabilité d’être ici ou là lors d’une mesure. Par contre, après la mesure, l’état de la particule est bien défini : elle est au point A ou au point B.
-![[Pasted image 20230501130432.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687127-0c1f4188-c422-4dca-b60b-15ca1cada1ea.png)
 • Intrication quantique  
 – Phénomène quantique dans lequel  
 deux particules au moins partagent  
@@ -912,7 +763,7 @@ forment pas deux systèmes
 indépendants mais un seul.  
 – On parle alors d’intrication  
 quantique.
-![[Pasted image 20230501130456.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687139-f751843a-9709-4f14-bafe-70f0e608137a.png)
 • Bit classique et bit quantique  
 – La notion élémentaire d’information classique 1 est  
 le bit (binary digit) qui prend deux valeurs 0 ou 1.  
@@ -931,13 +782,13 @@ une quasi infinité de valeurs entre 0 ou 1 qu’on peut
 |𝜓 = 𝛼ۧ |0 +ۧ 𝛽|1  
 Où 𝛼 et 𝛽 représentent des complexes donnant les  
 probabilités
-![[Pasted image 20230501130705.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687142-5e78f3ef-5af3-4935-be54-0e21f2ee56ff.png)
 ## 3. Algorithmes quantiques
 • Peter Shor a publié en 1994 un algorithme quantique permettant  
 de résoudre les problèmes de la factorisation.  
 • L'algorithme de Shor nécessite un ordinateur quantique d'environ  
 8 000 qubits intriqués pour factoriser une clé RSA de 4 096 bits.
-![[Pasted image 20230501130724.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687146-a0824ac1-2768-459d-b312-69542fee7edc.png)
 • Un autre algorithme est également utilisé pour les ordinateurs quantique : l’algorithme de  
 Grover.  
 • Il permet de trouver la solution en la racine carrée d’essais par rapport à un ordinateur  
@@ -963,7 +814,7 @@ appelle Alice et Bob les personnes qui échangent le message et Eve
 – En 1984 les chercheurs Charles H. Bennett et Gilles Brassard proposent  
 le premier protocole de cryptographie quantique : le protocole BB84.  
 – Ce protocole est basé sur l’échange de photons polarisés
-![[Pasted image 20230501130800.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687154-faa39405-368d-4a52-b6fd-d1e87eae8c76.png)
 • Pour coder son message, Alice dispose d’une source de photons « un par un »  
 qu’elle envoie sur un polariseur.  
 • Elle oriente le polariseur horizontalement ou verticalement selon qu’elle veuille  
@@ -980,21 +831,21 @@ photons.
 – Chaque photon peut être polarisé : on impose une direction à son champ  
 électrique.  
 – Pour le protocole BB84, la polarisation va être forcée à 4 valeurs.
-![[Pasted image 20230501130829.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687166-338ea118-a5f2-43b4-a727-21fe7c973e89.png)
 • Détection des photons  
 – Pour détecter la polarisation d’un photon, il faut utiliser un filtre polarisant.  
 – 2 types de filtre vont être utilisés devant le détecteur:  
 • filtre polarisant orienté à 0°ou 90 °  
 • filtre polarisant orienté à 45°ou 135°
-![[Pasted image 20230501130906.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687178-3b114b35-2e2b-4761-a8d4-ed1cfa17904b.png)
 – Le choix du filtre de détection va définir la base  
 utilisée pour la détection d’un photon.
-![[Pasted image 20230501130921.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687185-2f657b8b-a287-40e1-a9f6-22d1d3a855b7.png)
 • Canaux utilisés  
 – Deux canaux vont être utilisés pour procéder à l’échange de clé.  
 • Un canal quantique mis en place pour les photons polarisés.  
 • Un canal public afin d’échanger les informations mais de façon non protégée.
-![[Pasted image 20230501130937.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687192-589edb78-f2d5-4f34-8b31-7ca215694953.png)
 • Comment Alice et Bob procèdent-ils pour se transmettre  
 l’information ?  
 • Alice va coder son message en binaire en choisissant  
@@ -1018,14 +869,14 @@ ils seront retirés de la clé.
 • Ce processus est utilisé pour détecter une éventuelle  
 présence d’Eve (voir explication plus loin). Les bits  
 sécurisés restant forment la clé secrète.
-![[Pasted image 20230501130957.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687203-40c54178-41d0-4d40-9106-22d0ecf37283.png)
 • Que se passe-t-il si Eve écoute sur le canal quantique ?  
 – Lorsque Eve « écoute » un photon, elle doit obligatoirement en réémettre  
 un. Sinon Bob ne le recevra pas.  
 – Il lui sera impossible de réémettre un photon avec exactement les mêmes  
 propriétés que celui d’origine. Ceci a été démontré par le théorème  
 d'impossibilité du clonage quantique (1982).
-![[Pasted image 20230501131011.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687209-faef73e6-c469-40c3-874c-7a3a64e2ee56.png)
 • Si un espion intercepte un photon, il va lire la polarisation dans l’une des deux bases qu’il choisira,  
 lui-aussi aléatoirement. Ce faisant il va projeter la polarisation du photon intercepté sur l’état qu’il  
 lit.  
@@ -1045,7 +896,7 @@ qu’ils sont sur écoute
 – Fabrication
 ## Matériaux
 Tableau de kirchkof
-![[Pasted image 20230501131409.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687224-71c66655-f7c4-45d2-a52a-34d3fd08a2a1.png)
 ### Matériaux: Classement
 • Métaux:  
 ➢ Molécules composées d’éléments métalliques  
@@ -1057,27 +908,25 @@ Tableau de kirchkof
 ➢ Matériaux composés de mélanges des trois précédents
 #### Métaux
 • Solides cristallins covalents
-![[Pasted image 20230501131444.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687235-0613e45c-7f9b-473d-8110-67da0ebe4be7.png)
 • Exemples: Fer, Cuivre, Laiton (Alliage Cu+Zn)
-![[Pasted image 20230501131500.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687246-d7c356b9-2c2d-4c0f-84c9-3bd852838157.png)
 #### Céramiques
 • Solides cristallins ioniques ou covalents  
 • Exemples: Carbure de tungstène, Corindon (rubis/saphir),...
-![[Pasted image 20230501131525.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687265-48e9374a-e71d-4aec-9701-6b627fc79b2b.png)
 #### Organiques (polymères)
 • Solides amorphes covalents  
 • Longue molécules entremêlées → état solide  
 • Exemples: Teflon, Bakélite, PLA,..
-![[Pasted image 20230501131548.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687275-47f8b3c5-6688-4ba2-b0b5-667fef46e79a.png)
 #### Composites
 • Mélanges de solides des type précédents  
 • Exemples: Beton armé, Fibre de carbone,..
-![[Pasted image 20230501131615.png]]
+![image](https://user-images.githubusercontent.com/19058019/236687278-f4e99f7b-ee27-4258-a0de-f9ca1b09349c.png)
 ## Fabrication
-![[Pasted image 20230501131632.png]]
 ### Fabrication par déformation
 • Forgeage
-![[Pasted image 20230501131720.png]]
 • Emboutissage 
 ![[Pasted image 20230501131731.png]]
 ➢ Ecrouissage  
