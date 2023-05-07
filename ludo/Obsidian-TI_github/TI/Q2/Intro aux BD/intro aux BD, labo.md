@@ -14,13 +14,16 @@
 ![image](https://user-images.githubusercontent.com/19058019/236682888-16247f5e-6514-4858-bdf1-fa149b3f4ef3.png)
 ![image](https://user-images.githubusercontent.com/19058019/236682901-7407da5f-8006-4532-96d5-c0ccde00339e.png)
 ![image](https://user-images.githubusercontent.com/19058019/236682909-d1aec237-9129-4cae-ad3f-e08742e87ebb.png)
+![image](https://user-images.githubusercontent.com/19058019/236682966-3442a377-58a2-4662-9efd-ff535d5961af.png)
+![image](https://user-images.githubusercontent.com/19058019/236682971-6fd3e5ab-c101-4b4b-b885-8b23ffae97a2.png)
 
-![[Labo bd_230223_101851 (1).pdf]]
+# intro bd relationelle_230309_143305
+![image](https://user-images.githubusercontent.com/19058019/236683014-8facfc8f-9dcb-4f2d-9809-b98b19406053.png)
+![image](https://user-images.githubusercontent.com/19058019/236683021-3a5b575c-26bf-4e8c-b3d6-dec57d8cfee2.png)
+![image](https://user-images.githubusercontent.com/19058019/236683032-0f7d92a4-9136-4f6e-801c-8864ffee4de4.png)
+![image](https://user-images.githubusercontent.com/19058019/236683050-7241a8d6-75ed-40b0-9e73-effb65d37976.png)
+![image](https://user-images.githubusercontent.com/19058019/236683068-40ff335d-7882-44a2-a44c-0ab795394704.png)
+![image](https://user-images.githubusercontent.com/19058019/236683077-944727a1-4415-4611-a17b-1c4036c35ed9.png)
+![image](https://user-images.githubusercontent.com/19058019/236683088-e4264b82-48de-4ddc-881f-3ae235401f10.png)
 
-
-
-![[BD LABO_230303_101419 (1).pdf]]
-
-
-![[intro bd relationelle_230309_143305.pdf]]
 
