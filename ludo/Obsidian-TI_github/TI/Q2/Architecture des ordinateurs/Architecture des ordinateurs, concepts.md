@@ -61,11 +61,8 @@ Modèle de la Pile hard/Soft habituel
 	 Gérer le partage des ressources entre les processus  
  → OS doit avoir accès complet au matériel  
  Virtualisation : Faire croire que l'OS a cet accès
-
-![[Pasted image 20230212111221.png]]
-
-![[Pasted image 20230212111251.png]]
-
+![image](https://user-images.githubusercontent.com/19058019/236676344-9e0e798a-58df-480f-8927-f5951ad4772f.png)
+![image](https://user-images.githubusercontent.com/19058019/236676460-491b84da-4c92-420c-ba52-504e0d4f5255.png)
 Notions
  OS Hôte  
  OS Invité (Guest)  
@@ -99,7 +96,7 @@ Méthode de virtualisation
 	 Stockage  
 	 I/O
 
-![[Pasted image 20230212111714.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676469-cb868274-c5c7-46d4-ad16-2c36abfd4233.png)
 
 Technologies de Virtualisation
  Supportées au moins en partie par la majorités des VMM's actuels  
@@ -138,7 +135,7 @@ Logicielles
 	performances, souvent assez bas. (Vmware  
 	Server, Virtualbox, Microsoft Virtual PC, ...)
 
-![[Pasted image 20230212111836.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676487-8faeabed-1804-4ccf-9352-8260779ea9ca.png)
 
  Paravirtualisation (PVM)  
 	 Le système d’exploitation invité est  
@@ -156,7 +153,7 @@ Logicielles
 	matériel réel. (Xen, KVM, ...)  
 	 PCI PassThrough / DirectPass I/O
 
-![[Pasted image 20230212111919.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676498-7c061159-a5a1-4d01-bb74-8b55972a0d42.png)
  
  Virtualisation assistée par le matériel (HVM)  
 	 Ajout d’extension de virtualisation au  
