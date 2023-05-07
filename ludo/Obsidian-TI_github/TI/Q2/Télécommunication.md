@@ -437,8 +437,9 @@ La modulation analogique
 	• largeur de bande du signal plus grande qu'en modulation angulaire
 ![image](https://user-images.githubusercontent.com/19058019/236666290-816cd3a0-5a9c-43cd-b8e2-ebc592b7987c.png)
 ![image](https://user-images.githubusercontent.com/19058019/236666305-af27cb4a-aee3-43ce-912c-147ac6f89477.png)
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101535.png?raw=true)
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101547.png?raw=true)
 
-MANQUE 2 PHOTOS[BD LABO_230303_101419 (1).pdf](https://github.com/luminiefa/TI/files/11414242/BD.LABO_230303_101419.1.pdf)
 
 
 ![TEST](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230114152113.png?raw=true)
