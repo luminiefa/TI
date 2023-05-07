@@ -438,6 +438,7 @@ La modulation analogique
 ![image](https://user-images.githubusercontent.com/19058019/236666290-816cd3a0-5a9c-43cd-b8e2-ebc592b7987c.png)
 ![image](https://user-images.githubusercontent.com/19058019/236666305-af27cb4a-aee3-43ce-912c-147ac6f89477.png)
 MANQUE 2 PHOTOS[BD LABO_230303_101419 (1).pdf](https://github.com/luminiefa/TI/files/11414242/BD.LABO_230303_101419.1.pdf)
+TEST [TEST](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230114152113.png)
 
 • Indice de modulation (exercice)  
 	– En radiodiffusion FM, la fréquence des porteuses varie  
