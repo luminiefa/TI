@@ -1,8 +1,10 @@
+# reseaux_230306_164028
+![image](https://user-images.githubusercontent.com/19058019/236684410-980bd10a-fdc7-444a-9119-f6d23fad4157.png)
 
-![[reseaux_230306_164028.pdf]]
 
-![[infra réseaux_230313_204333.pdf]]
-
+# infra réseaux_230313_204333
+![image](https://user-images.githubusercontent.com/19058019/236684446-fbfb3387-34ab-4a89-8f30-e8abbfe9b069.png)
+![image](https://user-images.githubusercontent.com/19058019/236684461-8a106a9a-6282-4e44-84c4-2e5bb31be669.png)
 
 # Couche network partie 2
 ## Adresses particulières
@@ -55,46 +57,46 @@ sous-réseau,
 5. Réseau 223.21.25.0 et un maximum de 14 hôtes par  
 sous-réseau
 ## Unicast – Broadcast - Multicast
-![[Pasted image 20230316193847.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684477-f34c5bcd-db32-488c-b967-b7678526e2dc.png)
 ## Adresses publiques et privées
-![[Pasted image 20230316193922.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684490-7dae0826-0aa5-4cbf-8809-174c5f3fb8fc.png)
 ## Planification – “classic” → VLSM
 • Allouer les plus grands blocs en premier
-![[Pasted image 20230316193946.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684499-15dfc6e9-795b-47c9-be2a-424d7c1e23f0.png)
 # Couche liaison de données
 • La couche Liaison de données prépare la communication pour la  
 transmission sur un média spécifique = gérer l’accès au média
 • Gérer l’accès au media = s’adapater au support
-![[Pasted image 20230316194844.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684513-e885bb2e-3f5b-421d-8d9b-7dfc8ca313ce.png)
 • Gérer l’accès au media = mettre en oeuvre des stratégies d’accès au  
 média
-![[Pasted image 20230316194909.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684530-5c4a4ff5-1018-41ba-839f-881920e3b837.png)
 1. Une machine gère le droit de parole sur le réseau → environnement maître-esclaves.  
 2. Les machines ont la parole chacune à leur tour → passage du jeton.  
 3. Les machines accèdent au réseau quand elles veulent. Lorsque des collisions se produisent, les  
 machines doivent réémettre.
 • Gérer l accès au media = mise en oeuvre d un connecteurConnexion  
 au media
-![[Pasted image 20230316195017.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684540-650c544c-76ab-4ec9-bd27-e564c51ab0a5.png)
 • Celà se traduit par différents standards
-![[Pasted image 20230316195135.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684553-79975b03-25d2-4c45-9987-662869fb6718.png)
 ## Un exemple concret:  ETHERNET
 Petit historique // Topologies physiques et logiques
-![[Pasted image 20230316195244.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684563-49fe5aa8-80aa-4a3f-9126-940c8486202d.png)
 • Emergence des switchs dans le LAN
-![[Pasted image 20230316195309.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684575-743a1504-b899-453a-968e-b5a65c4f70e4.png)
 ## Caractéristiques d’un média utilisé par Ethernet
 • Ethernet au-delà du LAN
-![[Pasted image 20230316195400.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684584-b148de3d-187b-47be-a8e9-39c258360de2.png)
 ## Ethernet VS Modèle OSI
-![[Pasted image 20230316195507.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684598-73f3044c-9b94-4330-991e-784f96338a3c.png)
 ## Trame Ethernet
-![[Pasted image 20230316195531.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684613-bdb35486-7cb7-4fda-ad3d-ac9606e83f93.png)
 ## Format des adresses MAC
-![[Pasted image 20230316195602.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684624-7a255d19-36fe-47b4-9c9f-5bdcdccb5c7c.png)
 ## Construction de la table de commutation
-![[Pasted image 20230316195622.png]]
-![[Pasted image 20230316195636.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684631-4558c2f7-1d43-4b21-88c7-6af92544c665.png)
+![image](https://user-images.githubusercontent.com/19058019/236684650-00cd3759-33cb-4797-9b27-0c25c2415a05.png)
 ![[Pasted image 20230316195648.png]]
 ![[Pasted image 20230316195701.png]]
 ![[Pasted image 20230316195717.png]]
