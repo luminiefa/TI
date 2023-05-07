@@ -453,6 +453,7 @@ MANQUE 2 PHOTOS[BD LABO_230303_101419 (1).pdf](https://github.com/luminiefa/TI/f
 	– Quelles sont les fréquences instantanées minimale et  
 	maximale ?  
 	– Quelles sont les indices de modulations minimum et maximum ?
+![TEST](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%20230415101610.png?raw=true)
 ![[Pasted image 20230415101610.png]]
 ![[Pasted image 20230415101621.png]]
 ## Démodulation de fréquence
