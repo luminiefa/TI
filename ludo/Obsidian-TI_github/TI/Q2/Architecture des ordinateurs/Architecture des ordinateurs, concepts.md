@@ -165,24 +165,24 @@ contexte
  Plus d’émulations de zone mémoire  
  Accès direct au processeur
 
-![[Pasted image 20230212112356.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676536-baf3f983-2d8b-4d28-954f-9da7f14d4b4a.png)
 
-![[Pasted image 20230212112421.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676546-701555b9-26d4-487f-9d15-d5f1578fa6ec.png)
 
  Isolation  
 	 L’isolateur est une spécificité des systèmes Unix. Cette technique  
 	permet d’isoler une application du reste du monde. (VServer, chroot, bsd  
 	jail, ...)
 
-![[Pasted image 20230212112452.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676592-6ade76d1-e523-4fca-9316-65fdef13e7e2.png)
 
  Container  
 	 Pas de noyau dans les containers  
 	 Un répertoire = un OS  
 	 Pas d’émulation matériel  
 	 Accès direct au matériel
-
-![[Pasted image 20230212112557.png]]
+	
+![image](https://user-images.githubusercontent.com/19058019/236676606-e4c8a495-7b08-4fa3-8d1b-7dcfc54eed5b.png)
 
  Pour mettre en place ces techniques, il faut donc du « matériel virtuel »  
 implémenté logiciellement ou dans le matériel:  
@@ -194,8 +194,8 @@ implémenté logiciellement ou dans le matériel:
 	 Périphériques d'E/S virtuels  
 	 Timers virtuels  
 	 Autres périphériques
-
-![[Pasted image 20230212112655.png]]
+	
+![image](https://user-images.githubusercontent.com/19058019/236676625-4d79a265-3ca9-4e77-8993-c10e02b4f34e.png)
 
 Rappel sur les privilèges d'accès
  CPU n'accepte pas « d'office » d'exécuter toutes les instructions  
@@ -263,7 +263,7 @@ Problèmes de l'ISA x86
 	 Extension de l'ISA x86 → VT-x, AMD-V  
 		 Ajout « root mode » pour le VMM
 
-![[Pasted image 20230212113619.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676642-0b15d6cf-a4fe-4fc9-93f1-c110135e2b93.png)
 
 Virtualisation de la mémoire
  VMM  
@@ -284,8 +284,8 @@ Virtualisation de la mémoire
 			 Mémoire cache du CPU dédiée à la translation  
 			d'adresse virtuelle (+ rapide que la RAM)
 
-![[Pasted image 20230212113751.png]]
-![[Pasted image 20230212113803.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676649-4ccd95b2-2d34-4ac1-b7ba-29a8344321ab.png)
+![image](https://user-images.githubusercontent.com/19058019/236676658-1ab2ac25-3876-40b9-a1f2-89435f6bfd33.png)
 
  Virtualisation de la MMU  
 	 Shadow page table  
@@ -296,8 +296,8 @@ Virtualisation de la mémoire
 		 une seule table pour associer la mémoire virtuelle de la VM à la MMU de la  
 		machine → presque aussi rapide qu'en « natif », sauf dans certains  
 		situations
-
-![[Pasted image 20230212113942.png]]
+		
+![image](https://user-images.githubusercontent.com/19058019/236676663-a1201e3c-367f-4d08-93ea-287bf1319978.png)
 
  Hardware  
 	 2ème génération extensions x86 pour virtualisation  
@@ -419,14 +419,14 @@ GPRs pouvant stocker des nombres 64-bit.
 des nombres 64-bit stockés dans des  
 GPRs 64-bit.
 ## Ordinateur 32-bit vs 64-bit
-![[Pasted image 20230411105004.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676680-4b82c749-dac2-4ca3-963a-7b73fa47130a.png)
 ● D'autre part, la largeur du flux données et  
 résultats a lui doublé.  
 ● Pour pouvoir gérer ce flux plus large, la  
 taille des registres et la taille des bus  
 alimentant ces registres ont aussi du  
 doublé.
-![[Pasted image 20230411105035.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676699-7d91cc67-8da4-4160-b854-3c4d4afd16e9.png)
 ## Pourquoi l'informatique 64-bit
 ● On commence à répondre à la question de  
 manière simple:  
@@ -435,7 +435,7 @@ manière simple:
 complexe si on prend en compte les autres  
 types de données.
 ## Types de données en 32-bit et 64-bit
-![[Pasted image 20230411105104.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676714-42294dfd-4f5b-46c3-aee3-42b9bf8e46bf.png)
 ## Avantages du 64-bit
 ● Dynamic Range (DR)  
 – Des entiers plus larges permettent de  
@@ -507,9 +507,9 @@ appelés les ordinateurs superscalaires.
 •Capable d’exécuter 2 instructions arithmétiques  
 en parallèle.  
 •Les 2 ALUs partagent les mêmes registres.
-![[Pasted image 20230411105859.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676748-78a03771-6577-4f59-af09-9514711464a8.png)
 ## Pipeline du AR2
-![[Pasted image 20230411105913.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676765-658df0fc-750e-4b5a-b56b-98c03fe6e392.png)
 ## Decode/Dispatch
 •Un petit circuit de « dispatch » vient se placer à  
 la fin de l’étage.  
@@ -538,7 +538,7 @@ la fois depuis la mémoire en une pulsation
 d’horloge.  
 •Il peut également « decode » et « dispatch »  
 deux instructions à chaque pulsation d’horloge.
-![[Pasted image 20230411110022.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676794-6aea8561-def5-4cc1-b83c-7e5625572516.png)
 ## Architecture superscalaire
 •Permet à un microprocesseur de dépasser le  
 seuil théorique d’une instruction par pulsation  
@@ -562,7 +562,7 @@ unités d’exécution et pas seulement à celles
 propres aux instructions arithmétiques et  
 logiques.
 ## Différents types de nombres
-![[Pasted image 20230411110101.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676816-4abf8692-5bad-406b-a7e5-9bddb6c109af.png)
 ## Opérations arithmétiques et logiques
 •Opérations arithmétiques: Addition,  
 soustraction, division et multiplication.  
@@ -572,9 +572,9 @@ telles que le AND, OR, NOT, XOR, les shifts et les
 rotations de bits.  
 •Compatibles avec les entiers scalaires et  
 vectoriels.
-![[Pasted image 20230411110126.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676830-4385ac01-373c-49d4-92ea-32c0470b477d.png)
 ## Processeur Intel Pentium
-![[Pasted image 20230411110140.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676842-011305fe-a112-413e-adff-4a2981690661.png)
 ## Distinction entre les ALUs
 Jusqu’ici, nous avons considéré les ALUs comme  
 étant des unités d’exécutions dédiées aux  
@@ -601,7 +601,7 @@ peuvent également créer des bulles dans le
 pipeline, comme vu lors de la séance  
 précédente.
 ## Problèmes liés aux données
-![[Pasted image 20230411110226.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676862-819f3c72-a617-4619-a2a0-67dbc0547c02.png)
 ## Conséquences
 Il faudra attendre que l’instruction 1 soit  
 terminée et fournisse son résultat pour que  
@@ -643,8 +643,8 @@ généralement de plus de registres que ceux
 technique consiste à réattribuer les registres du  
 programming model vers des registres physiques  
 pour éviter les conflits.
-![[Pasted image 20230411110332.png]]
-![[Pasted image 20230411110352.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676880-fdd67cce-f8ab-42ad-80c6-8bca70c2ea13.png)
+![image](https://user-images.githubusercontent.com/19058019/236676887-68aaa0db-0784-4c12-9929-642cef5241c7.png)
 Il est cependant impératif que le premier add  
 soit réalisé avant l’écriture du résultat du second  
 add.  
@@ -656,7 +656,7 @@ parallèle, le résultat du deuxième add sera placé
 dans le registre A du programming model après  
 que la première instruction ait elle aussi écrit ses résultats.
 ## Problèmes liés à la structure du CPU
-![[Pasted image 20230411110429.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676902-36811a03-f073-44f4-84af-75d80e9a2417.png)
 Cependant, il a été nécessaire de faire quelques  
 modifications dans la structure du processeur.  
 En effet, pour pouvoir permettre l’accès  
@@ -758,7 +758,7 @@ programmes étaient écrits directement pour
 le hardware unique d’une machine.  
 • Les programmes étaient intimement liés au  
 hardware
-![[Pasted image 20230411112510.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676915-bf00faae-38b8-4160-ab3c-5aaa8527ae06.png)
 • Conséquence: un programme écrit pour une  
 machine A n’avait aucune chance de  
 s’exécuter sur une machine B.  
@@ -780,7 +780,7 @@ architecture matérielle précise.
 la compatibilité restera assurée si l’ISA reste  
 inchangée (du moins la partie orientée  
 utilisateur).
-![[Pasted image 20230411112547.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676924-e5f333ed-241e-44b1-8281-85227b2c0931.png)
 ## Le microcode
 • La première solution pour assurer cette  
 abstraction (IBM system/360) reposait sur un  
@@ -893,14 +893,14 @@ pensées RISC.
 - Alors :
 	– Ratio = (0,85) x (0,85)2 x 0,85 = 0,52 = 52%
 
-![[Pasted image 20230414134230.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676946-8fc30990-7c5b-4c4b-b128-ed003f9d07e4.png)
 - NB, un VAX, c’est ça !
-![[Pasted image 20230414134253.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676954-456d33f2-3730-4840-9500-cd961e82b4fe.png)
 ●Exemple d’architecture de serveur :
 ●Sun Fire x4150 1U
 ●(le livre de référence date un peu)
-![[Pasted image 20230414134329.png]]
-![[Pasted image 20230414134349.png]]
+![image](https://user-images.githubusercontent.com/19058019/236676964-af80e01f-8656-4e94-a78d-62bfc3d3d300.png)
+![image](https://user-images.githubusercontent.com/19058019/236676972-449b786e-da3e-440b-b4ff-7e4752307097.png)
 
 ●Explication des éléments :
 ●Intel Xeon, ce sont les CPU (2)
