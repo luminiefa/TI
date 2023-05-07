@@ -437,7 +437,8 @@ La modulation analogique
 	• largeur de bande du signal plus grande qu'en modulation angulaire
 ![image](https://user-images.githubusercontent.com/19058019/236666290-816cd3a0-5a9c-43cd-b8e2-ebc592b7987c.png)
 ![image](https://user-images.githubusercontent.com/19058019/236666305-af27cb4a-aee3-43ce-912c-147ac6f89477.png)
-![Uploading image.png…]()
+MANQUE 2 PHOTOS[BD LABO_230303_101419 (1).pdf](https://github.com/luminiefa/TI/files/11414242/BD.LABO_230303_101419.1.pdf)
+
 • Indice de modulation (exercice)  
 	– En radiodiffusion FM, la fréquence des porteuses varie  
 	généralement entre 88 MHz et 108 MHz.  
