@@ -280,42 +280,50 @@ On dit aussi qu'elle a un gain de 2,15 dBi.
 	Avec ces antennes, le champs tourne au court de la propagation  
 	(utilisées avec des stations en mouvement : voitures, avions...).
 ## Bande passante  
-![[Pasted image 20230315165417.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665630-745491e2-d2bc-40bc-a2f2-be875f0df869.png)
 ## Exemple
-![[Pasted image 20230315165437.png]]
-![[Pasted image 20230315165454.png]]
-![[Pasted image 20230315165509.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665641-b019fbbe-8aee-4e4a-ba10-5c980ae2078c.png)
+![image](https://user-images.githubusercontent.com/19058019/236665649-27796fdb-4c2b-44fd-8d01-cec74510a22c.png)
+![image](https://user-images.githubusercontent.com/19058019/236665656-790b4273-ad88-4f26-aa61-430737b7b5c2.png)
 # chapitre 4 traitement des signaux
 
-![[telecom_230316_122401 (1).pdf]]
+![image](https://user-images.githubusercontent.com/19058019/236665681-a998fbf5-12bd-4951-a677-d1b788980795.png)
+![image](https://user-images.githubusercontent.com/19058019/236665691-b1c7163a-5efa-46ef-8e6d-d767f28af131.png)
+![image](https://user-images.githubusercontent.com/19058019/236665699-1c8a6475-9976-4f05-8732-f8384657512f.png)
+![image](https://user-images.githubusercontent.com/19058019/236665706-1baa3dcd-c0e7-44a3-a37e-7e609149274d.png)
+![image](https://user-images.githubusercontent.com/19058019/236665724-9e64101d-40b3-4471-847d-b2ee344f7c13.png)
+![image](https://user-images.githubusercontent.com/19058019/236665743-54ff9094-0043-43df-b16f-6aad23eec5a6.png)
+![image](https://user-images.githubusercontent.com/19058019/236665751-39937405-e013-4b8d-a0d3-8aab0242d49a.png)
+![image](https://user-images.githubusercontent.com/19058019/236665757-8b7ac65f-b710-408a-ba98-d2f1201d84ed.png)
+![image](https://user-images.githubusercontent.com/19058019/236665759-82abd51a-6024-44ed-a481-bc845fff9bcf.png)
 
 ## Signal et bruit  
 ### Définitions
-![[Pasted image 20230316175622.png]]
-![[Pasted image 20230316175636.png]]
-![[Pasted image 20230316175708.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665818-e4ec046b-022f-4e37-ac3a-74fe38a500ad.png)
+![image](https://user-images.githubusercontent.com/19058019/236665825-ead57975-d0b3-44f9-ab27-d36fd9a5a9da.png)
+![image](https://user-images.githubusercontent.com/19058019/236665834-79e5dff6-dc4f-412e-9691-ce85b181fbce.png)
 ## Signal sinusoïdal  
-![[Pasted image 20230316175725.png]]
-![[Pasted image 20230316175821.png]]
-![[Pasted image 20230316175834.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665839-397b1971-a8b1-406f-94f4-961c63d1daa0.png)
+![image](https://user-images.githubusercontent.com/19058019/236665847-5f556189-3b49-435e-847a-824b895f6843.png)
+![image](https://user-images.githubusercontent.com/19058019/236665852-cfae29c7-c847-4756-b5df-53c32bd7c2c1.png)
 ## Série de Fourier  
-![[Pasted image 20230316175850.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665859-bdddd2b5-de5f-4103-92c9-b6480d1bd22f.png)
 ### Définitions
-![[Pasted image 20230316175936.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665864-26f1848b-4dfc-47ea-af58-1ed26763942a.png)
 ### Exemples
-![[Pasted image 20230316180003.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665871-cb76ee83-01a8-48dc-824d-6f5fd8b42fd1.png)
 ### Transformée de Fourier
-![[Pasted image 20230316180039.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665878-51e071f9-4cfd-4fcd-8799-29f659fd379d.png)
 ## Spectre du signal
 ### Définition
-![[Pasted image 20230316180121.png]]
-![[Pasted image 20230316180143.png]]
-![[Pasted image 20230316180211.png]]
-![[Pasted image 20230316180227.png]]
-![[Pasted image 20230316180318.png]]
-![[Pasted image 20230316180333.png]]
-![[Pasted image 20230316180343.png]]
-![[Pasted image 20230316180355.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665887-aeb387ea-b4dc-4a4e-a18a-6f538f07efcd.png)
+![image](https://user-images.githubusercontent.com/19058019/236665896-1d37c197-86e0-4dbd-a8b2-2bbee1bdd61d.png)
+![image](https://user-images.githubusercontent.com/19058019/236665918-12f78868-cf65-4451-8334-5fd07036ed5c.png)
+![image](https://user-images.githubusercontent.com/19058019/236665932-2221baf4-36f7-4403-9517-0e6549f34964.png)
+![image](https://user-images.githubusercontent.com/19058019/236665937-68f99056-eb70-4314-b466-b68e6230caae.png)
+![image](https://user-images.githubusercontent.com/19058019/236665942-f8181340-ce88-404a-873f-51c66535e36b.png)
+![image](https://user-images.githubusercontent.com/19058019/236665949-22169e34-afd2-47f8-b1a7-2a15efcc1350.png)
+![image](https://user-images.githubusercontent.com/19058019/236665953-6d5ac666-d514-474d-942e-09131b076d1c.png)
 #àFaire faire des ex sur autres signaux que celui carré car trop facile pour l'examen !
 ## Pourquoi traiter le signal  
 ### Utilités
@@ -331,11 +339,11 @@ et gêner le signal informatif.
 s’y retrouver puisque toutes les ondes auraient la même gamme  
 de fréquences.
 ### Largeur de bande
-![[Pasted image 20230316180604.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665978-1165e54f-1f54-4ae6-ab11-f7fcc9e2e816.png)
 ### Exemple de transposition de fréquence
-![[Pasted image 20230316180627.png]]
+![image](https://user-images.githubusercontent.com/19058019/236665990-6d60f632-8ce7-4f88-937c-430c1b1bda7d.png)
 ### Transposition de fréquence
-![[Pasted image 20230316180647.png]]
+![image](https://user-images.githubusercontent.com/19058019/236666000-e6980789-950d-4013-a985-4505795fb87a.png)
 ### Transposition de fréquence
 – Elle permet d’augmenter ou de diminuer la fréquence centrale  
 d'un signal.  
@@ -343,18 +351,18 @@ d'un signal.
 – Le multiplicateur génère en sortie un signal proportionnel au  
 produit des signaux présents sur ses deux entrées.  
 – La tension de sortie Vs=k.V1.V2
-![[Pasted image 20230316180726.png]]
-![[Pasted image 20230316180746.png]]
-![[Pasted image 20230316180806.png]]
+![image](https://user-images.githubusercontent.com/19058019/236666008-38695cbf-4089-4f09-9af3-a69607ee4252.png)
+![image](https://user-images.githubusercontent.com/19058019/236666023-ec86c50e-89b9-4012-a66f-6178ac9d85f3.png)
+![image](https://user-images.githubusercontent.com/19058019/236666037-76ce0b3c-d737-4eb8-b65f-9146b96c0ef7.png)
 ### Exemple de multiplexage fréquentiel
-![[Pasted image 20230316180835.png]]
+![image](https://user-images.githubusercontent.com/19058019/236666058-271485dc-9c14-4711-a83d-3468d31be376.png)
 ## Signal analogique et numérique  
-![[Pasted image 20230316180856.png]]
+![image](https://user-images.githubusercontent.com/19058019/236666065-43b85044-2704-4ded-8b97-810625c9c424.png)
 ## Chaîne de communication en propagation libre
 ### Modulation
 – La modulation doit permettre à une puissante porteuse d’émettre  
 par voie aérienne les informations utiles.
-![[Pasted image 20230316180930.png]]
+![image](https://user-images.githubusercontent.com/19058019/236666073-1e765857-3362-464b-94a3-e6e997440852.png)
 # chapitre 5 modulation analogique
 ## La modulation analogique
 La modulation analogique  
@@ -365,12 +373,12 @@ La modulation analogique
 • Modulation de fréquence  
 • Démodulation de fréquence  
 • Modulation de phase
-![[Pasted image 20230415100713.png]]
+![image](https://user-images.githubusercontent.com/19058019/236666085-aa422506-a559-414e-82a4-03a3891b3445.png)
 ## Types de modulations analogiques
 • Explication  
 	– La transmission d'un signal par liaison hertzienne nécessite « d'accrocher » ce signal à une porteuse (carrier) de haute fréquence, c'est l'opération de modulation.  
 	– L'onde porteuse est un signal sinusoïdal sc(t) de fréquence fc.  
-		![[Pasted image 20230415100737.png]]
+		![image](https://user-images.githubusercontent.com/19058019/236666121-baecab54-79fa-4231-ad68-658d31e843cf.png)
 		• Ac : Amplitude de la porteuse  
 		• ωc : Pulsation de la porteuse  
 		• φc : Phase à l'origine de la porteuse  
@@ -383,21 +391,21 @@ La modulation analogique
 	• La modulation de phase : la phase  
 	instantanée de la porteuse varie  
 	linéairement avec le message.
-	![[Pasted image 20230415100917.png]]
+	![image](https://user-images.githubusercontent.com/19058019/236666141-f4a0ed1f-518e-48ed-9aef-b9641215574d.png)
 ## Modulation d'amplitude
 • Définition  
 	– Dans une modulation d'amplitude à porteuse complète,  
 	l'amplitude varie linéairement avec le message à transmettre.  
 	– x(t) étant le signal à transmettre, il va être additionné à  
 	l'amplitude de la porteuse.
-	![[Pasted image 20230415101031.png]]
+	![image](https://user-images.githubusercontent.com/19058019/236666174-94281b1b-3532-44fd-a07f-2618557e5864.png)
 • Enveloppe du signal modulé en amplitude
-![[Pasted image 20230415101106.png]]
+![image](https://user-images.githubusercontent.com/19058019/236666184-b7ee9323-19bc-4347-83c2-1f4f680f1f29.png)
 • Taux de modulation  
-![[Pasted image 20230415101210.png]]
-![[Pasted image 20230415101219.png]]
-![[Pasted image 20230415101232.png]]
-![[Pasted image 20230415101246.png]]
+![image](https://user-images.githubusercontent.com/19058019/236666196-08706d99-ab96-4bba-bc4e-cdf5399108ca.png)
+![image](https://user-images.githubusercontent.com/19058019/236666207-1a30cd47-4cab-4eb0-8baa-0916c8a4793f.png)
+![image](https://user-images.githubusercontent.com/19058019/236666216-012ef0a1-bfd7-42f0-8218-b7949b99b9b8.png)
+![image](https://user-images.githubusercontent.com/19058019/236666226-a771d836-b377-4332-9a73-0fe9e0d9dabc.png)
 • Puissance en modulation d'amplitude  
 	– Une portion très importante de la puissance transmise par la  
 	canal est affectée à la porteuse : 50 % dans le cas d'un taux de  
@@ -408,12 +416,12 @@ La modulation analogique
 	– Les deux bandes latérales correspondant au signal modulant  
 	transportent la même information. La puissance nécessaire à  
 	cette transmission est superflue.
-![[Pasted image 20230415101317.png]]
-![[Pasted image 20230415101335.png]]
+![image](https://user-images.githubusercontent.com/19058019/236666236-91188886-3959-4226-9124-3c9d1960e272.png)
+![image](https://user-images.githubusercontent.com/19058019/236666245-40998bcb-45cd-4c99-8a0a-ab91b32f34d7.png)
 ## Démodulation d'amplitude
-![[Pasted image 20230415101348.png]]
-![[Pasted image 20230415101423.png]]
-![[Pasted image 20230415101434.png]]
+![image](https://user-images.githubusercontent.com/19058019/236666260-a3afa30a-952c-4f4f-b993-6d24f5251729.png)
+![image](https://user-images.githubusercontent.com/19058019/236666270-20249a07-cd43-4591-b0af-0d533461b3b2.png)
+![image](https://user-images.githubusercontent.com/19058019/236666282-0dfee0e1-42a3-4313-9093-aeaec9c19cb2.png)
 ## Modulation de fréquence
 • Principe  
 	– Lorsque la tension du signal modulant augmente, la fréquence  
@@ -427,10 +435,9 @@ La modulation analogique
 	• pas de surmodulation  
 	– Inconvénient :  
 	• largeur de bande du signal plus grande qu'en modulation angulaire
-![[Pasted image 20230415101509.png]]
-![[Pasted image 20230415101524.png]]
-![[Pasted image 20230415101535.png]]
-![[Pasted image 20230415101547.png]]
+![image](https://user-images.githubusercontent.com/19058019/236666290-816cd3a0-5a9c-43cd-b8e2-ebc592b7987c.png)
+![image](https://user-images.githubusercontent.com/19058019/236666305-af27cb4a-aee3-43ce-912c-147ac6f89477.png)
+![Uploading image.png…]()
 • Indice de modulation (exercice)  
 	– En radiodiffusion FM, la fréquence des porteuses varie  
 	généralement entre 88 MHz et 108 MHz.  
