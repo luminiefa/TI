@@ -1,63 +1,15 @@
-- [[#CHAPITRE 1 :  SCHÉMA CONCEPTUEL|CHAPITRE 1 :  SCHÉMA CONCEPTUEL]]
-	- [[#CHAPITRE 1 :  SCHÉMA CONCEPTUEL#1.2. Formalisme|1.2. Formalisme]]
-	- [[#CHAPITRE 1 :  SCHÉMA CONCEPTUEL#1.3. Entités : notation|1.3. Entités : notation]]
-	- [[#CHAPITRE 1 :  SCHÉMA CONCEPTUEL#1.4. Relation : cardinalités|1.4. Relation : cardinalités]]
-	- [[#CHAPITRE 1 :  SCHÉMA CONCEPTUEL#Récap|Récap]]
-	- [[#CHAPITRE 1 :  SCHÉMA CONCEPTUEL#1.5. Etapes|1.5. Etapes]]
-	- [[#CHAPITRE 1 :  SCHÉMA CONCEPTUEL#1.6. Contraintes d'intégrité|1.6. Contraintes d'intégrité]]
-	- [[#CHAPITRE 1 :  SCHÉMA CONCEPTUEL#1.7. Normalisation|1.7. Normalisation]]
-- [[#CHAPITRE 2 :  SCHÉMA RELATIONNEL|CHAPITRE 2 :  SCHÉMA RELATIONNEL]]
-	- [[#CHAPITRE 2 :  SCHÉMA RELATIONNEL#2.1. BD relationnelles : Valeur|2.1. BD relationnelles : Valeur]]
-	- [[#CHAPITRE 2 :  SCHÉMA RELATIONNEL#2.1. BD relationnelles : notion d'ordre|2.1. BD relationnelles : notion d'ordre]]
-	- [[#CHAPITRE 2 :  SCHÉMA RELATIONNEL#2.2. Traduire les relations|2.2. Traduire les relations]]
-	- [[#CHAPITRE 2 :  SCHÉMA RELATIONNEL#2.2. Traduire les relations : règles|2.2. Traduire les relations : règles]]
-	- [[#CHAPITRE 2 :  SCHÉMA RELATIONNEL#2.2. Traduire les relations 1-N|2.2. Traduire les relations 1-N]]
-	- [[#CHAPITRE 2 :  SCHÉMA RELATIONNEL#2.2. Traduire les relations 1-1|2.2. Traduire les relations 1-1]]
-	- [[#CHAPITRE 2 :  SCHÉMA RELATIONNEL#2.2. Traduire les relations N-N|2.2. Traduire les relations N-N]]
-- [[#CHAPITRE 3 : SQL|CHAPITRE 3 : SQL]]
-	- [[#CHAPITRE 3 : SQL#SQL|SQL]]
-	- [[#CHAPITRE 3 : SQL#Outil|Outil]]
-	- [[#CHAPITRE 3 : SQL#Convention de nommage|Convention de nommage]]
-	- [[#CHAPITRE 3 : SQL#3.1. Data definition language|3.1. Data definition language]]
-		- [[#3.1. Data definition language#Création|Création]]
-		- [[#3.1. Data definition language#Contraintes|Contraintes]]
-			- [[#Contraintes#3.1.2. Contraintes sur une colonne|3.1.2. Contraintes sur une colonne]]
-			- [[#Contraintes#3.1.2. Contraintes sur une table|3.1.2. Contraintes sur une table]]
-			- [[#Contraintes#3.1.2. Contraintes : FK simple|3.1.2. Contraintes : FK simple]]
-			- [[#Contraintes#3.1.2. Contraintes : FK multiple|3.1.2. Contraintes : FK multiple]]
-			- [[#Contraintes#3.1.2. Contraintes : exemple|3.1.2. Contraintes : exemple]]
-		- [[#3.1. Data definition language#Modification|Modification]]
-			- [[#Modification#3.1.3. Modification : exemple|3.1.3. Modification : exemple]]
-		- [[#3.1. Data definition language#Suppression|Suppression]]
-	- [[#CHAPITRE 3 : SQL#3.2. Data manipulation language|3.2. Data manipulation language]]
-		- [[#3.2. Data manipulation language#Insertion de données|Insertion de données]]
-		- [[#3.2. Data manipulation language#Modification de données|Modification de données]]
-		- [[#3.2. Data manipulation language#Suppression de données|Suppression de données]]
-	- [[#CHAPITRE 3 : SQL#3.3. Data query language|3.3. Data query language]]
-		- [[#3.3. Data query language#Sélections|Sélections]]
-			- [[#Sélections#3.3.1. Sélection : Opérateurs|3.3.1. Sélection : Opérateurs]]
-			- [[#Sélections#3.3.1. Sélection : Fonctions|3.3.1. Sélection : Fonctions]]
-			- [[#Sélections#3.3.1. Sélection : Fonctions de groupe|3.3.1. Sélection : Fonctions de groupe]]
-			- [[#Sélections#3.3.1. Sélection : GROUP BY|3.3.1. Sélection : GROUP BY]]
-			- [[#Sélections#3.3.1. Sélection : HAVING|3.3.1. Sélection : HAVING]]
-			- [[#Sélections#3.3.1. Sélection : ORDER|3.3.1. Sélection : ORDER]]
-		- [[#3.3. Data query language#Jointures|Jointures]]
-			- [[#Jointures#3.3.2. Jointures : Exemple|3.3.2. Jointures : Exemple]]
-			- [[#Jointures#3.3.2. Jointures réflexives|3.3.2. Jointures réflexives]]
-		- [[#3.3. Data query language#Requêtes inbriquées|Requêtes inbriquées]]
-			- [[#Requêtes inbriquées#3.3.3. Requêtes imbriquées : EXISTS|3.3.3. Requêtes imbriquées : EXISTS]]
 # CHAPITRE 1 :  SCHÉMA CONCEPTUEL
 ## 1.2. Formalisme
 Il existe plusieurs formalismes possibles  
 Nous choisirons les diagrammes entité-relation.  
 Entity Relationship Diagram en anglais (ERD)
 ## 1.3. Entités : notation
-![[Pasted image 20230315113737.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683377-7e52321f-1044-45b2-b63c-35dc46e0a21a.png)
 ## 1.4. Relation : cardinalités
-![[Pasted image 20230315114251.png]]
-![[Pasted image 20230315114308.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683389-14d6b3e6-3cda-41f2-8bc7-0607109c2842.png)
+![image](https://user-images.githubusercontent.com/19058019/236683401-4cea91ce-4952-4d61-b600-4e4e81b1bd53.png)
 ## Récap
-![[Pasted image 20230315114348.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683412-4905c5e4-57f7-4f7f-a362-701dd586df3b.png)
 ## 1.5. Etapes
 Pour élaborer un schéma conceptuel, il existe  
 plusieurs méthodes... En voilà une :  
@@ -70,13 +22,13 @@ plusieurs méthodes... En voilà une :
 	1. La cohérence du schéma  
 	2. La normalisation
 ## 1.6. Contraintes d'intégrité
-![[Pasted image 20230315114449.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683422-110a3a72-af5a-4f98-82f3-4b67063c6e95.png)
 ## 1.7. Normalisation
-![[Pasted image 20230315114516.png]]
-![[Pasted image 20230315114531.png]]
-![[Pasted image 20230315114541.png]]
-![[Pasted image 20230315114557.png]]
-![[Pasted image 20230315114611.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683425-160b188c-5d86-47ff-a26b-000c229763e6.png)
+![image](https://user-images.githubusercontent.com/19058019/236683434-d6c3b6ea-68dc-40ad-88c8-92c0ac3400d4.png)
+![image](https://user-images.githubusercontent.com/19058019/236683448-dd3082b9-51ce-4e69-839c-7e3b0c882e14.png)
+![image](https://user-images.githubusercontent.com/19058019/236683455-7db807f8-c842-4b20-b1dd-c9abddcbc641.png)
+![image](https://user-images.githubusercontent.com/19058019/236683462-3e43b6f9-9669-4f34-9599-4eae88ff61bb.png)
 
 # CHAPITRE 2 :  SCHÉMA RELATIONNEL
 ## 2.1. BD relationnelles : Valeur
@@ -103,15 +55,15 @@ clé primaire) de la table qu'on veut relier.
 ## 2.2. Traduire les relations : règles
 Pour savoir où mettre la clé étrangère,  
 il y a des règles simples à suivre :
-![[Pasted image 20230315111955.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683485-7380547a-e153-4d44-a919-e754d027a30a.png)
 ## 2.2. Traduire les relations 1-N
-![[Pasted image 20230315112029.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683500-643027ff-fda2-43b9-a112-a4c5bc4b9e17.png)
 ## 2.2. Traduire les relations 1-1
-![[Pasted image 20230315112055.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683509-b6135d2e-85e2-44db-9a28-8575055694ff.png)
 ## 2.2. Traduire les relations N-N
-![[Pasted image 20230315112121.png]]
-![[Pasted image 20230315112140.png]]
-![[Pasted image 20230315112203.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683516-2273a573-2e2b-42a4-94c4-23077ecabebf.png)
+![image](https://user-images.githubusercontent.com/19058019/236683524-5736de29-04be-4efb-ae83-d54fd12a4c7c.png)
+![image](https://user-images.githubusercontent.com/19058019/236683537-4c9bea62-6c23-49d8-a239-6d5ead1efadc.png)
 # CHAPITRE 3 : SQL
 ## SQL
 • Insensible à la case  
@@ -144,7 +96,7 @@ Les noms de colonne et tables doivent :
 ## 3.1. Data definition language
 ### Création  
 CREATE DATABASE <base de données> ;
-![[Pasted image 20230321195355.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683552-aca9fea9-d4ed-4b00-bb98-7c9e429d5053.png)
 ### Contraintes  
 Contraintes d'intégrités à ajouter à la création :  
 • PRIMARY KEY : clé primaire  
@@ -153,7 +105,7 @@ Contraintes d'intégrités à ajouter à la création :
 • NOT NULL : obligatoire  
 • FOREIGN KEY : clé étrangère  
 • CHECK : contraintes additionnelles
-![[Pasted image 20230321195431.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683564-9188a4fb-dd10-4ab6-9b26-06a46d6c11e3.png)
 #### 3.1.2. Contraintes sur une colonne
 	Se note juste après la définition de la colonne :  
 	• PRIMARY KEY : définit la colonne comme clé primaire  
@@ -178,11 +130,11 @@ Contraintes d'intégrités à ajouter à la création :
 	• CHECK : pour définir des contraintes additionnelles  
 	→ CHECK (<condition>)
 #### 3.1.2. Contraintes : FK simple
-![[Pasted image 20230321195645.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683584-42eb383a-4d97-4fba-a0be-11337f2d7a64.png)
 #### 3.1.2. Contraintes : FK multiple
-![[Pasted image 20230321195706.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683598-a551fb94-61a7-4260-bdae-89eb648d87f7.png)
 #### 3.1.2. Contraintes : exemple
-![[Pasted image 20230321195727.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683608-5cf41ed1-df5a-4153-b2ae-6bf52eee9dd8.png)
 ### Modification  
 	Modifier la structure d'une table :  
 	ALTER TABLE <table>  
@@ -195,47 +147,47 @@ Contraintes d'intégrités à ajouter à la création :
 	Renommer une colonne :  
 	EXEC sp_rename '<table>.<ancien nom> ', '<nouveau nom> ', 'COLUMN';
 #### 3.1.3. Modification : exemple
-![[Pasted image 20230321195802.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683622-67a589ed-aeda-425c-bee0-bedae014b5d0.png)
 ### Suppression
-![[Pasted image 20230321195818.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683634-207e7abd-efee-45e0-9e03-d2a952ff2415.png)
 ## 3.2. Data manipulation language
 ### Insertion de données
-![[Pasted image 20230321200028.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683643-323494d0-5b22-4582-9afc-9d8a6d2e22d3.png)
 ### Modification de données
-![[Pasted image 20230321200043.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683650-98e7d1a2-5de4-452e-aa49-11d0509638aa.png)
 ### Suppression de données
-![[Pasted image 20230321200054.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683664-1f2fa5fe-bcd5-441c-ba63-647f560447a9.png)
 ## 3.3. Data query language
 ### Sélections
-![[Pasted image 20230321200143.png]]
-![[Pasted image 20230321200156.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683677-c2cc75df-0d61-41b8-82c3-d774fb07c86d.png)
+![image](https://user-images.githubusercontent.com/19058019/236683692-b0ed2da9-d471-4241-8ac5-200236747ff4.png)
 #### 3.3.1. Sélection : Opérateurs
-![[Pasted image 20230321200220.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683704-cc1abc83-615f-4787-8fff-b8874afce3f8.png)
 #### 3.3.1. Sélection : Fonctions
-![[Pasted image 20230321200247.png]]
-![[Pasted image 20230321200305.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683729-945d33ff-a5c9-40bb-af2e-ee9639462f00.png)
+![image](https://user-images.githubusercontent.com/19058019/236683737-c4a4e4a0-9ee3-43d8-9a6e-2779054d8c99.png)
 #### 3.3.1. Sélection : Fonctions de groupe
-![[Pasted image 20230321200326.png]]
-![[Pasted image 20230321200340.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683755-4b6e6c81-2c89-4f60-bc50-42cad28ec39b.png)
+![image](https://user-images.githubusercontent.com/19058019/236683762-a81902a8-3dbc-46f3-81eb-49df62c2f580.png)
 #### 3.3.1. Sélection : GROUP BY
-![[Pasted image 20230321200358.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683774-b71ddf17-5546-4806-adc3-9f81aeb55589.png)
 #### 3.3.1. Sélection : HAVING
-![[Pasted image 20230321200415.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683787-762febcb-4f71-4e5d-a632-3313671684af.png)
 #### 3.3.1. Sélection : ORDER
-![[Pasted image 20230321200445.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683794-725f68a4-4f9d-41d5-b180-2744e1c3c13a.png)
 ### Jointures
-![[Pasted image 20230321200458.png]]
-![[Pasted image 20230321200513.png]]
-![[Pasted image 20230321200536.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683810-9a8e19ea-98db-4d05-ac62-4c63aeac89b3.png)
+![image](https://user-images.githubusercontent.com/19058019/236683816-7cf84ddd-c6e2-42a7-804b-099ee480b2ba.png)
+![image](https://user-images.githubusercontent.com/19058019/236683833-dd7da96c-12c8-4c29-b99b-8da8ccfd9172.png)
 #### 3.3.2. Jointures : Exemple
-![[Pasted image 20230321200601.png]]
-![[Pasted image 20230321200619.png]]
+![image](https://user-images.githubusercontent.com/19058019/236683876-035d4dcb-beba-4b8c-a4dd-55f7cb325519.png)
+![image](https://user-images.githubusercontent.com/19058019/236684052-dfd5193e-f784-47a4-9472-c193474e9bbc.png)
 #### 3.3.2. Jointures réflexives
-![[Pasted image 20230321200641.png]]
-![[Pasted image 20230321200652.png]]
-![[Pasted image 20230321200704.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684069-6ab4be5d-a3ac-46a4-9d8f-7f7e9c404b02.png)
+![image](https://user-images.githubusercontent.com/19058019/236684077-8203fd62-33ff-4eef-8047-20d77ddf5b68.png)
+![image](https://user-images.githubusercontent.com/19058019/236684090-cc999721-b534-4baa-a3e5-82e65770e266.png)
 ### Requêtes inbriquées
-![[Pasted image 20230321200718.png]]
-![[Pasted image 20230321200728.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684109-61978338-1683-492d-b5ff-f26d1fd410fe.png)
+![image](https://user-images.githubusercontent.com/19058019/236684119-cb12ad54-2aa4-44db-b2df-05b2f10a31e1.png)
 #### 3.3.3. Requêtes imbriquées : EXISTS
-![[Pasted image 20230321200804.png]]
+![image](https://user-images.githubusercontent.com/19058019/236684134-ca1452ae-e6e1-471f-8e6f-b2b799d797a7.png)
