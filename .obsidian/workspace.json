@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/Com configurer l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
+                "file": "FlashCards/systm.Exploit, labo/Audits/Conf l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/Com configurer l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
+                "file": "FlashCards/systm.Exploit, labo/Audits/Conf l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -371,7 +371,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/Com configurer l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
+                "file": "FlashCards/systm.Exploit, labo/Audits/Conf l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -388,7 +388,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/Com configurer l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
+                "file": "FlashCards/systm.Exploit, labo/Audits/Conf l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -411,7 +411,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/Com configurer l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md"
+                "file": "FlashCards/systm.Exploit, labo/Audits/Conf l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md"
               }
             }
           }
@@ -437,7 +437,7 @@
   "active": "337fec5c8e6fa789",
   "lastOpenFiles": [
     "FlashCards/systm.Exploit, labo/Audits/Comment activer l'audit d'accès aux répertoires et fichiers dans Windows. Expliquez comment définir les permissions d'audit pour un répertoire ou un fichier spécifique..md",
-    "FlashCards/systm.Exploit, labo/Audits/Com configurer l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
+    "FlashCards/systm.Exploit, labo/Audits/Conf l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
     "FlashCards/systm.Exploit, labo/Audits/Comment modifier le profil par défaut sous W pour que les paramètres d'un prog, par ex Firefox, soient appliqués à tous les nouveaux utilisateurs qui se connectent au pc ..md",
     "FlashCards/systm.Exploit, labo/Audits/Décrivez les étapes pour activer auto la touche Num Lock au démarrage de W à l'aide de l'Éditeur de registre..md",
     "FlashCards/systm.Exploit, labo/Audits/Expliquez étapes pour déplacer le chemin par défaut des profils des users vers un autre lecteur que celui de l'OS sous W. Quels sont les avantages de cette modification ..md",
