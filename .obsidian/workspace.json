@@ -21,6 +21,110 @@
             }
           },
           {
+            "id": "1d239e916a2c52a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, labo/Audits/Com configurer l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19a0cabbd572ae07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, labo/Audits/Comment activer l'audit d'accès aux répertoires et fichiers dans Windows. Expliquez comment définir les permissions d'audit pour un répertoire ou un fichier spécifique..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d81578d4347b93b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, labo/Audits/Expliquez le processus pour surveiller les connexions users (ouvertures et fermetures de session) à l'aide de l'Observateur d'événements dans W..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b177144e54671af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, labo/Audits/Comment modifier le profil par défaut sous W pour que les paramètres d'un prog, par ex Firefox, soient appliqués à tous les nouveaux utilisateurs qui se connectent au pc ..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e662b6c55d637f8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, labo/Audits/Expliquez le rôle du répertoire _Public_ sous Windows et comment les différents utilisateurs peuvent partager des fichiers en utilisant ce répertoire..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ea27ed6fc9723be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, labo/Audits/pouvez-vous utiliser l'Éditeur de registre pour modif le screen par défaut de tous les users sous W. Quelle est la clé de registre associée à cette modification..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29e32761262f2394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, labo/Audits/Décrivez les étapes pour activer auto la touche Num Lock au démarrage de W à l'aide de l'Éditeur de registre..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "337fec5c8e6fa789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlashCards/systm.Exploit, labo/Audits/Com configurer l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ba599672114dbc0",
             "type": "leaf",
             "state": {
@@ -191,7 +295,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -236,14 +341,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "3808f8c228ccd601",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 654.5,
-    "collapsed": true
+    "width": 402.5
   },
   "right": {
     "id": "5d6086e019be0f50",
@@ -259,7 +371,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
+                "file": "FlashCards/systm.Exploit, labo/Audits/Com configurer l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +388,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
+                "file": "FlashCards/systm.Exploit, labo/Audits/Com configurer l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +411,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md"
+                "file": "FlashCards/systm.Exploit, labo/Audits/Com configurer l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md"
               }
             }
           }
@@ -308,8 +420,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,54 +434,54 @@
       "note-synchronizer:Synchronize": false
     }
   },
-  "active": "91d5d748ca41b620",
+  "active": "337fec5c8e6fa789",
   "lastOpenFiles": [
+    "FlashCards/systm.Exploit, labo/Audits/Comment activer l'audit d'accès aux répertoires et fichiers dans Windows. Expliquez comment définir les permissions d'audit pour un répertoire ou un fichier spécifique..md",
+    "FlashCards/systm.Exploit, labo/Audits/Com configurer l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
+    "FlashCards/systm.Exploit, labo/Audits/Comment modifier le profil par défaut sous W pour que les paramètres d'un prog, par ex Firefox, soient appliqués à tous les nouveaux utilisateurs qui se connectent au pc ..md",
+    "FlashCards/systm.Exploit, labo/Audits/Décrivez les étapes pour activer auto la touche Num Lock au démarrage de W à l'aide de l'Éditeur de registre..md",
+    "FlashCards/systm.Exploit, labo/Audits/Expliquez étapes pour déplacer le chemin par défaut des profils des users vers un autre lecteur que celui de l'OS sous W. Quels sont les avantages de cette modification ..md",
+    "FlashCards/systm.Exploit, labo/Audits/pouvez-vous utiliser l'Éditeur de registre pour modif le screen par défaut de tous les users sous W. Quelle est la clé de registre associée à cette modification..md",
+    "FlashCards/systm.Exploit, labo/Audits/Expliquez le rôle du répertoire _Public_ sous Windows et comment les différents utilisateurs peuvent partager des fichiers en utilisant ce répertoire..md",
+    "FlashCards/systm.Exploit, labo/Audits/Expliquez le processus pour surveiller les connexions users (ouvertures et fermetures de session) à l'aide de l'Observateur d'événements dans W..md",
+    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415102827.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415101524.png",
+    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
+    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, théorie.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Laboratoire des sciences appliquées à l'informatique.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
+    "ludo/Q2/laboScience/hackRF.md",
+    "Untitled.md",
+    "FlashCards/systm.Exploit, labo/Audits",
     "présentation détaillées sur les cours.canvas",
     "FlashCards/systm.Exploit, concepts/Quels sont les objectifs principaux de l'ordonnancement en informatique..md",
     "ludo/Q2/Progra/Projets/base.zip",
-    "planning.md",
-    "FlashCards/systm.Exploit, concepts/Quels sont les trois problèmes principaux que doit résoudre la gestion de la mémoire..md",
-    "FlashCards/systm.Exploit, concepts/Quels sont les droits d'accès standards pour les fichiers et comment peuvent-ils être modifiés..md",
-    "FlashCards/systm.Exploit, concepts/Quelles sont les méthodes d'allocation de blocs physiques pour les fichiers et comment fonctionnent-elles ..md",
-    "FlashCards/systm.Exploit, concepts/Quel algorithme d'ordonnancement est utilisé par le noyau Linux..md",
-    "FlashCards/systm.Exploit, concepts/Qu'est-ce que TMPFS et dans quelles situations est-il couramment utilisé ..md",
-    "FlashCards/systm.Exploit, concepts/Qu'est-ce que la mémoire virtuelle et comment fonctionne-t-elle ..md",
-    "FlashCards/systm.Exploit, concepts/Qu'est-ce qu'un répertoire et quel rôle joue-t-il dans la gestion des fichiers ..md",
-    "FlashCards/systm.Exploit, concepts/Expliquez la différence entre l'ordonnancement préemptif et non-préemptif..md",
-    "FlashCards/systm.Exploit, concepts/Définissez les termes fichier logique et fichier physique et expliquez leur relation..md",
-    "FlashCards/systm.Exploit, concepts/Décrivez les trois modes d'accès aux fichiers logiques et donnez un exemple d'utilisation pour chacun..md",
-    "FlashCards/systm.Exploit, concepts/Décrivez brièvement les mécanismes d'ordonnancement suivants , FCFS, Shortest Job First, Round Robin et par files de priorités multiniveaux..md",
-    "FlashCards/systm.Exploit, concepts/Comparez et contrastez les systèmes de fichiers NTFS et EXT3 en termes de structure, capacité de stockage et fonctionnalités..md",
-    "FlashCards/systm.Exploit, concepts/Comparez et contrastez la segmentation et la pagination en matière de gestion de la mémoire..md",
     "FlashCards/systm.Exploit, concepts",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132128.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230420212214.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501130724.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501130829.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501130800.png",
     "presentation graphique du github.canvas",
-    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132115.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132103.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132039.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132011.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501131950.png",
-    "FlashCards/systm.Exploit, labo/NTFS/Sous Windows certains SID sont identiques peu importe les systèmes Veuillez choisir une réponse. Vrai Faux.md",
     "FlashCards/systm.Exploit, labo/NTFS",
     "FlashCards/systm.Exploit, labo",
-    "FlashCards/Physique/ch1/Sachant que la vitesse de la lumière est d’environ 300 000 kms  et qu un rayon du soleil atteint la terre environ 8 min calculez la  distance terre-soleil.md",
-    "FlashCards/Physique/wtf.md",
-    "FlashCards/init.Systm.Embarqué/test good maybe.md",
-    "FlashCards/init.Systm.Embarqué/et le voltage bro.md",
-    "Templates/Basique (saisissez la réponse).md",
-    "Templates/Basique.md",
-    "Templates/Texte à trous.md",
     "FlashCards/Physique/ch1",
     "FlashCards/Physique",
     "FlashCards",
     "FlashCards/init.Systm.Embarqué",
-    "FlashCards",
-    "ludo/Q2/PacketTracer/ludo/séance2/Sans titre"
+    "FlashCards"
   ]
 }
