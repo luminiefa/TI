@@ -928,30 +928,30 @@ Tableau de kirchkof
 ### Fabrication par déformation
 • Forgeage
 • Emboutissage 
-![[Pasted image 20230501131731.png]]
+![image](https://user-images.githubusercontent.com/19058019/236689299-661d9fb7-38d5-4090-a48e-03f60a9b0247.png)
 ➢ Ecrouissage  
 • Déformation augmente  
 la dureté  
 • Création de dislocation  
 empêche le glissement
-![[Pasted image 20230501131740.png]]
+![image](https://user-images.githubusercontent.com/19058019/236689310-c914cfcf-f4f0-43c7-a69e-2e6265059137.png)
 ### Fabrication par fusion
 • Moulage:  
 – Matériaux liquide
-![[Pasted image 20230501131804.png]]
+![image](https://user-images.githubusercontent.com/19058019/236689318-7369703e-682a-4f5e-990c-09efdc30a1f3.png)
 • Frittage:  
 – Matériaux en poudre
-![[Pasted image 20230501131813.png]]
+![image](https://user-images.githubusercontent.com/19058019/236689327-27fc11bb-7691-4a8e-9ab8-88c849a01139.png)
 ### Fabrication soustractive
 • Tournage:
-![[Pasted image 20230501131836.png]]
+![image](https://user-images.githubusercontent.com/19058019/236689336-31692f75-c861-49a3-94e0-4e00690faf63.png)
 • Fraisage:
-![[Pasted image 20230501131857.png]]
+![image](https://user-images.githubusercontent.com/19058019/236689343-9b2c448f-806f-4175-8265-51b857ff2f0d.png)
 • Découpe:  
 – Laser  
 – Plasma  
 – Eau
-![[Pasted image 20230501131914.png]]
+![image](https://user-images.githubusercontent.com/19058019/236689354-7b84b011-4913-4a48-994a-df48bc62723d.png)
 ### Fabrication additive
 • Powder Bed Fusion (PBF):  
 – De la poudre est étalée par  
@@ -962,7 +962,7 @@ et fusionner les particules.
 – Permet les structures suspendues  
 (chaque couche repose sur la  
 précédente)
-![[Pasted image 20230501131932.png]]
+![image](https://user-images.githubusercontent.com/19058019/236689366-1b5b81d6-cb67-4203-9d9f-03dd59ee3eba.png)
 • Fused Deposition Modelling (FDM):  
 – Un filament (généralement thermoplastique)  
 est extrudée dans la buse (nozzle)  
@@ -971,7 +971,7 @@ l’espace par rapport à la pièce
 + Peu couteux et rapide  
 - Sensible mécaniquement  
 entre les couches
-![[Pasted image 20230501131950.png]]
+![image](https://user-images.githubusercontent.com/19058019/236689374-e932af82-ceea-4f4f-b788-7d7b08186771.png)
 • Dépôt de matériau et fusion (DED):  
 – Laser/Plasma/Flux électrons fond  
 le matériau en fur et à mesure qu’il est  
@@ -980,7 +980,7 @@ déposé.
 • Aluminium, alliages de nickel, ...  
 – Système de mouvement à 4 ou 5 axes ou un  
 bras robotisé pour positionner la tête de dépôt
-![[Pasted image 20230501132011.png]]
+![image](https://user-images.githubusercontent.com/19058019/236689378-b84c7318-96ac-4d3c-a07b-c8e698546b14.png)
 • Photopolymérisation :  
 – Cuve contenant une résine de monomères  
 – En éclairant avec une lumière UV certains  
@@ -988,12 +988,11 @@ endroits la résine polymérise et devient donc
 solide  
 + Rapidité  
 - Matériaux limités
-![[Pasted image 20230501132039.png]]
+![image](https://user-images.githubusercontent.com/19058019/236689387-decab570-9959-4613-ba1f-8e92a201e79b.png)
 ## Imprimante Laboratoire
-![[Pasted image 20230501132103.png]]
+![image](https://user-images.githubusercontent.com/19058019/236689411-ef7fdc90-1ed3-4e20-b967-9fe32e742d35.png)
 ## Impression 3D
-![[Pasted image 20230501132115.png]]
-![[Pasted image 20230501132128.png]]
+![image](https://user-images.githubusercontent.com/19058019/236689422-36915b9b-6da5-4827-a925-d58c92095dbf.png)
 # Notions de développement durable
 ## introduction
 Rapport Bruntland pour la Commission mondiale sur l’environnement et le
