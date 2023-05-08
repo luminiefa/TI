@@ -23,9 +23,14 @@ def load_log_from_file(path):
 def load_logs_from_folder(folder_path):
     logs = []
 
-    # remplacer le listdir par scandir cfr. les slides de théorie
     try:
-        pass # à remplacer par le code du scandir
+        with os.scandir(folder_path) as entries:
+            for entry in entries:
+                if entry.is_file():
+                    file_logs = load_log_from_file(entry.path)
+                    if file_logs is not None:
+                        logs.extend(file_logs)
+        return logs
     except FileNotFoundError:
         abs_path = os.path.abspath(folder_path)
         print("Le chemin du dossier n'existe pas")
@@ -34,6 +39,7 @@ def load_logs_from_folder(folder_path):
     except Exception as e:
         print("Une erreur s'est produite:", e)
         return None
+
         
 
 
