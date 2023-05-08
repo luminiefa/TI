@@ -1,11 +1,18 @@
-import os
-from log import Log
+"""
+This module contains the LogManager class, which is responsible for managing and organizing logs.
+"""
 from program_not_found import ProgramNotFound
-from datetime import datetime
 
 class LogManager:
+    """
+    Classe qui gère les logs.
+    """
+
     @staticmethod
     def sort_by_program(logs):
+        """
+        Trie les logs par programme.
+        """
         sorted_logs = {}
         for log in logs:
             program = log.get_program()
@@ -20,9 +27,15 @@ class LogManager:
         self.logs = self.sort_by_program(logs)
 
     def clear(self):
+        """
+        Efface les logs.
+        """
         self.logs = {}
 
     def add_logs(self, logs):
+        """
+        Ajoute des logs à la liste de logs existante.
+        """
         new_logs = self.sort_by_program(logs)
         for program, log_list in new_logs.items():
             if program not in self.logs:
@@ -30,6 +43,9 @@ class LogManager:
             self.logs[program].extend(log_list)
 
     def search_logs(self, program_name):
+        """
+        Recherche des logs pour un programme spécifique.
+        """
         if program_name in self.logs:
             return self.logs[program_name]
         else:
@@ -37,15 +53,22 @@ class LogManager:
 
     @property
     def nbr_logs(self):
+        """
+        Nombre total de logs.
+        """
         return sum([len(logs) for logs in self.logs.values()])
 
     def __str__(self):
+        """
+        Représentation sous forme de chaîne de caractères de tous les logs.
+        """
         output = []
         for program, logs in self.logs.items():
             output.append(program + ":")
             output.append("=" * len(program))
             for log in logs:
-                log_str = str(log).strip()  # Supprimez les espaces et les sauts de ligne avant et après
+                # Supprimez les espaces et les sauts de ligne avant et après
+                log_str = str(log).strip()
                 if log_str:  # Vérifiez si la chaîne n'est pas vide
                     output.append(log_str)
         output.append("TOTAL LOGS: " + str(self.nbr_logs))
