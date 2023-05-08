@@ -40,9 +40,7 @@ def load_logs_from_folder(folder_path):
         print("Une erreur s'est produite:", e)
         return None
 
-        
-
-
+    
 def get_folders_and_subfolders(folder_path):
     folder_list = []
     abs_path = os.path.abspath(folder_path)
@@ -53,14 +51,16 @@ def get_folders_and_subfolders(folder_path):
         return None
 
     try:
-        for root, dirs, files in os.walk(folder_path): # n'emploie pas os.walk, reste dans le répertoire courant
-            for d in dirs:
-                relative_path = os.path.join(root, d)
-                folder_list.append(os.path.relpath(relative_path, start=os.path.abspath(os.curdir)))
+        with os.scandir(folder_path) as entries:
+            for entry in entries:
+                if entry.is_dir():
+                    relative_path = os.path.relpath(entry.path, start=os.path.abspath(os.curdir))
+                    folder_list.append(relative_path)
         return [folder_path] + folder_list
     except Exception as e:
         print("Une erreur s'est produite:", e)
         return None
+
 
 def load(path_folder):
     logs = []

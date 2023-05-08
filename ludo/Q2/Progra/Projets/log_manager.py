@@ -45,6 +45,8 @@ class LogManager:
             output.append(program + ":")
             output.append("=" * len(program))
             for log in logs:
-                output.append(str(log))
+                log_str = str(log).strip()  # Supprimez les espaces et les sauts de ligne avant et après
+                if log_str:  # Vérifiez si la chaîne n'est pas vide
+                    output.append(log_str)
         output.append("TOTAL LOGS: " + str(self.nbr_logs))
         return "\n".join(output)
