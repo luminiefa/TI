@@ -114,7 +114,7 @@ def main():
             test = load_log_from_file("ludo/Q2/Progra/Projets/dossier/sous_dossier1/syslog.log")
             #print(test)
             test2 = load_logs_from_folder("ludo/Q2/Progra/Projets/dossier/sous_dossier1")
-            print(test2)
+            #print(test2)
             test3 = get_folders_and_subfolders("ludo/Q2/Progra/Projets/dossier")
             #print(test3)
             test4 = load("ludo/Q2/Progra/Projets/dossier/sous_dossier1")
@@ -144,7 +144,7 @@ def main():
             nbrLogs = log_manager.nbr_logs
             #print(nbrLogs)
 
-            #print(log_manager.__str__())
+            print(log_manager.__str__())
             
         elif choice == 9:
             print("Au revoir !")
