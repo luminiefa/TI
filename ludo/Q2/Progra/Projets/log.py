@@ -13,13 +13,24 @@ class Log:
     
 
     def get_program(self):
-        pattern = r"\w+(?=\[\d+\])"
-        match = re.search(pattern, self.text)
-        if match:
-            program = match.group().split('[')[0]  # Prendre seulement la partie avant les crochets
-        else:
-            program = "Unknown"
-        return program
+        try:
+            # Trouver la position du premier crochet ouvrant '['
+            open_bracket_pos = self.text.index('[')
+
+            # Trouver la position du dernier espace avant le premier crochet ouvrant
+            space_pos = self.text.rfind(' ', 0, open_bracket_pos)
+
+            # Extraire le nom du programme en utilisant les positions trouvées
+            program = self.text[space_pos + 1:open_bracket_pos].strip()
+
+            # Vérifier si le nom du programme est constitué uniquement de caractères alphanumériques et de soulignements
+            if program.isalnum() or '_' in program:
+                return program
+            else:
+                return "Unknown"
+        except ValueError:
+            return "Unknown"
+
 
 
 
