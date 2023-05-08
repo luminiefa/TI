@@ -13,25 +13,19 @@ from log import Log
 def load_log_from_file(path):
     try:
         with open(path, 'r') as file:
-            logs = [Log(line.strip(), path) for line in file]
-            return '\n'.join(str(log) for log in logs)
+            return file.readlines()
     except FileNotFoundError:
-        return "Le chemin du fichier n'existe pas"
+        print("Le chemin du fichier n'existe pas")
     except Exception as e:
-        return "Une erreur s'est produite: {}".format(e)
+        print("Une erreur s'est produite: {}".format(e))
 
 
 def load_logs_from_folder(folder_path):
     logs = []
 
+    # remplacer le listdir par scandir cfr. les slides de théorie
     try:
-        for filename in os.listdir(folder_path):
-            file_path = os.path.join(folder_path, filename)
-            if os.path.isfile(file_path):
-                file_logs = load_log_from_file(file_path)
-                if file_logs is not None:
-                    logs += file_logs.split('\n')
-        return logs
+        pass # à remplacer par le code du scandir
     except FileNotFoundError:
         abs_path = os.path.abspath(folder_path)
         print("Le chemin du dossier n'existe pas")
@@ -40,6 +34,7 @@ def load_logs_from_folder(folder_path):
     except Exception as e:
         print("Une erreur s'est produite:", e)
         return None
+        
 
 
 def get_folders_and_subfolders(folder_path):
@@ -52,7 +47,7 @@ def get_folders_and_subfolders(folder_path):
         return None
 
     try:
-        for root, dirs, files in os.walk(folder_path):
+        for root, dirs, files in os.walk(folder_path): # n'emploie pas os.walk, reste dans le répertoire courant
             for d in dirs:
                 relative_path = os.path.join(root, d)
                 folder_list.append(os.path.relpath(relative_path, start=os.path.abspath(os.curdir)))
