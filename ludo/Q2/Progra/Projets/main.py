@@ -12,7 +12,7 @@ def load_log_from_file(path):
     Charge les logs contenus dans le fichier situé au chemin `path` et retourne une liste de lignes.
 
     Args:
-        path (str): Le chemin absolu ou relatif du fichier.
+        path (str): Le chemin relatif du fichier.
 
     Returns:
         list: Une liste de chaînes de caractères, chaque chaîne correspondant à une ligne de logs.
@@ -39,7 +39,7 @@ def load_logs_from_folder(folder_path):
     et ses sous-dossiers, et retourne une liste de lignes.
 
     Args:
-        folder_path (str): Le chemin absolu ou relatif du dossier.
+        folder_path (str): Le chemin relatif du dossier.
 
     Returns:
         list: Une liste de chaînes de caractères, chaque chaîne correspondant à une ligne de logs.
