@@ -35,6 +35,12 @@ class LogManager:
     def add_logs(self, logs):
         """
         Ajoute des logs à la liste de logs existante.
+
+        Args:
+            logs (list[Log]): Une liste d'instances de la classe Log.
+
+        Returns:
+            None
         """
         new_logs = self.sort_by_program(logs)
         for program, log_list in new_logs.items():
@@ -70,6 +76,6 @@ class LogManager:
                 # Supprimez les espaces et les sauts de ligne avant et après
                 log_str = str(log).strip()
                 if log_str:  # Vérifiez si la chaîne n'est pas vide
-                    output.append(log_str)
+                    output.append(log_str) 
         output.append("TOTAL LOGS: " + str(self.nbr_logs))
         return "\n".join(output)
