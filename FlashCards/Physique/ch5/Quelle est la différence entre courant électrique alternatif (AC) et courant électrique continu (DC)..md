@@ -1,0 +1,1 @@
+Le courant alternatif (AC) est un type de courant électrique où la direction du courant change périodiquement. Le courant continu (DC), en revanche, a un sens de courant constant.

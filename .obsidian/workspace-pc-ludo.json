@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19a0cabbd572ae07",
+            "id": "0891e95387232817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Modulation QAM, combinaison ASK & PSK. Exemple d'application QAM..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d81578d4347b93b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/Expliquez le processus pour surveiller les connexions users (ouvertures et fermetures de session) à l'aide de l'Observateur d'événements dans W..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b177144e54671af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/Comment modifier le profil par défaut sous W pour que les paramètres d'un prog, par ex Firefox, soient appliqués à tous les nouveaux utilisateurs qui se connectent au pc ..md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,25 +34,12 @@
             }
           },
           {
-            "id": "1ea27ed6fc9723be",
+            "id": "985fdfff7bf40b70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/pouvez-vous utiliser l'Éditeur de registre pour modif le screen par défaut de tous les users sous W. Quelle est la clé de registre associée à cette modification..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29e32761262f2394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/Décrivez les étapes pour activer auto la touche Num Lock au démarrage de W à l'aide de l'Éditeur de registre..md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -256,7 +217,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -331,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Modulation QAM, combinaison ASK & PSK. Exemple d'application QAM..md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -348,7 +310,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Modulation QAM, combinaison ASK & PSK. Exemple d'application QAM..md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -371,7 +333,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Modulation QAM, combinaison ASK & PSK. Exemple d'application QAM..md"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md"
               }
             }
           }
@@ -380,7 +342,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -395,46 +357,44 @@
       "note-synchronizer:Synchronize": false
     }
   },
-  "active": "19a0cabbd572ae07",
+  "active": "985fdfff7bf40b70",
   "lastOpenFiles": [
-    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Fonctionnement & applications modulation PSK. Avantages & inconvénients vs autres modulations numériques.md",
-    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Diff. modulation numérique & analogique. Prq numérique + courante ds syst. comm. modernes..md",
-    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Modulation QAM, combinaison ASK & PSK. Exemple d'application QAM..md",
-    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Descr. modulation FSK, avantages & inconvénients. Types de systèmes de communication utilisant FSK couramment..md",
-    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Cmt mesurer perf. modulations numériques. Prq le taux d'erreur binaire (BER). Prq important pr évaluer systèmes de communication..md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts-DESKTOP-62P46AN.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Laboratoire des sciences appliquées à l'informatique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, ex.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Intro aux BD/intro aux BD, théorie.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
-    "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, labo.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Programmation/Programmation, théorie.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, pratique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Réseaux d'infrastructure/Réseaux d'infrastructure, concepts.md",
-    "FlashCards/systm.Exploit, labo/Audits/Comment activer l'audit d'accès aux répertoires et fichiers dans Windows. Expliquez comment définir les permissions d'audit pour un répertoire ou un fichier spécifique..md",
-    "FlashCards/Physique/ch7/Quels sont les défis et les limitations actuels de la cryptographie quantique..md",
-    "FlashCards/Physique/ch5/compléments",
-    "FlashCards/Physique/Chapitre 9_Notions de développement durable",
-    "FlashCards/Physique/Chapitre 8_Matériaux et fabrication assistée par ordinateur",
-    "FlashCards/Physique/ch7",
-    "FlashCards/Physique/ch6",
-    "FlashCards/Physique/ch5",
-    "FlashCards/Physique/ch4",
-    "FlashCards/Physique/ch3",
-    "FlashCards/Physique/ch2 Notions d'optique géométrique",
-    "FlashCards/intro aux BD/chapitre3",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415102827.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415101524.png",
+    "FlashCards/Architecture des ordinateurs, concepts/Composants de la carte mère/Quels sont les principaux facteurs qui influencent la consommation d'énergie d'un processeur..md",
+    "FlashCards/Architecture des ordinateurs, concepts/Composants de la carte mère/Quelle est la différence entre northbridge et southbridge sur une carte mère..md",
+    "FlashCards/Architecture des ordinateurs, concepts/Composants de la carte mère/Qu'est-ce que la technologie CMOS et comment est-elle utilisée dans les composants de la carte mère..md",
+    "FlashCards/Architecture des ordinateurs, concepts/Composants de la carte mère/Qu'est-ce qu'un PCH et comment a-t-il remplacé les chipsets northbridge et southbridge..md",
+    "FlashCards/Architecture des ordinateurs, concepts/Composants de la carte mère/Nommez quelques formats courants de cartes mères et leurs tailles..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch7/Quel est le rôle du microcode dans l'abstraction de l'ISA..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch7/Qu'est-ce que l'Instruction Set Architecture (ISA) et pourquoi est-elle importante..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch7/Expliquez la différence entre RISC et CISC..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch7/Comment les améliorations du Pentium ont-elles été réalisées tout en conservant la compatibilité avec les versions précédentes..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch7/Comment le concept de RISC a-t-il évolué pour conserver les avantages de l'ISA tout en se libérant du microcode..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch5/Quels sont les trois types de cache mapping et comment se comparent-ils..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch5/Quelles sont les deux politiques d'écriture en cache et comment fonctionnent-elles..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch5/Qu'est-ce que la localité temporelle et pourquoi est-elle importante en informatique..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch5/Qu'est-ce que la localité spatiale et comment affecte-t-elle les performances..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch5/Comment se déroule le remplissage d'un bloc de cache lors d'un cache miss..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch6/Quelle est la différence entre le pipeline et le parallélisme au niveau de l'instruction..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch6/Qu'est-ce que la prédiction de branchement et pourquoi est-elle nécessaire..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch6/Qu'est-ce que l'architecture superscalaire et pourquoi est-elle utilisée..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch6/Expliquez le problème de dépendance de données et comment il peut être résolu..md",
+    "FlashCards/Architecture des ordinateurs, concepts/ch6/Décrivez la technique d'exécution spéculative et ses avantages..md",
+    "FlashCards/Architecture des ordinateurs, concepts/Composants de la carte mère",
+    "FlashCards/Architecture des ordinateurs, concepts/ch7",
+    "FlashCards/Architecture des ordinateurs, concepts/ch5",
+    "FlashCards/Architecture des ordinateurs, concepts/ch6",
+    "FlashCards/Architecture des ordinateurs, concepts",
+    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Qu'est-ce que la modulation QAM (Quadrature Amplitude Modulation) et comment elle combine les principes de l'ASK et du PSK. Donnez un exemple d'application de la modulation QAM..md",
+    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Expliquez le fonctionnement et les applications de la modulation PSK (Phase Shift Keying). Quels sont ses avantages et ses inconvénients par rapport à d'autres types de modulations numériques..md",
+    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Quelle est la différence entre la modulation numérique et la modulation analogique. Pourquoi la modulation numérique est-elle plus couramment utilisée dans les systèmes de communication modernes..md",
+    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Décrivez la modulation FSK (Frequency Shift Keying) et ses avantages et inconvénients. Dans quels types de systèmes de communication la modulation FSK est-elle couramment utilisée..md",
+    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Comment la performance des modulations numériques est-elle mesurée. Qu'est-ce que le taux d'erreur binaire (BER) et pourquoi est-il important dans l'évaluation des performances d'un système de communication..md",
+    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques",
+    "FlashCards/Télécom/Chapitre 5 - Les récepteurs et émetteurs/Quels sont les principaux types de modulations utilisées dans les émetteurs et récepteurs modernes..md",
+    "FlashCards/Télécom/Chapitre 5 - Les récepteurs et émetteurs",
+    "FlashCards/Télécom/Chapitre 3 - Les ondes électromagnétiques",
+    "FlashCards/Télécom/Chapitre 2 - Les lignes de transmission",
+    "FlashCards/Télécom/Chapitre 1 - Transmission de l'information",
     "présentation détaillées sur les cours.canvas",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132128.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230420212214.png",
@@ -444,6 +404,8 @@
     "presentation graphique du github.canvas",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132115.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132103.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132039.png"
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132039.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132011.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501131950.png"
   ]
 }
