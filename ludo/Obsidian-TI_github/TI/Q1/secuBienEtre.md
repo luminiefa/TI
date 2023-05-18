@@ -56,7 +56,12 @@ Donc, qui est le premier responsable de votre sécurité et/ou bien-être ?
 Nous-mêmes
 15. Questions sur la dia 13 : a. Quel organe n’est composé que de conseillers en préventions ?
 SIPP
-![image](https://github.com/luminiefa/TI/assets/19058019/2057e9d6-881c-4713-b7e2-21bec5d39bcc)
+
+<p align="center">
+  <img src="![image](https://github.com/luminiefa/TI/assets/19058019/2057e9d6-881c-4713-b7e2-21bec5d39bcc)">
+</p>
+
+
 b. Comment devient-on un conseiller en prévention ?
 Par suite d’une formation. Ensuite être choisit pas un accord entre la DE et la DP
 c. Existe-t-il différents niveaux de formation des conseillers en prévention ? Si oui, lesquels ?
