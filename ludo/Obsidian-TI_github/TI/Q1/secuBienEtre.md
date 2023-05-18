@@ -36,6 +36,7 @@ L’ensemble des travailleurs dans l’UE (étudiants, stagiaires, bénévoles, 
 6) L’information et la formation des travailleurs.
 7) Consultation et collaboration avec les travailleurs et/ou leur représentation.
 11. Quels sont les 7 domaines du bien-être ?
+
  ```markdown
 Voici un paragraphe de texte et une image :
 <p align="center">
