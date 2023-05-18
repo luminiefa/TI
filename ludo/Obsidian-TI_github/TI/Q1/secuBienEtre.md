@@ -36,9 +36,9 @@ L’ensemble des travailleurs dans l’UE (étudiants, stagiaires, bénévoles, 
 6) L’information et la formation des travailleurs.
 7) Consultation et collaboration avec les travailleurs et/ou leur représentation.
 11. Quels sont les 7 domaines du bien-être ?
-<p align="center">
-  <img src="https://github.com/luminiefa/TI/assets/19058019/8989d30f-0958-4efc-99a1-f48610325588">
-</p>
+  <p align="center">
+    <img src="https://github.com/luminiefa/TI/assets/19058019/8989d30f-0958-4efc-99a1-f48610325588">
+  </p>
 12. Lequel d’entre eux a changé de dénomination en 2014 ?
 La charge psychosociale est devenue le risque psychosocial
 13. Rechercher tous (au moins 6) les sous-domaines repris dans le cadre du risque psychosocial ?
