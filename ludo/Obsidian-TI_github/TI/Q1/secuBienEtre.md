@@ -39,6 +39,7 @@ L’ensemble des travailleurs dans l’UE (étudiants, stagiaires, bénévoles, 
 <div style="text-align: center;">
   <img src="https://github.com/luminiefa/TI/assets/19058019/8989d30f-0958-4efc-99a1-f48610325588" style="display: inline-block;">
 </div>
+
 12. Lequel d’entre eux a changé de dénomination en 2014 ?
 La charge psychosociale est devenue le risque psychosocial
 13. Rechercher tous (au moins 6) les sous-domaines repris dans le cadre du risque psychosocial ?
