@@ -58,7 +58,7 @@ Nous-mêmes
 SIPP
 
 <p align="center">
-  <img src="![image](https://github.com/luminiefa/TI/assets/19058019/2057e9d6-881c-4713-b7e2-21bec5d39bcc)">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/2057e9d6-881c-4713-b7e2-21bec5d39bcc">
 </p>
 
 
