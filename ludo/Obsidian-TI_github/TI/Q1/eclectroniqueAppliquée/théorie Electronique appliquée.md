@@ -255,3 +255,25 @@ Utiliser plusieurs LED différentes
 LED bleue + matériau phosphorescent
 ![[Pasted image 20230418210330.png]]
 ![[Pasted image 20230418210334.png]]
+
+
+
+# Synthèse
+## Loi d’ohm INTRODUCTION
+![image](https://github.com/luminiefa/TI/assets/19058019/29469102-76b7-4aa8-9baf-6fda30731eed)
+## Rappel électricité :
+![image](https://github.com/luminiefa/TI/assets/19058019/7ed116ae-1ccd-43c0-ae7c-6b4da3ad7186)
+![image](https://github.com/luminiefa/TI/assets/19058019/9ad2d836-7dfa-4a22-a78b-7e6c5a99c71d)
+## Loi de Pouillet :
+![image](https://github.com/luminiefa/TI/assets/19058019/35542fe2-18e8-4985-9b0d-7682d1ad603a)
+## Montage en série :
+![image](https://github.com/luminiefa/TI/assets/19058019/ebe028a7-ce02-4f59-85cb-e536275f33fe)
+## Montage en parallèle :
+![image](https://github.com/luminiefa/TI/assets/19058019/4994fdec-9864-40c9-8cd6-4dde23968216)
+## Théorème de millman
+![image](https://github.com/luminiefa/TI/assets/19058019/3bcd1686-87fe-467f-aaa7-b66944c09c26)
+![image](https://github.com/luminiefa/TI/assets/19058019/76a68ca1-a8e9-4baf-abc0-63c29add8c39)
+## Potentiomètre :
+![image](https://github.com/luminiefa/TI/assets/19058019/25045219-7af2-414e-b188-ebde0b29891b)
+## LOI des nœuds (Kirchhoff)
+![image](https://github.com/luminiefa/TI/assets/19058019/6325eac6-8992-42a9-b534-c17a484007ff)
