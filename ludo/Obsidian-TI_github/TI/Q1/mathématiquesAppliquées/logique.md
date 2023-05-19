@@ -91,7 +91,10 @@ le masque est 255.255.255.252 ?
 2) Quel est le masque pour mettre ces deux adresses dans deux sous-réseau voisin ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/da6b513f-ddd9-47f6-968f-971e832c9ecf)
 ### Voyez-vous des erreurs possibles dans les situations suivantes ?
-![image](https://github.com/luminiefa/TI/assets/19058019/de92cb49-2361-4abe-89a2-fc2f0fb4d4dd)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/de92cb49-2361-4abe-89a2-fc2f0fb4d4dd" style="display: inline-block;">
+</div>
+
 ### Voyez-vous des erreurs possibles dans les situations suivantes, en supposant que le masque est toujours
 bon ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/65c51f84-4fd3-4a78-9bb7-2cc9faefb50d)
@@ -160,7 +163,10 @@ deux autres, si D a été commandé par un interrupteur et éteint au moyen d’
 moins un des trois PC est infecté et si le PC1 est infecté, le PC3 l’est aussi. Quant au PC2 et au PC3, soit ils
 sont tous les deux infectés, soit ils ne le sont pas du tout. Enfin, si le PC3 est infecté, le PC1 ne l’est pas. »
 Sur la base de cette analyse, quel est ou quels sont le(s) PC infecté(s) ?
-![image](https://github.com/luminiefa/TI/assets/19058019/1030ace5-a7b3-4b22-adfe-79a45d48224c)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/1030ace5-a7b3-4b22-adfe-79a45d48224c" style="display: inline-block;">
+</div>
+
 ### Vrai ou faux : « Le logiciel ne s’ouvre pas si l’activation du code est incorrecte » implique que « Le logiciel
 s’ouvre si l’activation du code est correcte » ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/3cddfad1-4992-47e9-bf38-082b893f589b)
@@ -221,13 +227,22 @@ Parallèle-série -> Multiplexeur
 ![image](https://github.com/luminiefa/TI/assets/19058019/0945be7c-cb51-4ad5-bfe0-bf37eb6f3110)
 ### Le signal numérique d'un mot de 8 bits vérifié selon le code de Hamming enregistré par un récepteur ci-
 dessous présente-t-il une ou plusieurs erreurs ?
-![image](https://github.com/luminiefa/TI/assets/19058019/3d4e1024-bd23-4076-9350-a5b2dd7a2128)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/3d4e1024-bd23-4076-9350-a5b2dd7a2128" style="display: inline-block;">
+</div>
+
 ### Le signal numérique d'un mot de 8 bits vérifié selon le code de Hamming enregistré par un récepteur ci-
 dessous présente-t-il une ou plusieurs erreurs ?
-![image](https://github.com/luminiefa/TI/assets/19058019/e581533a-e50a-468f-bb98-3d015d9dafe5)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/e581533a-e50a-468f-bb98-3d015d9dafe5" style="display: inline-block;">
+</div>
+
 ### Le signal numérique d'un mot de 8 bits vérifié selon le code de Hamming enregistré par un récepteur ci-
 dessous présente-t-il une ou plusieurs erreurs ?
-![image](https://github.com/luminiefa/TI/assets/19058019/e58b4726-58b1-4001-a643-4989eda6dea1)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/e58b4726-58b1-4001-a643-4989eda6dea1" style="display: inline-block;">
+</div>
+
 ### Dans la construction du code de Hamming, combien de bits correcteurs faut-il pour contrôler un térabit
 et combien de bits correcteurs vérifient le 280ème bit du térabit transmis ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/9f35d106-d3ff-47a5-8bc1-036e36770753)
