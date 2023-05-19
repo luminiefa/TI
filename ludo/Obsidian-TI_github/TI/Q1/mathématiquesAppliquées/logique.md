@@ -123,7 +123,10 @@ le masque est 255.255.255.252 ?
 
 ### Voyez-vous des erreurs possibles dans les situations suivantes, en supposant que le masque est toujours
 bon ?
-![image](https://github.com/luminiefa/TI/assets/19058019/65c51f84-4fd3-4a78-9bb7-2cc9faefb50d)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/65c51f84-4fd3-4a78-9bb7-2cc9faefb50d" style="display: inline-block;">
+</div>
+
 # Code Gray
 ![image](https://github.com/luminiefa/TI/assets/19058019/cd1d8f0c-fecb-485e-85c2-665a5d560f54)
 # Bit de parité
