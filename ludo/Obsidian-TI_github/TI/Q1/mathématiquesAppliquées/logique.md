@@ -68,13 +68,22 @@ est 255.255.255.240 ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/ba851fb2-ca17-4395-a64f-9d15bb3c8911)
 Quelle est l’adresse du client n°5 du sous-réseau n°10 sous le réseau 205.54.75.X sachant que chaque
 sous-réseau comporte exactement 15 personnes ? 2^5 = 32
-![image](https://github.com/luminiefa/TI/assets/19058019/24a88fbf-bef9-4719-92c0-4d63ae3eb1a4)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/24a88fbf-bef9-4719-92c0-4d63ae3eb1a4" style="display: inline-block;">
+</div>
+
 ### Quelle est l’adresse du client n°5 du sous-réseau n°8 sous le réseau 200.199.50.X sachant que l’on
 souhaite avoir 10 sous-réseau ? 2^4 = 16
-![image](https://github.com/luminiefa/TI/assets/19058019/6962cd08-d5d4-4ffc-8cf5-801c00c56096)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/6962cd08-d5d4-4ffc-8cf5-801c00c56096" style="display: inline-block;">
+</div>
+
 ### Quelle est l’adresse du client n°10 du sous-réseau n°64 sous le réseau 135.54.X.X sachant que chaque
 sous-réseaux comporte 50 personnes, et qu’il est souhaité un maximum de sous-réseaux ? 2^6 = 64
-![image](https://github.com/luminiefa/TI/assets/19058019/9a4e06bb-be39-4363-89d6-85fa2030da2d)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/9a4e06bb-be39-4363-89d6-85fa2030da2d" style="display: inline-block;">
+</div>
+
 ### Quel est le 4ème octet de l’adresse du sous-réseau qui a un client dont l’adresse est 220.13.78.212 et dont
 le masque est 255.255.255.248 ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/2dc80ee6-21ca-4e2f-9618-11dc0f54eb02)
