@@ -42,16 +42,28 @@ dont le masque est 255.255.192.0 ?
 
 ### Quelle est l’adresse du sous-réseau qui a un client dont l’adresse est 200.145.90.170 et dont le masque
 est 255.255.255.240 ?
-![image](https://github.com/luminiefa/TI/assets/19058019/b3b0ba4d-cfd7-4553-b3a1-f04fbcca6246)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/b3b0ba4d-cfd7-4553-b3a1-f04fbcca6246" style="display: inline-block;">
+</div>
+
 ### Quelle est le masque d’un réseau de classe A qui doit être divisé en un maximum de sous-réseaux de
 60.000 à 65.000 personnes ? 2^16 = 65.536
-![image](https://github.com/luminiefa/TI/assets/19058019/16441944-2385-46b6-a010-a14be3b03b9c)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/16441944-2385-46b6-a010-a14be3b03b9c" style="display: inline-block;">
+</div>
+
 ### Quelle est l’adresse du client n°150 du sous-réseau n°63 sous le réseau 135.54.X.X sachant que chaque
 sous-réseau comporte exactement 255 personnes ? 2^9 = 512
-![image](https://github.com/luminiefa/TI/assets/19058019/0840619c-2c3a-4acf-b3bf-b5fe1fd8471c)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/0840619c-2c3a-4acf-b3bf-b5fe1fd8471c" style="display: inline-block;">
+</div>
+
 ### Quelle est l’adresse du sous-réseau qui a un client dont l’adresse est 200.145.90.175 et dont le masque
 est 255.255.255.240 ?
-![image](https://github.com/luminiefa/TI/assets/19058019/180d5265-0948-46d8-b1c6-d5bda39162d4)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/180d5265-0948-46d8-b1c6-d5bda39162d4" style="display: inline-block;">
+</div>
+
 ### Quelle est l’adresse du client n°10 du sous-réseau n°6 d’un réseau de classe C à l’adresse 200.200.200.X ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/ba851fb2-ca17-4395-a64f-9d15bb3c8911)
 Quelle est l’adresse du client n°5 du sous-réseau n°10 sous le réseau 205.54.75.X sachant que chaque
