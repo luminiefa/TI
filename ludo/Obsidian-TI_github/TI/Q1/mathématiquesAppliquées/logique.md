@@ -248,7 +248,10 @@ dessous présente-t-il une ou plusieurs erreurs ?
 
 ### Dans la construction du code de Hamming, combien de bits correcteurs faut-il pour contrôler un térabit
 et combien de bits correcteurs vérifient le 280ème bit du térabit transmis ?
-![image](https://github.com/luminiefa/TI/assets/19058019/9f35d106-d3ff-47a5-8bc1-036e36770753)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/9f35d106-d3ff-47a5-8bc1-036e36770753" style="display: inline-block;">
+</div>
+
 ### Exprimer le nombre décimal +25 et -25 en binaire signé, C1 et C2 !
 ![image](https://github.com/luminiefa/TI/assets/19058019/8b9f05b3-8d56-46c8-b429-b92ab028f15b)
 ### Exprimer le nombre suivant en virgule flottante !
