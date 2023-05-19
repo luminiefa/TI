@@ -65,7 +65,10 @@ est 255.255.255.240 ?
 </div>
 
 ### Quelle est l’adresse du client n°10 du sous-réseau n°6 d’un réseau de classe C à l’adresse 200.200.200.X ?
-![image](https://github.com/luminiefa/TI/assets/19058019/ba851fb2-ca17-4395-a64f-9d15bb3c8911)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/ba851fb2-ca17-4395-a64f-9d15bb3c8911" style="display: inline-block;">
+</div>
+
 Quelle est l’adresse du client n°5 du sous-réseau n°10 sous le réseau 205.54.75.X sachant que chaque
 sous-réseau comporte exactement 15 personnes ? 2^5 = 32
 <div style="text-align: center;">
