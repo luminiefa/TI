@@ -36,7 +36,10 @@
 ![image](https://github.com/luminiefa/TI/assets/19058019/d8977817-ab0e-4630-a113-ce3543ef7226)
 ### Quelle est l’adresse de broadcast du sous-réseau dont l’adresse d’un de ses clients est 146.123.76.80 et
 dont le masque est 255.255.192.0 ?
-![image](https://github.com/luminiefa/TI/assets/19058019/88117dc8-0b6a-43eb-87b6-9ac1dbaa1006)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/88117dc8-0b6a-43eb-87b6-9ac1dbaa1006" style="display: inline-block;">
+</div>
+
 ### Quelle est l’adresse du sous-réseau qui a un client dont l’adresse est 200.145.90.170 et dont le masque
 est 255.255.255.240 ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/b3b0ba4d-cfd7-4553-b3a1-f04fbcca6246)
