@@ -169,7 +169,10 @@ Sur la base de cette analyse, quel est ou quels sont le(s) PC infecté(s) ?
 
 ### Vrai ou faux : « Le logiciel ne s’ouvre pas si l’activation du code est incorrecte » implique que « Le logiciel
 s’ouvre si l’activation du code est correcte » ?
-![image](https://github.com/luminiefa/TI/assets/19058019/3cddfad1-4992-47e9-bf38-082b893f589b)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/3cddfad1-4992-47e9-bf38-082b893f589b" style="display: inline-block;">
+</div>
+
 ## Codeur décimal
 ![image](https://github.com/luminiefa/TI/assets/19058019/ebc05578-bbb0-4724-8fb2-ee973bfb7239)
 ## Demi-additionneur
