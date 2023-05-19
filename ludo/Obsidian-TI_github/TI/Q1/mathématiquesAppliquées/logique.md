@@ -86,19 +86,33 @@ sous-réseaux comporte 50 personnes, et qu’il est souhaité un maximum de sous
 
 ### Quel est le 4ème octet de l’adresse du sous-réseau qui a un client dont l’adresse est 220.13.78.212 et dont
 le masque est 255.255.255.248 ?
-![image](https://github.com/luminiefa/TI/assets/19058019/2dc80ee6-21ca-4e2f-9618-11dc0f54eb02)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/2dc80ee6-21ca-4e2f-9618-11dc0f54eb02" style="display: inline-block;">
+</div>
+
 ### Quel est le 4ème octet du masque qui permet de mettre le client dont l’adresse est 200.145.90.156 et un
 autre dont l’adresse est 200.145.90.166 dans deux sous-réseaux à la fois voisin et les plus petits
 possible ?
-![image](https://github.com/luminiefa/TI/assets/19058019/e381d3eb-12c8-4806-a0ad-54b4fc2954b6)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/e381d3eb-12c8-4806-a0ad-54b4fc2954b6" style="display: inline-block;">
+</div>
+
 ### Quel est le 4ème octet de l’adresse du client n°10 du sous-réseau n°6 sous le réseau 200.145.90.X et dont
 le masque est 255.255.255.252 ?
-![image](https://github.com/luminiefa/TI/assets/19058019/540199bf-28b0-464c-a954-4bf9eb7b2d97)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/540199bf-28b0-464c-a954-4bf9eb7b2d97" style="display: inline-block;">
+</div>
+
 ### Soit les deux adresses suivantes 198.60.70.175 et 198.60.70.190 :
 1) Quel est le masque pour mettre ces deux adresses dans le même plus petit sous-réseau ?
- ![image](https://github.com/luminiefa/TI/assets/19058019/56a94808-be1c-4bfc-9a6c-e0aaaad6e48c)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/56a94808-be1c-4bfc-9a6c-e0aaaad6e48c" style="display: inline-block;">
+</div>
 2) Quel est le masque pour mettre ces deux adresses dans deux sous-réseau voisin ?
-![image](https://github.com/luminiefa/TI/assets/19058019/da6b513f-ddd9-47f6-968f-971e832c9ecf)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/da6b513f-ddd9-47f6-968f-971e832c9ecf" style="display: inline-block;">
+</div>
+
 ### Voyez-vous des erreurs possibles dans les situations suivantes ?
 <div style="text-align: center;">
   <img src="https://github.com/luminiefa/TI/assets/19058019/de92cb49-2361-4abe-89a2-fc2f0fb4d4dd" style="display: inline-block;">
