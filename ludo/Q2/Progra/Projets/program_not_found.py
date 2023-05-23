@@ -1,8 +1,8 @@
-import os
 """
 This module contains the ProgramNotFound class, which is a custom exception raised when a program
 is not found in the list of available logs.
 """
+import os
 class ProgramNotFound(Exception):
     """
     Exception levée lorsqu'un programme n'est pas trouvé dans la liste des logs.
@@ -37,5 +37,7 @@ class ProgramNotFound(Exception):
             Programme2
             Programme3
         """
-        return f"Impossible de trouver le programme {self.searched_program} dans la liste :{os.linesep}{os.linesep.join(self.available_programs)}"
-
+        return (
+            f"Impossible de trouver le programme {self.searched_program} dans la liste :"
+            f"{os.linesep}{os.linesep.join(self.available_programs)}"
+        )

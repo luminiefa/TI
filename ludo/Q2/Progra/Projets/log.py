@@ -23,12 +23,12 @@ class Log:
         """
         try:
             # Diviser la ligne de log en utilisant l'espace comme séparateur
-            split_result = self.text.split()  # split_result = ['Oct', '25', '02:34:27', 'kali', 'systemd[1]:', 'logrotate.service:', 'Succeeded.']
-
+            split_result = self.text.split()
+            # ['Oct', '25', '02:34:27', 'kali', 'systemd[1]:', 'logrotate.service:', 'Succeeded.']
             # Parcourir les éléments de la liste pour trouver le premier élément contenant '['
             for element in split_result:
                 if '[' in element:
-                    # Extraire le nom du programme en supprimant les caractères non alphanumériques et les chiffres
+                    # Extraire le nom du prog en supp les caract non alphanumériques et les chiffres
                     program = ''.join(characters for characters in element if characters.isalpha())
                     return program
 
@@ -37,11 +37,6 @@ class Log:
 
         except ValueError:
             return "Unknown"
-
-
-
-
-
 
     def __str__(self):
         """

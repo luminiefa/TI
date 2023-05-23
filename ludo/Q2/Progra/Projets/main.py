@@ -132,7 +132,7 @@ def menu(available_choices):
     et retourne le numéro de choix sélectionné.
 
     Args:
-        available_choices (dict): Un dictionnaire contenant les choix disponibles pour l'utilisateur.
+        available_choices (dict): Un dictionnaire contenant les choix disponibles pour l'utilisateur
 
     Returns:
         int: Le numéro du choix sélectionné.
