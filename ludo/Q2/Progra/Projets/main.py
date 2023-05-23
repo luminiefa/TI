@@ -83,7 +83,6 @@ def get_folders_and_subfolders(folder_path):
         None.
 
     """
-
     folder_list = []
     abs_path = os.path.abspath(folder_path)
 
@@ -133,17 +132,16 @@ def menu(available_choices):
     et retourne le numéro de choix sélectionné.
 
     Args:
-        available_choices (dict): Un dictionnaire contenant
-        les choix disponibles pour l'utilisateur.
+        available_choices (dict): Un dictionnaire contenant les choix disponibles pour l'utilisateur.
 
     Returns:
         int: Le numéro du choix sélectionné.
 
     Raises:
         None.
-
     """
-    while True:
+    is_choice_valid = False
+    while not is_choice_valid:
         for key, value in available_choices.items():
             print(f"{key}: {value}")
         user_choice = input("Entrez le numéro de votre choix: ")
@@ -167,11 +165,11 @@ def main():
 
     Raises:
         None.
-
     """
     log_manager = LogManager()
+    should_continue = True
 
-    while True:
+    while should_continue:
         choice = menu({
             1: "Affiche les logs d'un programme",
             2: (
@@ -200,7 +198,7 @@ def main():
             print("test")
         elif choice == 9:
             print("Au revoir !")
-            break
+            should_continue = False
 
 
 if __name__ == "__main__":
