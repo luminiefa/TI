@@ -93,10 +93,14 @@ def get_folders_and_subfolders(folder_path):
 
     try:
         with os.scandir(folder_path) as entries:
+            # Itère sur chaque entrée du répertoire.
             for entry in entries:
+                # Vérifie si l'entrée est un sous-répertoire avec `entry.is_dir()`.
                 if entry.is_dir():
+                    # Si c'est un sous-répertoire, détermine son chemin relatif par rapport au répertoire de travail actuel avec `os.path.relpath()`.
                     relative_path = os.path.relpath(entry.path, start=os.path.abspath(os.curdir))
                     folder_list.append(relative_path)
+        # Retourne une liste qui contient le chemin du répertoire initial plus les chemins relatifs de tous les sous-répertoires.
         return [folder_path] + folder_list
     except Exception as error:
         print("Une error s'est produite:", error)
