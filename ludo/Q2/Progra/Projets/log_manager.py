@@ -76,6 +76,6 @@ class LogManager:
                 # Supprimez les espaces et les sauts de ligne avant et après
                 log_str = str(log).strip()
                 if log_str:  # Vérifiez si la chaîne n'est pas vide
-                    output.append(log_str) 
+                    output.append(log_str)
         output.append("TOTAL LOGS: " + str(self.nbr_logs))
         return "\n".join(output)
