@@ -22,24 +22,25 @@ class Log:
         :return: str - Le nom du programme ou "Unknown" si le nom n'a pas pu être extrait
         """
         try:
-            # Diviser la ligne de log en mots
-            words = self.text.split()
+            # Diviser la ligne de log en utilisant l'espace comme séparateur
+            split_result = self.text.split()  # split_result = ['Oct', '25', '02:34:27', 'kali', 'systemd[1]:', 'logrotate.service:', 'Succeeded.']
 
-            # Chercher le premier mot qui se termine par un crochet ouvrant '['
-            for word in words:
-                if word.endswith('['):
-                    # Enlever le crochet ouvrant de la fin du mot
-                    program = word.rstrip('[')
+            # Parcourir les éléments de la liste pour trouver le premier élément contenant '['
+            for element in split_result:
+                if '[' in element:
+                    # Extraire le nom du programme en supprimant les caractères non alphanumériques et les chiffres
+                    program = ''.join(characters for characters in element if characters.isalpha())
+                    return program
 
-                    # Vérifier si le nom du programme est constitué
-                    # uniquement de caractères alphanumériques et de soulignements
-                    if program.isalnum() or '_' in program:
-                        return program
-
-            # Si aucun nom de programme n'a pu être extrait, retourner "Unknown"
+            # Si aucun nom de programme n'a été trouvé, retourner "Unknown"
             return "Unknown"
+
         except ValueError:
             return "Unknown"
+
+
+
+
 
 
     def __str__(self):
