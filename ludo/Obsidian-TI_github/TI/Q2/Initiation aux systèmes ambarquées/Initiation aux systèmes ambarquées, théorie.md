@@ -112,14 +112,20 @@ est branchée à la borne positive, la tension entre la cathode et la borne nég
 (b) 127,3 V
 (c) 141 V
 (d) 0 V
-![image](https://github.com/luminiefa/TI/assets/19058019/4076e378-c00c-4705-8859-8942242bd0c3)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/4076e378-c00c-4705-8859-8942242bd0c3" style="display: inline-block;">
+</div>
+
 ## 6. La valeur de crête à l’entrée d’un redresseur une alternance est de 10 V. La valeur de crête à la sortie est
 de:
 (a) 10 V
 (b) 10,7 V
 (c) 9,3 V
 (d) 3,18 V
-![image](https://github.com/luminiefa/TI/assets/19058019/a57d0998-f714-4f01-998b-ceddfd9e2c92)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/a57d0998-f714-4f01-998b-ceddfd9e2c92" style="display: inline-block;">
+</div>
+
 ## 7. Dans un transistor, le courant IC est le plus important, vrai ou faux ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/d102fab9-8143-4b35-ab38-9963bd63af38)
 ## 8. La chute de tension entre la base et le collecteur d’un transistor est toujours égale à 0,7 V quand le
