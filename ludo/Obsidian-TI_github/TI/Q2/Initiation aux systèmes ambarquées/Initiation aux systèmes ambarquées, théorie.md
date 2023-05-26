@@ -31,27 +31,52 @@ claquer.
 • coefficient d’ondulation = tension efficace
 tension moyenne
 • Tableau récapitulatif:
-![image](https://github.com/luminiefa/TI/assets/19058019/7308b395-8bed-4b9f-9a4d-b91c411b4cdf)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/7308b395-8bed-4b9f-9a4d-b91c411b4cdf" style="display: inline-block;">
+</div>
+
 • Pour retenir de quel côté est l’anode:
 Don’t PANIC, Positive is Anode, Negative Is Cathode.
 ## Redressement simple alternance
-![image](https://github.com/luminiefa/TI/assets/19058019/aad24663-edb9-4fcb-94ea-34d2b2113d5b)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/aad24663-edb9-4fcb-94ea-34d2b2113d5b" style="display: inline-block;">
+</div>
+
 ## Redressement double alternance avec condensateur
-![image](https://github.com/luminiefa/TI/assets/19058019/f41b3113-1f66-4fb8-8a81-208a64a3743d)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/f41b3113-1f66-4fb8-8a81-208a64a3743d" style="display: inline-block;">
+</div>
+
 ## Transformateur électrique
-![image](https://github.com/luminiefa/TI/assets/19058019/a619eb69-94fd-41d8-99ad-c2a9477f4034)
+## Redressement double alternance avec condensateur
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/a619eb69-94fd-41d8-99ad-c2a9477f4034" style="display: inline-block;">
+</div>
+
 ## Diode
-![image](https://github.com/luminiefa/TI/assets/19058019/55fa6a47-1f0b-4f2e-9033-009a9739a2b6)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/55fa6a47-1f0b-4f2e-9033-009a9739a2b6" style="display: inline-block;">
+</div>
+
 ## Transistor
-![image](https://github.com/luminiefa/TI/assets/19058019/197a992e-bf2e-4d16-ad9a-f882612b8252)
-![image](https://github.com/luminiefa/TI/assets/19058019/9d0a5234-f3d3-43ce-9f58-8f430ece607e)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/197a992e-bf2e-4d16-ad9a-f882612b8252" style="display: inline-block;">
+</div>
+
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/9d0a5234-f3d3-43ce-9f58-8f430ece607e" style="display: inline-block;">
+</div>
+
 # Examen 2019
 ## 1. Lorqu’elle est en polarisation directe, une diode:
 (a) bloque le courant,
 (b) conduit le courant,
 (c) offre une forte résistance,
 (d) absorbe une forte tension.
-![image](https://github.com/luminiefa/TI/assets/19058019/13090b05-0e0a-4584-83ab-9959e7691b86)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/13090b05-0e0a-4584-83ab-9959e7691b86" style="display: inline-block;">
+</div>
+
 Lorsqu’elle est en polarisation directe, la diode conduit le courant à partir de la tension de seuil (0,7
 V pour le silicium)
 ## 2. Une diode au silicium est en série avec une source de tension de 5 V et une résistance de 100 Ω. Si l’anode
@@ -60,19 +85,28 @@ est branchée à la borne positive, la tension entre la cathode et la borne nég
 (b) 0,3 V
 (c) 5,7 V
 (d) 4,3 V
-![image](https://github.com/luminiefa/TI/assets/19058019/ca195986-915f-43cc-a57a-e34aefdb3799)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/ca195986-915f-43cc-a57a-e34aefdb3799" style="display: inline-block;">
+</div>
+
 ## 3. La polarisation inverse d’une jonction PN est obtenue en:
 (a) appliquant une tension externe positive à l’anode et négative à la cathode,
 (b) appliquant une tension externe positive à la cathode et négative à l’anode,
 (c) appliquant une tension externe positive à la région P et négative à la région N,
 (d) les réponses 3a et 3c.
-![image](https://github.com/luminiefa/TI/assets/19058019/3f0eb4b2-a3fa-4e9c-ad97-6e57522c0eae)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/3f0eb4b2-a3fa-4e9c-ad97-6e57522c0eae" style="display: inline-block;">
+</div>
+
 ## 4. La valeur moyenne d’une tension redressée simple alternance d’une valeur de crête de 200 V est:
 (a) 63,7 V
 (b) 127,3 V
 (c) 141 V
 (d) 0 V
-![image](https://github.com/luminiefa/TI/assets/19058019/38a4496c-0649-490d-bb11-d23fa299bc7d)
+<div style="text-align: center;">
+  <img src="https://github.com/luminiefa/TI/assets/19058019/38a4496c-0649-490d-bb11-d23fa299bc7d" style="display: inline-block;">
+</div>
+
 ## 5. La valeur moyenne d’une tension redressée double alternance d’une valeur de crête de 100 V est:
 (a) 63,7 V
 (b) 127,3 V
