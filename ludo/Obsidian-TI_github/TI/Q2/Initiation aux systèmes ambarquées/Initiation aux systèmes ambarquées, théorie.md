@@ -270,7 +270,7 @@ de valeur crête 55 V à une fréquence de 50 Hz. Si la résistance en charge va
 (b) 112
 (c) 111
 (d) 11,2
-
+![image](https://github.com/luminiefa/TI/assets/19058019/96d75f0a-d2b2-41c5-a990-c1befbc2ae03)
 ## 14. En supposant que VCE (sat) = 0 V, déterminer la valeur du courant IC(sat) pour le schéma suivant.
 (a) 0,43 mA
 (b) 4,3 mA
