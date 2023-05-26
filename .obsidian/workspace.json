@@ -8,77 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19a0cabbd572ae07",
+            "id": "0891e95387232817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d81578d4347b93b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/Expliquez le processus pour surveiller les connexions users (ouvertures et fermetures de session) à l'aide de l'Observateur d'événements dans W..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b177144e54671af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/Comment modifier le profil par défaut sous W pour que les paramètres d'un prog, par ex Firefox, soient appliqués à tous les nouveaux utilisateurs qui se connectent au pc ..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e662b6c55d637f8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/Expliquez le rôle du répertoire _Public_ sous Windows et comment les différents utilisateurs peuvent partager des fichiers en utilisant ce répertoire..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ea27ed6fc9723be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/pouvez-vous utiliser l'Éditeur de registre pour modif le screen par défaut de tous les users sous W. Quelle est la clé de registre associée à cette modification..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29e32761262f2394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, labo/Audits/Décrivez les étapes pour activer auto la touche Num Lock au démarrage de W à l'aide de l'Éditeur de registre..md",
+                "file": "FlashCards/systm.Exploit, concepts/Quels sont les objectifs principaux de l'ordonnancement en informatique..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -245,34 +180,9 @@
             "id": "12c73038c5f100ea",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "présentation détaillées sur les cours.canvas",
-                "viewState": {
-                  "x": 129.51909683363243,
-                  "y": 3938.529707851214,
-                  "zoom": -1.8256629401414928
-                }
-              }
-            }
-          },
-          {
-            "id": "0adbcbd00f738bcc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
-            "id": "743091207d57d8fd",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -280,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -327,7 +237,7 @@
             }
           },
           {
-            "id": "3808f8c228ccd601",
+            "id": "dfbdf627c348c6a0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -339,7 +249,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 654.5,
+    "collapsed": true
   },
   "right": {
     "id": "5d6086e019be0f50",
@@ -355,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -372,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -395,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md"
               }
             }
           }
@@ -404,7 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -419,47 +330,44 @@
       "note-synchronizer:Synchronize": false
     }
   },
-  "active": "743091207d57d8fd",
+  "active": "12c73038c5f100ea",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Q1/Systèmes informatiques.md",
-    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Modulation QAM, combinaison ASK & PSK. Exemple d'application QAM..md",
-    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Fonctionnement & applications modulation PSK. Avantages & inconvénients vs autres modulations numériques.md",
-    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Diff. modulation numérique & analogique. Prq numérique + courante ds syst. comm. modernes..md",
-    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Descr. modulation FSK, avantages & inconvénients. Types de systèmes de communication utilisant FSK couramment..md",
-    "FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Cmt mesurer perf. modulations numériques. Prq le taux d'erreur binaire (BER). Prq important pr évaluer systèmes de communication..md",
-    "FlashCards/Télécom/Chapitre 5 - Les récepteurs et émetteurs/Quels sont les principaux types de modulations utilisées dans les émetteurs et récepteurs modernes..md",
-    "FlashCards/Télécom/Chapitre 5 - Les récepteurs et émetteurs/Quelle est la différence entre un émetteur et un récepteur dans un système de communication ..md",
-    "FlashCards/Télécom/Chapitre 5 - Les récepteurs et émetteurs/Qu'est-ce que la sensibilité d'un récepteur et pourquoi est-elle importante..md",
-    "FlashCards/Télécom/Chapitre 5 - Les récepteurs et émetteurs/Qu'est-ce qu'un mélangeur et quel est son rôle dans un récepteur ..md",
-    "FlashCards/Télécom/Chapitre 5 - Les récepteurs et émetteurs/Expliquez le concept d'intermodulation et pourquoi il est important dans la conception des récepteurs et des émetteurs..md",
-    "FlashCards/Télécom/Chapitre 4 - Les antennes/Quels sont les principaux types d'antennes utilisées dans les systèmes de télécommunication . Décrivez brièvement leurs caractéristiques et leurs applications..md",
-    "FlashCards/Télécom/Chapitre 4 - Les antennes/Qu'est-ce que le gain d'une antenne et comment est-il défini ..md",
-    "FlashCards/Télécom/Chapitre 4 - Les antennes/Qu'est-ce que le diagramme de rayonnement d'une antenne et pourquoi est-il important ..md",
-    "FlashCards/Télécom/Chapitre 4 - Les antennes/Qu'est-ce qu'une antenne et quel est son rôle dans les systèmes de télécommunication ..md",
-    "FlashCards/Télécom/Chapitre 3 - Les ondes électromagnétiques/Quels sont les facteurs influençant l'affaiblissement des ondes électromagnétiques lors de leur propagation ..md",
-    "FlashCards/Télécom/Chapitre 3 - Les ondes électromagnétiques/Quelles sont les principales caractéristiques des ondes électromagnétiques . Expliquez brièvement chacune d'entre elles..md",
-    "FlashCards/Télécom/Chapitre 3 - Les ondes électromagnétiques/Qu'est-ce que la réfraction et pourquoi est-elle importante dans la propagation des ondes électromagnétiques ..md",
-    "FlashCards/Télécom/Chapitre 3 - Les ondes électromagnétiques/Décrivez les différents types de propagation des ondes électromagnétiques..md",
-    "FlashCards/Télécom/Chapitre 3 - Les ondes électromagnétiques/Comment la polarisation des ondes électromagnétiques affecte-t-elle la transmission et la réception des signaux ..md",
-    "FlashCards/Télécom/Chapitre 2 - Les lignes de transmission/Quels sont les types de pertes dans une ligne de transmission . Expliquez brièvement chacun d'entre eux..md",
-    "FlashCards/Télécom/Chapitre 2 - Les lignes de transmission/Quels sont les principaux types de connecteurs utilisés dans les systèmes de télécommunication et à quoi servent-ils ..md",
-    "FlashCards/Télécom/Chapitre 2 - Les lignes de transmission/Qu'est-ce qu'une impédance caractéristique et pourquoi est-elle importante pour les lignes de transmission ..md",
-    "FlashCards/Télécom/Chapitre 2 - Les lignes de transmission/Qu'est-ce qu'un adaptateur d'antenne et pourquoi est-il nécessaire ..md",
-    "FlashCards/Télécom/Chapitre 2 - Les lignes de transmission/Expliquez la différence entre les lignes de transmission symétriques et asymétriques..md",
-    "FlashCards/Télécom/Chapitre 1 - Transmission de l'information/Quelle est la différence entre la transmission en série et la transmission en parallèle . Donnez un exemple pour chacune..md",
-    "FlashCards/Physique/ch5/compléments",
-    "FlashCards/Physique/Chapitre 9_Notions de développement durable",
-    "FlashCards/Physique/Chapitre 8_Matériaux et fabrication assistée par ordinateur",
-    "FlashCards/Physique/ch7",
-    "FlashCards/Physique/ch6",
-    "FlashCards/Physique/ch5",
-    "FlashCards/Physique/ch4",
-    "FlashCards/Physique/ch3",
-    "FlashCards/Physique/ch2 Notions d'optique géométrique",
-    "FlashCards/intro aux BD/chapitre3",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415102827.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230415101524.png",
     "présentation détaillées sur les cours.canvas",
+    "zigzag/zigzag.md",
+    "zigzag/test_program_not_found.py",
+    "zigzag/v1_main.py",
+    "zigzag/test_main.py",
+    "zigzag/test_log_manager.py",
+    "zigzag/test_log.py",
+    "zigzag/test.py",
+    "zigzag/pylintrc",
+    "zigzag/projets exercice.md",
+    "zigzag/program_not_found.py",
+    "zigzag/log_manager.py",
+    "zigzag/main.py",
+    "ludo/Q2/tinkercad/Exercices terminés TinkerCad.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts-DESKTOP-62P46AN.md",
+    "ludo/Obsidian-TI_github/TI/Q1/secuBienEtre.md",
+    "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electroAppliqué ex.md",
+    "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electro appliqué labo.md",
+    "Untitled.md",
+    "FlashCards/systm.Exploit, labo/Audits/pouvez-vous utiliser l'Éditeur de registre pour modif le screen par défaut de tous les users sous W. Quelle est la clé de registre associée à cette modification..md",
+    "FlashCards/systm.Exploit, labo/Audits/Expliquez étapes pour déplacer le chemin par défaut des profils des users vers un autre lecteur que celui de l'OS sous W. Quels sont les avantages de cette modification ..md",
+    "FlashCards/systm.Exploit, labo/Audits/Expliquez le rôle du répertoire _Public_ sous Windows et comment les différents utilisateurs peuvent partager des fichiers en utilisant ce répertoire..md",
+    "FlashCards/systm.Exploit, labo/Audits/Expliquez le processus pour surveiller les connexions users (ouvertures et fermetures de session) à l'aide de l'Observateur d'événements dans W..md",
+    "FlashCards/systm.Exploit, labo/Audits/Décrivez les étapes pour activer auto la touche Num Lock au démarrage de W à l'aide de l'Éditeur de registre..md",
+    "FlashCards/systm.Exploit, labo/Audits/Conf l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
+    "FlashCards/systm.Exploit, labo/Audits/Comment modifier le profil par défaut sous W pour que les paramètres d'un prog, par ex Firefox, soient appliqués à tous les nouveaux utilisateurs qui se connectent au pc ..md",
+    "FlashCards/systm.Exploit, labo/Audits/Comment activer l'audit d'accès aux répertoires et fichiers dans Windows. Expliquez comment définir les permissions d'audit pour un répertoire ou un fichier spécifique..md",
+    "FlashCards/intro aux BD/chapitre3/Qu'est-ce que SSMS et à quoi sert-il..md",
+    "FlashCards/intro aux BD/chapitre3/Quelles sont les contraintes d'intégrité à ajouter lors de la création d'une table..md",
+    "FlashCards/intro aux BD/chapitre3/Qu'est-ce que le langage SQL..md",
+    "FlashCards/intro aux BD/chapitre3/Qu'est-ce qu'une jointure réflexive..md",
+    "FlashCards/intro aux BD/chapitre3/Nommez les cinq sous-langages de SQL..md",
+    "FlashCards/intro aux BD/chapitre2/Quelle est la différence entre une clé candidate et une clé unique..md",
+    "FlashCards/intro aux BD/chapitre2/Qu'est-ce qu'une contrainte d'intégrité référentielle..md",
+    "FlashCards/intro aux BD/chapitre2/Qu'est-ce qu'une clé primaire..md",
+    "FlashCards/intro aux BD/chapitre2/Qu'est-ce qu'une clé étrangère..md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132128.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230420212214.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501130724.png",
@@ -468,6 +376,8 @@
     "presentation graphique du github.canvas",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132115.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132103.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132039.png"
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132039.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132011.png",
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501131950.png"
   ]
 }
