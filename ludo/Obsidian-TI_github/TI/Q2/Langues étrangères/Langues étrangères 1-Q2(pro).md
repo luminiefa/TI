@@ -4,10 +4,15 @@ So, i think Web 3.0 represents the future of our web. It focuses on services dri
 One important aspect of Web 3.0 is the decentralized data architecture.
 
 NFT stands for Non-Fungible Token. These tokens are unique and cannot be exchanged for another one. They are used in the art industry because the blockchain serves as a trusted authority for certification, providing solid proof of authentication.
+![image](https://github.com/luminiefa/TI/assets/19058019/0145ee06-8459-4cce-9a69-ff89ff7bb594)
+
 
 The solid proof of authentication is exemplified by Bitcoin, which is used by millions of individuals worldwide. Its security lies in the decentralized nature of its network. To hack Bitcoin, a malicious entity would need to control more than 50% of the network's computational power, known as a 51% attack. This level of control is practically unattainable for a single person or even a single country. The distributed nature of Bitcoin's network ensures that no single entity has the power to manipulate transactions or compromise the system. This decentralization, coupled with the use of cryptographic algorithms, ensures the integrity and security of the Bitcoin network, making it highly resistant to hacking attempts by any single state.
+![image](https://github.com/luminiefa/TI/assets/19058019/6c1e1d70-19b7-459d-8142-586add291cf9)
+
 
 This proof of authentication can be applied in various ways. For example, the game "Sandbox" utilizes this proof of authentication to verify the ownership of virtual land. The owner of the virtual land has full control over it, allowing them to customize and use it as they wish. This virtual land, represented by an NFT, is exclusively theirs. Some individuals and brands purchase land to display advertisements or organize events. As an interesting example, Snoop Dogg hosted an event where people could interact with him using a microphone within his virtual land in the game.
+![image](https://github.com/luminiefa/TI/assets/19058019/beac2d47-a707-4508-9d66-1a159665ff67)
 
 An other exemple is the brand carrefour buy some land because the map of the game show all lands and if someone have a lot of land he can draw a big logo for his brand for exemple.
 
