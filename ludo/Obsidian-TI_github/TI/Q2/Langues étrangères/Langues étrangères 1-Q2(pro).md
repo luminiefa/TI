@@ -1,7 +1,6 @@
 "I want to talk about Web 3.0 and its ecosystem. First, I will provide a brief overview of what Web 3.0 is. After that, I will discuss DAOs (Decentralized Autonomous Organizations). Finally, I will summarize my main points.
 
-So, i think Web 3.0 represents the future of our web. It focuses on services driven by AI, such as... [suggestions: intelligent data processing, personalized recommendations, enhanced search capabilities].
-
+So, i think Web 3.0 represents the future of our web. It focuses on services driven by AI, such as chatGPT
 One important aspect of Web 3.0 is the decentralized data architecture.
 
 NFT stands for Non-Fungible Token. These tokens are unique and cannot be exchanged for another one. They are used in the art industry because the blockchain serves as a trusted authority for certification, providing solid proof of authentication.
