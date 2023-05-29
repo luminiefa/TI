@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -249,7 +249,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 654.5
+    "width": 654.5,
+    "collapsed": true
   },
   "right": {
     "id": "5d6086e019be0f50",
@@ -265,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md"
               }
             }
           }
@@ -330,6 +331,7 @@
   },
   "active": "5f2b9c1aebb7ae6e",
   "lastOpenFiles": [
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
     "présentation détaillées sur les cours.canvas",
     "zigzag/zigzag.md",
@@ -366,7 +368,6 @@
     "FlashCards/intro aux BD/chapitre2/Quelle est la différence entre une clé candidate et une clé unique..md",
     "FlashCards/intro aux BD/chapitre2/Qu'est-ce qu'une contrainte d'intégrité référentielle..md",
     "FlashCards/intro aux BD/chapitre2/Qu'est-ce qu'une clé primaire..md",
-    "FlashCards/intro aux BD/chapitre2/Qu'est-ce qu'une clé étrangère..md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132128.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230420212214.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501130724.png",
