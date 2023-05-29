@@ -18,6 +18,7 @@ An other exemple is the brand carrefour buy some land because the map of the gam
 ![image](https://github.com/luminiefa/TI/assets/19058019/98eaa518-75d8-4c4e-bb8d-d57e481ecba7)
 
 Since this is a relatively new concept, there are still complexities to consider. For instance, prices are often influenced by speculation, making it challenging to invest in the long term. The value of a land in Sandbox has experienced significant fluctuations, with prices ranging from a minimum of 10,000 euros to 1,000 euros. This volatility can be daunting for newcomers, and the success of a new technology relies on consistent long-term support.
+
 ![image](https://github.com/luminiefa/TI/assets/19058019/742ceb52-044a-4d6c-9fdb-54977175ed10)
 
 
