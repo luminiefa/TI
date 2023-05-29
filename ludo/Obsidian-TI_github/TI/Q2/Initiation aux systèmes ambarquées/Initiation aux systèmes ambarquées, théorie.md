@@ -23,13 +23,11 @@
 
 # Rappel théorique
 ## Rappel général
-• TIC = Tension inverse maximale = tension maximale que la diode peut prendre en sens inverse avant de
-claquer.
+• TIC = Tension inverse maximale = tension maximale que la diode peut prendre en sens inverse avant de claquer.
 • Caractéristiques du réseau électrique en Belgique:
 – f = 50 [Hz]
 – Umax = 230 [V ]
-• coefficient d’ondulation = tension efficace
-tension moyenne
+• coefficient d’ondulation = tension efficace / tension moyenne
 • Tableau récapitulatif:
 <div style="text-align: center;">
   <img src="https://github.com/luminiefa/TI/assets/19058019/7308b395-8bed-4b9f-9a4d-b91c411b4cdf" style="display: inline-block;">
@@ -73,20 +71,20 @@ Don’t PANIC, Positive is Anode, Negative Is Cathode.
 (b) conduit le courant,
 (c) offre une forte résistance,
 (d) absorbe une forte tension.
-- [ ] compris ?
+- [x] compris ?
 <div style="text-align: center;">
   <img src="https://github.com/luminiefa/TI/assets/19058019/13090b05-0e0a-4584-83ab-9959e7691b86" style="display: inline-block;">
 </div>
 
 Lorsqu’elle est en polarisation directe, la diode conduit le courant à partir de la tension de seuil (0,7
 V pour le silicium)
-## 2. Une diode au silicium est en série avec une source de tension de 5 V et une résistance de 100 Ω. Si l’anode
-est branchée à la borne positive, la tension entre la cathode et la borne négative de la source sera de:
+## 2. Une diode au silicium est en série avec une source de tension de 5 V et une résistance de 100 Ω.
+Si l’anode est branchée à la borne positive, la tension entre la cathode et la borne négative de la source sera de:
 (a) 0,7 V
 (b) 0,3 V
 (c) 5,7 V
 (d) 4,3 V
-- [ ] compris ?
+- [x] compris ?
 <div style="text-align: center;">
   <img src="https://github.com/luminiefa/TI/assets/19058019/ca195986-915f-43cc-a57a-e34aefdb3799" style="display: inline-block;">
 </div>
@@ -96,7 +94,7 @@ est branchée à la borne positive, la tension entre la cathode et la borne nég
 (b) appliquant une tension externe positive à la cathode et négative à l’anode,
 (c) appliquant une tension externe positive à la région P et négative à la région N,
 (d) les réponses 3a et 3c.
-- [ ] compris ?
+- [x] compris ?
 <div style="text-align: center;">
   <img src="https://github.com/luminiefa/TI/assets/19058019/3f0eb4b2-a3fa-4e9c-ad97-6e57522c0eae" style="display: inline-block;">
 </div>
@@ -106,7 +104,7 @@ est branchée à la borne positive, la tension entre la cathode et la borne nég
 (b) 127,3 V
 (c) 141 V
 (d) 0 V
-- [ ] compris ?
+- [x] compris ?
 <div style="text-align: center;">
   <img src="https://github.com/luminiefa/TI/assets/19058019/38a4496c-0649-490d-bb11-d23fa299bc7d" style="display: inline-block;">
 </div>
@@ -116,47 +114,45 @@ est branchée à la borne positive, la tension entre la cathode et la borne nég
 (b) 127,3 V
 (c) 141 V
 (d) 0 V
-- [ ] compris ?
+- [x] compris ?
 <div style="text-align: center;">
   <img src="https://github.com/luminiefa/TI/assets/19058019/4076e378-c00c-4705-8859-8942242bd0c3" style="display: inline-block;">
 </div>
 
-## 6. La valeur de crête à l’entrée d’un redresseur une alternance est de 10 V. La valeur de crête à la sortie est
-de:
+## 6. La valeur de crête à l’entrée d’un redresseur une alternance est de 10 V. La valeur de crête à la sortie est de:
 (a) 10 V
 (b) 10,7 V
 (c) 9,3 V
 (d) 3,18 V
-- [ ] compris ?
+- [x] compris ?
 <div style="text-align: center;">
   <img src="https://github.com/luminiefa/TI/assets/19058019/a57d0998-f714-4f01-998b-ceddfd9e2c92" style="display: inline-block;">
 </div>
 
 ## 7. Dans un transistor, le courant IC est le plus important, vrai ou faux ?
-- [ ] compris ?
+- [x] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/d102fab9-8143-4b35-ab38-9963bd63af38)
-## 8. La chute de tension entre la base et le collecteur d’un transistor est toujours égale à 0,7 V quand le
-transistor est passant, vrai ou faux ?
+## 8. La chute de tension entre la base et le collecteur d’un transistor est toujours égale à 0,7 V quand le transistor est passant, vrai ou faux ?
 Vrai.
-- [ ] compris ?
+- [x] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/5ce0b9d1-e942-44ad-9942-7073a038d269)
 ## 9. Le rapport de IE sur IB est égal à βcc, vrai ou faux ?
-- [ ] compris ?
+- [x] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/92cc5d34-cca2-40bf-9946-132f9ea3e883)
 ## 10. Si IC est 50 fois plus élevé que IB , la valeur de βcc vaut 50, vrai ou faux ?
-- [ ] compris ?
+- [x] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/61fc75fa-1b39-414c-aeb3-8e21002ee7fe)
 ## 11. Si la valeur de βcc est de 100, la valeur de αcc est de 0,01, vrai ou faux ?
-- [ ] compris ?
+- [x] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/58b33c61-199c-4c67-a026-4d2ff7a230b8)
 ## 12. Dans un transistor, le courant de base est égal à 2 % du courant de l’émetteur qui est de 30 mA. Déterminer le courant de collecteur.
-- [ ] compris ?
+- [x] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/e1258363-7eed-40f0-8a92-7e6a0cb2ebad)
 ## 13. Quelle sera la valeur de βcc lorsque IE = 25 mA et IB = 200 mA ?
-- [ ] compris ?
+- [x] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/e4716534-305f-4d10-b4c3-dcc0a355f2eb)
 ## 14. Si un transistor possède une valeur de αcc = 0, 96; déterminer IC lorsque IE = 9, 35 mA.
-- [ ] compris ?
+- [x] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/236491c6-431c-4202-b6a4-04ab960b19db)
 ## 15. Pour un pont redresseur connecté au réseau, quelle sera la fréquence de sortie ?
 - [x] compris ?
@@ -166,7 +162,7 @@ Vrai.
 La tension du réseau vaut 230 V. La tension de sortie sera donc: 230 × 3 = 690 V.
 ![image](https://github.com/luminiefa/TI/assets/19058019/09136221-ed70-47b9-b74d-e33d0b0850c9)
 ## 17. Pour ce même pont redresseur (Q 15 et 16), quelle valeur doit avoir le condensateur pour avoir un r = 2%, si R = 3 kΩ ?
-- [ ] compris ?
+- [x] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/2edac2ce-d7a7-4dd7-bc8c-5d9658f1e450)
 ## 18. Quelle est la puissance dissipée dans une diode parcourue par un courant de 100 mA ?
 - [x] compris ?
@@ -222,12 +218,14 @@ Si la fréquence de sortie est de 120 Hz, la charge de 10 kΩ et C = 10 mF, la 
 (b) 6 mV
 (c) 5 mV
 (d) 2,88 V
+- [x] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/3d7a0ebf-b890-442b-b0c1-fb7f20507e4e)
 ## 7. La puissance moyenne fournie à la charge en négligeant la chute de potentiel dans la diode pour le circuit suivant vaut:
 (a) 13,36 W
 (b) 8,18 W
 (c) 3,32 W
 (d) 6,64 W
+- [ ] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/b1418443-a42d-45bd-a339-f62f3a4c9bb0)
 ## 8. La tension de crête de sortie d’un redresseur en pont est de 28,3 V. Quelle est la TIC aux bornes des diodes ?
 (a) 28,3 V
@@ -264,18 +262,21 @@ de valeur crête 55 V à une fréquence de 50 Hz. Si la résistance en charge va
 (b) Le courant base est trop important, le transistor ne fonctionne plus normalement.
 (c) Le courant collecteur atteint un maximum, le courant base peut encore augmenter.
 (d) Les courants collecteur et base atteignent un maximum au-delà duquel le transistor claque.
+- [x] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/f2428afd-450e-47aa-8eeb-a95e127ef336)
 ## 13. Quelle sera la valeur de βcc si IE = 5,34 mA et IB = 0,0475 mA ?
 (a) 11,1
 (b) 112
 (c) 111
 (d) 11,2
+- [x] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/96d75f0a-d2b2-41c5-a990-c1befbc2ae03)
 ## 14. En supposant que VCE (sat) = 0 V, déterminer la valeur du courant IC(sat) pour le schéma suivant.
 (a) 0,43 mA
 (b) 4,3 mA
 (c) 0,5 mA
 (d) 5 mA
+- [x] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/5e651d67-e106-4c72-bead-df18590432ae)
 ![image](https://github.com/luminiefa/TI/assets/19058019/0a77f448-bcc9-49ca-afe8-ef64a1fea282)
 ## 15. Dans la question 14, quelle valeur de courant IB faut-il pour atteindre la saturation ?
@@ -283,4 +284,5 @@ de valeur crête 55 V à une fréquence de 50 Hz. Si la résistance en charge va
 (b) 0,033 mA
 (c) 0,0033 mA
 (d) 0,00033 mA
+- [ ] compris ?
 ![image](https://github.com/luminiefa/TI/assets/19058019/6c96de38-ca23-4e24-a097-da62fcf46610)
