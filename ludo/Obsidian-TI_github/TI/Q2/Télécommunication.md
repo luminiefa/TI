@@ -401,7 +401,6 @@ La modulation analogique
 
 • Indice de modulation (exercice)
 
-#àFaire insérer modulation de fréquence
 ![telecom modulation de fréquence_230605_114124_1](https://github.com/luminiefa/TI/assets/19058019/7cc23ecc-9fcf-4423-b210-f5cbaec05931)
 ![telecom modulation de fréquence_230605_114124_2](https://github.com/luminiefa/TI/assets/19058019/7830651b-c510-4169-8a76-53e8841cb075)
 
