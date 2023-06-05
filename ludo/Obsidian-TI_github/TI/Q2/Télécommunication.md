@@ -347,7 +347,6 @@ La modulation analogique
 	• La modulation de fréquence : la fréquence instantanée de la porteuse  
 	varie proportionnellement au message.  
 	• La modulation de phase : la phase instantanée de la porteuse varie linéairement avec le message.
-	
 	![image](https://user-images.githubusercontent.com/19058019/236666141-f4a0ed1f-518e-48ed-9aef-b9641215574d.png)
 ## Modulation d'amplitude
 • Définition  
