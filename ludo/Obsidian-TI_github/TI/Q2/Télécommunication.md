@@ -558,13 +558,15 @@ bits « redondants ».
 	• A1 si le bit est 1
 	
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102827.png?raw=true)
-	– La modulation ASK équivaut une modulation d'amplitude  
-	analogique.  
-	– Le signal à transmettre n'est plus analogique mais par exemple un signal NRZ.  
-	– Un cas particulier est la modulation OOK → On Off Keying. Dans cette modulation A0 est nulle.  
-	– La puissance émise par la modulation OOK est nulle  
-	si le bit est à 0 → statistiquement la moitié du temps
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102854.png?raw=true)
+
+– La modulation ASK équivaut une modulation d'amplitude  
+analogique.  
+– Le signal à transmettre n'est plus analogique mais par exemple un signal NRZ.  
+– Un cas particulier est la modulation OOK → On Off Keying. Dans cette modulation A0 est nulle.  
+– La puissance émise par la modulation OOK est nulle  
+si le bit est à 0 → statistiquement la moitié du temps
+
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102854.png?raw=true)
 	
 • Caractéristiques  
 	– Peu utilisée au-delà du Mbit/s.  
@@ -602,7 +604,8 @@ bits « redondants ».
 	– Les premiers modems utilisaient l'AFSK (jusqu'à 300 bits/s).  
 	– Les premiers micro-ordinateurs utilisaient des modulations AFSK  
 	pour l'enregistrement de programmes sur cassettes audio.
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103043.png?raw=true)
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103043.png?raw=true)
 ## La modulation PSK
 • Dénomination  
 	– PSK ou BPSK → Binary Phase Shift Keying  
@@ -615,7 +618,8 @@ bits « redondants ».
 	• φ1- φ0 = π (180°)  
 	– Applications  
 	• Wi-fi, satellites, DVB, modems, ...
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103110.png?raw=true)
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103110.png?raw=true)
 ## La modulation QPSK
 • Dénomination  
 	– QPSK → Quadrature Phase Shift Keying  
@@ -626,18 +630,20 @@ bits « redondants ».
 	– Les deux porteuses sont codées séparément en BPSK et  
 	additionnées pour former le signal QPSK.  
 	– Un sin déphasé de π/2 peut être écrit comme un cos.
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103139.png?raw=true)
-	– Les deux signaux BPSQ sont additionnés pour donner :  
-	±sin(2πf0t)±cos(2πf0t)  
-	– Il y a 4 combinaisons possible:  
-	• 0 0 (0 sur le canal I et 0 sur le canal Q) →
-	 -sin(2πf0t)-cos(2πf0t)  
-	• 0 1 (0 sur le canal I et 1 sur le canal Q) →
-	 -sin(2πf0t)+cos(2πf0t)  
-	• 1 0 (1 sur le canal I et 0 sur le canal Q) →
-	 +sin(2πf0t)-cos(2πf0t)  
-	• 1 1 (1 sur le canal I et 1 sur le canal Q) →
-	 +sin(2πf0t)+cos(2πf0t)
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103139.png?raw=true)
+
+– Les deux signaux BPSQ sont additionnés pour donner :  
+±sin(2πf0t)±cos(2πf0t)  
+– Il y a 4 combinaisons possible:  
+• 0 0 (0 sur le canal I et 0 sur le canal Q) →
+ -sin(2πf0t)-cos(2πf0t)  
+• 0 1 (0 sur le canal I et 1 sur le canal Q) →
+ -sin(2πf0t)+cos(2πf0t)  
+• 1 0 (1 sur le canal I et 0 sur le canal Q) →
+ +sin(2πf0t)-cos(2πf0t)  
+• 1 1 (1 sur le canal I et 1 sur le canal Q) →
+ +sin(2πf0t)+cos(2πf0t)
 • Constellation  
 	– La constellation QPSK est un graphique qui montre l'amplitude et la phase de chacune de 4 possibilités.  
 	– Les amplitudes ±1 des sinus sont représentées sur l'axe I  
@@ -651,7 +657,8 @@ bits « redondants ».
 	• 01 → déphasage de 135°  
 	• 10 → déphasage de 315°  
 	• 11 → déphasage de 45°
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103255.png?raw=true)
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103255.png?raw=true)
 	
 • Analyse d'une constellation reçue  
 	– Un analyseur de champ permet de visualiser une constellation reçue.  
@@ -659,7 +666,8 @@ bits « redondants ».
 	– La modulation QPSK résiste très bien au bruit, il suffit de déterminer dans quel quadrant le point se trouve.  
 	Un écart important peut être permis  
 	sans qu'il n'y ait d'erreur.
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103317.png?raw=true)
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103317.png?raw=true)
 	
 • Exemple
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103333.png?raw=true)
@@ -683,11 +691,14 @@ bits « redondants ».
 	– Les bits à transmettre sont regroupés par 3 pour 8QAM.  
 	– Il y a donc 8 combinaisons différentes : 23 = 8.  
 	– Prenons 2 amplitudes combinées avec 4 décalages de phases différents.
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103440.png?raw=true)
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103448.png?raw=true)
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103440.png?raw=true)
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103448.png?raw=true)
+
 • Modulation 8QAM  
 	– Quel est la suite de bits suivante :
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103516.png?raw=true)
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103516.png?raw=true)
 	
 ## La modulation à plus de 4 états
 • Modulation 16QAM  
@@ -697,12 +708,15 @@ bits « redondants ».
 	• Q → ±1V  
 	• Q* → ±3V  
 	– La modulation sera à 16 états d'amplitude et de phase.
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103541.png?raw=true)
-	– Avec 16 symboles différents, on peut passer 4 bits (24 = 16).  
-	– La constellation sera alors la suivante.
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103607.png?raw=true)
-	– Il existe plusieurs façons de disposer les points, mais deux  
-	points adjacents sur la constellation ne diffèrent que d'un bit.
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103541.png?raw=true)
+
+– Avec 16 symboles différents, on peut passer 4 bits (24 = 16).  
+– La constellation sera alors la suivante.
+
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103607.png?raw=true)
+
+– Il existe plusieurs façons de disposer les points, mais deux points adjacents sur la constellation ne diffèrent que d'un bit.
 • Modulation 16QAM ou 16PSK  
 	– Les deux modulations permettent de coder 4 bits par symboles.  
 	– Les points de la modulation 16QAM sont plus éloignés →  
@@ -713,7 +727,8 @@ bits « redondants ».
 	priorités :  
 	• Puissance de l'amplificateur  
 	• Résistance au bruit
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103643.png?raw=true)
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103643.png?raw=true)
 	
 • Modulation 64QAM et au delà  
 	– 64QAM : On peut créer des signaux I et Q à 8 états. Les bits  
@@ -724,13 +739,15 @@ bits « redondants ».
 	obtient une constellation à 256 (16*16) états d'amplitude et de  
 	phase. Cette modulation est utilisée en télévision par câble.  
 	– On rencontre peu d'application utilisant une modulation de plus de 256 états. En effet, la distance entre deux symboles devient trop petite et le bruit entraîne alors de nombreuses erreurs.
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103708.png?raw=true)
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103708.png?raw=true)
 	
 • Nombre de bit par symbole  
 	– La modulation QAM est capable de transporter plus de bits  
 	d'information par symbole. En choisissant un nombre d'état QAM plus élevé, le débit de donnée d'une liaison est augmenté.  
 	– Le tableau ci-dessous donne un résumé des débits en fonction des types de modulations de données numériques.
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103727.png?raw=true)
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103727.png?raw=true)
 	
 
 
