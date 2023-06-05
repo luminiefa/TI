@@ -444,11 +444,11 @@ transmettre une image de télévision que pour transmettre de la parole.
 • Codage NRZ bipolaire (non return to zero)  
 	– Un 0 logique est codé -a pendant la durée du bit  
 	– Un 1 logique est codé +a pendant la durée du bit
-	
-![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102225.png?raw=true)
 	– Une suite de 0 ou de 1 est difficile à compter  
 	– Mauvaise adaptation au support (spectre centré sur la fr. nulle)  
-	– Peu de transitions, donc difficulté de synchronisation d'horloge  
+	– Peu de transitions, donc difficulté de synchronisation d'horloge
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102225.png?raw=true)
+
 • Codage NRZ unipolaire :  
 	– 0 codé en 0 volt et 1 codé en +a
 • Codage NRZ-I (non return to zero inverted)  
