@@ -62,6 +62,7 @@ phénomènes distincts.
 	![image](https://user-images.githubusercontent.com/19058019/236664886-cc519766-8b4c-443f-9be2-5dfe4fe0dbf1.png)
 ### Le spectre électromagnétique
 ![image](https://user-images.githubusercontent.com/19058019/236664909-fc13f98e-1af4-4d07-88fe-ff44bf32c454.png)
+
 • Les ondes EM aux différentes fréquences :  
 	– Les rayons gamma ( γ ) : fréquences supérieures à 3×1019 Hz. Ils sont dus aux radiations émises par les éléments radioactifs. Très énergétiques, ils traversent facilement la matière et sont très dangereux pour les cellules vivantes. Les différents domaines d'application sont notamment la radiographie par rayons gamma, l'imagerie médicale, la médecine nucléaire, la spectrométrie gamma et l'astronomie gamma.  
 	– Les rayons X : de 3×1016 Hz à 3×1019 Hz.  
@@ -92,9 +93,9 @@ dont la longueur d’onde est donnée, calculez la fréquence.
 – 5000 Hz  
 – 3 mm  
 – 1 m  
-• Dans quelle partie du spectre électromagnétique se situent ces  
-ondes ?
+• Dans quelle partie du spectre électromagnétique se situent ces ondes ?
 ![image](https://user-images.githubusercontent.com/19058019/236664929-79104372-cb4f-4587-ab64-b229c9ba961f.png)
+
 # chapitre 2 liaisons hertziennes en espace libre
 ## Introduction
 ### Rappel :  
@@ -164,7 +165,9 @@ La hauteur de végétation moyenne est de 19 m (il n'y a aucun relief)
 ![image](https://user-images.githubusercontent.com/19058019/236665077-dffbe17d-48c7-4b9c-af65-1e8c38532bbb.png)
 ![image](https://user-images.githubusercontent.com/19058019/236665083-04af91b9-45dc-48dc-8074-fd6fdbe792dc.png)
 ![image](https://user-images.githubusercontent.com/19058019/236665089-eb6c75f8-08b9-4232-9c03-b18c9656c046.png)
+
 ![image](https://user-images.githubusercontent.com/19058019/236665097-229dd1d7-8f36-48a0-8134-9f3c93a39c9d.png)
+
 ![image](https://user-images.githubusercontent.com/19058019/236665106-229cdae6-a867-412d-8e40-9ad13d0a737c.png)
 ![image](https://user-images.githubusercontent.com/19058019/236665115-ee87c951-3b2d-4ecf-846c-1e9cffa10b82.png)
 • Exercices  
@@ -187,8 +190,8 @@ Quel est le rapport de tension correspondant ?
 ![image](https://user-images.githubusercontent.com/19058019/236665142-d9fd55ad-2567-411c-b5eb-4aba2831e472.png)
 ![image](https://user-images.githubusercontent.com/19058019/236665148-ecefb6db-2da5-4273-8c50-7897c376263b.png)
 ![image](https://user-images.githubusercontent.com/19058019/236665154-4829e7e2-1330-4edf-9d0a-40ecfcbdde4a.png)
-– Dans certaines applications, on souhaite émettre ou recevoir  
-dans une direction précise.  
+
+– Dans certaines applications, on souhaite émettre ou recevoir dans une direction précise.  
 – Exemples d'antennes directives :  
 • réception TV terrestre : chaque particulier pointe son antenne vers l'émetteur  
 • réception satellite : le pointage d'une parabole n'est pas toujours aisé  
@@ -197,6 +200,7 @@ dans une direction précise.
 • émission TV : l'émetteur « arrose » toute une région  
 • talkie-walkie : on ignore où se trouve l'autre poste  
 • émetteur et récepteur Wi-Fi
+
 ![image](https://user-images.githubusercontent.com/19058019/236665165-6b762799-d3a1-4a94-b392-adcd28b010f1.png)
 ![image](https://user-images.githubusercontent.com/19058019/236665179-38f2e345-861c-467b-a450-7366c351c03a.png)
 ## Gain d'une antenne  
@@ -211,6 +215,7 @@ On dit aussi qu'elle a un gain de 2,15 dBi.
 – Antenne autodirectrice de missile: 20 dBi  
 – Antenne de radar de surveillance: 40 dBi  
 – Antenne de radioastronomie: 50 dBi
+
 ![image](https://user-images.githubusercontent.com/19058019/236665216-ae175d90-2d46-45de-959c-bd42afe7d311.png)
 ![image](https://user-images.githubusercontent.com/19058019/236665224-15763f94-fecc-482b-be7f-8d4efac6f5f5.png)
 ![image](https://user-images.githubusercontent.com/19058019/236665232-b735968f-11ae-41f7-93f8-c9f9bd7e8722.png)
@@ -276,6 +281,7 @@ On dit aussi qu'elle a un gain de 2,15 dBi.
 ![image](https://user-images.githubusercontent.com/19058019/236665942-f8181340-ce88-404a-873f-51c66535e36b.png)
 ![image](https://user-images.githubusercontent.com/19058019/236665949-22169e34-afd2-47f8-b1a7-2a15efcc1350.png)
 ![image](https://user-images.githubusercontent.com/19058019/236665953-6d5ac666-d514-474d-942e-09131b076d1c.png)
+
 #àFaire faire des ex sur autres signaux que celui carré car trop facile pour l'examen !
 ## Pourquoi traiter le signal  
 ### Utilités
@@ -300,6 +306,7 @@ d'un signal.
 – Le multiplicateur génère en sortie un signal proportionnel au  
 produit des signaux présents sur ses deux entrées.  
 – La tension de sortie Vs=k.V1.V2
+
 ![image](https://user-images.githubusercontent.com/19058019/236666008-38695cbf-4089-4f09-9af3-a69607ee4252.png)
 ![image](https://user-images.githubusercontent.com/19058019/236666023-ec86c50e-89b9-4012-a66f-6178ac9d85f3.png)
 ![image](https://user-images.githubusercontent.com/19058019/236666037-76ce0b3c-d737-4eb8-b65f-9146b96c0ef7.png)
@@ -321,6 +328,7 @@ La modulation analogique
 • Modulation de fréquence  
 • Démodulation de fréquence  
 • Modulation de phase
+
 ![image](https://user-images.githubusercontent.com/19058019/236666085-aa422506-a559-414e-82a4-03a3891b3445.png)
 ## Types de modulations analogiques
 • Explication  
@@ -337,15 +345,14 @@ La modulation analogique
 	• La modulation de fréquence : la fréquence instantanée de la porteuse  
 	varie proportionnellement au message.  
 	• La modulation de phase : la phase  
-	instantanée de la porteuse varie  
-	linéairement avec le message.
+	instantanée de la porteuse varie linéairement avec le message.
+	
 	![image](https://user-images.githubusercontent.com/19058019/236666141-f4a0ed1f-518e-48ed-9aef-b9641215574d.png)
 ## Modulation d'amplitude
 • Définition  
 	– Dans une modulation d'amplitude à porteuse complète,  
 	l'amplitude varie linéairement avec le message à transmettre.  
-	– x(t) étant le signal à transmettre, il va être additionné à  
-	l'amplitude de la porteuse.
+	– x(t) étant le signal à transmettre, il va être additionné à l'amplitude de la porteuse.
 	![image](https://user-images.githubusercontent.com/19058019/236666174-94281b1b-3532-44fd-a07f-2618557e5864.png)
 • Enveloppe du signal modulé en amplitude
 ![image](https://user-images.githubusercontent.com/19058019/236666184-b7ee9323-19bc-4347-83c2-1f4f680f1f29.png)
