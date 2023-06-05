@@ -670,6 +670,7 @@ si le bit est à 0 → statistiquement la moitié du temps
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103317.png?raw=true)
 	
 • Exemple
+
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103333.png?raw=true)
 
 – Le signal rouge représente la porteuse cohérente.  
