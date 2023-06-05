@@ -763,5 +763,207 @@ d'environ 100 périodes par symbole.
 	
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103727.png?raw=true)
 	
+# Conversion analogique-numérique et modulations d'impulsions analogiques
+• Introduction à la conversion analogique-numérique
+• Echantillonnage
+• Pulse Amplitude Modulation
+• Quantification
+• Codage
+• Autres types de modulations
 
+![image](https://github.com/luminiefa/TI/assets/19058019/fbbbbaa0-3f26-49a7-ad4c-7f0fc2d87df5)
 
+## Introduction à la conversion analogique-numérique
+• Le monde physique est par nature analogique
+• Le traitement numérique des données permet :
+	– un stockage plus facile de l’information,
+	– une reproductibilité des traitements,
+	– la possibilité de développer relativement aisément des fonctionnalités
+	complexes
+	– une réduction des coûts de production,
+• Emploi de convertisseurs analogique – numérique et numérique – analogique
+• CAN ou CNA
+
+![image](https://github.com/luminiefa/TI/assets/19058019/5214c37b-9376-425b-8546-ad154ca0ef8d)
+
+• Conceptuellement, la conversion analogique – numérique peut être divisée
+en trois étapes :
+	– l’échantillonnage temporel
+	– la quantification
+	– le codage
+
+![image](https://github.com/luminiefa/TI/assets/19058019/d4caef48-47e8-4e10-9278-92a607db0a9c)
+
+## Echantillonnage
+• Période d’échantillonnage 𝑻𝒆 (en s) le temps entre deux
+mesures successives
+• En pratique, on utilise plutôt la fréquence d’échantillonnage
+𝑓𝑒 = 1 / 𝑻𝒆
+• Importance du choix de la fréquence
+
+![image](https://github.com/luminiefa/TI/assets/19058019/c0841f3a-518e-4f95-adee-a65b8a31e5f7)
+
+Théorème de Nyquist-Shannon : 𝑓𝑒 > 2𝑓𝑚𝑎𝑥
+## Pulse Amplitude Modulation
+• Description
+	– La PAM (ou Modulation d’impulsion par l’amplitude) est un type
+	de modulation impulsionnel dont le principe est de donner à un
+	train d’impulsion l’amplitude du signal à transmettre.
+	– Le train d’impulsions est à fréquence fixe.
+• Mise en œuvre
+	– Étape 1: échantillonnage du
+	message à cadence fs = 1/Ts
+	– Étape 2: étalement de la durée
+	de chaque échantillon à la valeur
+	constante τ
+
+![image](https://github.com/luminiefa/TI/assets/19058019/644f9b3a-0498-4d84-88e5-2eb2efd9ed6d)
+
+• Caractéristiques
+	– La modulation PAM est l’étape obligatoire lorsque l’on désire numériser un signal analogique.
+	– Le signal PAM est souvent utilisé comme l'entrée d'un convertisseur analogique numérique
+	d'impulsions modulées qui va changer les signaux analogiques en codes binaires
+• Applications
+	– Grâce à la PAM, il est possible de transmettre un signal analogique sous forme numérique et
+	d’utiliser les mêmes équipements de transmission que ceux utilisés pour le numérique.
+	– Ainsi, les fichiers audio sont couramment échantillonnés à 44,1 kHz, car cela permet de
+	restituer des sons dont la fréquence peut aller jusqu’à 22,05 kHz
+## Quantification
+• Un signal numérique ne peut prendre que certaines valeurs :
+c’est la quantification. Chaque valeur est arrondie à
+la valeur permise la plus proche par défaut
+• Chaque mot possible correspond à une
+certaine valeur de l'amplitude du signal
+d'information.
+• L'amplitude du signal analogique sera
+représenté par un ensemble fini de valeurs
+
+![image](https://github.com/luminiefa/TI/assets/19058019/a0a2e40e-2eaf-439d-8bcd-7467832cb0d5)
+
+• Pas de quantification et Erreur de quantification
+– Toutes les valeurs analogiques ne peuvent pas être représentées ce qui
+implique une distorsion non linéaire du signal.
+– Le pas (q) représente l’écart entre deux valeurs
+permises successives.
+
+![image](https://github.com/luminiefa/TI/assets/19058019/886c9d94-3f40-49c3-b5f8-898be58ec46c)
+
+![image](https://github.com/luminiefa/TI/assets/19058019/82c7c7dc-24a9-40ff-bc90-120a46a37006)
+
+![image](https://github.com/luminiefa/TI/assets/19058019/bfd95276-e7b3-4c9f-9334-c89a019d5ca1)
+
+## Pulse Coded Modulation
+• Pas de quantification
+– Pour minimiser les erreurs de quantification, on utilise le principe
+de compression du signal via une caractéristique logarithmique.
+– Les petites amplitudes du signal sont quantifiées avec beaucoup
+plus de précision que les amplitudes élevées
+– Le pas de quantification n’est plus constant.
+
+![image](https://github.com/luminiefa/TI/assets/19058019/6cb852c7-4943-4e20-a2c3-f5300e107a42)
+
+## Codage
+• La dernière étape consiste à attribuer une valeur binaire aux différentes tensions obtenu.
+• Exemple : Soit une convertisseur de 4 bits travaillant de -4 V à 4 V. Le pas du convertisseur
+est de 0,5 V.
+• 4 bits → 16 valeurs encodables donc avec 16 niveaux de tension différents.
+
+![image](https://github.com/luminiefa/TI/assets/19058019/11887a8e-06ff-459a-91e9-3007bcbd1615)
+
+## Autre type de modulation : PWM
+• Description
+– Plusieurs appellations :
+• Pulse-width modulation (PWM)
+• Pulse-Duration Modulation (PDM)
+• Pulse-length modulation (PLM)
+– La PWM (modulation par largeur
+d’impulsion) est une technique de
+modulation impulsionnelle qui
+consiste à garder l’amplitude du
+signal impulsionnel constante et
+qui fait varier sa largeur
+d’impulsion tout en gardant
+la fréquence constante.
+
+![image](https://github.com/luminiefa/TI/assets/19058019/fb3ad638-e2de-4882-8af2-b3a3d6603034)
+
+## Pulse Width Modulation
+• Transmission d'un signal numérique
+– Utilisation très courante pour un signal numérique.
+– La génération d'un signal PWM est facile à mettre en œuvre.
+
+![image](https://github.com/luminiefa/TI/assets/19058019/a136b567-b320-4e31-ab04-fe11d6a11a89)
+
+– On peut distinguer les deux états
+• 0 → « duty cycle » de 10 % correspondant à un bit à 0
+• 1 → « duty cycle » de 90 % correspondant à un bit à 1
+## Pulse Width Modulation
+• Transmission d'un signal analogique
+– PWM est également largement utilisé pour moduler, transmettre
+et démoduler les signaux analogiques.
+– La porteuse est alors un signal
+en dent de scie.
+• Lorsque le signal analogique est plus
+grand que le signal triangulaire = 1
+• Lorsque le signal analogique est plus
+petit que le signal triangulaire = 0
+• Applications
+– La conversion numérique-analogique
+– Les amplificateurs audio
+– Les alimentations à découpage, variateurs de vitesse, ...
+
+![image](https://github.com/luminiefa/TI/assets/19058019/dfedfd58-1509-4700-87ce-10773b757b9a)
+
+## Autre type de modulation : PPM
+• Description
+– PPM (modulation par position
+d’impulsion) est utilisée
+pour les transmissions de
+signaux analogiques et
+numériques.
+– Cette méthode est largement
+utilisée pour les systèmes de
+communication optique tel que
+la fibre optique et les télécommandes IR.
+– L'efficacité est requise mais avec peu d'interférence externe.
+– Cette technique de modulation impulsionnelle consiste à garder
+l’amplitude du signal impulsionnel constant en faisant varier la
+position d’une impulsion de largeur fixe tout en gardant la
+fréquence constante.
+
+![image](https://github.com/luminiefa/TI/assets/19058019/3a64fb5b-07e3-4f17-8443-1187fe52e803)
+
+## Pulse Position Modulation
+• Transmission d'un signal numérique
+– Les 0 et 1 sont convertis en durée entre l'horloge et les
+impulsions.
+• Une petite durée représente un 0 numérique
+• Une grande durée représente un 1 numérique
+
+![image](https://github.com/luminiefa/TI/assets/19058019/3813a066-f73c-4d5d-8dea-cf501d6d747d)
+
+– Cette méthode a un grand désavantage. Le décodage du signal
+exige que le décodeur dispose d'une horloge parfaitement
+synchronisée avec l'émetteur.
+## Pulse Position Modulation
+• Signal numérique → Differential PPM
+– La PPM différentielle est une variante de la modulation PPM.
+– Elle permet la transmission des données indépendamment d'une
+horloge.
+– Le délai entre les impulsions est calculé à partir de l'impulsion
+précédente
+
+![image](https://github.com/luminiefa/TI/assets/19058019/b12137b3-9744-450d-851d-7c0c3ccf1000)
+
+– De nombreuses télécommandes TV utilisent cette modulation.
+## Pulse Position Modulation
+• Signal numérique → Differential PPM
+– Contrairement à la PPM simple, la longueur du signal codé n'est
+pas fixé en PPM différentiel.
+
+![image](https://github.com/luminiefa/TI/assets/19058019/6b3eb2dc-1439-4cf0-9d80-bdfec25b4dc8)
+
+– La bande passante est donc plus élevée.
+– Un gros inconvénient des D-PPM et PPM : les fausses
+impulsions (champs externes) sont très difficiles (voire
+impossible) à détecter.
