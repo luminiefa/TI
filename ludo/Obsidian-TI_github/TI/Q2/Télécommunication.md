@@ -487,6 +487,9 @@ transmettre une image de télévision que pour transmettre de la parole.
 • Exercice  
 	– Codez en NRZ, Manchester et NRZ-I la suite de bits suivants :  
 	1001 1111 0001 0001
+	
+#àFaire insérer comment faire modulation numérique
+	
 • Quelques applications
 
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102432.png?raw=true)
@@ -738,6 +741,8 @@ d'environ 100 périodes par symbole.
 	• Résistance au bruit
 	
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103643.png?raw=true)
+	
+#àFaire insérer 16QAM 16PSK
 	
 • Modulation 64QAM et au delà  
 	– 64QAM : On peut créer des signaux I et Q à 8 états. Les bits  
