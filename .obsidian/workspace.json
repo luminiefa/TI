@@ -261,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 654.5
+    "width": 654.5,
+    "collapsed": true
   },
   "right": {
     "id": "5d6086e019be0f50",
@@ -340,7 +341,7 @@
       "note-synchronizer:Synchronize": false
     }
   },
-  "active": "9f18e282d277611d",
+  "active": "8b477b5a34c2ef61",
   "lastOpenFiles": [
     "ludo/Q2/SQL/linkToMovies.txt",
     "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",

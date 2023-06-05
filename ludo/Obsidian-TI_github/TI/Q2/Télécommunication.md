@@ -64,18 +64,18 @@ phénomènes distincts.
 ![image](https://user-images.githubusercontent.com/19058019/236664909-fc13f98e-1af4-4d07-88fe-ff44bf32c454.png)
 
 • Les ondes EM aux différentes fréquences :  
-	– Les rayons gamma ( γ ) : fréquences supérieures à 3×1019 Hz. Ils sont dus aux radiations émises par les éléments radioactifs. Très énergétiques, ils traversent facilement la matière et sont très dangereux pour les cellules vivantes. Les différents domaines d'application sont notamment la radiographie par rayons gamma, l'imagerie médicale, la médecine nucléaire, la spectrométrie gamma et l'astronomie gamma.  
-	– Les rayons X : de 3×1016 Hz à 3×1019 Hz.  
+	– Les rayons gamma ( γ ) : fréquences supérieures à 3×10^19 Hz. Ils sont dus aux radiations émises par les éléments radioactifs. Très énergétiques, ils traversent facilement la matière et sont très dangereux pour les cellules vivantes. Les différents domaines d'application sont notamment la radiographie par rayons gamma, l'imagerie médicale, la médecine nucléaire, la spectrométrie gamma et l'astronomie gamma.  
+	– Les rayons X : de 3×10^16 Hz à 3×10^19 Hz.  
 	Leurs rayonnements sont très énergétiques. Ils traversent plus ou moins facilement la matière et sont un peu moins nocifs que les rayons gamma, ils sont utilisés notamment  
 	en médecine pour les radiographies et dans l'industrie (contrôle des bagages dans le  
 	transport aérien).
-	– Les ultraviolets : de 7,5×1014 Hz à 3×1016 Hz.  
+	– Les ultraviolets : de 7,5×10^14 Hz à 3×10^16 Hz.  
 	Ces rayonnements restent assez énergétiques, ils sont nocifs pour la peau.  
 	Heureusement pour nous, une grande part des ultraviolets est stoppée par l'ozone atmosphérique. Ils sont utilisés dans les domaines suivants : détecteurs optiques, code-barres, désinfection, assainissement d'eau, luminothérapie, piège à insectes, ...  
-	– Le domaine visible : de 4,3×1014 Hz à 7,5×1014 Hz.  
+	– Le domaine visible : de 4,3×10^14 Hz à 7,5×10^14 Hz.  
 	Il correspond à la partie très étroite du spectre électromagnétique perceptible par notre  
 	œil. C’est dans le domaine visible que le rayonnement solaire atteint son maximum (0,5 μm).
-	– L’infrarouge : de 300 GHz à 4,3×1014 Hz.  
+	– L’infrarouge : de 300 GHz à 4,3×10^14 Hz.  
 	Ce rayonnement est émis par tous les corps dont la température est supérieure au zéro  
 	absolu (-273°C). Ils sont utilisés pour la vision nocturne, le chauffage, la thermographie,  
 	le guidage de missile, ...  
