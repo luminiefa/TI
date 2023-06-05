@@ -356,6 +356,7 @@ La modulation analogique
 	![image](https://user-images.githubusercontent.com/19058019/236666174-94281b1b-3532-44fd-a07f-2618557e5864.png)
 	
 • Enveloppe du signal modulé en amplitude
+
 ![image](https://user-images.githubusercontent.com/19058019/236666184-b7ee9323-19bc-4347-83c2-1f4f680f1f29.png)
 
 • Taux de modulation  
@@ -437,6 +438,7 @@ rythme d'un signal d'horloge.
 – Une caractéristique d'un système de transmission numérique est le nombre de bits transmis par seconde. C'est le débit binaire. 
 – Il dépend de l'application. Il faudra plus de bits/s pour  
 transmettre une image de télévision que pour transmettre de la parole.
+
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102159.png?raw=true)
 
 • Codage NRZ bipolaire (non return to zero)  
@@ -453,31 +455,41 @@ transmettre une image de télévision que pour transmettre de la parole.
 	– Un 0 logique est codé en restant à l'état précédent  
 	– Un 1 logique est codé en créant une transition  
 	– Une suite de 0 est difficile à compter
+	
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102301.png?raw=true)
+
 • Codage RZ (return to zero)  
 	– L'impulsion codant le 1 revient à 0 pendant la deuxième moitié  
 	du bit  
 	– Cette particularité a donné son nom à ce code → RZ
+	
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102323.png?raw=true)
+
 • Codage Manchester  
 	– Permet de décaler le spectre du signal vers les fréquences plus  
 	élevées  
 	– Code les états de base par des transitions, non par des niveaux  
 	– Bit de donnée à 0 → front montant  
 	– Bit de donnée à 1 → front descendant
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102345.png?raw=true)
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102353.png?raw=true)
 	– Beaucoup de transitions, donc facilité de synchronisation d'horloge
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102345.png?raw=true)
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102353.png?raw=true)
+	
 • Exercice  
 	– Codez en NRZ, Manchester et NRZ-I la suite de bits suivants :  
 	1001 1111 0001 0001
 • Quelques applications
+
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102432.png?raw=true)
+
 ## Codes détecteurs et correcteurs d’erreurs
 Codes détecteurs et correcteurs d’erreurs  
 • Lorsque des données numériques sont stockées ou transmises, des perturbations (par exemple électromagnétiques) peuvent les endommager.  
 • Les codes détecteurs et correcteurs d’erreurs permettent, de détecter si les données ont été altérées et si c’est le cas, de reconstituer les données d’origine par un mécanisme de correction
+
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102454.png?raw=true)
+
 • Utilisation dans les supports de stockage numériques que sont les CD, DVD et disques Blu-ray.
 • Remarques préliminaires  
 	– Les ordinateurs ne connaissent que les chiffres 0 et 1. Cela suffit pour toutes les tâches qu’ils effectuent et les chiffres 0 et 1 s’appellent des bits  
@@ -487,10 +499,14 @@ Codes détecteurs et correcteurs d’erreurs
 – Les codes détecteurs et correcteurs d’erreurs devront détecter les erreurs de transmission et/ou de stockage et les corriger. Ils utilisent pour cela une stratégie de consolidation, qui consiste à ajouter de l’information redondante.  
 • Avant émission : le codage consiste à consolider l’information par ajout de bits de contrôle. Ces bits de contrôle ne contiennent pas une information nouvelle. C’est pourquoi on parle de  
 bits « redondants ».
+
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102531.png?raw=true)
+
 • Après réception : le décodage consiste, à partir du message reçu et en utilisant les bits de contrôle, à détecter les erreurs puis corriger le message reçu pour retrouver l’information initiale  
 – Deux paramètres pour évaluer l’efficacité : la redondance du code
+
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102554.png?raw=true)
+
 • Exemple : code de parité  
 	– On utilise le code ASCII, chaque caractère occupe 8 bits. Par exemple, le mot  
 	« HELLO » est représenté par 10010000 10001011 10011001 10011001 10011111  
@@ -500,7 +516,9 @@ bits « redondants ».
 	• Ainsi pour la lettre H (1001000) => Mot de code : 1001000 0  
 	• Ainsi pour la lettre E (1000101) => Mot de code : 1000101 1  
 	– Le code de parité permet de détecter une anomalie lorsqu’il y a un nombre impair de bits erronés
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102620.png?raw=true)
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102620.png?raw=true)
+
 • Correcteurs d'erreurs  
 	– Permet non seulement de détecter des erreurs, mais aussi de les corriger.  
 	– Quelques exemples :  
@@ -532,6 +550,7 @@ bits « redondants ».
 	un signal sinusoïdal de fréquence de la porteuse fc et d'amplitude :  
 	• A0 si le bit est 0  
 	• A1 si le bit est 1
+	
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102827.png?raw=true)
 	– La modulation ASK équivaut une modulation d'amplitude  
 	analogique.  
@@ -540,6 +559,7 @@ bits « redondants ».
 	– La puissance émise par la modulation OOK est nulle  
 	si le bit est à 0 → statistiquement la moitié du temps
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102854.png?raw=true)
+	
 • Caractéristiques  
 	– Peu utilisée au-delà du Mbit/s.  
 	– Pas plus d'une dizaine de mètres.  
@@ -558,13 +578,17 @@ bits « redondants ».
 	– Quelques applications  
 		• Wi-Fi  
 		• Bluetooth
+		
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102949.png?raw=true)
+
 • Modulation 4FSK  
 	– Variante de la modulation FSK.  
 	– La modulation 4FSK permet une modulation à 4 états de  
 	fréquence.  
 	– Permet de diviser l'occupation spectrale par 2 en regroupant les bits à transmettre 2 par 2.
+	
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103015.png?raw=true)
+
 • Modulation AFSK  
 	– Audio FSK.  
 	– La porteuse est un signal audible, transmis par exemple sur une liaison téléphone ou radio.  
@@ -622,6 +646,7 @@ bits « redondants ».
 	• 10 → déphasage de 315°  
 	• 11 → déphasage de 45°
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103255.png?raw=true)
+	
 • Analyse d'une constellation reçue  
 	– Un analyseur de champ permet de visualiser une constellation reçue.  
 	– Ces équipements sont utilisés pour qualifier les installations de réception télévisée par satellite ou terrestre.  
@@ -629,6 +654,7 @@ bits « redondants ».
 	Un écart important peut être permis  
 	sans qu'il n'y ait d'erreur.
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103317.png?raw=true)
+	
 • Exemple
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103333.png?raw=true)
 	– Le signal rouge représente la porteuse cohérente.  
@@ -643,6 +669,7 @@ bits « redondants ».
 	– S'il y a une erreur de décodage, elle ne sera que sur un bit et 
 	pourra être plus facilement corrigée.
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103409.png?raw=true)
+	
 ## La modulation 8QAM
 • Modulation 8QAM  
 	– Il est possible de regrouper plusieurs types de modulation.  
@@ -655,6 +682,7 @@ bits « redondants ».
 • Modulation 8QAM  
 	– Quel est la suite de bits suivante :
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103516.png?raw=true)
+	
 ## La modulation à plus de 4 états
 • Modulation 16QAM  
 	– On regroupe les bits par 4. Les signaux I et Q peuvent avoir 4  états.  
@@ -680,6 +708,7 @@ bits « redondants ».
 	• Puissance de l'amplificateur  
 	• Résistance au bruit
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103643.png?raw=true)
+	
 • Modulation 64QAM et au delà  
 	– 64QAM : On peut créer des signaux I et Q à 8 états. Les bits  
 	sont alors regroupés par 6. On obtient une constellation à 64  
@@ -690,10 +719,12 @@ bits « redondants ».
 	phase. Cette modulation est utilisée en télévision par câble.  
 	– On rencontre peu d'application utilisant une modulation de plus de 256 états. En effet, la distance entre deux symboles devient trop petite et le bruit entraîne alors de nombreuses erreurs.
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103708.png?raw=true)
+	
 • Nombre de bit par symbole  
 	– La modulation QAM est capable de transporter plus de bits  
 	d'information par symbole. En choisissant un nombre d'état QAM plus élevé, le débit de donnée d'une liaison est augmenté.  
 	– Le tableau ci-dessous donne un résumé des débits en fonction des types de modulations de données numériques.
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103727.png?raw=true)
+	
 
 
