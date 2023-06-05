@@ -77,8 +77,7 @@ phénomènes distincts.
 	œil. C’est dans le domaine visible que le rayonnement solaire atteint son maximum (0,5 μm).
 	– L’infrarouge : de 300 GHz à 4,3×10^14 Hz.  
 	Ce rayonnement est émis par tous les corps dont la température est supérieure au zéro  
-	absolu (-273°C). Ils sont utilisés pour la vision nocturne, le chauffage, la thermographie,  
-	le guidage de missile, ...  
+	absolu (-273°C). Ils sont utilisés pour la vision nocturne, le chauffage, la thermographie, le guidage de missile,...  
 	– Les ondes radar ou hyperfréquences : approximativement de 300 MHz à 300 GHz.  
 	Cette région du spectre est utilisée en plus des fours à micro-ondes, notamment en technique radar et en transmission hertzienne.
 	– Les ondes radio : fréquences inférieures à 300 MHz.  
@@ -142,14 +141,10 @@ l’information numérique :
 ![image](https://user-images.githubusercontent.com/19058019/236664987-da499de2-f474-4b6a-9aa4-8277a5c0b113.png)
 ![image](https://user-images.githubusercontent.com/19058019/236665003-17524944-d363-4cf6-ab71-012165a7b497.png)
 ### Exercices
-– Quel est rmax pour une transmission GSM à 900 MHz entre 2 antennes distantes de 10  
-km ?  
-– A quelle hauteur doit on implanter deux tours hertziennes séparées de 50km pour  
-assurer une liaison en 10Ghz en mode LOS ?  
+– Quel est Rmax pour une transmission GSM à 900 MHz entre 2 antennes distantes de 10 km ?  
+– A quelle hauteur doit on implanter deux tours hertziennes séparées de 50km pour assurer une liaison en 10Ghz en mode LOS ? 
 La hauteur de végétation moyenne est de 15m (il n'y a aucun relief)  
-– A quelle hauteur doit on implanter deux tours hertziennes séparées de 65 km pour  
-assurer une liaison en 11 Ghz pour que la première ellipsoïde de Fresnel soit visible à  
-100 % ?  
+– A quelle hauteur doit on implanter deux tours hertziennes séparées de 65 km pour assurer une liaison en 11Ghz pour que la première ellipsoïde de Fresnel soit visible à 100 % ?  
 La hauteur de végétation moyenne est de 19 m (il n'y a aucun relief)
 ![image](https://user-images.githubusercontent.com/19058019/236665014-992f4073-c827-49fd-b9c7-56a55e8fdeda.png)
 ![image](https://user-images.githubusercontent.com/19058019/236665023-b73f92db-edd3-4632-b097-3642af4f94ef.png)
