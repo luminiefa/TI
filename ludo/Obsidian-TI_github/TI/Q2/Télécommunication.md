@@ -19,13 +19,9 @@ peuvent se déplacer dans le vide.
 	Le support des ondes électromagnétiques n’est pas la matière : elles se déplacent aussi  
 	dans le vide.
 • Il existe en physique des champs.  
-– Un champ est une partie de l'espace dont chaque point possède une propriété que l'on  
-étudie.  
-– Par exemple (selon Newton), le champ de pesanteur terrestre est l’ensemble de l’espace  
-où la Terre exerce une influence gravitationnelle : chaque point de cet espace est attiré  
-par la force de pesanteur  
-produite par la  
-Terre.
+– Un champ est une partie de l'espace dont chaque point possède une propriété que l'on étudie.  
+– Par exemple (selon Newton), le champ de pesanteur terrestre est l’ensemble de l’espace où la Terre exerce une influence gravitationnelle : chaque point de cet espace est attiré  
+par la force de pesanteur produite par la Terre.
 ### Nature des ondes électromagnétiques
 • Il existe en physique des champs.  
 	– On a un champ magnétique  
@@ -42,12 +38,9 @@ Terre.
 • Le champ électrique et le champ magnétique sont deux  
 phénomènes distincts.  
 	– Le champ électrique varie selon la tension électrique (mesurée en volts).  
-	– Le champ magnétique varie selon l'intensité du courant électrique (mesurée en  
-	ampères).  
-	– Dans les deux cas, le  
-	champ diminue à mesure  
-	que l'on s'éloigne de la  
-	source.
+	– Le champ magnétique varie selon l'intensité du courant électrique (mesurée en ampères).  
+	– Dans les deux cas, le champ diminue à mesure  
+	que l'on s'éloigne de la source.
 	– Le champ électrique et le champ magnétique étant tous deux liés à la charge électrique, ils interagissent entre eux.  
 	– Des charges électriques créent un champ électrique qui exerce une force sur d’autres  
 	charges électriques présentes dans l’environnement. Celles-ci se mettent en mouvement,  
@@ -62,53 +55,35 @@ phénomènes distincts.
 	https://www.youtube.com/watch?v=eaibXuVXo5s
 ### Caractéristiques
 • L'onde électromagnétique :  
-	– Elle comporte à la fois un champ électrique et un champ magnétique oscillant  
-	à la même fréquence. Ils sont perpendiculaires  
-	l’un par rapport à l’autre  
-	et se propagent dans un  
-	milieu selon une  
-	direction orthogonale.  
-	– La propagation de ces  
-	ondes s’effectue à une vitesse qui dépend du milieu considéré. Dans le vide, la vitesse de  
+	– Elle comporte à la fois un champ électrique et un champ magnétique oscillant à la même fréquence. Ils sont perpendiculaires l’un par rapport à l’autre et se propagent dans un milieu selon une direction orthogonale.  
+	– La propagation de ces ondes s’effectue à une vitesse qui dépend du milieu considéré. Dans le vide, la vitesse de  
 	propagation est égale à 3.108 m.s-1.  
 	– Plus l’on s’éloigne de la source plus le champ diminue.
 	![image](https://user-images.githubusercontent.com/19058019/236664886-cc519766-8b4c-443f-9be2-5dfe4fe0dbf1.png)
 ### Le spectre électromagnétique
 ![image](https://user-images.githubusercontent.com/19058019/236664909-fc13f98e-1af4-4d07-88fe-ff44bf32c454.png)
 • Les ondes EM aux différentes fréquences :  
-	– Les rayons gamma ( γ ) : fréquences supérieures à 3×1019 Hz. Ils sont dus aux  
-	radiations émises par les éléments radioactifs. Très énergétiques, ils traversent  
-	facilement la matière et sont très dangereux pour les cellules vivantes. Les différents  
-	domaines d'application sont notamment la radiographie par rayons gamma, l'imagerie  
-	médicale, la médecine nucléaire, la spectrométrie gamma et l'astronomie gamma.  
+	– Les rayons gamma ( γ ) : fréquences supérieures à 3×1019 Hz. Ils sont dus aux radiations émises par les éléments radioactifs. Très énergétiques, ils traversent facilement la matière et sont très dangereux pour les cellules vivantes. Les différents domaines d'application sont notamment la radiographie par rayons gamma, l'imagerie médicale, la médecine nucléaire, la spectrométrie gamma et l'astronomie gamma.  
 	– Les rayons X : de 3×1016 Hz à 3×1019 Hz.  
-	Leurs rayonnements sont très énergétiques. Ils traversent plus ou moins facilement la  
-	matière et sont un peu moins nocifs que les rayons gamma, ils sont utilisés notamment  
+	Leurs rayonnements sont très énergétiques. Ils traversent plus ou moins facilement la matière et sont un peu moins nocifs que les rayons gamma, ils sont utilisés notamment  
 	en médecine pour les radiographies et dans l'industrie (contrôle des bagages dans le  
 	transport aérien).
 	– Les ultraviolets : de 7,5×1014 Hz à 3×1016 Hz.  
 	Ces rayonnements restent assez énergétiques, ils sont nocifs pour la peau.  
-	Heureusement pour nous, une grande part des ultraviolets est stoppée par l'ozone  
-	atmosphérique. Ils sont utilisés dans les domaines suivants : détecteurs optiques, code-  
-	barres, désinfection, assainissement d'eau, luminothérapie, piège à insectes, ...  
+	Heureusement pour nous, une grande part des ultraviolets est stoppée par l'ozone atmosphérique. Ils sont utilisés dans les domaines suivants : détecteurs optiques, code-barres, désinfection, assainissement d'eau, luminothérapie, piège à insectes, ...  
 	– Le domaine visible : de 4,3×1014 Hz à 7,5×1014 Hz.  
 	Il correspond à la partie très étroite du spectre électromagnétique perceptible par notre  
-	œil. C’est dans le domaine visible que le rayonnement solaire atteint son maximum (0,5  
-	μm).
+	œil. C’est dans le domaine visible que le rayonnement solaire atteint son maximum (0,5 μm).
 	– L’infrarouge : de 300 GHz à 4,3×1014 Hz.  
 	Ce rayonnement est émis par tous les corps dont la température est supérieure au zéro  
 	absolu (-273°C). Ils sont utilisés pour la vision nocturne, le chauffage, la thermographie,  
 	le guidage de missile, ...  
 	– Les ondes radar ou hyperfréquences : approximativement de 300 MHz à 300 GHz.  
-	Cette région du spectre est utilisée en plus des fours à micro-ondes, notamment en  
-	technique radar et en transmission hertzienne.
+	Cette région du spectre est utilisée en plus des fours à micro-ondes, notamment en technique radar et en transmission hertzienne.
 	– Les ondes radio : fréquences inférieures à 300 MHz.  
-	Ce domaine de longueurs d'onde est le plus vaste du spectre électromagnétique et  
-	concerne les ondes qui ont les plus basses fréquences. Il s'étend des longueurs d'onde  
-	de quelques cm à plusieurs km. Relativement faciles à émettre et à recevoir, les ondes  
-	radio sont utilisées pour la transmission de l'information (radio, télévision et téléphone).  
-	La bande FM des postes de radio correspond à des longueurs d’onde de l’ordre du  
-	mètre, celles des téléphones cellulaires sont de 10 cm environ.
+	Ce domaine de longueurs d'onde est le plus vaste du spectre électromagnétique et concerne les ondes qui ont les plus basses fréquences. Il s'étend des longueurs d'onde  
+	de quelques cm à plusieurs km. Relativement faciles à émettre et à recevoir, les ondes radio sont utilisées pour la transmission de l'information (radio, télévision et téléphone).  
+	La bande FM des postes de radio correspond à des longueurs d’onde de l’ordre du mètre, celles des téléphones cellulaires sont de 10 cm environ.
 ### Exercices
 • Pour les ondes électromagnétiques dont la fréquence est donnée,  
 calculez la longueur d’onde. Pour les ondes électromagnétiques  
@@ -145,34 +120,18 @@ l’information numérique :
 ## Propagation dans l'environnement terrestre
 ![image](https://user-images.githubusercontent.com/19058019/236664937-36550db1-179f-4740-9ce6-b22dd3dfc39d.png)
 • Les différents types d’ondes :  
-	– L'onde directe : l'émetteur et le récepteur sont en inter visibilité, c'est le type de  
-	propagation des fréquences très élevées.  
-	– L'onde réfléchie : le sol conduit l'électricité et constitue un réflecteur des ondes radio  
-	d'autant meilleur qu'il est plus conducteur.  
-	Lors de l'émission d'une onde directe, une partie de l'énergie se dirige vers le sol où elle  
-	est réfléchie soit de manière utile car elle renforce l'onde directe, soit, de manière  
+	– L'onde directe : l'émetteur et le récepteur sont en inter visibilité, c'est le type de propagation des fréquences très élevées.  
+	– L'onde réfléchie : le sol conduit l'électricité et constitue un réflecteur des ondes radio d'autant meilleur qu'il est plus conducteur. Lors de l'émission d'une onde directe, une partie de l'énergie se dirige vers le sol où elle est réfléchie soit de manière utile car elle renforce l'onde directe, soit, de manière  
 	nuisible en créant des interférences.
-	– Les onde de surface ou de sol : ces ondes suivent la courbure de la terre (moyennes  
-	et basses fréquences), elles ont une grande stabilité mais seulement d'une portée limitée  
+	– Les onde de surface ou de sol : ces ondes suivent la courbure de la terre (moyennes et basses fréquences), elles ont une grande stabilité mais seulement d'une portée limitée  
 	(environ 500km).  
-	– Les ondes de ciel : ces ondes sont réfléchies par les couches ionisées de l'atmosphère.  
-	L'onde pénétrant dans une de ces couches subit une réfraction qui peut devenir  
-	suffisante pour qu'il y ait réflexion. L'onde est alors renvoyée vers le sol.  
-	Elles ont une portée  
-	mondiale, mais peuvent  
-	avoir des interférences  
-	avec l'onde de sol.
-	– Entre 3 kHz et 3 MHz la propagation se fait par onde de sol. C'est le cas des grandes  
-	ondes (AM).  
-	– Entre 3 MHz et 30 MHz la propagation se fait par réflexion sur l'ionosphère mais l'onde  
-	de sol et l'onde directe existent aussi. C'est le domaine des ondes courtes  
-	(radioamateurs).  
-	– Entre 30 MHz et 3 GHz la propagation se fait par onde directe mais aussi par réflexion  
-	sur le sol. C'est le cas de la radiodiffusion FM, de la télévision terrestre, de la téléphonie  
+	– Les ondes de ciel : ces ondes sont réfléchies par les couches ionisées de l'atmosphère. L'onde pénétrant dans une de ces couches subit une réfraction qui peut devenir suffisante pour qu'il y ait réflexion. L'onde est alors renvoyée vers le sol.  
+	Elles ont une portée mondiale, mais peuvent avoir des interférences avec l'onde de sol.
+	– Entre 3 kHz et 3 MHz la propagation se fait par onde de sol. C'est le cas des grandes ondes (AM).  
+	– Entre 3 MHz et 30 MHz la propagation se fait par réflexion sur l'ionosphère mais l'onde de sol et l'onde directe existent aussi. C'est le domaine des ondes courtes (radioamateurs).  
+	– Entre 30 MHz et 3 GHz la propagation se fait par onde directe mais aussi par réflexion sur le sol. C'est le cas de la radiodiffusion FM, de la télévision terrestre, de la téléphonie  
 	mobile.  
-	– Entre 3 GHz et 30 GHz la propagation se fait par onde directe, il y a peu de réflexions sur  
-	le sol car les antennes sont très directives (paraboles). C'est le cas des faisceaux  
-	hertziens et de la télévision par satellite.
+	– Entre 3 GHz et 30 GHz la propagation se fait par onde directe, il y a peu de réflexions sur le sol car les antennes sont très directives (paraboles). C'est le cas des faisceaux hertziens et de la télévision par satellite.
 ## Atténuation et absorption
 ![image](https://user-images.githubusercontent.com/19058019/236664950-72746b27-565e-4c30-be83-4e5a3e604914.png)
 ![image](https://user-images.githubusercontent.com/19058019/236664956-4cb4d46f-7a6f-486b-8ea6-7ae48249414f.png)
@@ -231,11 +190,9 @@ Quel est le rapport de tension correspondant ?
 – Dans certaines applications, on souhaite émettre ou recevoir  
 dans une direction précise.  
 – Exemples d'antennes directives :  
-• réception TV terrestre : chaque particulier pointe son antenne vers  
-l'émetteur  
+• réception TV terrestre : chaque particulier pointe son antenne vers l'émetteur  
 • réception satellite : le pointage d'une parabole n'est pas toujours aisé  
-• émission et réception radar : le radar des gendarmes ne doit pointer qu'un  
-véhicule à la fois  
+• émission et réception radar : le radar des gendarmes ne doit pointer qu'un véhicule à la fois  
 – Exemples d'antennes omnidirectionnelles :  
 • émission TV : l'émetteur « arrose » toute une région  
 • talkie-walkie : on ignore où se trouve l'autre poste  
@@ -248,8 +205,7 @@ véhicule à la fois
 ![image](https://user-images.githubusercontent.com/19058019/236665210-0174978e-b0bf-45d0-97ed-386a21bd5888.png)
 ### Examples exercices  
 – Une antenne isotrope n'a pas de gain => 0 dBi  
-– Une antenne dipôle possède un gain de 2,15 dB par  
-rapport à l'antenne isotrope.  
+– Une antenne dipôle possède un gain de 2,15 dB par rapport à l'antenne isotrope.  
 On dit aussi qu'elle a un gain de 2,15 dBi.  
 – Antenne de réception de télévision: 10 dBi  
 – Antenne autodirectrice de missile: 20 dBi  
@@ -271,14 +227,10 @@ On dit aussi qu'elle a un gain de 2,15 dBi.
 	électrique est émis dans une certaine direction par rapport à  
 	l'horizontale.  
 	– Si le champ électrique est parallèle à la surface de la terre, la  
-	polarisation est linéaire horizontale. Si il est perpendiculaire, la  
+	polarisation est linéaire horizontale. Si il est perpendiculaire, la
 	polarisation est linéaire verticale.  
-	– Pour qu'une liaison fonctionne correctement, il faut que l'antenne  
-	de réception soit polarisée de la même façon que l'antenne  
-	d'émission.  
-	– Certaines antennes rayonnes des ondes à polarisation elliptique.  
-	Avec ces antennes, le champs tourne au court de la propagation  
-	(utilisées avec des stations en mouvement : voitures, avions...).
+	– Pour qu'une liaison fonctionne correctement, il faut que l'antenne de réception soit polarisée de la même façon que l'antenne d'émission.  
+	– Certaines antennes rayonnes des ondes à polarisation elliptique. Avec ces antennes, le champs tourne au court de la propagation (utilisées avec des stations en mouvement : voitures, avions...).
 ## Bande passante  
 ![image](https://user-images.githubusercontent.com/19058019/236665630-745491e2-d2bc-40bc-a2f2-be875f0df869.png)
 ## Exemple
@@ -328,13 +280,10 @@ On dit aussi qu'elle a un gain de 2,15 dBi.
 ## Pourquoi traiter le signal  
 ### Utilités
 – Nécessité d'un spectre assez étroit pour limiter les différences  
-de vitesses des composantes de l'onde (dans un milieu  
-dispersif).  
+de vitesses des composantes de l'onde (dans un milieu dispersif).  
 – Les hautes fréquences se propagent mieux dans l'air que les  
-basses fréquences (voix, musique). Il est nécessaire de  
-transposer les fréquences.  
-– Le bruit peut être important en fonction de la fréquence de travail  
-et gêner le signal informatif.  
+basses fréquences (voix, musique). Il est nécessaire de transposer les fréquences.  
+– Le bruit peut être important en fonction de la fréquence de travail et gêner le signal informatif.  
 – Sans traitement du signal, il serait impossible à un auditeur de  
 s’y retrouver puisque toutes les ondes auraient la même gamme  
 de fréquences.
@@ -360,8 +309,7 @@ produit des signaux présents sur ses deux entrées.
 ![image](https://user-images.githubusercontent.com/19058019/236666065-43b85044-2704-4ded-8b97-810625c9c424.png)
 ## Chaîne de communication en propagation libre
 ### Modulation
-– La modulation doit permettre à une puissante porteuse d’émettre  
-par voie aérienne les informations utiles.
+– La modulation doit permettre à une puissante porteuse d’émettre par voie aérienne les informations utiles.
 ![image](https://user-images.githubusercontent.com/19058019/236666073-1e765857-3362-464b-94a3-e6e997440852.png)
 # chapitre 5 modulation analogique
 ## La modulation analogique
@@ -407,13 +355,12 @@ La modulation analogique
 ![image](https://user-images.githubusercontent.com/19058019/236666216-012ef0a1-bfd7-42f0-8218-b7949b99b9b8.png)
 ![image](https://user-images.githubusercontent.com/19058019/236666226-a771d836-b377-4332-9a73-0fe9e0d9dabc.png)
 • Puissance en modulation d'amplitude  
-	– Une portion très importante de la puissance transmise par la  
-	canal est affectée à la porteuse : 50 % dans le cas d'un taux de  
+	– Une portion très importante de la puissance transmise par la 
+	canal est affectée à la porteuse : 50 % dans le cas d'un taux de 
 	modulation de 1 et d'un signal sinusoïdal modulant.  
-	Seulement 25% de la puissance transmise est affecté à une des  
-	deux bandes latérales pour ce signal.  
+	Seulement 25% de la puissance transmise est affecté à une des deux bandes latérales pour ce signal.  
 	– La porteuse ne transporte aucune information.  
-	– Les deux bandes latérales correspondant au signal modulant  
+	– Les deux bandes latérales correspondant au signal modulant 
 	transportent la même information. La puissance nécessaire à  
 	cette transmission est superflue.
 ![image](https://user-images.githubusercontent.com/19058019/236666236-91188886-3959-4226-9124-3c9d1960e272.png)
@@ -424,11 +371,8 @@ La modulation analogique
 ![image](https://user-images.githubusercontent.com/19058019/236666282-0dfee0e1-42a3-4313-9093-aeaec9c19cb2.png)
 ## Modulation de fréquence
 • Principe  
-	– Lorsque la tension du signal modulant augmente, la fréquence  
-	du signal modulé augmente et lorsque la tension du signal  
-	modulant diminue, la fréquence du signal modulé diminue.  
-	– Une bande dédiée à la radiodiffusion FM allant de 88 à 108 MHz  
-	a été définie de façon international en 1945  
+	– Lorsque la tension du signal modulant augmente, la fréquence du signal modulé augmente et lorsque la tension du signal modulant diminue, la fréquence du signal modulé diminue.  
+	– Une bande dédiée à la radiodiffusion FM allant de 88 à 108 MHz a été définie de façon international en 1945  
 	– Quelques avantages :  
 	• puissance constante (volume des stations)  
 	• moindre sensibilité au bruit  
@@ -455,10 +399,7 @@ La modulation analogique
 ## Démodulation de fréquence
 • Démodulation par discriminateur  
 Le but du discriminateur est de dériver le signal modulé en fréquence.  
-L’amplitude est alors proportionnelle au signal modulant. Un détecteur  
-d’enveloppe permet d’extraire uniquement l’amplitude du signal modulant  
-Pour dériver le signal, on utilise un circuit de type filtre qui fait varier l’amplitude  
-en fonction de la fréquence
+L’amplitude est alors proportionnelle au signal modulant. Un détecteur d’enveloppe permet d’extraire uniquement l’amplitude du signal modulant Pour dériver le signal, on utilise un circuit de type filtre qui fait varier l’amplitude en fonction de la fréquence
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101641.png?raw=true)
 ## Modulation de phase
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101655.png?raw=true)
@@ -471,21 +412,16 @@ en fonction de la fréquence
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102100.png?raw=true)
 ## Transmissions numériques en bande de base
 • Principe  
-– La transmission numérique consiste à transmettre les informations sous  
-forme de signaux numériques.  
+– La transmission numérique consiste à transmettre les informations sous forme de signaux numériques.  
 – Des données analogiques devront préalablement être numérisées.  
-– La transformation d'information binaire sous forme d'un signal à deux  
-états est réalisée par un codeur bande de base (Les bits sont  
-représentés par des tensions).  
-– Le signal en bande de base ne subit pas de transposition de fréquence  
-et se réduit à un signal simple codé.  
+– La transformation d'information binaire sous forme d'un signal à deux états est réalisée par un codeur bande de base (Les bits sont représentés par des tensions).  
+– Le signal en bande de base ne subit pas de transposition de fréquence et se réduit à un signal simple codé.  
 – On transmet le signal directement sur le support des signaux
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102112.png?raw=true)
 • Débit binaire  
 – La source d'information émet des bits de manière régulière au  
 rythme d'un signal d'horloge.  
-– Une caractéristique d'un système de transmission numérique est  
-le nombre de bits transmis par seconde. C'est le débit binaire.  
+– Une caractéristique d'un système de transmission numérique est le nombre de bits transmis par seconde. C'est le débit binaire. 
 – Il dépend de l'application. Il faudra plus de bits/s pour  
 transmettre une image de télévision que pour transmettre de la  
 parole.
@@ -525,52 +461,34 @@ parole.
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102432.png?raw=true)
 ## Codes détecteurs et correcteurs d’erreurs
 Codes détecteurs et correcteurs d’erreurs  
-• Lorsque des données numériques sont stockées ou transmises, des  
-perturbations (par exemple électromagnétiques) peuvent les endommager.  
-• Les codes détecteurs et correcteurs d’erreurs permettent, de détecter si les  
-données ont été altérées et si c’est le cas, de reconstituer les données  
-d’origine par un mécanisme de correction
+• Lorsque des données numériques sont stockées ou transmises, des perturbations (par exemple électromagnétiques) peuvent les endommager.  
+• Les codes détecteurs et correcteurs d’erreurs permettent, de détecter si les données ont été altérées et si c’est le cas, de reconstituer les données d’origine par un mécanisme de correction
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102454.png?raw=true)
-• Utilisation dans les supports de stockage numériques que sont les CD, DVD  
-et disques Blu-ray.
+• Utilisation dans les supports de stockage numériques que sont les CD, DVD et disques Blu-ray.
 • Remarques préliminaires  
-	– Les ordinateurs ne connaissent que les chiffres 0 et 1. Cela suffit pour toutes les tâches  
-	qu’ils effectuent et les chiffres 0 et 1 s’appellent des bits  
-	– L’information est découpée en blocs de 0 et de 1 de longueur fixe, appelés des mots  
-	binaires.  
-	– La raison pour laquelle les ordinateurs travaillent en binaire est liée à leurs composants  
-	physiques : un transistor ou un condensateur possèdent deux états stables  
-	(activé/désactivé ou chargé/déchargé)  
-	– Lors du transfert et/ou du stockage d’information, des erreurs peuvent survenir : de  
-	temps en temps : un 1 devient un 0 ou inversement
-– Les codes détecteurs et correcteurs d’erreurs devront détecter les erreurs de  
-transmission et/ou de stockage et les corriger. Ils utilisent pour cela une stratégie de  
-consolidation, qui consiste à ajouter de l’information redondante.  
-• Avant émission : le codage consiste à consolider l’information par ajout de bits de contrôle.  
-Ces bits de contrôle ne contiennent pas une information nouvelle. C’est pourquoi on parle de  
+	– Les ordinateurs ne connaissent que les chiffres 0 et 1. Cela suffit pour toutes les tâches qu’ils effectuent et les chiffres 0 et 1 s’appellent des bits  
+	– L’information est découpée en blocs de 0 et de 1 de longueur fixe, appelés des mots binaires.  
+	– La raison pour laquelle les ordinateurs travaillent en binaire est liée à leurs composants physiques : un transistor ou un condensateur possèdent deux états stables (activé/désactivé ou chargé/déchargé)  
+	– Lors du transfert et/ou du stockage d’information, des erreurs peuvent survenir : de temps en temps : un 1 devient un 0 ou inversement
+– Les codes détecteurs et correcteurs d’erreurs devront détecter les erreurs de transmission et/ou de stockage et les corriger. Ils utilisent pour cela une stratégie de consolidation, qui consiste à ajouter de l’information redondante.  
+• Avant émission : le codage consiste à consolider l’information par ajout de bits de contrôle. Ces bits de contrôle ne contiennent pas une information nouvelle. C’est pourquoi on parle de  
 bits « redondants ».
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102531.png?raw=true)
-• Après réception : le décodage consiste, à partir du message reçu et en utilisant les  
-bits de contrôle, à détecter les erreurs puis corriger le message reçu pour retrouver  
-l’information initiale  
+• Après réception : le décodage consiste, à partir du message reçu et en utilisant les bits de contrôle, à détecter les erreurs puis corriger le message reçu pour retrouver l’information initiale  
 – Deux paramètres pour évaluer l’efficacité : la redondance du code
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102554.png?raw=true)
 • Exemple : code de parité  
-	– On utilise le code ASCII, chaque caractère occupe 8 bits. Par exemple, le  
-	mot  
+	– On utilise le code ASCII, chaque caractère occupe 8 bits. Par exemple, le mot  
 	« HELLO » est représenté par 10010000 10001011 10011001 10011001 10011111  
-	– Chaque caractère est codé sur 7 bits plus 1 bit de parité (bit de contrôle)  
-	en général placé avant les bits d’information  
+	– Chaque caractère est codé sur 7 bits plus 1 bit de parité (bit de contrôle) en général placé avant les bits d’information  
 	– Le bit de parité est calculé de telle sorte que le nombre total de 1 soit  
 	toujours pair (si on travaille avec un bit de parité pair) :  
 	• Ainsi pour la lettre H (1001000) => Mot de code : 1001000 0  
 	• Ainsi pour la lettre E (1000101) => Mot de code : 1000101 1  
-	– Le code de parité permet de détecter une anomalie lorsqu’il y a un  
-	nombre impair de bits erronés
+	– Le code de parité permet de détecter une anomalie lorsqu’il y a un nombre impair de bits erronés
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102620.png?raw=true)
 • Correcteurs d'erreurs  
-	– Permet non seulement de détecter des erreurs, mais aussi de  
-	les corriger.  
+	– Permet non seulement de détecter des erreurs, mais aussi de les corriger.  
 	– Quelques exemples :  
 		• Code de Hamming  
 		• Code de Reed-Solomon  
@@ -578,9 +496,7 @@ l’information initiale
 • Entrelacement  
 	– Si les erreurs arrivent en paquet, les codes détecteurs et  
 	correcteurs d'erreurs sont beaucoup moins efficaces.  
-	– L'entrelacement consiste à modifier l'ordre des données pour  
-	qu'une suite d'erreurs consécutives soient transformées en  
-	erreurs isolées après le désentrelacèrent.
+	– L'entrelacement consiste à modifier l'ordre des données pour qu'une suite d'erreurs consécutives soient transformées en erreurs isolées après le désentrelacèrent.
 • Exemple didactique d'entrelacement  
 	– On veut transmettre la phrase :  
 	« La télécommunication, c'est génial ! ».
@@ -599,23 +515,15 @@ l’information initiale
 	– Modulation Numérique d'Amplitude  
 • Principe  
 	– Consiste à transmettre  
-	un signal sinusoïdal de  
-	fréquence de la  
-	porteuse fc et  
-	d'amplitude :  
+	un signal sinusoïdal de fréquence de la porteuse fc et d'amplitude :  
 	• A0 si le bit est 0  
 	• A1 si le bit est 1
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102827.png?raw=true)
 	– La modulation ASK équivaut une modulation d'amplitude  
 	analogique.  
-	– Le signal à transmettre n'est plus  
-	analogique mais par exemple un  
-	signal NRZ.  
-	– Un cas particulier est la  
-	modulation OOK → On Off Keying.  
-	Dans cette modulation A0 est nulle.  
-	– La puissance émise par la  
-	modulation OOK est nulle  
+	– Le signal à transmettre n'est plus analogique mais par exemple un signal NRZ.  
+	– Un cas particulier est la modulation OOK → On Off Keying. Dans cette modulation A0 est nulle.  
+	– La puissance émise par la modulation OOK est nulle  
 	si le bit est à 0 → statistiquement la moitié du temps
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102854.png?raw=true)
 • Caractéristiques  
@@ -630,10 +538,7 @@ l’information initiale
 	– FSK → Frequency Shift Keying  
 	– Modulation Numérique de Fréquence  
 • Principe  
-	– Consiste à transmettre  
-	un signal sinusoïdal  
-	d'amplitude constante et  
-	de fréquence :  
+	– Consiste à transmettre un signal sinusoïdal d'amplitude constante et de fréquence :  
 		• f0 si le bit est 0  
 		• f1 si le bit est 1  
 	– Quelques applications  
@@ -644,13 +549,11 @@ l’information initiale
 	– Variante de la modulation FSK.  
 	– La modulation 4FSK permet une modulation à 4 états de  
 	fréquence.  
-	– Permet de diviser l'occupation spectrale par 2 en regroupant les  
-	bits à transmettre 2 par 2.
+	– Permet de diviser l'occupation spectrale par 2 en regroupant les bits à transmettre 2 par 2.
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103015.png?raw=true)
 • Modulation AFSK  
 	– Audio FSK.  
-	– La porteuse est un signal audible, transmis par exemple sur une  
-	liaison téléphone ou radio.  
+	– La porteuse est un signal audible, transmis par exemple sur une liaison téléphone ou radio.  
 	– L'AFSK ne permet pas des débits très rapides.  
 	– Les premiers modems utilisaient l'AFSK (jusqu'à 300 bits/s).  
 	– Les premiers micro-ordinateurs utilisaient des modulations AFSK  
@@ -661,9 +564,7 @@ l’information initiale
 	– PSK ou BPSK → Binary Phase Shift Keying  
 	– Modulation Numérique de Phase  
 • Principe  
-	– Consiste à transmettre un signal  
-	sinusoïdal d'amplitude constante  
-	dont l'expression est :  
+	– Consiste à transmettre un signal sinusoïdal d'amplitude constante dont l'expression est :  
 	• A.cos (ωc.t+φ0) si le bit est 0  
 	• A.cos (ωc.t+φ1) si le bit est 1  
 	– Généralement le déphasage est  
@@ -675,13 +576,9 @@ l’information initiale
 • Dénomination  
 	– QPSK → Quadrature Phase Shift Keying  
 • Principe  
-	– Deux porteuses  
-	déphasées de π/2  
-	vont être utilisées.  
-	– La porteuse de référence est  
-	appelée I pour « in phase ».  
-	– L'autre, déphasée de 90°  
-	est appelée Q pour « in quadrature ».  
+	– Deux porteuses déphasées de π/2 vont être utilisées.  
+	– La porteuse de référence est appelée I pour « in phase ».  
+	– L'autre, déphasée de 90° est appelée Q pour « in quadrature».  
 	– Les deux porteuses sont codées séparément en BPSK et  
 	additionnées pour former le signal QPSK.  
 	– Un sin déphasé de π/2 peut être écrit comme un cos.
@@ -689,13 +586,16 @@ l’information initiale
 	– Les deux signaux BPSQ sont additionnés pour donner :  
 	±sin(2πf0t)±cos(2πf0t)  
 	– Il y a 4 combinaisons possible:  
-	• 0 0 (0 sur le canal I et 0 sur le canal Q) → -sin(2πf0t)-cos(2πf0t)  
-	• 0 1 (0 sur le canal I et 1 sur le canal Q) → -sin(2πf0t)+cos(2πf0t)  
-	• 1 0 (1 sur le canal I et 0 sur le canal Q) → +sin(2πf0t)-cos(2πf0t)  
-	• 1 1 (1 sur le canal I et 1 sur le canal Q) → +sin(2πf0t)+cos(2πf0t)
+	• 0 0 (0 sur le canal I et 0 sur le canal Q) →
+	 -sin(2πf0t)-cos(2πf0t)  
+	• 0 1 (0 sur le canal I et 1 sur le canal Q) →
+	 -sin(2πf0t)+cos(2πf0t)  
+	• 1 0 (1 sur le canal I et 0 sur le canal Q) →
+	 +sin(2πf0t)-cos(2πf0t)  
+	• 1 1 (1 sur le canal I et 1 sur le canal Q) →
+	 +sin(2πf0t)+cos(2πf0t)
 • Constellation  
-	– La constellation QPSK est un graphique qui montre l'amplitude  
-	et la phase de chacune de 4 possibilités.  
+	– La constellation QPSK est un graphique qui montre l'amplitude et la phase de chacune de 4 possibilités.  
 	– Les amplitudes ±1 des sinus sont représentées sur l'axe I  
 	(déphasage nul).  
 	– Les amplitudes ±1 des cosinus sont représentées sur l'axe Q  
@@ -709,29 +609,24 @@ l’information initiale
 	• 11 → déphasage de 45°
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103255.png?raw=true)
 • Analyse d'une constellation reçue  
-	– Un analyseur de champ permet de visualiser une constellation  
-	reçue.  
-	– Ces équipements sont utilisés pour qualifier les installations de  
-	réception télévisée par satellite ou terrestre.  
-	– La modulation QPSK résiste très bien  
-	au bruit, il suffit de déterminer dans  
-	quel quadrant le point se trouve.  
+	– Un analyseur de champ permet de visualiser une constellation reçue.  
+	– Ces équipements sont utilisés pour qualifier les installations de réception télévisée par satellite ou terrestre.  
+	– La modulation QPSK résiste très bien au bruit, il suffit de déterminer dans quel quadrant le point se trouve.  
 	Un écart important peut être permis  
 	sans qu'il n'y ait d'erreur.
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103317.png?raw=true)
 • Exemple
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103333.png?raw=true)
 	– Le signal rouge représente la porteuse cohérente.  
-	– En noir, le signal QPSK transmis → l'amplitude reste la même  
+	– En noir, le signal QPSK transmis → l'amplitude reste la même 
 	contrairement à la phase.  
 	– Pour une modulation réelle, la fréquence de la porteuse est  
 	d'environ 100 périodes par symbole.
 ## La modulation 8PSK
 • Modulation 8PSK  
 	– Les bits à transmettre sont regroupés par 3.  
-	– Deux points adjacents sur la constellation ne diffèrent que d'un  
-	bit.  
-	– S'il y a une erreur de décodage, elle ne sera que sur un bit et  
+	– Deux points adjacents sur la constellation ne diffèrent que d'un bit.  
+	– S'il y a une erreur de décodage, elle ne sera que sur un bit et 
 	pourra être plus facilement corrigée.
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103409.png?raw=true)
 ## La modulation 8QAM
@@ -740,8 +635,7 @@ l’information initiale
 	– La modulation QAM combine la modulation ASK et PSK.  
 	– Les bits à transmettre sont regroupés par 3 pour 8QAM.  
 	– Il y a donc 8 combinaisons différentes : 23 = 8.  
-	– Prenons 2 amplitudes combinées avec 4 décalages de phases  
-	différents.
+	– Prenons 2 amplitudes combinées avec 4 décalages de phases différents.
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103440.png?raw=true)
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103448.png?raw=true)
 • Modulation 8QAM  
@@ -749,8 +643,7 @@ l’information initiale
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103516.png?raw=true)
 ## La modulation à plus de 4 états
 • Modulation 16QAM  
-	– On regroupe les bits par 4. Les signaux I et Q peuvent avoir 4  
-	états.  
+	– On regroupe les bits par 4. Les signaux I et Q peuvent avoir 4  états.  
 	• I → ±1V  
 	• I* → ±3V  
 	• Q → ±1V  
@@ -776,27 +669,17 @@ l’information initiale
 • Modulation 64QAM et au delà  
 	– 64QAM : On peut créer des signaux I et Q à 8 états. Les bits  
 	sont alors regroupés par 6. On obtient une constellation à 64  
-	(8*8) états d'amplitude et de phase. Cette modulation est utilisée  
+	(8*8) états d'amplitude et de phase. Cette modulation est utilisée 
 	en TNT.  
-	– 256QAM : Avec des signaux I et Q à 16 niveaux de tension, on  
+	– 256QAM : Avec des signaux I et Q à 16 niveaux de tension, on 
 	obtient une constellation à 256 (16*16) états d'amplitude et de  
 	phase. Cette modulation est utilisée en télévision par câble.  
-	– On rencontre peu d'application  
-	utilisant une modulation de plus  
-	de 256 états. En effet, la distance  
-	entre deux symboles devient trop  
-	petite et le bruit entraîne alors de  
-	nombreuses erreurs.
+	– On rencontre peu d'application utilisant une modulation de plus de 256 états. En effet, la distance entre deux symboles devient trop petite et le bruit entraîne alors de nombreuses erreurs.
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103708.png?raw=true)
 • Nombre de bit par symbole  
 	– La modulation QAM est capable de transporter plus de bits  
-	d'information par symbole. En choisissant un nombre d'état QAM  
-	plus élevé, le débit de donnée d'une liaison est augmenté.  
-	– Le tableau ci-dessous donne un résumé des débits en fonction  
-	des types de modulations de données numériques.
+	d'information par symbole. En choisissant un nombre d'état QAM plus élevé, le débit de donnée d'une liaison est augmenté.  
+	– Le tableau ci-dessous donne un résumé des débits en fonction des types de modulations de données numériques.
 	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103727.png?raw=true)
-	
-
-
 
 

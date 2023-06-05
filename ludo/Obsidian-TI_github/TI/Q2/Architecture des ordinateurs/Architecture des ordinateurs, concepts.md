@@ -875,11 +875,6 @@ pensées RISC.
 - Il y a des fabricants de cartes diverses
 - Et tout doit fonctionner « pareil »
 
-- Aujourd’hui, c’est pareil
-- Il y a des fabricants de CPU
-- Il y a des fabricants de cartes diverses
-- Et tout doit fonctionner « pareil »
-
 - Évolution des performances => évolution de la consommation
 - Technologie actuelle : CMOS
 - Dissipation = puissance dynamique

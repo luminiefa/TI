@@ -177,12 +177,25 @@
             }
           },
           {
-            "id": "12c73038c5f100ea",
+            "id": "07895a43db91f6a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b477b5a34c2ef61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -190,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -266,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md"
               }
             }
           }
@@ -315,8 +328,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -330,28 +342,31 @@
       "note-synchronizer:Synchronize": false
     }
   },
-  "active": "5f2b9c1aebb7ae6e",
+  "active": "8b477b5a34c2ef61",
   "lastOpenFiles": [
+    "ludo/Q2/SQL/linkToMovies.txt",
+    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
+    "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electro appliqué labo.md",
+    "ludo/Q2/labo/Raspberry/manip1",
+    "ludo/Q2/labo/Raspberry/manip2",
+    "ludo/Q2/labo/Raspberry/manip3",
+    "ludo/Q2/labo/Raspberry/manip4",
+    "ludo/Q2/labo/Raspberry/manip5",
+    "ludo/Q2/labo/Raspberry",
+    "ludo/Q2/labo/tinkercad/ex1",
+    "ludo/Q2/labo/tinkercad/ex2",
+    "ludo/Q2/labo/tinkercad/ex3",
+    "ludo/Q2/labo/tinkercad/ex4",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
     "présentation détaillées sur les cours.canvas",
     "zigzag/zigzag.md",
-    "zigzag/test_program_not_found.py",
-    "zigzag/v1_main.py",
-    "zigzag/test_main.py",
-    "zigzag/test_log_manager.py",
-    "zigzag/test_log.py",
-    "zigzag/test.py",
-    "zigzag/pylintrc",
     "zigzag/projets exercice.md",
-    "zigzag/program_not_found.py",
-    "zigzag/log_manager.py",
-    "zigzag/main.py",
     "ludo/Q2/tinkercad/Exercices terminés TinkerCad.md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts-DESKTOP-62P46AN.md",
     "ludo/Obsidian-TI_github/TI/Q1/secuBienEtre.md",
     "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electroAppliqué ex.md",
-    "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electro appliqué labo.md",
     "Untitled.md",
     "FlashCards/systm.Exploit, labo/Audits/pouvez-vous utiliser l'Éditeur de registre pour modif le screen par défaut de tous les users sous W. Quelle est la clé de registre associée à cette modification..md",
     "FlashCards/systm.Exploit, labo/Audits/Expliquez étapes pour déplacer le chemin par défaut des profils des users vers un autre lecteur que celui de l'OS sous W. Quels sont les avantages de cette modification ..md",
@@ -366,9 +381,6 @@
     "FlashCards/intro aux BD/chapitre3/Qu'est-ce que le langage SQL..md",
     "FlashCards/intro aux BD/chapitre3/Qu'est-ce qu'une jointure réflexive..md",
     "FlashCards/intro aux BD/chapitre3/Nommez les cinq sous-langages de SQL..md",
-    "FlashCards/intro aux BD/chapitre2/Quelle est la différence entre une clé candidate et une clé unique..md",
-    "FlashCards/intro aux BD/chapitre2/Qu'est-ce qu'une contrainte d'intégrité référentielle..md",
-    "FlashCards/intro aux BD/chapitre2/Qu'est-ce qu'une clé primaire..md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132128.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230420212214.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501130724.png",
