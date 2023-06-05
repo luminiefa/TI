@@ -671,11 +671,12 @@ si le bit est à 0 → statistiquement la moitié du temps
 	
 • Exemple
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103333.png?raw=true)
-	– Le signal rouge représente la porteuse cohérente.  
-	– En noir, le signal QPSK transmis → l'amplitude reste la même 
-	contrairement à la phase.  
-	– Pour une modulation réelle, la fréquence de la porteuse est  
-	d'environ 100 périodes par symbole.
+
+– Le signal rouge représente la porteuse cohérente.  
+– En noir, le signal QPSK transmis → l'amplitude reste la même 
+contrairement à la phase.  
+– Pour une modulation réelle, la fréquence de la porteuse est  
+d'environ 100 périodes par symbole.
 ## La modulation 8PSK
 • Modulation 8PSK  
 	– Les bits à transmettre sont regroupés par 3.  
@@ -693,6 +694,7 @@ si le bit est à 0 → statistiquement la moitié du temps
 	– Prenons 2 amplitudes combinées avec 4 décalages de phases différents.
 	
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103440.png?raw=true)
+
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103448.png?raw=true)
 
 • Modulation 8QAM  
