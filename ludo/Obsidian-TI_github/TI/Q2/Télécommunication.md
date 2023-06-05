@@ -284,6 +284,9 @@ On dit aussi qu'elle a un gain de 2,15 dBi.
 ![image](https://user-images.githubusercontent.com/19058019/236665953-6d5ac666-d514-474d-942e-09131b076d1c.png)
 
 #àFaire faire des ex sur autres signaux que celui carré car trop facile pour l'examen !
+
+#àFaire insérer ex signal carré
+
 ## Pourquoi traiter le signal  
 ### Utilités
 – Nécessité d'un spectre assez étroit pour limiter les différences  
