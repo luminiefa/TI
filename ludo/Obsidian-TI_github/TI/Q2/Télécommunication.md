@@ -536,15 +536,17 @@ bits « redondants ».
 	« La télécommunication, c'est génial ! ».
 	
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102714.png?raw=true)
-	– Sans entrelacement on reçoit :  
-		« La télécoFFFFFcation, c'est génial ! ».
+
+– Sans entrelacement on reçoit :  
+	« La télécoFFFFFcation, c'est génial ! ».
 • Exemple didactique d'entrelacement  
 	– On veut transmettre la phrase :  
 		« La télécommunication, c'est génial ! ».
 		
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102750.png?raw=true)
-	– Avec entrelacement on reçoit :  
-		« LF télécoFmunication,Fc'esF géFial ! ».
+	
+– Avec entrelacement on reçoit :  
+	« LF télécoFmunication,Fc'esF géFial ! ».
 ## La modulation ASK
 • Dénominations  
 	– ASK → Amplitude Shift Keying  
