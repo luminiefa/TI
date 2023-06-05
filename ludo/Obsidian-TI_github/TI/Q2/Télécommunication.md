@@ -170,6 +170,7 @@ La hauteur de végétation moyenne est de 19 m (il n'y a aucun relief)
 
 ![image](https://user-images.githubusercontent.com/19058019/236665106-229cdae6-a867-412d-8e40-9ad13d0a737c.png)
 ![image](https://user-images.githubusercontent.com/19058019/236665115-ee87c951-3b2d-4ecf-846c-1e9cffa10b82.png)
+
 • Exercices  
 – On injecte en entrée d'un amplificateur une puissance  
 de 10 mW.  
@@ -335,6 +336,7 @@ La modulation analogique
 	– La transmission d'un signal par liaison hertzienne nécessite « d'accrocher » ce signal à une porteuse (carrier) de haute fréquence, c'est l'opération de modulation.  
 	– L'onde porteuse est un signal sinusoïdal sc(t) de fréquence fc.  
 		![image](https://user-images.githubusercontent.com/19058019/236666121-baecab54-79fa-4231-ad68-658d31e843cf.png)
+		
 		• Ac : Amplitude de la porteuse  
 		• ωc : Pulsation de la porteuse  
 		• φc : Phase à l'origine de la porteuse  
@@ -346,21 +348,24 @@ La modulation analogique
 	varie proportionnellement au message.  
 	• La modulation de phase : la phase  
 	instantanée de la porteuse varie linéairement avec le message.
-	
 	![image](https://user-images.githubusercontent.com/19058019/236666141-f4a0ed1f-518e-48ed-9aef-b9641215574d.png)
+	
 ## Modulation d'amplitude
 • Définition  
 	– Dans une modulation d'amplitude à porteuse complète,  
 	l'amplitude varie linéairement avec le message à transmettre.  
 	– x(t) étant le signal à transmettre, il va être additionné à l'amplitude de la porteuse.
 	![image](https://user-images.githubusercontent.com/19058019/236666174-94281b1b-3532-44fd-a07f-2618557e5864.png)
+	
 • Enveloppe du signal modulé en amplitude
 ![image](https://user-images.githubusercontent.com/19058019/236666184-b7ee9323-19bc-4347-83c2-1f4f680f1f29.png)
+
 • Taux de modulation  
 ![image](https://user-images.githubusercontent.com/19058019/236666196-08706d99-ab96-4bba-bc4e-cdf5399108ca.png)
 ![image](https://user-images.githubusercontent.com/19058019/236666207-1a30cd47-4cab-4eb0-8baa-0916c8a4793f.png)
 ![image](https://user-images.githubusercontent.com/19058019/236666216-012ef0a1-bfd7-42f0-8218-b7949b99b9b8.png)
 ![image](https://user-images.githubusercontent.com/19058019/236666226-a771d836-b377-4332-9a73-0fe9e0d9dabc.png)
+
 • Puissance en modulation d'amplitude  
 	– Une portion très importante de la puissance transmise par la 
 	canal est affectée à la porteuse : 50 % dans le cas d'un taux de 
@@ -368,8 +373,8 @@ La modulation analogique
 	Seulement 25% de la puissance transmise est affecté à une des deux bandes latérales pour ce signal.  
 	– La porteuse ne transporte aucune information.  
 	– Les deux bandes latérales correspondant au signal modulant 
-	transportent la même information. La puissance nécessaire à  
-	cette transmission est superflue.
+	transportent la même information. La puissance nécessaire à cette transmission est superflue.
+	
 ![image](https://user-images.githubusercontent.com/19058019/236666236-91188886-3959-4226-9124-3c9d1960e272.png)
 ![image](https://user-images.githubusercontent.com/19058019/236666245-40998bcb-45cd-4c99-8a0a-ab91b32f34d7.png)
 ## Démodulation d'amplitude
@@ -390,6 +395,7 @@ La modulation analogique
 ![image](https://user-images.githubusercontent.com/19058019/236666305-af27cb4a-aee3-43ce-912c-147ac6f89477.png)
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101535.png?raw=true)
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101547.png?raw=true)
+
 • Indice de modulation (exercice)  
 	– En radiodiffusion FM, la fréquence des porteuses varie  
 	généralement entre 88 MHz et 108 MHz.  
@@ -410,6 +416,7 @@ L’amplitude est alors proportionnelle au signal modulant. Un détecteur d’en
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101641.png?raw=true)
 ## Modulation de phase
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101655.png?raw=true)
+
 • Principe  
 	– On constate que la forme du signal modulé en modulation de phase a la même forme que celui modulé en fréquence.  
 	– Il est en avance d'un quart de période ( 90°), ce qui correspond à une dérivation du signal modulant.
@@ -425,17 +432,19 @@ L’amplitude est alors proportionnelle au signal modulant. Un détecteur d’en
 – Le signal en bande de base ne subit pas de transposition de fréquence et se réduit à un signal simple codé.  
 – On transmet le signal directement sur le support des signaux
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102112.png?raw=true)
+
 • Débit binaire  
 – La source d'information émet des bits de manière régulière au  
 rythme d'un signal d'horloge.  
 – Une caractéristique d'un système de transmission numérique est le nombre de bits transmis par seconde. C'est le débit binaire. 
 – Il dépend de l'application. Il faudra plus de bits/s pour  
-transmettre une image de télévision que pour transmettre de la  
-parole.
+transmettre une image de télévision que pour transmettre de la parole.
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102159.png?raw=true)
+
 • Codage NRZ bipolaire (non return to zero)  
 	– Un 0 logique est codé -a pendant la durée du bit  
 	– Un 1 logique est codé +a pendant la durée du bit
+	
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102225.png?raw=true)
 	– Une suite de 0 ou de 1 est difficile à compter  
 	– Mauvaise adaptation au support (spectre centré sur la fr. nulle)  
