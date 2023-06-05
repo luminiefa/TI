@@ -285,7 +285,8 @@ On dit aussi qu'elle a un gain de 2,15 dBi.
 
 #àFaire faire des ex sur autres signaux que celui carré car trop facile pour l'examen !
 
-#àFaire insérer ex signal carré
+![telecom ex signal carré_230605_113656_1](https://github.com/luminiefa/TI/assets/19058019/0fd5f2f6-05c0-408c-870c-355cb15957eb)
+![telecom ex signal carré_230605_113656_2](https://github.com/luminiefa/TI/assets/19058019/25ec3799-877f-45d7-89a4-de7a82a328f6)
 
 ## Pourquoi traiter le signal  
 ### Utilités
@@ -401,6 +402,8 @@ La modulation analogique
 • Indice de modulation (exercice)
 
 #àFaire insérer modulation de fréquence
+![telecom modulation de fréquence_230605_114124_1](https://github.com/luminiefa/TI/assets/19058019/7cc23ecc-9fcf-4423-b210-f5cbaec05931)
+![telecom modulation de fréquence_230605_114124_2](https://github.com/luminiefa/TI/assets/19058019/7830651b-c510-4169-8a76-53e8841cb075)
 
 – En radiodiffusion FM, la fréquence des porteuses varie  
 généralement entre 88 MHz et 108 MHz.  
@@ -488,8 +491,8 @@ transmettre une image de télévision que pour transmettre de la parole.
 	– Codez en NRZ, Manchester et NRZ-I la suite de bits suivants :  
 	1001 1111 0001 0001
 	
-#àFaire insérer comment faire modulation numérique
-	
+![telecom comment faire modualtion numérique_230605_114320](https://github.com/luminiefa/TI/assets/19058019/61372419-c9fe-4483-9f16-191ae6b2ad74)
+
 • Quelques applications
 
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102432.png?raw=true)
@@ -742,7 +745,8 @@ d'environ 100 périodes par symbole.
 	
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415103643.png?raw=true)
 	
-#àFaire insérer 16QAM 16PSK
+![telecom 16QAM 16PSK_230605_114455](https://github.com/luminiefa/TI/assets/19058019/bbbde671-7c5c-49cb-aa57-7315232aa0c0)
+
 	
 • Modulation 64QAM et au delà  
 	– 64QAM : On peut créer des signaux I et Q à 8 états. Les bits  
@@ -968,4 +972,5 @@ pas fixé en PPM différentiel.
 impulsions (champs externes) sont très difficiles (voire
 impossible) à détecter.
 
-#àFaire insérer CAN ou CNA
+![telecom CAN ou CNA_230605_114531](https://github.com/luminiefa/TI/assets/19058019/645242b0-2892-4e3a-bdfa-83d635ad1e78)
+
