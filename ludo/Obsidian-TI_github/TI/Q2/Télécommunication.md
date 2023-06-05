@@ -447,6 +447,7 @@ transmettre une image de télévision que pour transmettre de la parole.
 	– Une suite de 0 ou de 1 est difficile à compter  
 	– Mauvaise adaptation au support (spectre centré sur la fr. nulle)  
 	– Peu de transitions, donc difficulté de synchronisation d'horloge
+	
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102225.png?raw=true)
 
 • Codage NRZ unipolaire :  
@@ -474,6 +475,7 @@ transmettre une image de télévision que pour transmettre de la parole.
 	– Beaucoup de transitions, donc facilité de synchronisation d'horloge
 	
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102345.png?raw=true)
+
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102353.png?raw=true)
 	
 • Exercice  
@@ -532,13 +534,15 @@ bits « redondants ».
 • Exemple didactique d'entrelacement  
 	– On veut transmettre la phrase :  
 	« La télécommunication, c'est génial ! ».
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102714.png?raw=true)
+	
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102714.png?raw=true)
 	– Sans entrelacement on reçoit :  
 		« La télécoFFFFFcation, c'est génial ! ».
 • Exemple didactique d'entrelacement  
 	– On veut transmettre la phrase :  
 		« La télécommunication, c'est génial ! ».
-	![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102750.png?raw=true)
+		
+![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415102750.png?raw=true)
 	– Avec entrelacement on reçoit :  
 		« LF télécoFmunication,Fc'esF géFial ! ».
 ## La modulation ASK
