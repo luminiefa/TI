@@ -398,16 +398,19 @@ La modulation analogique
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101535.png?raw=true)
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101547.png?raw=true)
 
-• Indice de modulation (exercice)  
-	– En radiodiffusion FM, la fréquence des porteuses varie  
-	généralement entre 88 MHz et 108 MHz.  
-	– Dans notre cas :  
-	• la fréquence de la porteuse sera fc = 100 MHz  
-	• l’excursion de fréquence est Δf = 75 kHz  
-	• la fréquence du signal modulant est comprise entre 10 Hz et 15 kHz  
-	– Quelles sont les fréquences instantanées minimale et  
-	maximale ?  
-	– Quelles sont les indices de modulations minimum et maximum ?
+• Indice de modulation (exercice)
+
+#àFaire insérer modulation de fréquence
+
+– En radiodiffusion FM, la fréquence des porteuses varie  
+généralement entre 88 MHz et 108 MHz.  
+– Dans notre cas :  
+• la fréquence de la porteuse sera fc = 100 MHz  
+• l’excursion de fréquence est Δf = 75 kHz  
+• la fréquence du signal modulant est comprise entre 10 Hz et 15 kHz  
+– Quelles sont les fréquences instantanées minimale et  
+maximale ?  
+– Quelles sont les indices de modulations minimum et maximum ?
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101610.png?raw=true)
 ![image](https://github.com/luminiefa/TI/blob/main/ludo/Obsidian-TI_github/TI/Pasted%20image/Pasted%20image%2020230415101621.png?raw=true)
 
