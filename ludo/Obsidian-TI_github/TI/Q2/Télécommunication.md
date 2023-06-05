@@ -967,3 +967,5 @@ pas fixé en PPM différentiel.
 – Un gros inconvénient des D-PPM et PPM : les fausses
 impulsions (champs externes) sont très difficiles (voire
 impossible) à détecter.
+
+#àFaire insérer CAN ou CNA
