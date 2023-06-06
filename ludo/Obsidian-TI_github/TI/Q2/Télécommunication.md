@@ -895,7 +895,6 @@ la fréquence constante.
 – On peut distinguer les deux états
 • 0 → « duty cycle » de 10 % correspondant à un bit à 0
 • 1 → « duty cycle » de 90 % correspondant à un bit à 1
-## Pulse Width Modulation
 • Transmission d'un signal analogique
 – PWM est également largement utilisé pour moduler, transmettre
 et démoduler les signaux analogiques.
@@ -943,7 +942,6 @@ impulsions.
 – Cette méthode a un grand désavantage. Le décodage du signal
 exige que le décodeur dispose d'une horloge parfaitement
 synchronisée avec l'émetteur.
-## Pulse Position Modulation
 • Signal numérique → Differential PPM
 – La PPM différentielle est une variante de la modulation PPM.
 – Elle permet la transmission des données indépendamment d'une
@@ -954,7 +952,6 @@ précédente
 ![image](https://github.com/luminiefa/TI/assets/19058019/b12137b3-9744-450d-851d-7c0c3ccf1000)
 
 – De nombreuses télécommandes TV utilisent cette modulation.
-## Pulse Position Modulation
 • Signal numérique → Differential PPM
 – Contrairement à la PPM simple, la longueur du signal codé n'est
 pas fixé en PPM différentiel.
