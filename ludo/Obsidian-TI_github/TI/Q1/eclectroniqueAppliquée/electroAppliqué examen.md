@@ -20,3 +20,6 @@
 ![image](https://github.com/luminiefa/TI/assets/19058019/30738c4e-b1a5-49b7-aa38-39058d967336)
 ![image](https://github.com/luminiefa/TI/assets/19058019/64e8e345-0143-4280-a086-112f7589bbbd)
 
+# Corrigé de l'examen
+![image](https://github.com/luminiefa/TI/assets/19058019/f2a57892-aeea-4fd7-8c8c-9bc4c9637226)
+![image](https://github.com/luminiefa/TI/assets/19058019/3d7a5c07-ad31-4cfa-9b01-a63c3bc77f4c)
