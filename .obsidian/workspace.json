@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26ef1c8eaa649284",
+            "id": "b1320ecd8d0fd01e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FlashCards/Anglais/Present Simple, Present continuous/2. She is listenning to the radio while she's driving. (to listen).md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "64de8ce225b78b5d",
+            "id": "817469678577c6bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
+                "file": "FlashCards/Anglais/Present Simple, Present continuous/She _____ her homework at the library. (to do).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FlashCards/Anglais/Present Simple, Present continuous/2. She is listenning to the radio while she's driving. (to listen).md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FlashCards/Anglais/Present Simple, Present continuous/2. She is listenning to the radio while she's driving. (to listen).md",
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FlashCards/Anglais/Present Simple, Present continuous/2. She is listenning to the radio while she's driving. (to listen).md"
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md"
               }
             }
           }
@@ -172,22 +172,37 @@
       "note-synchronizer:Synchronize": false
     }
   },
-  "active": "26ef1c8eaa649284",
+  "active": "b1320ecd8d0fd01e",
   "lastOpenFiles": [
-    "FlashCards/Physique/ch1/Comment convertir des unités de température entre les échelles Celsius et Kelvin..md",
-    "FlashCards/Anglais/Present Simple, Present continuous/2. She is listenning to the radio while she's driving. (to listen).md",
+    "FlashCards/Anglais/Present Simple, Present continuous/She _____ her homework at the library. (to do).md",
+    "Templates/Texte à trous.md",
+    "Templates/Généralités (deux sens).md",
+    "Templates/Basique (saisissez la réponse).md",
+    "Templates/Basique (carte inversée optionnelle).md",
+    "Templates/Basique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
+    "FlashCards/Anglais/Present Simple, Present continuous/They ______ a new house next month. (to buy).md",
+    "FlashCards/Anglais/Present Simple, Present continuous/We ______ to the beach next weekend. (to go).md",
+    "FlashCards/Anglais/Present Simple, Present continuous/She _____ to music while she's cooking. (to listen).md",
+    "FlashCards/Anglais/Present Simple, Present continuous/She ______ to the radio while she's driving. (to listen).md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts-DESKTOP-62P46AN.md",
+    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
+    "FlashCards/Anglais/Present Simple, Present continuous/We _____ a picnic in the park tomorrow. (to have).md",
+    "FlashCards/Anglais/Present Simple, Present continuous/test2.md",
+    "FlashCards/Anglais/Present Simple, Present continuous/test.md",
+    "FlashCards/Anglais/Present Simple, Present continuous/What time ______  your classes start. (to begin).md",
+    "FlashCards/Anglais/Present Simple, Present continuous/They _______ a movie tonight. (to watch).md",
+    "FlashCards/Anglais/Present Simple, Present continuous/Exemple de flashcard.md",
+    "FlashCards/Anglais/Present Simple, Present continuous/she {{c1}} to the radio while she's driving.md",
+    "FlashCards/Anglais/Present Simple, Present continuous/La capitale du Japon est ....md",
+    "FlashCards/Anglais/Present Simple, Present continuous/texte a trou.md",
+    "FlashCards/Anglais/Present Simple, Present continuous/She is listenning to the radio while she's driving.md",
+    "FlashCards/Physique/ch1/Comment convertir des unités de température entre les échelles Celsius et Kelvin..md",
     "FlashCards/Anglais/Present Simple, Present continuous",
     "FlashCards/Anglais",
     "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
-    "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electroAppliqué examen.md",
-    "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md",
-    "FlashCards/systm.Exploit, concepts/Quels sont les objectifs principaux de l'ordonnancement en informatique..md",
-    "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electro appliqué labo.md",
-    "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
     "ludo/Q2/SQL/linkToMovies.txt",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
     "ludo/Q2/labo/Raspberry/manip1",
     "ludo/Q2/labo/Raspberry/manip2",
     "ludo/Q2/labo/Raspberry/manip3",
@@ -195,22 +210,7 @@
     "ludo/Q2/labo/Raspberry/manip5",
     "ludo/Q2/labo/Raspberry",
     "ludo/Q2/labo/tinkercad/ex1",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
     "présentation détaillées sur les cours.canvas",
-    "zigzag/zigzag.md",
-    "zigzag/projets exercice.md",
-    "ludo/Q2/tinkercad/Exercices terminés TinkerCad.md",
-    "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts-DESKTOP-62P46AN.md",
-    "ludo/Obsidian-TI_github/TI/Q1/secuBienEtre.md",
-    "Untitled.md",
-    "FlashCards/systm.Exploit, labo/Audits/pouvez-vous utiliser l'Éditeur de registre pour modif le screen par défaut de tous les users sous W. Quelle est la clé de registre associée à cette modification..md",
-    "FlashCards/systm.Exploit, labo/Audits/Expliquez étapes pour déplacer le chemin par défaut des profils des users vers un autre lecteur que celui de l'OS sous W. Quels sont les avantages de cette modification ..md",
-    "FlashCards/systm.Exploit, labo/Audits/Expliquez le rôle du répertoire _Public_ sous Windows et comment les différents utilisateurs peuvent partager des fichiers en utilisant ce répertoire..md",
-    "FlashCards/systm.Exploit, labo/Audits/Expliquez le processus pour surveiller les connexions users (ouvertures et fermetures de session) à l'aide de l'Observateur d'événements dans W..md",
-    "FlashCards/systm.Exploit, labo/Audits/Décrivez les étapes pour activer auto la touche Num Lock au démarrage de W à l'aide de l'Éditeur de registre..md",
-    "FlashCards/systm.Exploit, labo/Audits/Conf l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
-    "FlashCards/systm.Exploit, labo/Audits/Comment modifier le profil par défaut sous W pour que les paramètres d'un prog, par ex Firefox, soient appliqués à tous les nouveaux utilisateurs qui se connectent au pc ..md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132128.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230420212214.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501130724.png",

@@ -7,124 +7,44 @@
     "highlightAsCloze": false
   },
   "noteState": {
-    "1682365163694": {
-      "deck": "FlashCards::Physique::ch1",
-      "hash": "3615cb0415d0c71e1201c51c8db81d52",
+    "1689601500246": {
+      "deck": "FlashCards::Anglais::Present Simple, Present continuous",
+      "hash": "addecc83d6838c569e91095892564d06",
       "tags": []
     },
-    "1682505554839": {
-      "deck": "FlashCards::systm.Exploit, labo::NTFS",
-      "hash": "d97d7d2f2036206b8880715f2b287149",
+    "1689601696636": {
+      "deck": "FlashCards::Anglais::Present Simple, Present continuous",
+      "hash": "9f3f6ebd26b4272a052e33ee3a86b90c",
       "tags": []
     },
-    "1682979927492": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "62d38bc41b9883db1a2d12206252bc0c",
+    "1689601961747": {
+      "deck": "FlashCards::Anglais::Present Simple, Present continuous",
+      "hash": "135f6e0ad5151ae1aa6a9a3def6df647",
       "tags": []
     },
-    "1682979927562": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "9f1893b4b2bfd731463948d1b3955a32",
+    "1689601961776": {
+      "deck": "FlashCards::Anglais::Present Simple, Present continuous",
+      "hash": "dbaa2d22c3357b2d097a8be6ee891aa2",
       "tags": []
     },
-    "1682979927593": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "b5b75d67d98aee93526763b5127bbba0",
+    "1689602780059": {
+      "deck": "FlashCards::Anglais::Present Simple, Present continuous",
+      "hash": "991dfef8ba7d8d35f97996cce9c9c56e",
       "tags": []
     },
-    "1682979927624": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "6f7b9cbfa4a2225f6f1d1e26b3835cea",
+    "1689602780089": {
+      "deck": "FlashCards::Anglais::Present Simple, Present continuous",
+      "hash": "6ce69ca5097a65a670326a67360c1ae3",
       "tags": []
     },
-    "1682979927656": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "7f33e93046e95ec7245582798d856324",
+    "1689602780120": {
+      "deck": "FlashCards::Anglais::Present Simple, Present continuous",
+      "hash": "f4baf4e9554ed987eac1cc5010d057f6",
       "tags": []
     },
-    "1682979927688": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "21379a01b80cf60e418f2b5e2297a1ce",
-      "tags": []
-    },
-    "1682979927719": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "1dee6ca970312633d96715dbdb628f81",
-      "tags": []
-    },
-    "1682979927750": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "ec5602f1da41eca9db89632f340c38af",
-      "tags": []
-    },
-    "1682979927782": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "7ee2106c1dad690e4923571230fa4d59",
-      "tags": []
-    },
-    "1682979927813": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "74f5614cf7b9d47891e0aeab6b0f4898",
-      "tags": []
-    },
-    "1682979927845": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "74e6e331795aea30612dbb5caca8c75f",
-      "tags": []
-    },
-    "1682979927890": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "ab53bc882c4ce4dbf16e299d234041de",
-      "tags": []
-    },
-    "1682979927922": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "44d44f0041d5dc106a32bf07534750cd",
-      "tags": []
-    },
-    "1682979927953": {
-      "deck": "FlashCards::systm.Exploit, concepts",
-      "hash": "5fe0db7f3294b83b34897e747dad3e57",
-      "tags": []
-    },
-    "1683060157280": {
-      "deck": "FlashCards::systm.Exploit, labo::Audits",
-      "hash": "f483ae2d5bd9c75d1d3f6f50017414c6",
-      "tags": []
-    },
-    "1683060157340": {
-      "deck": "FlashCards::systm.Exploit, labo::Audits",
-      "hash": "a285b3c1a6834a6caa45ca793b53e792",
-      "tags": []
-    },
-    "1683060157372": {
-      "deck": "FlashCards::systm.Exploit, labo::Audits",
-      "hash": "ffd9cea56c73ad7152f0a0834a053097",
-      "tags": []
-    },
-    "1683060157405": {
-      "deck": "FlashCards::systm.Exploit, labo::Audits",
-      "hash": "a8c356009a6a33065d704958796f2600",
-      "tags": []
-    },
-    "1683060157435": {
-      "deck": "FlashCards::systm.Exploit, labo::Audits",
-      "hash": "6bfdce65c164ed22f92c0381799465f7",
-      "tags": []
-    },
-    "1683060157467": {
-      "deck": "FlashCards::systm.Exploit, labo::Audits",
-      "hash": "0532c0a5d14ab62e48283becd3f0996b",
-      "tags": []
-    },
-    "1683060157499": {
-      "deck": "FlashCards::systm.Exploit, labo::Audits",
-      "hash": "4ba20d8c6aa5eafd138c303643fbdc41",
-      "tags": []
-    },
-    "1683060157532": {
-      "deck": "FlashCards::systm.Exploit, labo::Audits",
-      "hash": "8e1681d085289ef67a87bb351fd2b617",
+    "1689602780151": {
+      "deck": "FlashCards::Anglais::Present Simple, Present continuous",
+      "hash": "ff228b729c4acec01bacbb7ad3c64203",
       "tags": []
     }
   },
