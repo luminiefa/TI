@@ -8,215 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0891e95387232817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Quels sont les objectifs principaux de l'ordonnancement en informatique..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ba599672114dbc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Expliquez la différence entre l'ordonnancement préemptif et non-préemptif..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c85e82870a9c8fee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Décrivez brièvement les mécanismes d'ordonnancement suivants , FCFS, Shortest Job First, Round Robin et par files de priorités multiniveaux..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4e7b4169eebd2fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Quel algorithme d'ordonnancement est utilisé par le noyau Linux..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0432584cc68c5c47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Quels sont les trois problèmes principaux que doit résoudre la gestion de la mémoire..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "528781abde57e423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Comparez et contrastez la segmentation et la pagination en matière de gestion de la mémoire..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acf9993f8d2bbabd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Qu'est-ce que la mémoire virtuelle et comment fonctionne-t-elle ..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02eb803df1ac3e02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Définissez les termes fichier logique et fichier physique et expliquez leur relation..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cb74e6835fac87c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Décrivez les trois modes d'accès aux fichiers logiques et donnez un exemple d'utilisation pour chacun..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f7bff0e9f0250af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Quelles sont les méthodes d'allocation de blocs physiques pour les fichiers et comment fonctionnent-elles ..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3cd99cf8200137f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Qu'est-ce qu'un répertoire et quel rôle joue-t-il dans la gestion des fichiers ..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03528a60eac57959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Quels sont les droits d'accès standards pour les fichiers et comment peuvent-ils être modifiés..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "007f120f7522ed11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FlashCards/systm.Exploit, concepts/Comparez et contrastez les systèmes de fichiers NTFS et EXT3 en termes de structure, capacité de stockage et fonctionnalités..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07895a43db91f6a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Architecture des ordinateurs/Architecture des ordinateurs, concepts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b477b5a34c2ef61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q2/Télécommunication.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "26ef1c8eaa649284",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electroAppliqué examen.md",
+                "file": "FlashCards/Anglais/Present Simple, Present continuous/2. She is listenning to the radio while she's driving. (to listen).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64de8ce225b78b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electroAppliqué examen.md",
+                "file": "FlashCards/Anglais/Present Simple, Present continuous/2. She is listenning to the radio while she's driving. (to listen).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electroAppliqué examen.md",
+                "file": "FlashCards/Anglais/Present Simple, Present continuous/2. She is listenning to the radio while she's driving. (to listen).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electroAppliqué examen.md"
+                "file": "FlashCards/Anglais/Present Simple, Present continuous/2. She is listenning to the radio while she's driving. (to listen).md"
               }
             }
           }
@@ -340,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,14 +174,19 @@
   },
   "active": "26ef1c8eaa649284",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md",
+    "FlashCards/Physique/ch1/Comment convertir des unités de température entre les échelles Celsius et Kelvin..md",
+    "FlashCards/Anglais/Present Simple, Present continuous/2. She is listenning to the radio while she's driving. (to listen).md",
+    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
+    "FlashCards/Anglais/Present Simple, Present continuous",
+    "FlashCards/Anglais",
+    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
     "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electroAppliqué examen.md",
+    "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/théorie Electronique appliquée.md",
     "FlashCards/systm.Exploit, concepts/Quels sont les objectifs principaux de l'ordonnancement en informatique..md",
     "ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electro appliqué labo.md",
     "ludo/Obsidian-TI_github/TI/Q1/mathématiquesAppliquées/logique.md",
     "ludo/Obsidian-TI_github/TI/Q2/Physique appliquée.md",
     "ludo/Q2/SQL/linkToMovies.txt",
-    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, labo.md",
     "ludo/Q2/labo/Raspberry/manip1",
     "ludo/Q2/labo/Raspberry/manip2",
@@ -372,8 +195,6 @@
     "ludo/Q2/labo/Raspberry/manip5",
     "ludo/Q2/labo/Raspberry",
     "ludo/Q2/labo/tinkercad/ex1",
-    "ludo/Q2/labo/tinkercad/ex2",
-    "ludo/Q2/labo/tinkercad/ex3",
     "ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts.md",
     "ludo/Obsidian-TI_github/TI/Q2/Initiation aux systèmes ambarquées/Initiation aux systèmes ambarquées, théorie.md",
     "présentation détaillées sur les cours.canvas",
@@ -390,9 +211,6 @@
     "FlashCards/systm.Exploit, labo/Audits/Décrivez les étapes pour activer auto la touche Num Lock au démarrage de W à l'aide de l'Éditeur de registre..md",
     "FlashCards/systm.Exploit, labo/Audits/Conf l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md",
     "FlashCards/systm.Exploit, labo/Audits/Comment modifier le profil par défaut sous W pour que les paramètres d'un prog, par ex Firefox, soient appliqués à tous les nouveaux utilisateurs qui se connectent au pc ..md",
-    "FlashCards/systm.Exploit, labo/Audits/Comment activer l'audit d'accès aux répertoires et fichiers dans Windows. Expliquez comment définir les permissions d'audit pour un répertoire ou un fichier spécifique..md",
-    "FlashCards/intro aux BD/chapitre3/Qu'est-ce que SSMS et à quoi sert-il..md",
-    "FlashCards/intro aux BD/chapitre3/Quelles sont les contraintes d'intégrité à ajouter lors de la création d'une table..md",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132128.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230420212214.png",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501130724.png",
