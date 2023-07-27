@@ -284,3 +284,38 @@ def suspects(logs, limit):
     # enfin on retourne la liste des programmes dont le nombre d'erreurs dépasse le limit
     return [program for program, count in errors if count > limit]
     
+
+def network_message_times(logs):
+    """ Pre :
+    - logs est une liste où chaque élément est une ligne de log bien formée
+    Post :
+    - retourne une liste des moments (date et heure) sans doublon
+    où le programme NetworkManager a émi un "<warn>"
+    """
+    #Oct 25 09:11:14 kali NetworkManager[425]: <warn>  [1666703474.2982] config: unknown key 'wifi.cloned-mac-address' in section [device-mac-addr-change-wifi] of file '/usr/lib/NetworkManager/conf.d/no-mac-addr-change.conf'
+
+    a = logs_from_program(logs, "NetworkManager")
+    b = logs_with_tag(a, "warn")
+    return b
+    #suspects
+
+def programs_with_process_id(logs):
+    """ Pre :
+    - logs est une liste où chaque élément est une ligne de log bien formée
+    Post :
+    - retourne une liste (sans doublon) des programmes avec process id
+    qui sont présents dans logs
+    """
+
+def bonus():
+    """ retourne la réponse à la question bonus """
+    #Oct 26 10:32:57 kali sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+    path = "log/auth_exam.log"
+    logs = lines_from_file(path)
+    logs_for_sudo = logs_from_program(logs, "sudo")
+    opened_sessions = []
+    for message in logs_for_sudo:
+        extracted_message = get_message(message)
+        if "session opened for user root" in extracted_message:
+            opened_sessions.append(message)
+    return opened_sessions

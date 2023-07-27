@@ -127,3 +127,1338 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+ludo/Android/data/.nomedia
+FlashCards/Architecture des ordinateurs, concepts/ch5/Comment se déroule le remplissage d'un bloc de cache lors d'un cache miss..md
+FlashCards/Architecture des ordinateurs, concepts/ch5/Qu'est-ce que la localité spatiale et comment affecte-t-elle les performances..md
+FlashCards/Architecture des ordinateurs, concepts/ch5/Qu'est-ce que la localité temporelle et pourquoi est-elle importante en informatique..md
+FlashCards/Architecture des ordinateurs, concepts/ch5/Quelles sont les deux politiques d'écriture en cache et comment fonctionnent-elles..md
+FlashCards/Architecture des ordinateurs, concepts/ch5/Quels sont les trois types de cache mapping et comment se comparent-ils..md
+FlashCards/Architecture des ordinateurs, concepts/ch6/Décrivez la technique d'exécution spéculative et ses avantages..md
+FlashCards/Architecture des ordinateurs, concepts/ch6/Expliquez le problème de dépendance de données et comment il peut être résolu..md
+FlashCards/Architecture des ordinateurs, concepts/ch6/Qu'est-ce que l'architecture superscalaire et pourquoi est-elle utilisée..md
+FlashCards/Architecture des ordinateurs, concepts/ch6/Qu'est-ce que la prédiction de branchement et pourquoi est-elle nécessaire..md
+FlashCards/Architecture des ordinateurs, concepts/ch6/Quelle est la différence entre le pipeline et le parallélisme au niveau de l'instruction..md
+FlashCards/Architecture des ordinateurs, concepts/ch7/Comment le concept de RISC a-t-il évolué pour conserver les avantages de l'ISA tout en se libérant du microcode..md
+FlashCards/Architecture des ordinateurs, concepts/ch7/Comment les améliorations du Pentium ont-elles été réalisées tout en conservant la compatibilité avec les versions précédentes..md
+FlashCards/Architecture des ordinateurs, concepts/ch7/Expliquez la différence entre RISC et CISC..md
+FlashCards/Architecture des ordinateurs, concepts/ch7/Qu'est-ce que l'Instruction Set Architecture (ISA) et pourquoi est-elle importante..md
+FlashCards/Architecture des ordinateurs, concepts/ch7/Quel est le rôle du microcode dans l'abstraction de l'ISA..md
+FlashCards/Architecture des ordinateurs, concepts/Composants de la carte mère/Nommez quelques formats courants de cartes mères et leurs tailles..md
+FlashCards/Architecture des ordinateurs, concepts/Composants de la carte mère/Qu'est-ce qu'un PCH et comment a-t-il remplacé les chipsets northbridge et southbridge..md
+FlashCards/Architecture des ordinateurs, concepts/Composants de la carte mère/Qu'est-ce que la technologie CMOS et comment est-elle utilisée dans les composants de la carte mère..md
+FlashCards/Architecture des ordinateurs, concepts/Composants de la carte mère/Quelle est la différence entre northbridge et southbridge sur une carte mère..md
+FlashCards/Architecture des ordinateurs, concepts/Composants de la carte mère/Quels sont les principaux facteurs qui influencent la consommation d'énergie d'un processeur..md
+FlashCards/intro aux BD/chapitre 1/Nommez trois types de relations dans la modélisation conceptuelle..md
+FlashCards/intro aux BD/chapitre 1/Qu'est-ce qu'une cardinalité..md
+FlashCards/intro aux BD/chapitre 1/Qu'est-ce que l'entité faible..md
+FlashCards/intro aux BD/chapitre 1/Qu'est-ce que la modélisation conceptuelle..md
+FlashCards/intro aux BD/chapitre 1/Quels sont les deux types d'attributs..md
+FlashCards/intro aux BD/chapitre2/Qu'est-ce qu'une base de données relationnelle..md
+FlashCards/intro aux BD/chapitre2/Qu'est-ce qu'une clé primaire..md
+FlashCards/intro aux BD/chapitre2/Qu'est-ce qu'une clé étrangère..md
+FlashCards/intro aux BD/chapitre2/Qu'est-ce qu'une contrainte d'intégrité référentielle..md
+FlashCards/intro aux BD/chapitre2/Quelle est la différence entre une clé candidate et une clé unique..md
+FlashCards/intro aux BD/chapitre3/Nommez les cinq sous-langages de SQL..md
+FlashCards/intro aux BD/chapitre3/Qu'est-ce qu'une jointure réflexive..md
+FlashCards/intro aux BD/chapitre3/Qu'est-ce que le langage SQL..md
+FlashCards/intro aux BD/chapitre3/Qu'est-ce que SSMS et à quoi sert-il..md
+FlashCards/intro aux BD/chapitre3/Quelles sont les contraintes d'intégrité à ajouter lors de la création d'une table..md
+FlashCards/Physique/ch1/Comment convertir des unités de température entre les échelles Celsius et Kelvin..md
+FlashCards/Physique/ch1/Quelle est l'unité de mesure de l'énergie dans le système SI..md
+FlashCards/Physique/ch1/Quelle est l'unité de mesure de la force dans le système SI..md
+FlashCards/Physique/ch1/Quelle est l'unité de mesure de la pression dans le système SI..md
+FlashCards/Physique/ch1/Quelles sont les sept unités de base du Système international d'unités (SI)..md
+FlashCards/Physique/ch1/Sachant que la vitesse de la lumière est d’environ 300 000 kms  et qu un rayon du soleil atteint la terre environ 8 min calculez la  distance terre-soleil.md
+FlashCards/Physique/ch2 Notions d'optique géométrique/Comment calculer le travail effectué sur un objet en utilisant la force et le déplacement..md
+FlashCards/Physique/ch2 Notions d'optique géométrique/Qu'est-ce que la conservation de l'énergie mécanique totale..md
+FlashCards/Physique/ch2 Notions d'optique géométrique/Qu'est-ce que la première loi du mouvement de Newton, également connue sous le nom de loi d'inertie..md
+FlashCards/Physique/ch2 Notions d'optique géométrique/Quelle est la différence entre la vitesse et l'accélération..md
+FlashCards/Physique/ch2 Notions d'optique géométrique/Quelle est la relation entre la force, la masse et l'accélération selon la deuxième loi du mouvement de Newton..md
+FlashCards/Physique/ch3/Qu'est-ce qu'un miroir plan et comment les rayons lumineux se reflètent-ils sur un miroir plan..md
+FlashCards/Physique/ch3/Qu'est-ce que la loi de la réflexion et quelles sont ses deux composantes..md
+FlashCards/Physique/ch3/Qu'est-ce que la réfraction et comment l'indice de réfraction est-il lié à la vitesse de la lumière dans un milieu..md
+FlashCards/Physique/ch3/Quelle est la différence entre les sources lumineuses primaires et secondaires..md
+FlashCards/Physique/ch3/Quelle est la loi de Snell-Descartes pour la réfraction..md
+FlashCards/Physique/ch4/Qu'est-ce que la capacité thermique et quelle est son unité..md
+FlashCards/Physique/ch4/Qu'est-ce que la chaleur latente et comment la distingue-t-on de la chaleur sensible..md
+FlashCards/Physique/ch4/Quelle est la différence entre température et chaleur..md
+FlashCards/Physique/ch4/Quelle est la formule de la première loi de la thermodynamique et comment est-elle liée à la conservation de l'énergie..md
+FlashCards/Physique/ch4/Quelles sont les trois échelles de température couramment utilisées et comment les convertir les unes aux autres..md
+FlashCards/Physique/ch5/compléments/Définissez les termes suivants _ champ magnétique, flux magnétique et induction magnétique..md
+FlashCards/Physique/ch5/compléments/Qu'est-ce qu'un transformateur électrique et comment fonctionne-t-il..md
+FlashCards/Physique/ch5/compléments/Qu'est-ce que l'effet Hall et comment peut-il être utilisé pour mesurer le champ magnétique..md
+FlashCards/Physique/ch5/compléments/Qu'est-ce que la loi de Biot-Savart et quelles sont ses applications principales en magnétisme..md
+FlashCards/Physique/ch5/compléments/Quels sont les matériaux magnétiques et leurs principales caractéristiques..md
+FlashCards/Physique/ch5/Décrivez le principe de la conservation de l'énergie dans un circuit électrique..md
+FlashCards/Physique/ch5/Qu'est-ce que la puissance électrique et quelle est sa formule en fonction de la tension, du courant et de la résistance..md
+FlashCards/Physique/ch5/Quelle est la différence entre courant électrique alternatif (AC) et courant électrique continu (DC)..md
+FlashCards/Physique/ch5/Quelles sont les trois principales quantités électriques et leurs unités respectives..md
+FlashCards/Physique/ch5/Énoncez la loi d'Ohm et expliquez comment elle relie les trois principales quantités électriques..md
+FlashCards/Physique/ch6/Pourquoi est-il important de planifier et de suivre les opérations de maintenance..md
+FlashCards/Physique/ch6/Qu'est-ce qu'un indicateur clé de performance (KPI) en matière de maintenance et pourquoi est-il important..md
+FlashCards/Physique/ch6/Quels sont les avantages et les inconvénients de la maintenance préventive par rapport à la maintenance corrective..md
+FlashCards/Physique/ch6/Quels sont les principaux types de maintenance et leurs objectifs respectifs..md
+FlashCards/Physique/ch6/Quels sont les éléments clés d'un programme de maintenance préventive efficace..md
+FlashCards/Physique/ch7/Comment la cryptographie quantique peut-elle résister aux menaces posées par les ordinateurs quantiques..md
+FlashCards/Physique/ch7/Expliquez le principe de la distribution quantique de clés (QKD) et son importance pour la cryptographie quantique..md
+FlashCards/Physique/ch7/Qu'est-ce que la cryptographie quantique et comment diffère-t-elle de la cryptographie classique..md
+FlashCards/Physique/ch7/Qu'est-ce que le protocole BB84 et pourquoi est-il important dans le contexte de la cryptographie quantique..md
+FlashCards/Physique/ch7/Quels sont les défis et les limitations actuels de la cryptographie quantique..md
+FlashCards/Physique/Chapitre 8_Matériaux et fabrication assistée par ordinateur/Donnez deux exemples de méthodes de fabrication soustractive..md
+FlashCards/Physique/Chapitre 8_Matériaux et fabrication assistée par ordinateur/Nommez et décrivez brièvement les quatre catégories de matériaux..md
+FlashCards/Physique/Chapitre 8_Matériaux et fabrication assistée par ordinateur/Qu'est-ce que la méthode Fused Deposition Modelling (FDM) dans la fabrication additive..md
+FlashCards/Physique/Chapitre 8_Matériaux et fabrication assistée par ordinateur/Quelle est la différence entre la fabrication par déformation et la fabrication par fusion..md
+FlashCards/Physique/Chapitre 8_Matériaux et fabrication assistée par ordinateur/Quels sont les avantages et inconvénients de la photopolymérisation dans la fabrication additive..md
+FlashCards/Physique/Chapitre 9_Notions de développement durable/Décrivez brièvement le processus de formation du pétrole..md
+FlashCards/Physique/Chapitre 9_Notions de développement durable/Nommez deux inconvénients des énergies non renouvelables..md
+FlashCards/Physique/Chapitre 9_Notions de développement durable/Qu'est-ce que la pollution numérique et quels sont ses impacts environnementaux..md
+FlashCards/Physique/Chapitre 9_Notions de développement durable/Quelle est la définition officielle du développement durable..md
+FlashCards/Physique/Chapitre 9_Notions de développement durable/Quelle est la principale utilisation des énergies renouvelables aujourd'hui..md
+FlashCards/systm.Exploit, concepts/Comparez et contrastez la segmentation et la pagination en matière de gestion de la mémoire..md
+FlashCards/systm.Exploit, concepts/Comparez et contrastez les systèmes de fichiers NTFS et EXT3 en termes de structure, capacité de stockage et fonctionnalités..md
+FlashCards/systm.Exploit, concepts/Décrivez brièvement les mécanismes d'ordonnancement suivants , FCFS, Shortest Job First, Round Robin et par files de priorités multiniveaux..md
+FlashCards/systm.Exploit, concepts/Décrivez les trois modes d'accès aux fichiers logiques et donnez un exemple d'utilisation pour chacun..md
+FlashCards/systm.Exploit, concepts/Définissez les termes fichier logique et fichier physique et expliquez leur relation..md
+FlashCards/systm.Exploit, concepts/Expliquez la différence entre l'ordonnancement préemptif et non-préemptif..md
+FlashCards/systm.Exploit, concepts/Qu'est-ce qu'un répertoire et quel rôle joue-t-il dans la gestion des fichiers ..md
+FlashCards/systm.Exploit, concepts/Qu'est-ce que la mémoire virtuelle et comment fonctionne-t-elle ..md
+FlashCards/systm.Exploit, concepts/Qu'est-ce que TMPFS et dans quelles situations est-il couramment utilisé ..md
+FlashCards/systm.Exploit, concepts/Quel algorithme d'ordonnancement est utilisé par le noyau Linux..md
+FlashCards/systm.Exploit, concepts/Quelles sont les méthodes d'allocation de blocs physiques pour les fichiers et comment fonctionnent-elles ..md
+FlashCards/systm.Exploit, concepts/Quels sont les droits d'accès standards pour les fichiers et comment peuvent-ils être modifiés..md
+FlashCards/systm.Exploit, concepts/Quels sont les objectifs principaux de l'ordonnancement en informatique..md
+FlashCards/systm.Exploit, concepts/Quels sont les trois problèmes principaux que doit résoudre la gestion de la mémoire..md
+FlashCards/systm.Exploit, labo/Audits/Comment activer l'audit d'accès aux répertoires et fichiers dans Windows. Expliquez comment définir les permissions d'audit pour un répertoire ou un fichier spécifique..md
+FlashCards/systm.Exploit, labo/Audits/Comment modifier le profil par défaut sous W pour que les paramètres d'un prog, par ex Firefox, soient appliqués à tous les nouveaux utilisateurs qui se connectent au pc ..md
+FlashCards/systm.Exploit, labo/Audits/Conf l'audit de la création et de la fin des processus sous W à l'aide de la start de sécu locale et de l'Observateur d'évén. Quels sont les ID d'évén assos à ces actions..md
+FlashCards/systm.Exploit, labo/Audits/Décrivez les étapes pour activer auto la touche Num Lock au démarrage de W à l'aide de l'Éditeur de registre..md
+FlashCards/systm.Exploit, labo/Audits/Expliquez le processus pour surveiller les connexions users (ouvertures et fermetures de session) à l'aide de l'Observateur d'événements dans W..md
+FlashCards/systm.Exploit, labo/Audits/Expliquez le rôle du répertoire _Public_ sous Windows et comment les différents utilisateurs peuvent partager des fichiers en utilisant ce répertoire..md
+FlashCards/systm.Exploit, labo/Audits/Expliquez étapes pour déplacer le chemin par défaut des profils des users vers un autre lecteur que celui de l'OS sous W. Quels sont les avantages de cette modification ..md
+FlashCards/systm.Exploit, labo/Audits/pouvez-vous utiliser l'Éditeur de registre pour modif le screen par défaut de tous les users sous W. Quelle est la clé de registre associée à cette modification..md
+FlashCards/systm.Exploit, labo/NTFS/Sous Windows certains SID sont identiques peu importe les systèmes Veuillez choisir une réponse. Vrai Faux.md
+FlashCards/Télécom/Chapitre 1 - Transmission de l'information/Comparez la transmission analogique et la transmission numérique. Quels sont les avantages et les inconvénients de chaque méthode ..md
+FlashCards/Télécom/Chapitre 1 - Transmission de l'information/Expliquez le concept de multiplexage et les types de multiplexage existants..md
+FlashCards/Télécom/Chapitre 1 - Transmission de l'information/Qu'est-ce qu'un signal modulé. Pourquoi est-il nécessaire de moduler un signal..md
+FlashCards/Télécom/Chapitre 1 - Transmission de l'information/Quelle est la différence entre la bande de base et la bande passante. Pourquoi ces concepts sont-ils importants en télécommunications..md
+FlashCards/Télécom/Chapitre 1 - Transmission de l'information/Quelle est la différence entre la transmission en série et la transmission en parallèle . Donnez un exemple pour chacune..md
+FlashCards/Télécom/Chapitre 2 - Les lignes de transmission/Expliquez la différence entre les lignes de transmission symétriques et asymétriques..md
+FlashCards/Télécom/Chapitre 2 - Les lignes de transmission/Qu'est-ce qu'un adaptateur d'antenne et pourquoi est-il nécessaire ..md
+FlashCards/Télécom/Chapitre 2 - Les lignes de transmission/Qu'est-ce qu'une impédance caractéristique et pourquoi est-elle importante pour les lignes de transmission ..md
+FlashCards/Télécom/Chapitre 2 - Les lignes de transmission/Quels sont les principaux types de connecteurs utilisés dans les systèmes de télécommunication et à quoi servent-ils ..md
+FlashCards/Télécom/Chapitre 2 - Les lignes de transmission/Quels sont les types de pertes dans une ligne de transmission . Expliquez brièvement chacun d'entre eux..md
+FlashCards/Télécom/Chapitre 3 - Les ondes électromagnétiques/Comment la polarisation des ondes électromagnétiques affecte-t-elle la transmission et la réception des signaux ..md
+FlashCards/Télécom/Chapitre 3 - Les ondes électromagnétiques/Décrivez les différents types de propagation des ondes électromagnétiques..md
+FlashCards/Télécom/Chapitre 3 - Les ondes électromagnétiques/Qu'est-ce que la réfraction et pourquoi est-elle importante dans la propagation des ondes électromagnétiques ..md
+FlashCards/Télécom/Chapitre 3 - Les ondes électromagnétiques/Quelles sont les principales caractéristiques des ondes électromagnétiques . Expliquez brièvement chacune d'entre elles..md
+FlashCards/Télécom/Chapitre 3 - Les ondes électromagnétiques/Quels sont les facteurs influençant l'affaiblissement des ondes électromagnétiques lors de leur propagation ..md
+FlashCards/Télécom/Chapitre 4 - Les antennes/Expliquez les concepts de diversité d'antennes et de formation de faisceaux..md
+FlashCards/Télécom/Chapitre 4 - Les antennes/Qu'est-ce qu'une antenne et quel est son rôle dans les systèmes de télécommunication ..md
+FlashCards/Télécom/Chapitre 4 - Les antennes/Qu'est-ce que le diagramme de rayonnement d'une antenne et pourquoi est-il important ..md
+FlashCards/Télécom/Chapitre 4 - Les antennes/Qu'est-ce que le gain d'une antenne et comment est-il défini ..md
+FlashCards/Télécom/Chapitre 4 - Les antennes/Quels sont les principaux types d'antennes utilisées dans les systèmes de télécommunication . Décrivez brièvement leurs caractéristiques et leurs applications..md
+FlashCards/Télécom/Chapitre 5 - Les récepteurs et émetteurs/Expliquez le concept d'intermodulation et pourquoi il est important dans la conception des récepteurs et des émetteurs..md
+FlashCards/Télécom/Chapitre 5 - Les récepteurs et émetteurs/Qu'est-ce qu'un mélangeur et quel est son rôle dans un récepteur ..md
+FlashCards/Télécom/Chapitre 5 - Les récepteurs et émetteurs/Qu'est-ce que la sensibilité d'un récepteur et pourquoi est-elle importante..md
+FlashCards/Télécom/Chapitre 5 - Les récepteurs et émetteurs/Quelle est la différence entre un émetteur et un récepteur dans un système de communication ..md
+FlashCards/Télécom/Chapitre 5 - Les récepteurs et émetteurs/Quels sont les principaux types de modulations utilisées dans les émetteurs et récepteurs modernes..md
+FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Cmt mesurer perf. modulations numériques. Prq le taux d'erreur binaire (BER). Prq important pr évaluer systèmes de communication..md
+FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Descr. modulation FSK, avantages & inconvénients. Types de systèmes de communication utilisant FSK couramment..md
+FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Diff. modulation numérique & analogique. Prq numérique + courante ds syst. comm. modernes..md
+FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Fonctionnement & applications modulation PSK. Avantages & inconvénients vs autres modulations numériques.md
+FlashCards/Télécom/Chapitre 6 - Les modulations numériques/Modulation QAM, combinaison ASK & PSK. Exemple d'application QAM..md
+ludo/Obsidian-TI_github/TI/Q1/eclectroniqueAppliquée/electroAppliqué ex.md
+ludo/Obsidian-TI_github/TI/Q2/Systèmes d'exploitation/Systèmes d'exploitation, concepts-DESKTOP-62P46AN.md
+ludo/Q1/exam.py
+ludo/Q1/Examen.docx
+ludo/Q1/log/logs.txt
+ludo/Q1/logs/._syslog
+ludo/Q1/logs/syslog
+ludo/Q1/main.py
+ludo/Q1/pylintrc
+ludo/Q1/test_exam.py
+ludo/Q1/test_exam_Q1.py
+ludo/Q1/test_exam_Q2.py
+ludo/Q1/test_exam_Q3.py
+ludo/Q1/test_main.py
+ludo/Q1/TIR121_TI1I_SchoonjansLudovic/exam.py
+ludo/Q1/TIR121_TI1I_SchoonjansLudovic/log/logs.txt
+ludo/Q1/TIR121_TI1I_SchoonjansLudovic/main.py
+ludo/Q1/TIR121_TI1I_SchoonjansLudovic/model.py
+ludo/Q1/TIR121_TI1I_SchoonjansLudovic/pylintrc
+ludo/Q1/TIR121_TI1I_SchoonjansLudovic/test.py
+ludo/Q1/TIR121_TI1I_SchoonjansLudovic/test_exam.py
+ludo/Q1/~$Examen.docx
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/base.zip
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/conftest.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/.buildinfo
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_downloads/6dc1f3f4f0e6ca13cb42ddf4d6cbc8af/tzinfo_examples.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_images/hashlib-blake2-tree.png
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_images/logging_flow.png
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_images/pathlib-inheritance.png
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_images/tk_msg.png
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_images/turtle-star.png
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_images/win_installer.png
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/about.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/bugs.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/abstract.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/allocation.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/apiabiversion.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/arg.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/bool.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/buffer.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/bytearray.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/bytes.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/call.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/capsule.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/cell.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/code.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/codec.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/complex.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/concrete.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/contextvars.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/conversion.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/coro.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/datetime.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/descriptor.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/dict.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/exceptions.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/file.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/float.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/frame.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/function.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/gcsupport.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/gen.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/import.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/init.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/init_config.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/intro.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/iter.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/iterator.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/list.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/long.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/mapping.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/marshal.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/memory.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/memoryview.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/method.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/module.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/none.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/number.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/objbuffer.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/object.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/objimpl.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/refcounting.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/reflection.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/sequence.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/set.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/slice.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/stable.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/structures.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/sys.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/tuple.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/type.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/typehints.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/typeobj.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/unicode.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/utilities.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/veryhigh.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/c-api/weakref.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/contents.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/copyright.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distributing/index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distutils/_setuptools_disclaimer.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distutils/apiref.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distutils/builtdist.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distutils/commandref.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distutils/configfile.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distutils/examples.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distutils/extending.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distutils/index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distutils/introduction.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distutils/packageindex.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distutils/setupscript.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distutils/sourcedist.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/distutils/uploading.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/extending/building.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/extending/embedding.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/extending/extending.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/extending/index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/extending/newtypes.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/extending/newtypes_tutorial.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/extending/windows.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/faq/design.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/faq/extending.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/faq/general.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/faq/gui.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/faq/index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/faq/installed.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/faq/library.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/faq/programming.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/faq/windows.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/glossary.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/annotations.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/argparse.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/clinic.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/cporting.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/curses.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/descriptor.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/enum.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/functional.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/instrumentation.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/ipaddress.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/isolating-extensions.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/logging-cookbook.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/logging.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/pyporting.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/regex.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/sockets.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/sorting.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/unicode.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/howto/urllib2.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/install/index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/installing/index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/2to3.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/__future__.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/__main__.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/_thread.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/abc.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/aifc.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/allos.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/archiving.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/argparse.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/array.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/ast.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asynchat.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-api-index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-dev.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-eventloop.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-exceptions.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-extending.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-future.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-llapi-index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-platforms.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-policy.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-protocol.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-queue.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-runner.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-stream.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-subprocess.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-sync.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio-task.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncio.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/asyncore.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/atexit.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/audioop.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/audit_events.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/base64.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/bdb.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/binary.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/binascii.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/bisect.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/builtins.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/bz2.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/calendar.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/cgi.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/cgitb.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/chunk.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/cmath.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/cmd.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/code.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/codecs.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/codeop.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/collections.abc.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/collections.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/colorsys.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/compileall.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/concurrency.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/concurrent.futures.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/concurrent.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/configparser.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/constants.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/contextlib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/contextvars.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/copy.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/copyreg.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/crypt.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/crypto.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/csv.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/ctypes.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/curses.ascii.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/curses.panel.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/curses.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/custominterp.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/dataclasses.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/datatypes.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/datetime.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/dbm.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/debug.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/decimal.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/development.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/devmode.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/dialog.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/difflib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/dis.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/distribution.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/distutils.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/doctest.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.charset.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.compat32-message.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.contentmanager.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.encoders.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.errors.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.examples.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.generator.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.header.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.headerregistry.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.iterators.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.message.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.mime.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.parser.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.policy.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/email.utils.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/ensurepip.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/enum.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/errno.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/exceptions.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/faulthandler.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/fcntl.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/filecmp.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/fileformats.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/fileinput.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/filesys.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/fnmatch.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/fractions.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/frameworks.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/ftplib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/functional.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/functions.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/functools.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/gc.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/getopt.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/getpass.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/gettext.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/glob.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/graphlib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/grp.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/gzip.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/hashlib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/heapq.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/hmac.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/html.entities.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/html.parser.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/html.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/http.client.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/http.cookiejar.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/http.cookies.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/http.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/http.server.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/i18n.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/idle.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/imaplib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/imghdr.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/imp.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/importlib.metadata.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/importlib.resources.abc.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/importlib.resources.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/importlib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/inspect.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/internet.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/intro.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/io.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/ipaddress.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/ipc.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/itertools.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/json.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/keyword.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/language.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/linecache.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/locale.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/logging.config.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/logging.handlers.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/logging.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/lzma.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/mailbox.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/mailcap.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/markup.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/marshal.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/math.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/mimetypes.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/mm.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/mmap.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/modulefinder.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/modules.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/msilib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/msvcrt.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/multiprocessing.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/multiprocessing.shared_memory.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/netdata.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/netrc.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/nis.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/nntplib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/numbers.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/numeric.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/operator.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/optparse.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/os.path.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/os.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/ossaudiodev.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/pathlib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/pdb.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/persistence.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/pickle.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/pickletools.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/pipes.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/pkgutil.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/platform.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/plistlib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/poplib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/posix.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/pprint.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/profile.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/pty.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/pwd.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/py_compile.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/pyclbr.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/pydoc.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/pyexpat.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/python.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/queue.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/quopri.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/random.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/re.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/readline.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/reprlib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/resource.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/rlcompleter.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/runpy.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/sched.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/secrets.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/security_warnings.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/select.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/selectors.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/shelve.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/shlex.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/shutil.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/signal.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/site.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/smtpd.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/smtplib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/sndhdr.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/socket.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/socketserver.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/spwd.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/sqlite3.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/ssl.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/stat.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/statistics.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/stdtypes.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/string.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/stringprep.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/struct.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/subprocess.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/sunau.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/superseded.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/symtable.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/sys.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/sys_path_init.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/sysconfig.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/syslog.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tabnanny.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tarfile.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/telnetlib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tempfile.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/termios.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/test.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/text.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/textwrap.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/threading.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/time.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/timeit.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tk.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tkinter.colorchooser.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tkinter.dnd.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tkinter.font.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tkinter.messagebox.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tkinter.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tkinter.scrolledtext.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tkinter.tix.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tkinter.ttk.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/token.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tokenize.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tomllib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/trace.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/traceback.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tracemalloc.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/tty.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/turtle.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/types.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/typing.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/unicodedata.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/unittest.mock-examples.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/unittest.mock.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/unittest.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/unix.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/urllib.error.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/urllib.parse.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/urllib.request.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/urllib.robotparser.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/urllib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/uu.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/uuid.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/venv.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/warnings.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/wave.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/weakref.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/webbrowser.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/windows.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/winreg.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/winsound.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/wsgiref.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/xdrlib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/xml.dom.minidom.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/xml.dom.pulldom.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/xml.dom.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/xml.etree.elementtree.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/xml.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/xml.sax.handler.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/xml.sax.reader.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/xml.sax.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/xml.sax.utils.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/xmlrpc.client.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/xmlrpc.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/xmlrpc.server.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/zipapp.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/zipfile.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/zipimport.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/zlib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/library/zoneinfo.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/license.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/reference/compound_stmts.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/reference/datamodel.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/reference/executionmodel.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/reference/expressions.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/reference/grammar.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/reference/import.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/reference/index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/reference/introduction.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/reference/lexical_analysis.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/reference/simple_stmts.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/reference/toplevel_components.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/appendix.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/appetite.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/classes.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/controlflow.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/datastructures.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/errors.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/floatingpoint.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/inputoutput.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/interactive.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/interpreter.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/introduction.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/modules.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/stdlib.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/stdlib2.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/venv.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/tutorial/whatnow.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/using/cmdline.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/using/configure.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/using/editors.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/using/index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/using/mac.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/using/unix.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/using/windows.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/2.0.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/2.1.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/2.2.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/2.3.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/2.4.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/2.5.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/2.6.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/2.7.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/3.0.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/3.1.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/3.10.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/3.11.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/3.2.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/3.3.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/3.4.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/3.5.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/3.6.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/3.7.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/3.8.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/3.9.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/changelog.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_sources/whatsnew/index.rst.txt
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/base-stemmer.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/basic.css
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/caret-down.svg
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/changelog_search.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/classic.css
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/copybutton.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/default.css
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/doctools.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/documentation_options.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/file.png
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/french-stemmer.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/glossary.json
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/jquery-3.5.1.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/jquery.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/language_data.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/menu.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/minus.png
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/og-image.png
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/opensearch.xml
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/plus.png
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/py.png
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/py.svg
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/pydoctheme.css
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/pygments.css
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/searchtools.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/sidebar.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/translations.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/underscore-1.13.1.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/_static/underscore.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/about.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/bugs.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/abstract.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/allocation.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/apiabiversion.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/arg.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/bool.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/buffer.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/bytearray.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/bytes.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/call.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/capsule.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/cell.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/code.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/codec.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/complex.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/concrete.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/contextvars.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/conversion.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/coro.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/datetime.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/descriptor.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/dict.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/exceptions.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/file.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/float.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/frame.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/function.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/gcsupport.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/gen.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/import.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/init.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/init_config.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/intro.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/iter.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/iterator.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/list.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/long.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/mapping.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/marshal.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/memory.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/memoryview.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/method.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/module.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/none.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/number.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/objbuffer.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/object.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/objimpl.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/refcounting.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/reflection.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/sequence.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/set.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/slice.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/stable.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/structures.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/sys.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/tuple.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/type.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/typehints.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/typeobj.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/unicode.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/utilities.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/veryhigh.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/c-api/weakref.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/contents.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/copyright.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distributing/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distutils/_setuptools_disclaimer.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distutils/apiref.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distutils/builtdist.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distutils/commandref.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distutils/configfile.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distutils/examples.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distutils/extending.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distutils/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distutils/introduction.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distutils/packageindex.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distutils/setupscript.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distutils/sourcedist.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/distutils/uploading.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/download.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/extending/building.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/extending/embedding.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/extending/extending.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/extending/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/extending/newtypes.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/extending/newtypes_tutorial.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/extending/windows.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/faq/design.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/faq/extending.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/faq/general.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/faq/gui.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/faq/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/faq/installed.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/faq/library.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/faq/programming.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/faq/windows.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-_.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-A.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-all.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-B.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-C.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-D.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-E.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-F.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-G.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-H.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-I.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-J.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-K.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-L.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-M.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-N.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-O.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-P.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-Q.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-R.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-S.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-Symboles.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-T.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-U.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-V.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-W.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-X.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-Y.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex-Z.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/genindex.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/glossary.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/annotations.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/argparse.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/clinic.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/cporting.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/curses.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/descriptor.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/enum.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/functional.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/instrumentation.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/ipaddress.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/isolating-extensions.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/logging-cookbook.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/logging.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/pyporting.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/regex.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/sockets.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/sorting.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/unicode.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/howto/urllib2.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/install/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/installing/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/2to3.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/__future__.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/__main__.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/_thread.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/abc.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/aifc.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/allos.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/archiving.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/argparse.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/array.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/ast.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asynchat.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-api-index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-dev.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-eventloop.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-exceptions.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-extending.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-future.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-llapi-index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-platforms.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-policy.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-protocol.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-queue.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-runner.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-stream.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-subprocess.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-sync.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio-task.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncio.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/asyncore.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/atexit.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/audioop.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/audit_events.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/base64.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/bdb.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/binary.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/binascii.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/bisect.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/builtins.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/bz2.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/calendar.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/cgi.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/cgitb.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/chunk.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/cmath.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/cmd.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/code.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/codecs.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/codeop.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/collections.abc.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/collections.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/colorsys.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/compileall.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/concurrency.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/concurrent.futures.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/concurrent.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/configparser.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/constants.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/contextlib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/contextvars.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/copy.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/copyreg.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/crypt.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/crypto.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/csv.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/ctypes.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/curses.ascii.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/curses.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/curses.panel.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/custominterp.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/dataclasses.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/datatypes.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/datetime.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/dbm.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/debug.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/decimal.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/development.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/devmode.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/dialog.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/difflib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/dis.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/distribution.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/distutils.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/doctest.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.charset.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.compat32-message.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.contentmanager.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.encoders.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.errors.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.examples.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.generator.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.header.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.headerregistry.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.iterators.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.message.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.mime.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.parser.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.policy.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/email.utils.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/ensurepip.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/enum.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/errno.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/exceptions.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/faulthandler.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/fcntl.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/filecmp.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/fileformats.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/fileinput.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/filesys.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/fnmatch.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/fractions.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/frameworks.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/ftplib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/functional.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/functions.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/functools.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/gc.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/getopt.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/getpass.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/gettext.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/glob.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/graphlib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/grp.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/gzip.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/hashlib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/heapq.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/hmac.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/html.entities.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/html.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/html.parser.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/http.client.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/http.cookiejar.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/http.cookies.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/http.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/http.server.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/i18n.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/idle.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/imaplib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/imghdr.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/imp.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/importlib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/importlib.metadata.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/importlib.resources.abc.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/importlib.resources.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/inspect.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/internet.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/intro.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/io.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/ipaddress.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/ipc.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/itertools.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/json.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/keyword.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/language.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/linecache.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/locale.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/logging.config.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/logging.handlers.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/logging.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/lzma.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/mailbox.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/mailcap.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/markup.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/marshal.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/math.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/mimetypes.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/mm.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/mmap.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/modulefinder.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/modules.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/msilib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/msvcrt.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/multiprocessing.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/multiprocessing.shared_memory.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/netdata.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/netrc.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/nis.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/nntplib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/numbers.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/numeric.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/operator.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/optparse.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/os.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/os.path.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/ossaudiodev.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/pathlib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/pdb.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/persistence.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/pickle.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/pickletools.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/pipes.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/pkgutil.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/platform.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/plistlib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/poplib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/posix.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/pprint.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/profile.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/pty.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/pwd.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/py_compile.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/pyclbr.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/pydoc.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/pyexpat.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/python.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/queue.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/quopri.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/random.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/re.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/readline.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/reprlib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/resource.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/rlcompleter.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/runpy.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/sched.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/secrets.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/security_warnings.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/select.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/selectors.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/shelve.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/shlex.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/shutil.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/signal.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/site.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/smtpd.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/smtplib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/sndhdr.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/socket.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/socketserver.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/spwd.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/sqlite3.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/ssl.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/stat.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/statistics.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/stdtypes.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/string.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/stringprep.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/struct.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/subprocess.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/sunau.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/superseded.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/symtable.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/sys.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/sys_path_init.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/sysconfig.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/syslog.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tabnanny.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tarfile.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/telnetlib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tempfile.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/termios.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/test.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/text.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/textwrap.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/threading.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/time.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/timeit.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tk.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tkinter.colorchooser.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tkinter.dnd.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tkinter.font.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tkinter.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tkinter.messagebox.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tkinter.scrolledtext.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tkinter.tix.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tkinter.ttk.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/token.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tokenize.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tomllib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/trace.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/traceback.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tracemalloc.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/tty.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/turtle.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/types.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/typing.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/unicodedata.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/unittest.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/unittest.mock-examples.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/unittest.mock.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/unix.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/urllib.error.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/urllib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/urllib.parse.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/urllib.request.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/urllib.robotparser.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/uu.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/uuid.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/venv.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/warnings.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/wave.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/weakref.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/webbrowser.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/windows.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/winreg.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/winsound.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/wsgiref.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/xdrlib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/xml.dom.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/xml.dom.minidom.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/xml.dom.pulldom.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/xml.etree.elementtree.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/xml.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/xml.sax.handler.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/xml.sax.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/xml.sax.reader.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/xml.sax.utils.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/xmlrpc.client.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/xmlrpc.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/xmlrpc.server.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/zipapp.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/zipfile.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/zipimport.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/zlib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/library/zoneinfo.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/license.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/objects.inv
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/py-modindex.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/reference/compound_stmts.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/reference/datamodel.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/reference/executionmodel.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/reference/expressions.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/reference/grammar.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/reference/import.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/reference/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/reference/introduction.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/reference/lexical_analysis.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/reference/simple_stmts.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/reference/toplevel_components.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/search.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/searchindex.js
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/appendix.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/appetite.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/classes.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/controlflow.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/datastructures.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/errors.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/floatingpoint.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/inputoutput.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/interactive.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/interpreter.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/introduction.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/modules.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/stdlib.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/stdlib2.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/venv.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/tutorial/whatnow.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/using/cmdline.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/using/configure.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/using/editors.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/using/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/using/mac.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/using/unix.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/using/windows.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/2.0.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/2.1.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/2.2.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/2.3.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/2.4.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/2.5.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/2.6.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/2.7.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/3.0.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/3.1.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/3.10.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/3.11.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/3.2.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/3.3.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/3.4.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/3.5.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/3.6.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/3.7.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/3.8.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/3.9.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/changelog.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/doc python/python-3.11.3-docs-html/whatsnew/index.html
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/Examen Python - G2.docx
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/log.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/log_manager.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/main.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/program_not_found.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/pylintrc
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/test_log.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/test_log_manager.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/test_main.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/test_program_not_found.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/test_q1.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/test_q1_prof.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/test_q2.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/test_q2_prof.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/test_q3.py
+ludo/Q2/Progra/TIR122_TI1G_SchoonjansLudovic/test_q3_prof.py
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub.htm
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/19058019.png
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/241761926-0145ee06-8459-4cce-9a69-ff89ff7bb594.png
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/241762110-6c1e1d70-19b7-459d-8142-586add291cf9.png
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/241762308-beac2d47-a707-4508-9d66-1a159665ff67.png
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/241763023-98eaa518-75d8-4c4e-bb8d-d57e481ecba7.png
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/241763433-742ceb52-044a-4d6c-9fdb-54977175ed10.png
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/241763787-774e271a-24de-4797-98b9-79c7e3bc323d.png
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/241763925-663340ad-1307-4c76-88e0-d854235f505a.png
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/241764282-27c8a9e7-7655-4494-a4fc-4fe7c39d6adc.png
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/app_assets_modules_blackbird-monolith_hooks_use-navigate-to-q.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/app_assets_modules_github_behaviors_commenting_edit_ts-app_as.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/app_assets_modules_github_behaviors_keyboard-shortcuts-helper.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/app_assets_modules_github_blob-anchor_ts-app_assets_modules_g.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/app_assets_modules_github_command-palette_items_help-item_ts-.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/app_assets_modules_github_ref-selector_ts-8f8b76ecd8d3.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/app_assets_modules_github_sticky-scroll-into-view_ts-0af96d15.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/app_assets_modules_github_updatable-content_ts-dadb69f79923.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/app_assets_modules_react-code-view_pages_CodeView_tsx-047905f.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/app_assets_modules_react-shared_RefSelector_RefSelector_tsx-1.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/behaviors-a934992bd4b4.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/code-19f06efeff3c.css
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/code-menu-da1cefc25b0a.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/codespaces-700c7a36b916.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/command-palette-c2a5f7e7eb12.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/dark-3946c959759a.css
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/element-registry-90a0fb4e73fa.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/environment-de3997b81651.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/github-c7a3a0ac71d4.css
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/github-elements-6f05fe60d18a.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/global-0d04dfcdc794.css
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/light-0946cdc16f15.css
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/notifications-global-4dc6f295cc92.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/optimizely-1c55a525615e.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/primer-0e3420bbec16.css
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/primer-primitives-fb1d51d1ef66.css
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/react-code-view-9ba80612d81c.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/react-lib-26cb888452e9.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/repositories-0355d3fe50ee.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/topic-suggestions-b547ddd02b8c.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/ui_packages_failbot_failbot_ts-e38c93eab86e.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/ui_packages_paths_path_ts-ui_packages_verified-fetch_verified.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/ui_packages_react-core_deferred-registry_ts-ui_packages_react.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/ui_packages_react-core_Entry_tsx-f122dd87b4f0.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_allex_crc32_lib_crc32_esm_js-node_module.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_color-convert_index_js-node_modules_gith.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_delegated-events_dist_index_js-node__002.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_delegated-events_dist_index_js-node_modu.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_dompurify_dist_purify_js-64d590970fa6.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_fzy_js_index_js-node_modules_github_mark.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_blackbird-parser_dist_blackbird_j.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_clipboard-copy-element_dist_index.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_file-attachment-element_dist__002.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_file-attachment-element_dist_inde.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_filter-input-element_dist_index_j.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_mini-throttle_dist_decorators_js-.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_mini-throttle_dist_index_js-node_.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_paste-markdown_dist_index_esm_js-.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_relative-time-element_dist_index_.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_remote-form_dist_index_js-nod_002.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_remote-form_dist_index_js-nod_003.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_remote-form_dist_index_js-node_mo.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_selector-observer_dist_index_esm_.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ba.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_lit-html_lit-html_js-9d9fe1859ce5.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_optimizely_optimizely-sdk_dist_optimizel.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_behaviors_dist_esm_anchored-posit.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_behaviors_dist_esm_focus-zone_js-.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_behaviors_dist_esm_scroll-into-vi.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_octicons-react_dist_index_esm_js-.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_react_lib-esm_ActionList_index_js.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_react_lib-esm_ActionMenu_js-6f547.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_react_lib-esm_Avatar_Avatar_js-no.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_react_lib-esm_Button_index_js-nod.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_react_lib-esm_deprecated_ActionLi.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_react_lib-esm_Dialog_Confirmation.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_react_lib-esm_FormControl_FormCon.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_react_lib-esm_Heading_Heading_js-.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_react_lib-esm_TextInput_TextInput.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_react_lib-esm_TreeView_TreeView_j.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_react_lib-esm_UnderlineNav2_index.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_primer_view-components_app_components_pr.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_stacktrace-parser_dist_stack-trace-parse.js
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/vendors-node_modules_virtualized-list_es_index_js-node_module.js
+ludo/WEB 3.pptx
+ludo/unreal/withSong2.mp4
+ludo/unreal/scene1.mp4
+ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/wp-runtime-9a794f867114.js
+ludo/Obsidian-TI_github/TI/Q2/Télécommunication (conflict 2023-07-27-22-09-33).md
