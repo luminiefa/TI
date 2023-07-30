@@ -1,15 +1,240 @@
 # Present Simple or Presesent Continuous
 
 ## Present Simple
+On utilise le présent simple en anglais pour parler des choses en général, pour exprimer un fait scientifique, une vérité générale, une situation permanente, une action habituelle ou fréquente:
+
+- _I live in France. (= Je vis en France)_
+- _She comes from Argentina. (= Elle vient d’Argentine)_
+- _The supermarket opens at 8.30 in the morning. (= Le supermarché ouvre à 8h30 le matin)_
+- _He gets up early on monday. (= Il se lève tôt le lundi)_
+- _The sun rises in the East. (= Le soleil se lève à l’Est)_
+- _We study geography three times a week. (= Nous étudions la géographie trois fois par semaine)
+
+### **1/ Formation**
+On utilise simplement le verbe auquel on ajoute la terminaison –_s_ à la 3ème personne du singulier:
+- _I like football and my father likes tennis._
+- _I live in France but my sister lives in England._
+[![1388147642_208272](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico) 
+Lorsque le verbe se termine par –s, -x, -sh, -ch, ou par –o, on ajoute –es à la fin:
+- _I go => He goes_
+- _I do => He does_
+- _I watch => He watches_
+- _I wash => He washes_
+[![1388147642_208272](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico) 
+Attention, lorsque le verbe se termine par une _consomne_ + y, il faut remplacer le -y par -ies:
+- _I worry => He worries_
+- _I try => He tries_
+- _I apply => He applies_
+- _I copy => He copies_
+- _I cry => He cries_
+- _I carry => He carries_
+[![1388147642_208272](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico) 
+Si le verbe se termine par une **_voyelle_ + y**, c’est la même chose que pour tous les autres verbes. Il faut juste ajouter un -s à la 3ème personne du singulier (he / she / it):
+- _I buy => He buys_
+- _I pay => He pays_
+- _I say => He says_
+- _I play => He plays_
+[![1388147642_208272](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)  
+**_He can_ ou _He cans_ ?** => Les verbes modaux ne changent pas à la troisième personne du singulier !
+- _I can => He can (et pas ‘He cans’)_
+- _I could => He could_
+- _I would => He would_
+- I should => He should
+### **Pour faire une phrase interrogative**
+Il faut utiliser l’auxiliaire DO au présent simple en début de phrase:
+_do I / we / you / they work ?_  
+_does he / she / it work ?_
+Attention, pas de -s à la fin du verbe à la troisième personne du singulier quand c’est une phrase interrogative !
+- _Do you come from France ? (et non pas ‘Do you come~~s~~ from France?’)_
+- _Does it rain ? (et non pas ‘Does it rain~~s~~ ?’)_
+[![1388147642_208272](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico) 
+On peut aussi ajouter un mot interrogatif (what, why…) en début de question, suivi de DO et du verbe _SANS -S A LA TROISIÈME PERSONNE DU SINGULIER_ !
+- _What does it mean ? (et non pas ‘What does it mean~~s~~ ?’)_
+- _Where do you live ?_
+- _What does he like ?_
+- _When do they start ?_
+### **Pour faire une phrase négative**
+Il faut utiliser l’auxiliaire do au présent simple et à la forme négative, c’est-à-dire DO / DOES + NOT ou la forme contractée DON’T / DOESN’T :
+I / we / you / they **don’t work (= do not work)**.  
+he / she / it **doesn’t work (= does not work)**.
+
+- _She doesn’t speak french (= She does not speak french)._
+- _I don’t go to the restaurant very often._
+- _I don’t like hamburgers._
+- _It doesn’t snow in Thailand._
+- _He does not live in Paris (= He doesn’t live in Paris)._
+
+ **[![1388147642_208272](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)****
+ DO est parfois le verbe principal:
+- _What do you do ?_
+- _He doesn’t do anything to help us._
+### **2/ Utilisation**
+*** On utilise souvent les verbes suivants au présent simple pour suggérer, exprimer ses sentiments, son opinion, sa volonté, donner son avis ou exprimer une apparence:**
+
+_I apologise / I advise / I want / I insist / I like / I love / I know / I hate / I agree / I refuse / I think / I remember / I believe / I need / I seem / I look_
+
+- _I promise I will clean my room._
+- _I want to go to New York for Christmas._
+- _He seems to be a nice guy._
+- _I don’t believe in ghosts._
+- _I apologise for what I did._
+- _They hate dogs._
+- _I suggest we go out for a walk._
+- _My mum looks angry today._
+- _Kat knows how to play the guitar._
+
+*** pour exprimer la fréquence et dire combien de fois on fait certaines choses:**
+
+- _I play football every day._
+- _I start my job at 9am every morning._
+- _How often do you go to the supermarket ?_
+- _Tom doesn’t drink beer very often._
+- _Linda usually goes abroad two or three times a year._
+
+*** On peut aussi utiliser un adverbe de fréquence avec le présent simple:**
+
+**Never / Rarely / Ever / Often / Always / Sometimes / Usually / Once a week / Twice a day / Every friday / Four times a year**
+
+Attention à le placer avant le verbe:
+
+- _He never goes to the restaurant. (et non pas ‘He goes never to the restaurant’)_
+- _I often go to the cinema. (et non pas ‘I go often to the cinema’)_
+- _Do you always eat pizzas ?_ 
+- _I sometimes play football._
+
+On peut aussi mettre **Sometimes** et **Usually** au début d’une phrase:
+
+- _Sometimes I play tennis with my brother._
+- _Usually, I meet my friends on saturday._
+
 1. Verbes se terminant par "-o" : Exemple : do -> he does (il fait), go -> she goes (elle va)
 2. Verbes se terminant par "-s", "-ss", "-sh", "-ch", "-x" ou "-z" : Exemple : kiss -> he kisses (il embrasse), watch -> she watches (elle regarde), fix -> he fixes (il répare)
 3. Verbes irréguliers : Exemple : have -> he has (il a), be -> she is (elle est), go -> he goes (il va)
 4. Verbes modaux : Exemple : can -> he can (il peut), must -> she must (elle doit), should -> he should (il devrait)
 5. Verbes auxiliaires : Exemple : do -> he does (il fait), have -> she has (elle a), be -> he is (il est)
-## Present continuous
 
-## exercices :
-### examen
+### exercices :
+#### pdf anglais
+https://anglais-pdf.com/exercice-temps-anglais-le-present-simple/
+13/33 premier passage
+2/10
+## Present continuous
+Le présent continu (ou ‘present continuous’ en anglais) est aussi appelé présent progressif (‘present progressive’) ou présent en be + ing’.
+
+On l’utilise pour exprimer quelque chose qui se passe pendant que l’on parle, une action en cours (ou en progression). On peut parfois le traduire en français par ‘être en train de…’
+### **Formation:**
+Le verbe être conjugué au présent (Be) + la base verbale du verbe qui nous intéresse à laquelle on accole la terminaison -ing :
+**Sujet** + _**am / is / are**_ +  **base verbale** + **ing**
+- **I am doing**
+- **he / she / it is going**
+- **we / you / they are working**
+On utilise souvent la forme contractée de Be:
+**I’m doing. She’s going. We’re working.**
+
+---
+
+**A quoi sert le présent continu (ou présent progressif) ?**
+On utilise BE + ING pour exprimer:
+**Une action qui se passe au moment où l’on parle et qui n’est pas encore terminée:**
+	- **Linda is making a cake now.**
+	- **He’s listening to the radio.**
+**Quelque chose de prévu dans un futur proche et dont la date est déjà fixée:**
+	- **He is going to London on Friday.**
+	- **He’s visiting his family this week-end.**
+**Une action temporaire:**
+	- **Her mother is working in Rome this month.**
+	- **He’s staying at his friend’s place tonight.**
+**Une action qui prend du temps et qui se passe au moment ou l’on parle:**
+	- **My brother is preparing for his exams.**
+**Une tendance, une mode ou un changement qui se passe actuellement ou ces temps-ci:**   
+	- **More and more people are using internet to watch movies.**
+**Des actions répétées qui irritent/énervent (avec always, constantly, forever):**
+	- **Nathan is always coming late.**
+	- **Tina is constantly smoking.**
+**Des actions en cours qui ne se passent pas forcément au moment où l’on parle:**
+	- **I’m reading a good book at the moment.**
+	- **John is at University. He’s studying biology.**
+	- **What is she doing these days ?**
+
+---
+
+Quand on parle de changements qui se passent actuellement, on utilise souvent les verbes suivants avec le présent continu:
+
+**become / start / rise / get / grow / begin / fall / improve / increase / decrease / change**
+
+- **The population of Japan is decreasing.** 
+- **This situation is getting worse.**
+- **Your english is getting better every day.**
+- **The cost of living are rising every year.**
+- **The world is changing very fast.**
+
+#### **La forme négative:**
+Il faut juste ajouter NOT entre l’auxilliaire et le verbe:
+
+- **I am not watching a movie.** (ou **I’m not…**)
+- **He / she / it is not watching a movie.** (ou **He’s not…**)
+- **We / you / they are not watching a movie.** (ou **We’re not…**)
+
+Ex: **I’m not eating at the restaurant for lunch. He’s not listening to the radio anymore.**
+
+#### **La forme interrogative:**
+Facile, on met l’auxiliaire avant le sujet:
+
+- **Am I watching a movie?**
+- **Is he / she / it watching a movie?**
+- **Are we / you / they watching a movie?**
+
+Ex: **Are you working on your computer now ?**
+
+---
+
+En général, le présent continu est facile puisqu’il faut simplement ajouter -ing à la base verbale:
+	- **Go** ⇒ **Going** 
+Mais **attention** à certains verbes qui changent quand on ajoute -ing à la base verbale:
+**Doublement de consomne:**
+	- _sit :_ **he is sitting**
+	- _put :_ **he is putting**
+	- _travel :_ **travelling**
+	- _get :_ **getting**
+**les verbes finissant en -e:**
+Il faut enlever le -e à la fin et le remplacer par -ing:
+	- _write :_ **he is writing**
+	- _take :_ **he is taking**
+	- _drive:_ **she’s driving**
+**Les verbes finissant avec deux ‘e’ ne changent pas !**
+	- _see :_ **she is seeing ( = she’s seeing)**
+	- _pee:_ **he is peeing ( = he is peeing)**
+**Les verbes qui se terminent en -ie:**
+Il faut remplacer le ‘ie’ par ‘y’
+	- _lie :_ **he is lying ( = he’s lying)**
+	- _die:_ **he is dying ( = he’s dying)**
+**Les verbes qui se terminent en -c**
+Il faut changer le ‘c’ en ‘ck’
+	- _picnic :_ **he is picnicking**
+	- _panic :_ **he’s panicking**
+
+---
+
+**On utilise be+ing souvent lorsque l’on a les mots suivants dans la phrase, au moment ou l’on parle:**
+	- **Now**
+	- **At the moment**
+	- **Today**
+	- **These days**
+	- **This week**
+	- **This year** 
+	- **Recently**
+	- **Lately**
+	- **Listen !**
+	- **Look !**
+
+---
+
+### exercices :
+#### pdf anglais
+ex1: 5/5
+ex2: 4/7
+ex3: 3/5
+#### examen
 on weekdays, he wakes up at 7 o'clock
 i need silence, when i'm working
 she is sleeping at the moment
@@ -17,7 +242,7 @@ What are you thinking about
 He never goes on holiday
 Does she take the bus every day ?
 I can't answer the phone right now, I'm working.
-### GPT partie 1
+#### GPT partie 1
 1. We usually have  dinner at 6 o'clock. (to have)
 2. She is listenning to the radio while she's driving. (to listen)
    - Correction: She is listening to the radio while she's driving. (to listen)
@@ -31,7 +256,7 @@ I can't answer the phone right now, I'm working.
 8. He is learning a new language this year. (to learn)
 9. We play football on Sundays. (to play)
 10. She does her homework in her room. (to do)
-### GPT partie 2
+#### GPT partie 2
 1. They play basketball every Saturday. (to play)
 2. We have a picnic in the park tomorrow. (to have)
    Correction: We are having a picnic in the park tomorrow. (to have)

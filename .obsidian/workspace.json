@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 654.5
+    "width": 654.5,
+    "collapsed": true
   },
   "right": {
     "id": "5d6086e019be0f50",
@@ -174,12 +175,16 @@
   },
   "active": "91d5d748ca41b620",
   "lastOpenFiles": [
-    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication (conflict 2023-07-27-22-09-33).md",
+    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2(pro).md",
+    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
+    "ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/241762308-beac2d47-a707-4508-9d66-1a159665ff67.png",
+    "ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/241761926-0145ee06-8459-4cce-9a69-ff89ff7bb594.png",
+    "ludo/TI_Langues étrangères 1-Q2(pro).md at main · luminiefa_TI · GitHub_fichiers/241762110-6c1e1d70-19b7-459d-8142-586add291cf9.png",
     "FlashCards/Anglais/Futur simple, Going to, present simple, present continuous/Do you think it _____ today . (to rain).md",
+    "ludo/Obsidian-TI_github/TI/Q2/Télécommunication (conflict 2023-07-27-22-09-33).md",
     "FlashCards/Anglais/vocabulaire",
     "FlashCards/Anglais/Verbes irréguliers",
     "FlashCards/Anglais/Futur simple, Going to, present simple, present continuous/The party _____ fun at all. (no, to be).md",
-    "ludo/Obsidian-TI_github/TI/Q2/Langues étrangères/Langues étrangères 1-Q2.md",
     "FlashCards/Anglais/Futur simple, Going to, present simple, present continuous/We _____ a meeting tommorow. (to have).md",
     "FlashCards/Anglais/Futur simple, Going to, present simple, present continuous/i think ____ my examen (to pass).md",
     "FlashCards/Anglais/Futur simple, Going to, present simple, present continuous/Look at that car! it _____ (to crash).md",
@@ -203,7 +208,6 @@
     "Templates/Basique.md",
     "FlashCards/Anglais/Present Simple, Present continuous/They ______ a new house next month. (to buy).md",
     "FlashCards/Anglais/Present Simple, Present continuous/We ______ to the beach next weekend. (to go).md",
-    "FlashCards/Anglais/Present Simple, Present continuous/She _____ to music while she's cooking. (to listen).md",
     "FlashCards/Anglais/Present Simple, Present continuous",
     "FlashCards/Anglais",
     "ludo/Q2/SQL/linkToMovies.txt",
@@ -218,9 +222,6 @@
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501130800.png",
     "presentation graphique du github.canvas",
     "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132115.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132103.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132039.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132011.png",
-    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501131950.png"
+    "ludo/Obsidian-TI_github/TI/Pasted image/Pasted image 20230501132103.png"
   ]
 }
