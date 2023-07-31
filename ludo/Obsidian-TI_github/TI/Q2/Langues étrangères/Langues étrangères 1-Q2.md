@@ -314,10 +314,173 @@ I can't answer the phone right now, I'm working.
 50. We __________ to the radio while driving. (to listen)
 
 # Futur simple, Going to
+## futur simple
+### 1/ Formation du futur simple avec Will
+
+**Sujet + Will + verbe à l’infinitif** 
+
+|                                         |**Affirmative**|**Négative**                   |**Question**     |
+|-----------------------------------------|-----------|---------------------------|-------------|
+|**I / you / he / she / it / we / you / they**|I will play|_I will not (= I won’t) play_|_Will I play ?_|
+_
+
+- _(+) I will take the bus._
+- _(?) Will I take the bus ?_
+- _(-) I will not take the bus (= I won’t take the bus)._
+
+### 2/ Utilisation
+
+*** Quand on décide de faire quelque chose, ou que l’on propose de faire quelque chose… ou pour refuser de le faire (on prend la décision au moment où on parle):**
+
+- _What would you like to drink ? =>  I’ll have a coffee please._
+- _I’ll send her an email this afternoon._
+- _I don’t think I’ll buy that house._
+- _I will help you to clean up the mess._
+- _I’ll open the door for you._
+- _Hold on. I’ll get a pen._
+- _I’ll pay by credit card._
+- _I won’t go there alone._
+- _I forgot to call Phil. I’ll call him now._
+- _I won’t leave until I’ve seen the manager._
+- _Are you hungry ?_ _I’ll prepare some sandwiches._
+- _You look tired._ _I’ll get you some coffee._
+
+*** Pour exprimer une prédiction ou une hypothèse future (on peut aussi utiliser be+going to):**
+
+- _If you ask her, she will give you a lift._
+- _She will be surprised when she will see that._
+- _Who do you think will win the race ?_
+- _He won’t believe what happened._
+- _I don’t think Joey will come tonight._ 
+- _It will snow tomorrow._ 
+
+*** Pour demander à quelqu’un de faire quelque chose (avec ‘will you… ?):**
+
+- _Will you please turn the light off ? I’m going to bed._
+- _Will you come with me to the party ?_
+- _Will you please bring me my wallet ?_ 
+- _Will you please listen to me ?_
+- _Will you help me clean up the table ?_
+- _Will you marry me ?_
+
+*** Pour exprimer une promesse**
+
+- _I will text you when I arrive._
+- _I will not go to the club tonight (= I won’t go to the club tonight)._
+- _I’ll make sure the dog has enough food._
+- _I promise I won’t tell her about your secret._
+- _I’ll be careful, don’t worry._
+
+*** Pour exprimer un futur certain (avec be)**
+
+- _The meeting will be at 10am._
+- _I will be in Melbourne next week._
+- _I’ll be at the bar after the meeting._
+- _There will be 40 people at the party._
+
+*** Pour exprimer le futur conditionnel**
+
+- _If something happen, I will call you._
+- _If we can’t find your place, we will come back home._
+
+### 3/ Notes
+
+ **[![1388147642_208272](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico) 
+ On utilise souvent ‘I think I’ll…’ et ‘I don’t think I’ll…’**
+
+- _I’m hungry. I think I’ll have something to eat._
+- _I don’t think I’ll go out tonight. I’m too tired._
+
+ **[![1388147642_208272](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico) 
+ Shall et Will** 
+
+**Shall** est parfois employé à la place de **Will** pour parler au futur, mais c’est très peu courant en anglais moderne et seulement en littérature, dans la poésie ou dans les textes de lois avec _he, she, you, they_:
+
+- _You shall not pass ! (= tu ne passeras pas !)_
+- _You shall not kill  (= tu ne tueras point)_
+
+Si vous entendez Shall dans une phrase, c’est qu’il est principalement utilisé **pour faire une offre ou une suggestion, ou pour demander un conseil** (avec _I_ ou _We)_ .
+
+- _Shall we go ?_
+- _Shall I open the window ?_
+
+ **[![1388147642_208272](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico) 
+ On peut utiliser ‘won’t’ pour dire que quelqu’un ou quelque chose refuse de faire ce que l’on veut:**
+
+- _The car won’t start._
+- _I’ve tried to talk to her but she won’t listen to me._
+
+ **[![1388147642_208272](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico) 
+ Forme active / passive**
+
+- _Active =>  Tim will finish the work this afternoon._ 
+- _Passive =>   The work will be finished this afternoon._
+
+ ****[![1388147642_208272](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)** 
+ Place des adverbes**
+
+Les adverbes tels que always, only, never, ever, still, just, etc. se placent après will:
+
+- _You will never be good at Street Fighter._
+- _Will you ever be good at Street Fighter ?_
 
 
-## exercices :
-### examen: Futur simple, Going to, present simple, present continuous.
+## Le futur going to
+### 1/ Formation
+
+**Be + going to + verbe au présent**
+
+|                                  | Affirmatif                | Négatif                    | Question                  |
+|----------------------------------|---------------------------|----------------------------|---------------------------|
+| I am he/she/it is                | I am going to …           | I am not going to          |Am I going to …? 
+| We/You/they                      |                           | Is he/she/it going to …?   |
+| are                              | You are going to …        | Are we/you/they going to …?|
+
+
+- _(+) You are going to wash the car._
+- _(?) Are you going to wash the car ?_
+- _(-) You are not going to wash the car._
+
+### 2/ Utilisation de ‘be going to’
+
+*** Pour exprimer une intention, une activité que l’on veut réaliser ou qui est déjà en cours:**
+
+- _I’m going to spend my hollydays in Italy._
+- _She’s going to text him right now about the news._
+- _Tom is going to break up with his girlfriend._
+- _I wonder how he’s going to tell her the news._
+- _She’s going to cry when she will know that._
+- _They are going to travel around Canada._
+- _Who are you going to invite to the barbecue ?_
+
+*** Pour prédire de futurs événements (on peut également utiliser ‘will’):**
+
+- _My wife is going to have a baby._
+- _Don’t worry, the plane is not going to crash._
+- _Look at the sky, it’s going to rain._
+- _The next Star Wars movie is going to be awesome !_
+
+### 3/ Notes
+
+[![1388147642_208272](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico) 
+**About to**
+
+Si l’action est vraiment imminente, on peut utiliser ‘**to be + about to**‘ (= être sur le point de…).
+
+- _I’m about to leave soon, this party is too boring._
+- _He’s about to cry._
+- _I just saw Natalie at the club, I’m sure she’s about to cheat on her boyfriend._
+- _Open the toilets! I’m about to puke !_
+
+ **[![1388147642_208272](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)](http://anglais-rapide.fr/wp-content/uploads/2013/12/1388147642_208272.ico)****
+ Les adverbes tels que always, only, never, ever, still, just, etc. se placent avant going to:**
+
+- _You are never going to ask him._
+- _Are you ever going to ask him ?_
+
+
+### exercices :
+#### examen: Futur simple, Going to, present simple, present continuous.
 
 i will see ____ my dentist tomorrow. (to see)
 	I am going to see my dentist tomorrow
